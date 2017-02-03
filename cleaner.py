@@ -64,7 +64,7 @@ class Reader(object):
         else:
             file = codecs.getreader('utf-8')(sys.stdin)
 
-        phrases = ''.join([line for line in file]).split('\n\n\n')
+        phrases = ''.join([line for line in file]).split('\n\n')
         for ph in phrases:
              # ah, eh, ehm e oh
             ph = ph\
@@ -98,13 +98,11 @@ class Reader(object):
                 .replace('+',' ')\
                 .replace('[dialect]',' ')\
                 .replace('<oo>',' ')\
-                .replace('/',' ')\
-                .replace('\t',' ')\
-                .replace('\n',' ')\
-                .replace('  ',' ')
+                .replace('/',' ')
 
-            ph = re.sub('\s+', ' ', ph)
-            yield ph
+            ph = re.sub(r'(\s)+', r'\1', ph)
+            ph = re.sub(r'(\t)\t+', r'\1', ph)
+            yield ph.strip()
 
 class Writer(object):
 
@@ -116,7 +114,7 @@ class Writer(object):
         :param i: token number
         :param token: token
         """
-        print(u'{}\t{}'.format(i, line).encode('utf-8'))
+        print(u'{}\t{}\n\n'.format(i, line).encode('utf-8'))
 
 
 def main(argv):
