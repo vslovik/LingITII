@@ -37,12 +37,9 @@
 # -*- coding: utf-8 -*-
 
 """
-Convert text from IOB into TSV format
+Convert transcribed text into trn format
 Usage examples:
-    cat iob_labeled_set.txt | python iob_decoder.py
-    python iob_decoder.py iob_labeled_set.txt
-
-    python iob_decoder.py data/it_train_iob > data/it_train_decoded
+    python cleaner.py DGmtA01F.txt
 """
 
 from __future__ import print_function
@@ -51,70 +48,74 @@ import codecs
 import re
 
 class Reader(object):
-    """
-    An iterator over examples read from a file in TSV format.
-    If the input is from a file, it can be iterated several times.
-    """
     def __init__(self, filename=None):
         self.filename = filename
 
     def __iter__(self):
         if self.filename:
-            file = codecs.open(self.filename, 'r', 'utf-8', errors='ignore')
+            file = codecs.open(self.filename, 'r', 'ISO-8859-1', errors='ignore')
         else:
-            file = codecs.getreader('utf-8')(sys.stdin)
+            file = codecs.getreader('ISO-8859-1')(sys.stdin)
 
-        phrases = ''.join([line for line in file]).split('\n\n')
+        text = ''.join([line for line in file])\
+                        .replace('<sp>', '')\
+                        .replace('<lp>','')\
+                        .replace('<inspiration>','')\
+                        .replace('<tongue-click>','')\
+                        .replace('<creacky-voice>','')\
+                        .replace('<NOISE>','')\
+                        .replace('[screaming]','')\
+                        .replace(',','')\
+                        .replace('!','')\
+                        .replace('?','')\
+                        .replace('*','')\
+                        .replace('{','')\
+                        .replace('}','')\
+                        .replace('[whispering]','')\
+                        .replace('<laugh>','')\
+                        .replace('#','')\
+                        .replace('<eeh>','')\
+                        .replace(u'<mbè>','')\
+                        .replace('<mh>','')\
+                        .replace('<laugh>','')\
+                        .replace('<mhmh>','')\
+                        .replace('<ahah>',' ')\
+                        .replace('<ah>','ah')\
+                        .replace('<eh>','eh')\
+                        .replace('<ah>','ah')\
+                        .replace('<ehm>','ehm')\
+                        .replace('<oh>','oh')\
+                        .replace('+',' ')\
+                        .replace('[dialect]',' ')\
+                        .replace('<oo>',' ')\
+                        .replace('/',' ')
+
+        phrases = text.split('\r\n\r\n')
+        pattern = re.compile(u'p(1|2)[A-Z][0-9]+:')
+        i = 0
+        j = 0
         for ph in phrases:
-             # ah, eh, ehm e oh
-            ph = ph\
-                .replace('<sp>', '')\
-                .replace('<lp>','')\
-                .replace('<inspiration>','')\
-                .replace('<tongue-click>','')\
-                .replace('<creacky-voice>','')\
-                .replace('<NOISE>','')\
-                .replace('[screaming]','')\
-                .replace(',','')\
-                .replace('!','')\
-                .replace('?','')\
-                .replace('*','')\
-                .replace('{','')\
-                .replace('}','')\
-                .replace('[whispering]','')\
-                .replace('<laugh>','')\
-                .replace('#','')\
-                .replace('<eeh>','')\
-                .replace(u'<mbè>','')\
-                .replace('<mh>','')\
-                .replace('<laugh>','')\
-                .replace('<mhmh>','')\
-                .replace('<ahah>',' ')\
-                .replace('<ah>','ah')\
-                .replace('<eh>','eh')\
-                .replace('<ah>','ah')\
-                .replace('<ehm>','ehm')\
-                .replace('<oh>','oh')\
-                .replace('+',' ')\
-                .replace('[dialect]',' ')\
-                .replace('<oo>',' ')\
-                .replace('/',' ')
+            ph = ph.strip().replace('\r\n', '')
+            ph = re.sub(r'<[^<>]*>', '', ph)
+            ph = re.sub(r' +', ' ', ph)
 
-            ph = re.sub(r'(\s)+', r'\1', ph)
-            ph = re.sub(r'(\t)\t+', r'\1', ph)
-            yield ph.strip()
+            if len(ph) and pattern.match(ph):
+                if '1' == ph[1:2]:
+                    i += 1
+                    num = i
+                    prefix = 'LL-Firenze_'
+                else:
+                    j += 1
+                    num = j
+                    prefix = 'RF-Firenze_'
+                parts = ph.split(':')
+                ph = ''.join([''.join(parts[1:]).strip(), ' (', prefix, '_', str(num), ')'])
+                yield ph
 
 class Writer(object):
-
     @classmethod
-    def write(cls, i, line):
-        """
-        Prints a number - token pair
-
-        :param i: token number
-        :param token: token
-        """
-        print(u'{}\t{}\n\n'.format(i, line).encode('utf-8'))
+    def write(cls, line):
+        print(u'{}'.format(line).encode('utf-8'))
 
 
 def main(argv):
@@ -125,8 +126,7 @@ def main(argv):
         it = Reader()
     writer = Writer()
     for item in it:
-        writer.write('---', item)
-
+        writer.write(item)
 
 
 if __name__ == "__main__":
