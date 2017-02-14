@@ -223,7 +223,7 @@ devi andare sopra al dado sopra la parte superiore del dado sì (RF-Firenze__111
 sopra okay (LL-Firenze__112)
 poi allora (RF-Firenze__112)
 ci sono sopra il dado (LL-Firenze__113)
-F225> sì allora c'hai gli occhiali anche li hai visti gli occhiali (RF-Firenze__113)
+sì allora c'hai gli occhiali anche li hai visti gli occhiali (RF-Firenze__113)
 gli occhiali da sole (LL-Firenze__114)
 sì (RF-Firenze__114)
 sì (LL-Firenze__115)
