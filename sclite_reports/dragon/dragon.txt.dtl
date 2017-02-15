@@ -1,0 +1,1337 @@
+DETAILED OVERALL REPORT FOR THE SYSTEM: /home/valeriya/project/LingITII/trn/dragon.txt
+
+SENTENCE RECOGNITION PERFORMANCE
+
+ sentences                                         434
+ with errors                             91.5%   ( 397)
+
+   with substitions                      71.2%   ( 309)
+   with deletions                        65.0%   ( 282)
+   with insertions                        5.5%   (  24)
+
+
+WORD RECOGNITION PERFORMANCE
+
+Percent Total Error       =   56.7%   (1481)
+
+Percent Correct           =   44.3%   (1157)
+
+Percent Substitution      =   24.2%   ( 632)
+Percent Deletions         =   31.5%   ( 823)
+Percent Insertions        =    1.0%   (  26)
+Percent Word Accuracy     =   43.3%
+
+
+Ref. words                =           (2612)
+Hyp. words                =           (1815)
+Aligned words             =           (2638)
+
+CONFUSION PAIRS                  Total                 (479)
+                                 With >=  1 occurances (479)
+
+   1:   41  ->  sì ==> si
+   2:   21  ->  okay ==> che
+   3:   15  ->  più ==> pi?
+   4:   13  ->  sì ==> se
+   5:    6  ->  devi ==> di
+   6:    5  ->  alla ==> la
+   7:    5  ->  metà ==> met?
+   8:    5  ->  è ==> ?
+   9:    4  ->  devi ==> deve
+  10:    4  ->  no ==> non
+  11:    4  ->  sì ==> che
+  12:    3  ->  eh ==> ?
+  13:    3  ->  la ==> alla
+  14:    3  ->  okay ==> ?
+  15:    3  ->  risali ==> risale
+  16:    3  ->  torta ==> porta
+  17:    2  ->  a ==> ad
+  18:    2  ->  a ==> alla
+  19:    2  ->  agli ==> gli
+  20:    2  ->  aspetta ==> spetta
+  21:    2  ->  c'è ==> c'?
+  22:    2  ->  cioè ==> c'?
+  23:    2  ->  dal ==> da
+  24:    2  ->  del ==> il
+  25:    2  ->  della ==> la
+  26:    2  ->  devi ==> vede
+  27:    2  ->  dov'eri ==> doveri
+  28:    2  ->  e ==> ?
+  29:    2  ->  e ==> la
+  30:    2  ->  ehm ==> a
+  31:    2  ->  il ==> e
+  32:    2  ->  l'arrivo ==> all'arrivo
+  33:    2  ->  la ==> a
+  34:    2  ->  la ==> nella
+  35:    2  ->  no ==> siano
+  36:    2  ->  obliquo ==> privo
+  37:    2  ->  okay ==> ok
+  38:    2  ->  però ==> per?
+  39:    2  ->  posso ==> aspettano
+  40:    2  ->  punto ==> non
+  41:    2  ->  scendere ==> discendere
+  42:    2  ->  sci ==> ci
+  43:    2  ->  sì ==> ?
+  44:    2  ->  ti ==> che
+  45:    2  ->  una ==> la
+  46:    2  ->  vai ==> vari
+  47:    2  ->  è ==> e
+  48:    1  ->  'un ==> ne
+  49:    1  ->  a ==> 'e8
+  50:    1  ->  a ==> da
+  51:    1  ->  a ==> dove
+  52:    1  ->  a ==> ha
+  53:    1  ->  a ==> le
+  54:    1  ->  a ==> sopra
+  55:    1  ->  a ==> vicina
+  56:    1  ->  accentrandoti ==> rientranti
+  57:    1  ->  ad ==> l'essenza
+  58:    1  ->  adesso ==> medesima
+  59:    1  ->  agli ==> dagli
+  60:    1  ->  al ==> e
+  61:    1  ->  al ==> par
+  62:    1  ->  al ==> riga
+  63:    1  ->  alla ==> falsificatore
+  64:    1  ->  alla ==> riattaccata
+  65:    1  ->  alla ==> spalla
+  66:    1  ->  allora ==> diverse
+  67:    1  ->  allora ==> eccola
+  68:    1  ->  allora ==> ha
+  69:    1  ->  allora ==> l'aria
+  70:    1  ->  alta ==> la
+  71:    1  ->  alta ==> quell'alta
+  72:    1  ->  altezza ==> di
+  73:    1  ->  alto ==> affinato
+  74:    1  ->  alto ==> l'altro
+  75:    1  ->  anche ==> orizzontale
+  76:    1  ->  anche ==> sacchi
+  77:    1  ->  andando ==> dando
+  78:    1  ->  andarci ==> andati
+  79:    1  ->  arrivi ==> riga
+  80:    1  ->  aspetta ==> che
+  81:    1  ->  assomiglia ==> assomigli
+  82:    1  ->  basso ==> vaso
+  83:    1  ->  basta ==> bastato
+  84:    1  ->  bene ==> braccia
+  85:    1  ->  biciretta ==> bicicletta
+  86:    1  ->  c'entri ==> centri
+  87:    1  ->  c'hai ==> ?
+  88:    1  ->  c'hai ==> avere
+  89:    1  ->  c'hai ==> capitolo
+  90:    1  ->  c'è ==> c''e8
+  91:    1  ->  c'è ==> che
+  92:    1  ->  c'è ==> due
+  93:    1  ->  camion ==> cos?.
+  94:    1  ->  camion ==> vicario
+  95:    1  ->  capito ==> ha
+  96:    1  ->  casinosa ==> elogi?
+  97:    1  ->  caso ==> carlo
+  98:    1  ->  ce ==> ho
+  99:    1  ->  ce ==> nemici
+ 100:    1  ->  ce ==> passeggiata
+ 101:    1  ->  ce ==> si
+ 102:    1  ->  centimetri ==> cm
+ 103:    1  ->  che ==> estranee
+ 104:    1  ->  che ==> menzione
+ 105:    1  ->  ci ==> che
+ 106:    1  ->  ci ==> decide
+ 107:    1  ->  ci ==> dei
+ 108:    1  ->  ci ==> periodicamente
+ 109:    1  ->  ci ==> si
+ 110:    1  ->  cioè ==> che
+ 111:    1  ->  cioè ==> ci?
+ 112:    1  ->  cioè ==> cio?
+ 113:    1  ->  cioè ==> redatti
+ 114:    1  ->  cioè ==> spetta
+ 115:    1  ->  cioè ==> traccia
+ 116:    1  ->  coda ==> lacuna
+ 117:    1  ->  codesto ==> fuori
+ 118:    1  ->  collego ==> le
+ 119:    1  ->  com ==> perch?
+ 120:    1  ->  com'è ==> come
+ 121:    1  ->  comunque ==> sarebbero
+ 122:    1  ->  con ==> a
+ 123:    1  ->  con ==> tratteggiata
+ 124:    1  ->  congiungimento ==> ricongiungimento
+ 125:    1  ->  continuan ==> stamattina
+ 126:    1  ->  continuato ==> continuassimo
+ 127:    1  ->  costì ==> costi
+ 128:    1  ->  così ==> cos?
+ 129:    1  ->  cui ==> questa
+ 130:    1  ->  curva ==> entrare
+ 131:    1  ->  da ==> a
+ 132:    1  ->  dado ==> della
+ 133:    1  ->  dado ==> grado
+ 134:    1  ->  dado ==> superato
+ 135:    1  ->  dalla ==> alla
+ 136:    1  ->  dalla ==> una
+ 137:    1  ->  davanti ==> martellanti
+ 138:    1  ->  del ==> delle
+ 139:    1  ->  del ==> essere
+ 140:    1  ->  destra ==> diario
+ 141:    1  ->  destra ==> essere
+ 142:    1  ->  destra ==> finestra
+ 143:    1  ->  destra ==> testa
+ 144:    1  ->  detto ==> stelle.
+ 145:    1  ->  deve ==> delle
+ 146:    1  ->  devi ==> ?
+ 147:    1  ->  devi ==> tv
+ 148:    1  ->  devo ==> di
+ 149:    1  ->  devo ==> o
+ 150:    1  ->  di ==> desideri
+ 151:    1  ->  di ==> dio
+ 152:    1  ->  di ==> i
+ 153:    1  ->  di ==> in
+ 154:    1  ->  di ==> lire
+ 155:    1  ->  di ==> prodi
+ 156:    1  ->  di ==> quelli
+ 157:    1  ->  dici ==> dice
+ 158:    1  ->  dico ==> il
+ 159:    1  ->  dopodiché ==> che
+ 160:    1  ->  dov'è ==> dov'?
+ 161:    1  ->  dove ==> alle
+ 162:    1  ->  dove ==> autolesionisti
+ 163:    1  ->  dove ==> di
+ 164:    1  ->  dove ==> dovete
+ 165:    1  ->  dove ==> governo
+ 166:    1  ->  due ==> credo
+ 167:    1  ->  due ==> vuoi
+ 168:    1  ->  e ==> che
+ 169:    1  ->  e ==> falcade
+ 170:    1  ->  e ==> l'attrice
+ 171:    1  ->  e ==> questa
+ 172:    1  ->  e ==> se
+ 173:    1  ->  ecco ==> secco
+ 174:    1  ->  eh ==> ed
+ 175:    1  ->  eh ==> in
+ 176:    1  ->  ehm ==> adam
+ 177:    1  ->  ehm ==> e
+ 178:    1  ->  ehm ==> non
+ 179:    1  ->  ehm ==> sar?
+ 180:    1  ->  ehm ==> si
+ 181:    1  ->  entri ==> centri
+ 182:    1  ->  era ==> non
+ 183:    1  ->  eravamo ==> quella
+ 184:    1  ->  esempio ==> dell'esempio
+ 185:    1  ->  esse' ==> pu?
+ 186:    1  ->  f ==> a
+ 187:    1  ->  fa ==> proprio
+ 188:    1  ->  fa' ==> porta
+ 189:    1  ->  fatto ==> a
+ 190:    1  ->  fino ==> pagina
+ 191:    1  ->  fo ==> foro
+ 192:    1  ->  foglio ==> a
+ 193:    1  ->  foglio ==> voglio
+ 194:    1  ->  gi ==> io
+ 195:    1  ->  giri ==> ballare
+ 196:    1  ->  giri ==> di
+ 197:    1  ->  giri ==> il
+ 198:    1  ->  giri ==> vicino
+ 199:    1  ->  giro ==> gira
+ 200:    1  ->  giù ==> gi?
+ 201:    1  ->  giù ==> prive
+ 202:    1  ->  gli ==> di
+ 203:    1  ->  gradi ==> 9'b0
+ 204:    1  ->  grande ==> grandi
+ 205:    1  ->  grandi ==> a
+ 206:    1  ->  grandi ==> grande
+ 207:    1  ->  grigia ==> che
+ 208:    1  ->  grigia ==> dice
+ 209:    1  ->  grigia ==> quelle
+ 210:    1  ->  grigia ==> verit?
+ 211:    1  ->  i ==> stati
+ 212:    1  ->  il ==> a
+ 213:    1  ->  il ==> del
+ 214:    1  ->  il ==> indicati.
+ 215:    1  ->  il ==> mantiene
+ 216:    1  ->  il ==> premio
+ 217:    1  ->  il ==> s?
+ 218:    1  ->  immaginati ==> immagina
+ 219:    1  ->  immaginati ==> non.
+ 220:    1  ->  immaginà' ==> possibile
+ 221:    1  ->  in ==> alla
+ 222:    1  ->  in ==> di:
+ 223:    1  ->  in ==> e
+ 224:    1  ->  in ==> far
+ 225:    1  ->  in ==> ins?
+ 226:    1  ->  in ==> lena
+ 227:    1  ->  in ==> non
+ 228:    1  ->  in ==> pi?
+ 229:    1  ->  in ==> proprio
+ 230:    1  ->  in ==> ricongiungimento
+ 231:    1  ->  in ==> sino
+ 232:    1  ->  indicarti ==> avere
+ 233:    1  ->  intorno ==> cintura
+ 234:    1  ->  intorno ==> semicentro
+ 235:    1  ->  io ==> arrivo
+ 236:    1  ->  io ==> mai
+ 237:    1  ->  io ==> mi
+ 238:    1  ->  io ==> non
+ 239:    1  ->  l'ala ==> la
+ 240:    1  ->  l'altezza ==> l'attesa
+ 241:    1  ->  l'arrivo ==> ?
+ 242:    1  ->  l'arrivo ==> arrivo
+ 243:    1  ->  l'arrivo ==> quell'arriva
+ 244:    1  ->  l'arrivo ==> tardivo
+ 245:    1  ->  l'hai ==> ha
+ 246:    1  ->  l'ho ==> c'era
+ 247:    1  ->  l'ho ==> fino
+ 248:    1  ->  l'ho ==> ha
+ 249:    1  ->  l'ho ==> se
+ 250:    1  ->  l'ordine ==> dell'ordine
+ 251:    1  ->  la ==> aspetta
+ 252:    1  ->  la ==> che
+ 253:    1  ->  la ==> dall'una
+ 254:    1  ->  la ==> dalla
+ 255:    1  ->  la ==> della
+ 256:    1  ->  la ==> detto
+ 257:    1  ->  la ==> di
+ 258:    1  ->  la ==> e
+ 259:    1  ->  la ==> in
+ 260:    1  ->  la ==> quella
+ 261:    1  ->  la ==> sinistra
+ 262:    1  ->  la ==> una
+ 263:    1  ->  la ==> viceversa
+ 264:    1  ->  le ==> li
+ 265:    1  ->  linea ==> si
+ 266:    1  ->  lir ==> macchina
+ 267:    1  ->  lo ==> con
+ 268:    1  ->  lo ==> nome
+ 269:    1  ->  lungo ==> dal
+ 270:    1  ->  lì ==> ?
+ 271:    1  ->  lì ==> che
+ 272:    1  ->  lì ==> fellini
+ 273:    1  ->  lì ==> li
+ 274:    1  ->  macchinina ==> macchina
+ 275:    1  ->  me ==> dammi
+ 276:    1  ->  me ==> si
+ 277:    1  ->  me ==> significa
+ 278:    1  ->  medio ==> e
+ 279:    1  ->  medio ==> meglio
+ 280:    1  ->  mettiti ==> di
+ 281:    1  ->  mettiti ==> temette
+ 282:    1  ->  metà ==> domina
+ 283:    1  ->  mi ==> ho
+ 284:    1  ->  mia ==> mi
+ 285:    1  ->  mio ==> ha
+ 286:    1  ->  n'hai ==> c'?
+ 287:    1  ->  n'hai ==> nei
+ 288:    1  ->  n'ho ==> agitano
+ 289:    1  ->  n'ho ==> che
+ 290:    1  ->  n'ho ==> da
+ 291:    1  ->  n'ho ==> per?
+ 292:    1  ->  ne ==> dammene
+ 293:    1  ->  nel ==> e
+ 294:    1  ->  nel ==> lo
+ 295:    1  ->  nella ==> medicina
+ 296:    1  ->  nero ==> ?
+ 297:    1  ->  niente ==> quest'oriente
+ 298:    1  ->  no ==> 'e8
+ 299:    1  ->  no ==> discende
+ 300:    1  ->  no ==> erano
+ 301:    1  ->  no ==> figurano
+ 302:    1  ->  no ==> portano
+ 303:    1  ->  no ==> teno
+ 304:    1  ->  no ==> una
+ 305:    1  ->  normale ==> normali
+ 306:    1  ->  o ==> d'amato
+ 307:    1  ->  o ==> milosevic
+ 308:    1  ->  obliquo ==> obbligo
+ 309:    1  ->  okay ==> anche
+ 310:    1  ->  okay ==> con
+ 311:    1  ->  okay ==> innanzi
+ 312:    1  ->  okay ==> proprio
+ 313:    1  ->  okay ==> se
+ 314:    1  ->  okay ==> serio
+ 315:    1  ->  orizzon ==> radice
+ 316:    1  ->  partenza ==> venditore
+ 317:    1  ->  pass ==> parsa
+ 318:    1  ->  passandoci ==> sorvolandoci
+ 319:    1  ->  pazienza ==> siamo
+ 320:    1  ->  penso ==> fa
+ 321:    1  ->  per ==> di
+ 322:    1  ->  per ==> erano
+ 323:    1  ->  però ==> proprio
+ 324:    1  ->  però ==> quale.
+ 325:    1  ->  più ==> non
+ 326:    1  ->  po' ==> petri
+ 327:    1  ->  po' ==> prima
+ 328:    1  ->  pochino ==> poi
+ 329:    1  ->  poi ==> cos?
+ 330:    1  ->  poi ==> fase
+ 331:    1  ->  posso ==> di
+ 332:    1  ->  praticamente ==> previamente
+ 333:    1  ->  prima ==> mia
+ 334:    1  ->  prima ==> minima
+ 335:    1  ->  prima ==> porto
+ 336:    1  ->  prosegui ==> prosegu'ec
+ 337:    1  ->  pu ==> fra.
+ 338:    1  ->  punto ==> che
+ 339:    1  ->  punto ==> che.
+ 340:    1  ->  punto ==> ha
+ 341:    1  ->  punto ==> honolulu
+ 342:    1  ->  punto ==> macchina.
+ 343:    1  ->  punto ==> privata.
+ 344:    1  ->  quel ==> ?
+ 345:    1  ->  quella ==> quelle
+ 346:    1  ->  quelle ==> delle
+ 347:    1  ->  questo ==> 900
+ 348:    1  ->  questo ==> sul
+ 349:    1  ->  rasentandola ==> rasentando
+ 350:    1  ->  rientri ==> potenti
+ 351:    1  ->  riesce ==> che
+ 352:    1  ->  riesce ==> non
+ 353:    1  ->  risalgo ==> risalgono
+ 354:    1  ->  risali ==> sali
+ 355:    1  ->  riscendi ==> discende
+ 356:    1  ->  rispiego ==> dispiego
+ 357:    1  ->  risulta ==> risultasse
+ 358:    1  ->  sarebbe ==> gi?
+ 359:    1  ->  sce ==> pretesa
+ 360:    1  ->  scendi ==> partenza
+ 361:    1  ->  scendi ==> scene
+ 362:    1  ->  scendi ==> uscenti
+ 363:    1  ->  scendo ==> che
+ 364:    1  ->  sci ==> aderisci
+ 365:    1  ->  sci ==> esci
+ 366:    1  ->  sci ==> morta
+ 367:    1  ->  sci ==> se
+ 368:    1  ->  se ==> ddl
+ 369:    1  ->  se ==> essere
+ 370:    1  ->  se ==> poich?
+ 371:    1  ->  sei ==> 'e8
+ 372:    1  ->  sei ==> s'e9
+ 373:    1  ->  sembra ==> non
+ 374:    1  ->  semice ==> dice
+ 375:    1  ->  semicerchio ==> due
+ 376:    1  ->  semicerchio ==> prossima
+ 377:    1  ->  senso ==> senza
+ 378:    1  ->  siamo ==> s'e9
+ 379:    1  ->  siano ==> che
+ 380:    1  ->  sinistra ==> altro
+ 381:    1  ->  sinistra ==> assise
+ 382:    1  ->  sinistra ==> si
+ 383:    1  ->  so ==> allinea
+ 384:    1  ->  so ==> allora
+ 385:    1  ->  so ==> esso
+ 386:    1  ->  so ==> per
+ 387:    1  ->  son ==> essere
+ 388:    1  ->  son ==> se
+ 389:    1  ->  son ==> su
+ 390:    1  ->  sono ==> che
+ 391:    1  ->  sono ==> sia
+ 392:    1  ->  sopra ==> solo
+ 393:    1  ->  sopra ==> sono
+ 394:    1  ->  spiegà ==> spiegare
+ 395:    1  ->  sposti ==> disposti
+ 396:    1  ->  stanno ==> del
+ 397:    1  ->  stella ==> il
+ 398:    1  ->  stessa ==> sa
+ 399:    1  ->  stesso ==> pretesa
+ 400:    1  ->  sì ==> anzi
+ 401:    1  ->  sì ==> aspetto
+ 402:    1  ->  sì ==> c'?
+ 403:    1  ->  sì ==> cos?
+ 404:    1  ->  sì ==> essi
+ 405:    1  ->  sì ==> ghesi
+ 406:    1  ->  sì ==> giusi
+ 407:    1  ->  sì ==> nancy
+ 408:    1  ->  sì ==> risi
+ 409:    1  ->  sì ==> s'e9
+ 410:    1  ->  sì ==> s?
+ 411:    1  ->  sì ==> senna
+ 412:    1  ->  sì ==> sensi
+ 413:    1  ->  sì ==> tizi
+ 414:    1  ->  sì ==> vi
+ 415:    1  ->  te ==> alla
+ 416:    1  ->  te ==> corrente
+ 417:    1  ->  te ==> dei
+ 418:    1  ->  te ==> di
+ 419:    1  ->  te ==> jai
+ 420:    1  ->  te ==> lo
+ 421:    1  ->  te ==> pi?
+ 422:    1  ->  te ==> se
+ 423:    1  ->  te ==> venite
+ 424:    1  ->  televisione ==> previsione
+ 425:    1  ->  ti ==> cose
+ 426:    1  ->  ti ==> veda
+ 427:    1  ->  tondeggiando ==> ondeggiando
+ 428:    1  ->  torna ==> ritorna
+ 429:    1  ->  torta ==> dietro
+ 430:    1  ->  tracciarti ==> traccia
+ 431:    1  ->  tracciati ==> di
+ 432:    1  ->  tratteg ==> linea
+ 433:    1  ->  tratteggiata ==> data
+ 434:    1  ->  tratteggiata ==> mia
+ 435:    1  ->  tre ==> 3
+ 436:    1  ->  tre ==> centri
+ 437:    1  ->  tre ==> nostre
+ 438:    1  ->  tu ==> tutto
+ 439:    1  ->  tua ==> attua
+ 440:    1  ->  tua ==> di
+ 441:    1  ->  tua ==> sua
+ 442:    1  ->  uguale ==> qual
+ 443:    1  ->  un ==> ?
+ 444:    1  ->  un ==> al
+ 445:    1  ->  un ==> aspettano
+ 446:    1  ->  un ==> l'aspetto
+ 447:    1  ->  un ==> la
+ 448:    1  ->  un ==> meglio
+ 449:    1  ->  un ==> o
+ 450:    1  ->  un ==> posi
+ 451:    1  ->  un ==> si
+ 452:    1  ->  una ==> un
+ 453:    1  ->  uno ==> s?
+ 454:    1  ->  va ==> le
+ 455:    1  ->  vabbè ==> avere
+ 456:    1  ->  vado ==> da
+ 457:    1  ->  vado ==> scendono
+ 458:    1  ->  vedi ==> di
+ 459:    1  ->  vedi ==> il
+ 460:    1  ->  vedi ==> per
+ 461:    1  ->  vedi ==> zampata
+ 462:    1  ->  vedè' ==> 10
+ 463:    1  ->  verso ==> ha
+ 464:    1  ->  vertica ==> e
+ 465:    1  ->  verticale ==> radicale
+ 466:    1  ->  verticale ==> repressori
+ 467:    1  ->  verticale ==> vetrina
+ 468:    1  ->  vesti ==> 'e8
+ 469:    1  ->  vicino ==> la
+ 470:    1  ->  vicino ==> vicini
+ 471:    1  ->  zona ==> solari
+ 472:    1  ->  è ==> cammina
+ 473:    1  ->  è ==> dame
+ 474:    1  ->  è ==> forte
+ 475:    1  ->  è ==> l'ec
+ 476:    1  ->  è ==> mai.
+ 477:    1  ->  è ==> righe
+ 478:    1  ->  è ==> sono
+ 479:    1  ->  è ==> stella
+     -------
+       632
+
+
+
+INSERTIONS                       Total                 (17)
+                                 With >=  1 occurances (17)
+
+   1:    4  ->  ?
+   2:    4  ->  a
+   3:    3  ->  che
+   4:    2  ->  di
+   5:    1  ->  c'?
+   6:    1  ->  dopo
+   7:    1  ->  e
+   8:    1  ->  genere
+   9:    1  ->  ha
+  10:    1  ->  i
+  11:    1  ->  l'alla
+  12:    1  ->  o
+  13:    1  ->  per
+  14:    1  ->  se
+  15:    1  ->  un
+  16:    1  ->  vendita
+  17:    1  ->  verticale
+     -------
+        26
+
+
+
+DELETIONS                        Total                 (236)
+                                 With >=  1 occurances (236)
+
+   1:   73  ->  sì
+   2:   40  ->  e
+   3:   23  ->  è
+   4:   22  ->  eh
+   5:   22  ->  okay
+   6:   19  ->  te
+   7:   18  ->  ehm
+   8:   16  ->  a
+   9:   15  ->  in
+  10:   15  ->  no
+  11:   12  ->  allora
+  12:   12  ->  ce
+  13:   12  ->  da
+  14:   12  ->  il
+  15:   12  ->  io
+  16:   11  ->  cioè
+  17:   10  ->  aspetta
+  18:   10  ->  la
+  19:   10  ->  punto
+  20:   10  ->  ti
+  21:    9  ->  le
+  22:    9  ->  ma
+  23:    8  ->  di
+  24:    8  ->  quella
+  25:    7  ->  lo
+  26:    7  ->  non
+  27:    7  ->  o
+  28:    7  ->  s
+  29:    7  ->  una
+  30:    6  ->  come
+  31:    6  ->  del
+  32:    6  ->  devi
+  33:    6  ->  linea
+  34:    6  ->  me
+  35:    6  ->  più
+  36:    5  ->  ah
+  37:    5  ->  che
+  38:    5  ->  ci
+  39:    5  ->  poi
+  40:    5  ->  sotto
+  41:    5  ->  un
+  42:    5  ->  verso
+  43:    4  ->  al
+  44:    4  ->  de
+  45:    4  ->  gomma
+  46:    4  ->  grigia
+  47:    4  ->  ho
+  48:    4  ->  ne
+  49:    4  ->  parte
+  50:    4  ->  semicerchio
+  51:    4  ->  vai
+  52:    3  ->  alla
+  53:    3  ->  anche
+  54:    3  ->  c'hai
+  55:    3  ->  c'è
+  56:    3  ->  con
+  57:    3  ->  due
+  58:    3  ->  f
+  59:    3  ->  fa'
+  60:    3  ->  fra
+  61:    3  ->  hai
+  62:    3  ->  invece
+  63:    3  ->  l'ho
+  64:    3  ->  linee
+  65:    3  ->  macchina
+  66:    3  ->  mi
+  67:    3  ->  nel
+  68:    3  ->  nero
+  69:    3  ->  occhiali
+  70:    3  ->  perché
+  71:    3  ->  però
+  72:    3  ->  se
+  73:    3  ->  sinistra
+  74:    3  ->  so
+  75:    3  ->  sono
+  76:    3  ->  sopra
+  77:    3  ->  stella
+  78:    3  ->  torta
+  79:    3  ->  vabbè
+  80:    2  ->  arrivi
+  81:    2  ->  capito
+  82:    2  ->  cosa
+  83:    2  ->  d
+  84:    2  ->  devo
+  85:    2  ->  eccetera
+  86:    2  ->  fin
+  87:    2  ->  fino
+  88:    2  ->  foglio
+  89:    2  ->  gli
+  90:    2  ->  intorno
+  91:    2  ->  l'hai
+  92:    2  ->  li
+  93:    2  ->  macchinina
+  94:    2  ->  mezzo
+  95:    2  ->  per
+  96:    2  ->  po'
+  97:    2  ->  posso
+  98:    2  ->  posteriore
+  99:    2  ->  presente
+ 100:    2  ->  pressoché
+ 101:    2  ->  prima
+ 102:    2  ->  proprio
+ 103:    2  ->  può
+ 104:    2  ->  quello
+ 105:    2  ->  questa
+ 106:    2  ->  sei
+ 107:    2  ->  si
+ 108:    2  ->  stelle
+ 109:    2  ->  t'ho
+ 110:    2  ->  tre
+ 111:    2  ->  vedi
+ 112:    1  ->  'un
+ 113:    1  ->  agli
+ 114:    1  ->  allo
+ 115:    1  ->  alto
+ 116:    1  ->  an
+ 117:    1  ->  and
+ 118:    1  ->  andare
+ 119:    1  ->  andato
+ 120:    1  ->  arrivato
+ 121:    1  ->  attaccato
+ 122:    1  ->  bene
+ 123:    1  ->  bicicletta
+ 124:    1  ->  boh
+ 125:    1  ->  bravo
+ 126:    1  ->  c'entra
+ 127:    1  ->  c'ho
+ 128:    1  ->  camion
+ 129:    1  ->  caso
+ 130:    1  ->  co
+ 131:    1  ->  com
+ 132:    1  ->  comincià'
+ 133:    1  ->  comu
+ 134:    1  ->  congiungimento
+ 135:    1  ->  così
+ 136:    1  ->  cu
+ 137:    1  ->  cui
+ 138:    1  ->  dado
+ 139:    1  ->  dagli
+ 140:    1  ->  dai
+ 141:    1  ->  dal
+ 142:    1  ->  dalla
+ 143:    1  ->  davanti
+ 144:    1  ->  degli
+ 145:    1  ->  della
+ 146:    1  ->  dicevo
+ 147:    1  ->  dire
+ 148:    1  ->  diverso
+ 149:    1  ->  dove
+ 150:    1  ->  dovrebbe
+ 151:    1  ->  ecco
+ 152:    1  ->  eravamo
+ 153:    1  ->  facciamo
+ 154:    1  ->  faccio
+ 155:    1  ->  fai
+ 156:    1  ->  fammi
+ 157:    1  ->  farti
+ 158:    1  ->  figura
+ 159:    1  ->  forse
+ 160:    1  ->  fr
+ 161:    1  ->  giri
+ 162:    1  ->  giro
+ 163:    1  ->  giungere
+ 164:    1  ->  giù
+ 165:    1  ->  guardiamo
+ 166:    1  ->  i
+ 167:    1  ->  immaginati
+ 168:    1  ->  indo'
+ 169:    1  ->  insomma
+ 170:    1  ->  intendi
+ 171:    1  ->  l'orologio
+ 172:    1  ->  l'ulti
+ 173:    1  ->  lì
+ 174:    1  ->  m
+ 175:    1  ->  mah
+ 176:    1  ->  n'hai
+ 177:    1  ->  n'ho
+ 178:    1  ->  nella
+ 179:    1  ->  obliquo
+ 180:    1  ->  ok
+ 181:    1  ->  oppure
+ 182:    1  ->  orizzontale
+ 183:    1  ->  partenza
+ 184:    1  ->  passarci
+ 185:    1  ->  passi
+ 186:    1  ->  piccola
+ 187:    1  ->  pr
+ 188:    1  ->  praticamente
+ 189:    1  ->  pre
+ 190:    1  ->  preciso
+ 191:    1  ->  pressappoco
+ 192:    1  ->  quale
+ 193:    1  ->  quasi
+ 194:    1  ->  quel
+ 195:    1  ->  quest'ultima
+ 196:    1  ->  questo
+ 197:    1  ->  quindi
+ 198:    1  ->  ricomincia
+ 199:    1  ->  rientrare
+ 200:    1  ->  riesce
+ 201:    1  ->  rispetto
+ 202:    1  ->  risulta
+ 203:    1  ->  rossa
+ 204:    1  ->  sarà
+ 205:    1  ->  sc
+ 206:    1  ->  scambiato
+ 207:    1  ->  scendendo
+ 208:    1  ->  scendere
+ 209:    1  ->  sempre
+ 210:    1  ->  senso
+ 211:    1  ->  siamo
+ 212:    1  ->  somiglia
+ 213:    1  ->  son
+ 214:    1  ->  sorta
+ 215:    1  ->  specie
+ 216:    1  ->  sta
+ 217:    1  ->  stai
+ 218:    1  ->  stanno
+ 219:    1  ->  strano
+ 220:    1  ->  sulla
+ 221:    1  ->  superiore
+ 222:    1  ->  tra
+ 223:    1  ->  tratteggiando
+ 224:    1  ->  trovi
+ 225:    1  ->  tue
+ 226:    1  ->  tutte
+ 227:    1  ->  v
+ 228:    1  ->  va
+ 229:    1  ->  ve
+ 230:    1  ->  vedere
+ 231:    1  ->  vediamo
+ 232:    1  ->  vedo
+ 233:    1  ->  verticale
+ 234:    1  ->  visti
+ 235:    1  ->  vo'
+ 236:    1  ->  zampa
+     -------
+       823
+
+
+
+SUBSTITUTIONS                    Total                 (220)
+                                 With >=  1 occurances (220)
+
+   1:   75  ->  sì
+   2:   32  ->  okay
+   3:   20  ->  la
+   4:   16  ->  più
+   5:   15  ->  è
+   6:   14  ->  devi
+   7:   13  ->  no
+   8:   11  ->  a
+   9:   11  ->  in
+  10:    9  ->  e
+  11:    9  ->  te
+  12:    9  ->  un
+  13:    8  ->  alla
+  14:    8  ->  cioè
+  15:    8  ->  il
+  16:    8  ->  punto
+  17:    7  ->  di
+  18:    7  ->  ehm
+  19:    6  ->  l'arrivo
+  20:    6  ->  metà
+  21:    6  ->  sci
+  22:    5  ->  c'è
+  23:    5  ->  ci
+  24:    5  ->  dove
+  25:    5  ->  eh
+  26:    4  ->  allora
+  27:    4  ->  ce
+  28:    4  ->  del
+  29:    4  ->  destra
+  30:    4  ->  giri
+  31:    4  ->  grigia
+  32:    4  ->  io
+  33:    4  ->  l'ho
+  34:    4  ->  lì
+  35:    4  ->  n'ho
+  36:    4  ->  però
+  37:    4  ->  risali
+  38:    4  ->  so
+  39:    4  ->  ti
+  40:    4  ->  torta
+  41:    4  ->  vedi
+  42:    3  ->  agli
+  43:    3  ->  al
+  44:    3  ->  aspetta
+  45:    3  ->  c'hai
+  46:    3  ->  dado
+  47:    3  ->  me
+  48:    3  ->  obliquo
+  49:    3  ->  posso
+  50:    3  ->  prima
+  51:    3  ->  scendi
+  52:    3  ->  se
+  53:    3  ->  sinistra
+  54:    3  ->  son
+  55:    3  ->  tre
+  56:    3  ->  tua
+  57:    3  ->  una
+  58:    3  ->  verticale
+  59:    2  ->  alta
+  60:    2  ->  alto
+  61:    2  ->  anche
+  62:    2  ->  camion
+  63:    2  ->  che
+  64:    2  ->  con
+  65:    2  ->  dal
+  66:    2  ->  dalla
+  67:    2  ->  della
+  68:    2  ->  devo
+  69:    2  ->  dov'eri
+  70:    2  ->  due
+  71:    2  ->  foglio
+  72:    2  ->  giù
+  73:    2  ->  grandi
+  74:    2  ->  immaginati
+  75:    2  ->  intorno
+  76:    2  ->  lo
+  77:    2  ->  medio
+  78:    2  ->  mettiti
+  79:    2  ->  n'hai
+  80:    2  ->  nel
+  81:    2  ->  o
+  82:    2  ->  per
+  83:    2  ->  po'
+  84:    2  ->  poi
+  85:    2  ->  questo
+  86:    2  ->  riesce
+  87:    2  ->  scendere
+  88:    2  ->  sei
+  89:    2  ->  semicerchio
+  90:    2  ->  sono
+  91:    2  ->  sopra
+  92:    2  ->  tratteggiata
+  93:    2  ->  vado
+  94:    2  ->  vai
+  95:    2  ->  vicino
+  96:    1  ->  'un
+  97:    1  ->  accentrandoti
+  98:    1  ->  ad
+  99:    1  ->  adesso
+ 100:    1  ->  altezza
+ 101:    1  ->  andando
+ 102:    1  ->  andarci
+ 103:    1  ->  arrivi
+ 104:    1  ->  assomiglia
+ 105:    1  ->  basso
+ 106:    1  ->  basta
+ 107:    1  ->  bene
+ 108:    1  ->  biciretta
+ 109:    1  ->  c'entri
+ 110:    1  ->  capito
+ 111:    1  ->  casinosa
+ 112:    1  ->  caso
+ 113:    1  ->  centimetri
+ 114:    1  ->  coda
+ 115:    1  ->  codesto
+ 116:    1  ->  collego
+ 117:    1  ->  com
+ 118:    1  ->  com'è
+ 119:    1  ->  comunque
+ 120:    1  ->  congiungimento
+ 121:    1  ->  continuan
+ 122:    1  ->  continuato
+ 123:    1  ->  costì
+ 124:    1  ->  così
+ 125:    1  ->  cui
+ 126:    1  ->  curva
+ 127:    1  ->  da
+ 128:    1  ->  davanti
+ 129:    1  ->  detto
+ 130:    1  ->  deve
+ 131:    1  ->  dici
+ 132:    1  ->  dico
+ 133:    1  ->  dopodiché
+ 134:    1  ->  dov'è
+ 135:    1  ->  ecco
+ 136:    1  ->  entri
+ 137:    1  ->  era
+ 138:    1  ->  eravamo
+ 139:    1  ->  esempio
+ 140:    1  ->  esse'
+ 141:    1  ->  f
+ 142:    1  ->  fa
+ 143:    1  ->  fa'
+ 144:    1  ->  fatto
+ 145:    1  ->  fino
+ 146:    1  ->  fo
+ 147:    1  ->  gi
+ 148:    1  ->  giro
+ 149:    1  ->  gli
+ 150:    1  ->  gradi
+ 151:    1  ->  grande
+ 152:    1  ->  i
+ 153:    1  ->  immaginà'
+ 154:    1  ->  indicarti
+ 155:    1  ->  l'ala
+ 156:    1  ->  l'altezza
+ 157:    1  ->  l'hai
+ 158:    1  ->  l'ordine
+ 159:    1  ->  le
+ 160:    1  ->  linea
+ 161:    1  ->  lir
+ 162:    1  ->  lungo
+ 163:    1  ->  macchinina
+ 164:    1  ->  mi
+ 165:    1  ->  mia
+ 166:    1  ->  mio
+ 167:    1  ->  ne
+ 168:    1  ->  nella
+ 169:    1  ->  nero
+ 170:    1  ->  niente
+ 171:    1  ->  normale
+ 172:    1  ->  orizzon
+ 173:    1  ->  partenza
+ 174:    1  ->  pass
+ 175:    1  ->  passandoci
+ 176:    1  ->  pazienza
+ 177:    1  ->  penso
+ 178:    1  ->  pochino
+ 179:    1  ->  praticamente
+ 180:    1  ->  prosegui
+ 181:    1  ->  pu
+ 182:    1  ->  quel
+ 183:    1  ->  quella
+ 184:    1  ->  quelle
+ 185:    1  ->  rasentandola
+ 186:    1  ->  rientri
+ 187:    1  ->  risalgo
+ 188:    1  ->  riscendi
+ 189:    1  ->  rispiego
+ 190:    1  ->  risulta
+ 191:    1  ->  sarebbe
+ 192:    1  ->  sce
+ 193:    1  ->  scendo
+ 194:    1  ->  sembra
+ 195:    1  ->  semice
+ 196:    1  ->  senso
+ 197:    1  ->  siamo
+ 198:    1  ->  siano
+ 199:    1  ->  spiegà
+ 200:    1  ->  sposti
+ 201:    1  ->  stanno
+ 202:    1  ->  stella
+ 203:    1  ->  stessa
+ 204:    1  ->  stesso
+ 205:    1  ->  televisione
+ 206:    1  ->  tondeggiando
+ 207:    1  ->  torna
+ 208:    1  ->  tracciarti
+ 209:    1  ->  tracciati
+ 210:    1  ->  tratteg
+ 211:    1  ->  tu
+ 212:    1  ->  uguale
+ 213:    1  ->  uno
+ 214:    1  ->  va
+ 215:    1  ->  vabbè
+ 216:    1  ->  vedè'
+ 217:    1  ->  verso
+ 218:    1  ->  vertica
+ 219:    1  ->  vesti
+ 220:    1  ->  zona
+     -------
+       632
+
+
+* NOTE: The 'Substitution' words are those reference words
+        for which the recognizer supplied an incorrect word.
+
+
+FALSELY RECOGNIZED               Total                 (312)
+                                 With >=  1 occurances (312)
+
+   1:   48  ->  si
+   2:   42  ->  che
+   3:   22  ->  ?
+   4:   19  ->  di
+   5:   19  ->  se
+   6:   17  ->  pi?
+   7:   15  ->  la
+   8:   13  ->  non
+   9:   11  ->  a
+  10:   11  ->  e
+  11:    8  ->  alla
+  12:    8  ->  ha
+  13:    6  ->  c'?
+  14:    6  ->  il
+  15:    5  ->  da
+  16:    5  ->  met?
+  17:    4  ->  'e8
+  18:    4  ->  deve
+  19:    4  ->  essere
+  20:    4  ->  porta
+  21:    4  ->  proprio
+  22:    3  ->  aspettano
+  23:    3  ->  avere
+  24:    3  ->  centri
+  25:    3  ->  cos?
+  26:    3  ->  delle
+  27:    3  ->  dice
+  28:    3  ->  in
+  29:    3  ->  le
+  30:    3  ->  per?
+  31:    3  ->  risale
+  32:    3  ->  s'e9
+  33:    3  ->  s?
+  34:    3  ->  spetta
+  35:    3  ->  una
+  36:    2  ->  ad
+  37:    2  ->  all'arrivo
+  38:    2  ->  arrivo
+  39:    2  ->  ci
+  40:    2  ->  con
+  41:    2  ->  dei
+  42:    2  ->  del
+  43:    2  ->  della
+  44:    2  ->  discende
+  45:    2  ->  discendere
+  46:    2  ->  doveri
+  47:    2  ->  due
+  48:    2  ->  erano
+  49:    2  ->  gi?
+  50:    2  ->  gli
+  51:    2  ->  ho
+  52:    2  ->  li
+  53:    2  ->  lo
+  54:    2  ->  macchina
+  55:    2  ->  meglio
+  56:    2  ->  mi
+  57:    2  ->  mia
+  58:    2  ->  nella
+  59:    2  ->  o
+  60:    2  ->  ok
+  61:    2  ->  per
+  62:    2  ->  pretesa
+  63:    2  ->  privo
+  64:    2  ->  quella
+  65:    2  ->  quelle
+  66:    2  ->  questa
+  67:    2  ->  ricongiungimento
+  68:    2  ->  riga
+  69:    2  ->  siano
+  70:    2  ->  sono
+  71:    2  ->  traccia
+  72:    2  ->  vari
+  73:    2  ->  vede
+  74:    1  ->  10
+  75:    1  ->  3
+  76:    1  ->  9'b0
+  77:    1  ->  900
+  78:    1  ->  adam
+  79:    1  ->  aderisci
+  80:    1  ->  affinato
+  81:    1  ->  agitano
+  82:    1  ->  al
+  83:    1  ->  alle
+  84:    1  ->  allinea
+  85:    1  ->  allora
+  86:    1  ->  altro
+  87:    1  ->  anche
+  88:    1  ->  andati
+  89:    1  ->  anzi
+  90:    1  ->  aspetta
+  91:    1  ->  aspetto
+  92:    1  ->  assise
+  93:    1  ->  assomigli
+  94:    1  ->  attua
+  95:    1  ->  autolesionisti
+  96:    1  ->  ballare
+  97:    1  ->  bastato
+  98:    1  ->  bicicletta
+  99:    1  ->  braccia
+ 100:    1  ->  c''e8
+ 101:    1  ->  c'era
+ 102:    1  ->  cammina
+ 103:    1  ->  capitolo
+ 104:    1  ->  carlo
+ 105:    1  ->  che.
+ 106:    1  ->  ci?
+ 107:    1  ->  cintura
+ 108:    1  ->  cio?
+ 109:    1  ->  cm
+ 110:    1  ->  come
+ 111:    1  ->  continuassimo
+ 112:    1  ->  corrente
+ 113:    1  ->  cos?.
+ 114:    1  ->  cose
+ 115:    1  ->  costi
+ 116:    1  ->  credo
+ 117:    1  ->  d'amato
+ 118:    1  ->  dagli
+ 119:    1  ->  dal
+ 120:    1  ->  dall'una
+ 121:    1  ->  dalla
+ 122:    1  ->  dame
+ 123:    1  ->  dammene
+ 124:    1  ->  dammi
+ 125:    1  ->  dando
+ 126:    1  ->  data
+ 127:    1  ->  ddl
+ 128:    1  ->  decide
+ 129:    1  ->  dell'esempio
+ 130:    1  ->  dell'ordine
+ 131:    1  ->  desideri
+ 132:    1  ->  detto
+ 133:    1  ->  di:
+ 134:    1  ->  diario
+ 135:    1  ->  dietro
+ 136:    1  ->  dio
+ 137:    1  ->  dispiego
+ 138:    1  ->  disposti
+ 139:    1  ->  diverse
+ 140:    1  ->  domina
+ 141:    1  ->  dov'?
+ 142:    1  ->  dove
+ 143:    1  ->  dovete
+ 144:    1  ->  eccola
+ 145:    1  ->  ed
+ 146:    1  ->  elogi?
+ 147:    1  ->  entrare
+ 148:    1  ->  esci
+ 149:    1  ->  essi
+ 150:    1  ->  esso
+ 151:    1  ->  estranee
+ 152:    1  ->  fa
+ 153:    1  ->  falcade
+ 154:    1  ->  falsificatore
+ 155:    1  ->  far
+ 156:    1  ->  fase
+ 157:    1  ->  fellini
+ 158:    1  ->  figurano
+ 159:    1  ->  finestra
+ 160:    1  ->  fino
+ 161:    1  ->  foro
+ 162:    1  ->  forte
+ 163:    1  ->  fra.
+ 164:    1  ->  fuori
+ 165:    1  ->  ghesi
+ 166:    1  ->  gira
+ 167:    1  ->  giusi
+ 168:    1  ->  governo
+ 169:    1  ->  grado
+ 170:    1  ->  grande
+ 171:    1  ->  grandi
+ 172:    1  ->  honolulu
+ 173:    1  ->  i
+ 174:    1  ->  immagina
+ 175:    1  ->  indicati.
+ 176:    1  ->  innanzi
+ 177:    1  ->  ins?
+ 178:    1  ->  io
+ 179:    1  ->  jai
+ 180:    1  ->  l'altro
+ 181:    1  ->  l'aria
+ 182:    1  ->  l'aspetto
+ 183:    1  ->  l'attesa
+ 184:    1  ->  l'attrice
+ 185:    1  ->  l'ec
+ 186:    1  ->  l'essenza
+ 187:    1  ->  lacuna
+ 188:    1  ->  lena
+ 189:    1  ->  linea
+ 190:    1  ->  lire
+ 191:    1  ->  macchina.
+ 192:    1  ->  mai
+ 193:    1  ->  mai.
+ 194:    1  ->  mantiene
+ 195:    1  ->  martellanti
+ 196:    1  ->  medesima
+ 197:    1  ->  medicina
+ 198:    1  ->  menzione
+ 199:    1  ->  milosevic
+ 200:    1  ->  minima
+ 201:    1  ->  morta
+ 202:    1  ->  nancy
+ 203:    1  ->  ne
+ 204:    1  ->  nei
+ 205:    1  ->  nemici
+ 206:    1  ->  nome
+ 207:    1  ->  non.
+ 208:    1  ->  normali
+ 209:    1  ->  nostre
+ 210:    1  ->  obbligo
+ 211:    1  ->  ondeggiando
+ 212:    1  ->  orizzontale
+ 213:    1  ->  pagina
+ 214:    1  ->  par
+ 215:    1  ->  parsa
+ 216:    1  ->  partenza
+ 217:    1  ->  passeggiata
+ 218:    1  ->  perch?
+ 219:    1  ->  periodicamente
+ 220:    1  ->  petri
+ 221:    1  ->  poi
+ 222:    1  ->  poich?
+ 223:    1  ->  portano
+ 224:    1  ->  porto
+ 225:    1  ->  posi
+ 226:    1  ->  possibile
+ 227:    1  ->  potenti
+ 228:    1  ->  premio
+ 229:    1  ->  previamente
+ 230:    1  ->  previsione
+ 231:    1  ->  prima
+ 232:    1  ->  privata.
+ 233:    1  ->  prive
+ 234:    1  ->  prodi
+ 235:    1  ->  prosegu'ec
+ 236:    1  ->  prossima
+ 237:    1  ->  pu?
+ 238:    1  ->  qual
+ 239:    1  ->  quale.
+ 240:    1  ->  quell'alta
+ 241:    1  ->  quell'arriva
+ 242:    1  ->  quelli
+ 243:    1  ->  quest'oriente
+ 244:    1  ->  radicale
+ 245:    1  ->  radice
+ 246:    1  ->  rasentando
+ 247:    1  ->  redatti
+ 248:    1  ->  repressori
+ 249:    1  ->  riattaccata
+ 250:    1  ->  rientranti
+ 251:    1  ->  righe
+ 252:    1  ->  risalgono
+ 253:    1  ->  risi
+ 254:    1  ->  risultasse
+ 255:    1  ->  ritorna
+ 256:    1  ->  sa
+ 257:    1  ->  sacchi
+ 258:    1  ->  sali
+ 259:    1  ->  sar?
+ 260:    1  ->  sarebbero
+ 261:    1  ->  scendono
+ 262:    1  ->  scene
+ 263:    1  ->  secco
+ 264:    1  ->  semicentro
+ 265:    1  ->  senna
+ 266:    1  ->  sensi
+ 267:    1  ->  senza
+ 268:    1  ->  serio
+ 269:    1  ->  sia
+ 270:    1  ->  siamo
+ 271:    1  ->  significa
+ 272:    1  ->  sinistra
+ 273:    1  ->  sino
+ 274:    1  ->  solari
+ 275:    1  ->  solo
+ 276:    1  ->  sopra
+ 277:    1  ->  sorvolandoci
+ 278:    1  ->  spalla
+ 279:    1  ->  spiegare
+ 280:    1  ->  stamattina
+ 281:    1  ->  stati
+ 282:    1  ->  stella
+ 283:    1  ->  stelle.
+ 284:    1  ->  su
+ 285:    1  ->  sua
+ 286:    1  ->  sul
+ 287:    1  ->  superato
+ 288:    1  ->  tardivo
+ 289:    1  ->  temette
+ 290:    1  ->  teno
+ 291:    1  ->  testa
+ 292:    1  ->  tizi
+ 293:    1  ->  tratteggiata
+ 294:    1  ->  tutto
+ 295:    1  ->  tv
+ 296:    1  ->  un
+ 297:    1  ->  uscenti
+ 298:    1  ->  vaso
+ 299:    1  ->  veda
+ 300:    1  ->  venditore
+ 301:    1  ->  venite
+ 302:    1  ->  verit?
+ 303:    1  ->  vetrina
+ 304:    1  ->  vi
+ 305:    1  ->  vicario
+ 306:    1  ->  viceversa
+ 307:    1  ->  vicina
+ 308:    1  ->  vicini
+ 309:    1  ->  vicino
+ 310:    1  ->  voglio
+ 311:    1  ->  vuoi
+ 312:    1  ->  zampata
+     -------
+       632
+
+
+* NOTE: The 'Falsely Recognized' words are those hypothesis words
+        which the recognizer incorrectly substituted for a reference word.
+

@@ -23,4 +23,6 @@ http://www1.icsi.berkeley.edu/Speech/docs/sctk-1.2/sclite.htm
 http://www1.icsi.berkeley.edu/Speech/docs/sctk-1.2/options.htm
 http://mariangemarcano.blogspot.it/2012/09/speech-recognition-setting-up-sclite.html
 
-./sclite -r "/home/valeriya/project/LingITII/trn/clips.txt" -h "/home/valeriya/project/LingITII/trn/google.txt" -i rm
+scilite reports: http://www1.icsi.berkeley.edu/Speech/docs/sctk-1.2/outputs.htm#output_reports_name_0
+
+./sclite -r "/home/valeriya/project/LingITII/trn/clips.txt" -h "/home/valeriya/project/LingITII/trn/google.txt" -i rm -o dtl

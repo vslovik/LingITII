@@ -1,0 +1,3023 @@
+NIST_TEXT_ALIGNMENT
+VERSION 0.1
+
+
+		DUMP OF SYSTEM ALIGNMENT STRUCTURE
+
+System name:   /home/valeriya/project/LingITII/trn/dragon.txt
+Ref file:      /home/valeriya/project/LingITII/trn/clips.txt
+Hyp file:      /home/valeriya/project/LingITII/trn/dragon.txt
+Creation date: "Wed Feb 15 21:54:36 2017"
+
+Speaker Count: 2
+Speakers: 
+    0:  ll
+    1:  rf
+
+
+Speaker sentences   0:  ll   utt# 0 of 217
+id: (ll-firenze__1)
+Scores: (#C #S #D #I) 11 0 1 0
+REF:  allora la partenza starebbe L'HAI presente quella televisione in basso a sinistra 
+HYP:  allora la partenza starebbe ***** presente quella televisione in basso a sinistra 
+Eval:                             D                                                     
+
+Speaker sentences   1:  rf   utt# 0 of 217
+id: (rf-firenze__1)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SE  
+Eval: S   
+
+Speaker sentences   0:  ll   utt# 1 of 217
+id: (ll-firenze__2)
+Scores: (#C #S #D #I) 5 0 0 0
+REF:  ecco a sinistra della televisione 
+HYP:  ecco a sinistra della televisione 
+Eval:                                   
+
+Speaker sentences   1:  rf   utt# 1 of 217
+id: (rf-firenze__2)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  OKAY 
+HYP:  CHE  
+Eval: S    
+
+Speaker sentences   0:  ll   utt# 2 of 217
+id: (ll-firenze__3)
+Scores: (#C #S #D #I) 3 1 0 0
+REF:  sulla VERTICALE della macchinina 
+HYP:  sulla VETRINA   della macchinina 
+Eval:       S                          
+
+Speaker sentences   1:  rf   utt# 2 of 217
+id: (rf-firenze__3)
+Scores: (#C #S #D #I) 1 0 0 0
+REF:  verticale 
+HYP:  verticale 
+Eval:           
+
+Speaker sentences   0:  ll   utt# 3 of 217
+id: (ll-firenze__4)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SI  
+Eval: S   
+
+Speaker sentences   1:  rf   utt# 3 of 217
+id: (rf-firenze__4)
+Scores: (#C #S #D #I) 2 0 0 0
+REF:  la partenza 
+HYP:  la partenza 
+Eval:             
+
+Speaker sentences   0:  ll   utt# 4 of 217
+id: (ll-firenze__5)
+Scores: (#C #S #D #I) 6 2 3 0
+REF:  Sì a METà fra la MACCHININA E IL       fondo del foglio 
+HYP:  *** a MET?  fra la ********** * MANTIENE fondo del foglio 
+Eval: D     S            D          D S                         
+
+Speaker sentences   1:  rf   utt# 4 of 217
+id: (rf-firenze__5)
+Scores: (#C #S #D #I) 11 2 2 1
+REF:  a METà come fra ** la macchina E il FO   e la fine del foglio O 
+HYP:  a MET?  come fra HA la macchina * il FORO e la fine del foglio * 
+Eval:   S              I              D    S                         D 
+
+Speaker sentences   0:  ll   utt# 5 of 217
+id: (ll-firenze__6)
+Scores: (#C #S #D #I) 7 6 3 0
+REF:  Sì  a METà fra la macchina E LA   fine DEL FOGLIO OKAY A  SINISTRA della televisione 
+HYP:  COS? a MET?  fra la macchina * ALLA fine *** ****** CON  LE ASSISE   della televisione 
+Eval: S      S                     D S         D   D      S    S  S                          
+
+Speaker sentences   1:  rf   utt# 5 of 217
+id: (rf-firenze__6)
+Scores: (#C #S #D #I) 0 1 2 0
+REF:  OKAY Sì OKAY 
+HYP:  **** *** CHE  
+Eval: D    D   S    
+
+Speaker sentences   0:  ll   utt# 6 of 217
+id: (ll-firenze__7)
+Scores: (#C #S #D #I) 10 2 0 0
+REF:  poi scendi un po' ANDANDO a destra e GIRI intorno alla televisione 
+HYP:  poi scendi un po' DANDO   a destra e IL   intorno alla televisione 
+Eval:                   S                  S                             
+
+Speaker sentences   1:  rf   utt# 6 of 217
+id: (rf-firenze__7)
+Scores: (#C #S #D #I) 2 5 4 0
+REF:  NO ASPETTA CIOè  con LINEE TRATTEG CON          la LINEA TRATTEGGIATA SCE     
+HYP:  ** ******* SPETTA con ***** LINEA   TRATTEGGIATA la ***** MIA          PRETESA 
+Eval: D  D       S          D     S       S               D     S            S       
+
+Speaker sentences   0:  ll   utt# 7 of 217
+id: (ll-firenze__8)
+Scores: (#C #S #D #I) 3 3 2 0
+REF:  Sì E   fai un SEMICERCHIO INTORNO    ALLA televisione 
+HYP:  *** CHE fai un *********** SEMICENTRO LA   televisione 
+Eval: D   S          D           S          S                
+
+Speaker sentences   1:  rf   utt# 7 of 217
+id: (rf-firenze__8)
+Scores: (#C #S #D #I) 2 1 4 0
+REF:  scendendo come DAL PUNTO DE DI PARTENZA  
+HYP:  scendendo come *** ***** ** ** VENDITORE 
+Eval:                D   D     D  D  S         
+
+Speaker sentences   0:  ll   utt# 8 of 217
+id: (ll-firenze__9)
+Scores: (#C #S #D #I) 7 2 0 1
+REF:  ** SCENDI   DAL punto di partenza verso destra in basso 
+HYP:  DI PARTENZA DA  punto di partenza verso destra in basso 
+Eval: I  S        S                                           
+
+Speaker sentences   1:  rf   utt# 8 of 217
+id: (rf-firenze__9)
+Scores: (#C #S #D #I) 3 2 1 0
+REF:  OKAY SCENDO VADO     sotto la televisione 
+HYP:  **** CHE    SCENDONO sotto la televisione 
+Eval: D    S      S                             
+
+Speaker sentences   0:  ll   utt# 9 of 217
+id: (ll-firenze__10)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SI  
+Eval: S   
+
+Speaker sentences   1:  rf   utt# 9 of 217
+id: (rf-firenze__10)
+Scores: (#C #S #D #I) 1 0 0 0
+REF:  okay 
+HYP:  okay 
+Eval:      
+
+Speaker sentences   0:  ll   utt# 10 of 217
+id: (ll-firenze__11)
+Scores: (#C #S #D #I) 6 2 0 2
+REF:  **** ** DOPODICHé RISALI un po' sempre andando verso destra 
+HYP:  DOPO DI CHE        RISALE un po' sempre andando verso destra 
+Eval: I    I  S          S                                         
+
+Speaker sentences   1:  rf   utt# 10 of 217
+id: (rf-firenze__11)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SI  
+Eval: S   
+
+Speaker sentences   0:  ll   utt# 11 of 217
+id: (ll-firenze__12)
+Scores: (#C #S #D #I) 4 3 3 0
+REF:  FINO ALLA STESSA ALTEZZA DEL    punto di partenza se SC 
+HYP:  **** **** SA     DI      ESSERE punto di partenza se ** 
+Eval: D    D    S      S       S                           D  
+
+Speaker sentences   1:  rf   utt# 11 of 217
+id: (rf-firenze__12)
+Scores: (#C #S #D #I) 11 3 4 0
+REF:  Sì a METà sempre fra televisione E SCI come linea FRA PU   fra IL il punto di partenza 
+HYP:  *** a MET?  sempre fra televisione * CI  come linea *** FRA. fra ** il punto di partenza 
+Eval: D     S                            D S              D   S        D                       
+
+Speaker sentences   0:  ll   utt# 12 of 217
+id: (ll-firenze__13)
+Scores: (#C #S #D #I) 4 1 6 0
+REF:  AH aspetta TE la partenza FA' UN SEMICERCHIO INTORNO ALLA          televisione 
+HYP:  ** aspetta ** la partenza *** ** *********** ******* FALSIFICATORE televisione 
+Eval: D          D              D   D  D           D       S                         
+
+Speaker sentences   1:  rf   utt# 12 of 217
+id: (rf-firenze__13)
+Scores: (#C #S #D #I) 0 1 1 0
+REF:  Sì OKAY 
+HYP:  *** CHE  
+Eval: D   S    
+
+Speaker sentences   0:  ll   utt# 13 of 217
+id: (ll-firenze__14)
+Scores: (#C #S #D #I) 13 7 4 0
+REF:  poi RISALI un po' fino a che in orizzontale il L'ALTEZZA della partenza è UGUALE A   quella DI DEL PUNTO IN  CUI    SEI adesso 
+HYP:  poi RISALE un po' fino a che in orizzontale il L'ATTESA  della partenza ** QUAL   'E8 quella ** *** ***** DI: QUESTA 'E8 adesso 
+Eval:     S                                          S                        D  S      S          D  D   D     S   S      S          
+
+Speaker sentences   1:  rf   utt# 13 of 217
+id: (rf-firenze__14)
+Scores: (#C #S #D #I) 3 5 4 0
+REF:  Sì OKAY MA IL PUNTO è   a METà fra televisione E SCI 
+HYP:  *** **** ** S? CHE   MAI. a MET?  fra televisione * CI  
+Eval: D   D    D  S  S     S      S                     D S   
+
+Speaker sentences   0:  ll   utt# 14 of 217
+id: (ll-firenze__15)
+Scores: (#C #S #D #I) 0 1 1 0
+REF:  E SCI  
+HYP:  * ESCI 
+Eval: D S    
+
+Speaker sentences   1:  rf   utt# 14 of 217
+id: (rf-firenze__15)
+Scores: (#C #S #D #I) 2 1 0 0
+REF:  Sì gli sci 
+HYP:  SE  gli sci 
+Eval: S           
+
+Speaker sentences   0:  ll   utt# 15 of 217
+id: (ll-firenze__16)
+Scores: (#C #S #D #I) 0 0 2 0
+REF:  INDO' STANNO 
+HYP:  ***** ****** 
+Eval: D     D      
+
+Speaker sentences   1:  rf   utt# 15 of 217
+id: (rf-firenze__16)
+Scores: (#C #S #D #I) 1 5 2 0
+REF:  A  DESTRA DELLA TELEVISIONE non HAI DEGLI SCI      
+HYP:  AD ESSERE LA    PREVISIONE  non *** ***** ADERISCI 
+Eval: S  S      S     S               D   D     S        
+
+Speaker sentences   0:  ll   utt# 16 of 217
+id: (ll-firenze__17)
+Scores: (#C #S #D #I) 1 0 0 0
+REF:  no 
+HYP:  no 
+Eval:    
+
+Speaker sentences   1:  rf   utt# 16 of 217
+id: (rf-firenze__17)
+Scores: (#C #S #D #I) 0 0 0 0
+
+Speaker sentences   0:  ll   utt# 17 of 217
+id: (ll-firenze__18)
+Scores: (#C #S #D #I) 1 6 3 0
+REF:  Sì COMU EHM comunque POSSO IMMAGINà' DOVE           SIANO VESTI SCI   
+HYP:  *** **** SI  comunque ***** POSSIBILE  AUTOLESIONISTI CHE   'E8   MORTA 
+Eval: D   D    S            D     S          S              S     S     S     
+
+Speaker sentences   1:  rf   utt# 17 of 217
+id: (rf-firenze__18)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  OKAY 
+HYP:  **** 
+Eval: D    
+
+Speaker sentences   0:  ll   utt# 18 of 217
+id: (ll-firenze__19)
+Scores: (#C #S #D #I) 0 0 4 0
+REF:  TE C'HAI UNA TORTA 
+HYP:  ** ***** *** ***** 
+Eval: D  D     D   D     
+
+Speaker sentences   1:  rf   utt# 18 of 217
+id: (rf-firenze__19)
+Scores: (#C #S #D #I) 4 2 2 0
+REF:  una TORTA è    ancora PIù a destra Sì 
+HYP:  una ***** FORTE ancora PI?  a destra *** 
+Eval:     D     S            S             D   
+
+Speaker sentences   0:  ll   utt# 19 of 217
+id: (ll-firenze__20)
+Scores: (#C #S #D #I) 6 2 0 0
+REF:  Sì   ecco DEVI girare intorno alla torta completamente 
+HYP:  SENSI ecco DEVE girare intorno alla torta completamente 
+Eval: S          S                                            
+
+Speaker sentences   1:  rf   utt# 19 of 217
+id: (rf-firenze__20)
+Scores: (#C #S #D #I) 0 0 2 0
+REF:  OKAY EHM 
+HYP:  **** *** 
+Eval: D    D   
+
+Speaker sentences   0:  ll   utt# 20 of 217
+id: (ll-firenze__21)
+Scores: (#C #S #D #I) 8 2 2 0
+REF:  E ritorni molto vicino al punto di DI  in CUI ERAVAMO prima 
+HYP:  * ritorni molto vicino al punto di DIO in *** QUELLA  prima 
+Eval: D                                  S      D   S             
+
+Speaker sentences   1:  rf   utt# 20 of 217
+id: (rf-firenze__21)
+Scores: (#C #S #D #I) 3 3 4 0
+REF:  QUALE PUNTO PERò  DI    quello di partenza O IL PUNTO    
+HYP:  ***** ***** QUALE. PRODI quello di partenza * ** HONOLULU 
+Eval: D     D     S      S                        D D  S        
+
+Speaker sentences   0:  ll   utt# 21 of 217
+id: (ll-firenze__22)
+Scores: (#C #S #D #I) 2 0 2 0
+REF:  NO L'ULTI l'ultimo detto 
+HYP:  ** ****** l'ultimo detto 
+Eval: D  D                     
+
+Speaker sentences   1:  rf   utt# 21 of 217
+id: (rf-firenze__22)
+Scores: (#C #S #D #I) 2 1 0 0
+REF:  il penultimo CIOè 
+HYP:  il penultimo CI?   
+Eval:              S     
+
+Speaker sentences   0:  ll   utt# 22 of 217
+id: (ll-firenze__23)
+Scores: (#C #S #D #I) 3 4 2 1
+REF:  QUELLO che dicevi *** VICINO A      vicino AGLI SCI NO  
+HYP:  ****** che dicevi CHE LA     VICINA vicino **** SE  'E8 
+Eval: D                 I   S      S             D    S   S   
+
+Speaker sentences   1:  rf   utt# 22 of 217
+id: (rf-firenze__23)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  Sì 
+HYP:  *** 
+Eval: D   
+
+Speaker sentences   0:  ll   utt# 23 of 217
+id: (ll-firenze__24)
+Scores: (#C #S #D #I) 0 4 4 0
+REF:  EH GIRI INTORNO ALLA TORTA  E  FA'   CODESTO 
+HYP:  ** **** ******* **** DIETRO LA PORTA FUORI   
+Eval: D  D    D       D    S      S  S     S       
+
+Speaker sentences   1:  rf   utt# 23 of 217
+id: (rf-firenze__24)
+Scores: (#C #S #D #I) 3 1 0 0
+REF:  dal BASSO sempre giro 
+HYP:  dal VASO  sempre giro 
+Eval:     S                 
+
+Speaker sentences   0:  ll   utt# 24 of 217
+id: (ll-firenze__25)
+Scores: (#C #S #D #I) 3 3 3 0
+REF:  TE CI  ENTRI  dal basso E E RISALI dall'alto 
+HYP:  ** DEI CENTRI dal basso * * RISALE dall'alto 
+Eval: D  S   S                D D S                
+
+Speaker sentences   1:  rf   utt# 24 of 217
+id: (rf-firenze__25)
+Scores: (#C #S #D #I) 0 0 2 0
+REF:  OKAY Sì 
+HYP:  **** *** 
+Eval: D    D   
+
+Speaker sentences   0:  ll   utt# 25 of 217
+id: (ll-firenze__26)
+Scores: (#C #S #D #I) 12 4 5 0
+REF:  E  SO   C'è  il punto IN cui siamo adesso E vicino a quello in cui c'era il EHM ERAVAMO PRIMA OKAY    
+HYP:  SE ESSO C''E8 il punto ** cui siamo adesso * vicino a quello in cui c'era il *** ******* ***** PROPRIO 
+Eval: S  S    S              D                   D                                 D   D       D     S       
+
+Speaker sentences   1:  rf   utt# 25 of 217
+id: (rf-firenze__26)
+Scores: (#C #S #D #I) 2 1 2 0
+REF:  Sì  molto vicino O PROPRIO 
+HYP:  S'E9 molto vicino * ******* 
+Eval: S                 D D       
+
+Speaker sentences   0:  ll   utt# 26 of 217
+id: (ll-firenze__27)
+Scores: (#C #S #D #I) 4 0 2 0
+REF:  Sì molto vicino quasi SI toccano 
+HYP:  *** molto vicino quasi ** toccano 
+Eval: D                      D          
+
+Speaker sentences   1:  rf   utt# 26 of 217
+id: (rf-firenze__27)
+Scores: (#C #S #D #I) 0 3 2 0
+REF:  OKAY OKAY ASPETTA Sì     OKAY 
+HYP:  **** **** CHE     ASPETTO SE   
+Eval: D    D    S       S       S    
+
+Speaker sentences   0:  ll   utt# 27 of 217
+id: (ll-firenze__28)
+Scores: (#C #S #D #I) 9 2 0 0
+REF:  poi vai UN POCHINO dritto fino ad essere sopra la televisione 
+HYP:  poi vai O  POI     dritto fino ad essere sopra la televisione 
+Eval:         S  S                                                  
+
+Speaker sentences   1:  rf   utt# 27 of 217
+id: (rf-firenze__28)
+Scores: (#C #S #D #I) 1 0 0 0
+REF:  dritto 
+HYP:  dritto 
+Eval:        
+
+Speaker sentences   0:  ll   utt# 28 of 217
+id: (ll-firenze__29)
+Scores: (#C #S #D #I) 1 0 0 0
+REF:  dritto 
+HYP:  dritto 
+Eval:        
+
+Speaker sentences   1:  rf   utt# 28 of 217
+id: (rf-firenze__29)
+Scores: (#C #S #D #I) 4 1 1 0
+REF:  sopra LA televisione DI quanto circa 
+HYP:  sopra ** televisione IN quanto circa 
+Eval:       D              S               
+
+Speaker sentences   0:  ll   utt# 29 of 217
+id: (ll-firenze__30)
+Scores: (#C #S #D #I) 9 1 1 0
+REF:  IN in verticale un po' PIù sopra del punto di partenza 
+HYP:  ** in verticale un po' PI?  sopra del punto di partenza 
+Eval: D                      S                                
+
+Speaker sentences   1:  rf   utt# 29 of 217
+id: (rf-firenze__30)
+Scores: (#C #S #D #I) 3 1 0 0
+REF:  un po' PIù sopra 
+HYP:  un po' PI?  sopra 
+Eval:        S          
+
+Speaker sentences   0:  ll   utt# 30 of 217
+id: (ll-firenze__31)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SI  
+Eval: S   
+
+Speaker sentences   1:  rf   utt# 30 of 217
+id: (rf-firenze__31)
+Scores: (#C #S #D #I) 0 1 10 0
+REF:  DEL PUNTO DI PARTENZA OKAY ASPETTA EH EHM Sì Sì Sì 
+HYP:  *** ***** ** ******** **** ******* ** *** *** *** SE  
+Eval: D   D     D  D        D    D       D  D   D   D   S   
+
+Speaker sentences   0:  ll   utt# 31 of 217
+id: (ll-firenze__32)
+Scores: (#C #S #D #I) 3 2 3 0
+REF:  poi IN ALTO A SINISTRA C'è la macchina 
+HYP:  poi ** **** * ALTRO    CHE  la macchina 
+Eval:     D  D    D S        S                
+
+Speaker sentences   1:  rf   utt# 31 of 217
+id: (rf-firenze__32)
+Scores: (#C #S #D #I) 0 1 1 0
+REF:  OKAY Sì 
+HYP:  **** CHE 
+Eval: D    S   
+
+Speaker sentences   0:  ll   utt# 32 of 217
+id: (ll-firenze__33)
+Scores: (#C #S #D #I) 6 1 3 0
+REF:  DEVI DEVI arrivarci sulla sua SINISTRA SULLA sinistra della macchina 
+HYP:  **** DI   arrivarci sulla sua ******** ***** sinistra della macchina 
+Eval: D    S                        D        D                             
+
+Speaker sentences   1:  rf   utt# 32 of 217
+id: (rf-firenze__33)
+Scores: (#C #S #D #I) 2 1 0 0
+REF:  OKAY ma come 
+HYP:  CHE  ma come 
+Eval: S            
+
+Speaker sentences   0:  ll   utt# 33 of 217
+id: (ll-firenze__34)
+Scores: (#C #S #D #I) 2 4 0 0
+REF:  DAL dal punto DOVE SIAMO ADESSO   
+HYP:  DA  dal punto DI   S'E9  MEDESIMA 
+Eval: S             S    S     S        
+
+Speaker sentences   1:  rf   utt# 33 of 217
+id: (rf-firenze__34)
+Scores: (#C #S #D #I) 4 0 3 0
+REF:  Sì Sì MA come ci vado dritto 
+HYP:  *** *** ** come ci vado dritto 
+Eval: D   D   D                      
+
+Speaker sentences   0:  ll   utt# 34 of 217
+id: (ll-firenze__35)
+Scores: (#C #S #D #I) 1 0 1 0
+REF:  PRESSOCHé dritto 
+HYP:  ********** dritto 
+Eval: D                 
+
+Speaker sentences   1:  rf   utt# 34 of 217
+id: (rf-firenze__35)
+Scores: (#C #S #D #I) 0 2 0 0
+REF:  IN  OBLIQUO 
+HYP:  NON PRIVO   
+Eval: S   S       
+
+Speaker sentences   0:  ll   utt# 35 of 217
+id: (ll-firenze__36)
+Scores: (#C #S #D #I) 0 2 1 0
+REF:  Sì IN   OBLIQUO 
+HYP:  *** SINO PRIVO   
+Eval: D   S    S       
+
+Speaker sentences   1:  rf   utt# 35 of 217
+id: (rf-firenze__36)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  OKAY 
+HYP:  CHE  
+Eval: S    
+
+Speaker sentences   0:  ll   utt# 36 of 217
+id: (ll-firenze__37)
+Scores: (#C #S #D #I) 2 3 1 0
+REF:  fino AL DOVE C'è IL  paraurti 
+HYP:  fino ** ALLE DUE  DEL paraurti 
+Eval:      D  S    S    S            
+
+Speaker sentences   1:  rf   utt# 36 of 217
+id: (rf-firenze__37)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  Sì 
+HYP:  *** 
+Eval: D   
+
+Speaker sentences   0:  ll   utt# 37 of 217
+id: (ll-firenze__38)
+Scores: (#C #S #D #I) 5 1 0 0
+REF:  ecco poi giri sopra ALLA macchina 
+HYP:  ecco poi giri sopra LA   macchina 
+Eval:                     S             
+
+Speaker sentences   1:  rf   utt# 37 of 217
+id: (rf-firenze__38)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  OKAY 
+HYP:  CHE  
+Eval: S    
+
+Speaker sentences   0:  ll   utt# 38 of 217
+id: (ll-firenze__39)
+Scores: (#C #S #D #I) 5 2 1 0
+REF:  EHM RISCENDI fino ad arrivare ALLA gomma posteriore 
+HYP:  *** DISCENDE fino ad arrivare LA   gomma posteriore 
+Eval: D   S                         S                     
+
+Speaker sentences   1:  rf   utt# 38 of 217
+id: (rf-firenze__39)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  Sì 
+HYP:  *** 
+Eval: D   
+
+Speaker sentences   0:  ll   utt# 39 of 217
+id: (ll-firenze__40)
+Scores: (#C #S #D #I) 6 2 1 0
+REF:  a questo punto EHM C'è un'altra MACCHININA sulla destra 
+HYP:  a questo punto *** C'?  un'altra MACCHINA   sulla destra 
+Eval:                D   S             S                       
+
+Speaker sentences   1:  rf   utt# 39 of 217
+id: (rf-firenze__40)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  C'? 
+Eval: S   
+
+Speaker sentences   0:  ll   utt# 40 of 217
+id: (ll-firenze__41)
+Scores: (#C #S #D #I) 7 0 1 0
+REF:  ecco dal dalla GOMMA posteriore della prima macchina 
+HYP:  ecco dal dalla ***** posteriore della prima macchina 
+Eval:                D                                     
+
+Speaker sentences   1:  rf   utt# 40 of 217
+id: (rf-firenze__41)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  Sì 
+HYP:  *** 
+Eval: D   
+
+Speaker sentences   0:  ll   utt# 41 of 217
+id: (ll-firenze__42)
+Scores: (#C #S #D #I) 3 1 1 0
+REF:  ARRIVI AL  paraurti di quest'altra 
+HYP:  ****** PAR paraurti di quest'altra 
+Eval: D      S                           
+
+Speaker sentences   1:  rf   utt# 41 of 217
+id: (rf-firenze__42)
+Scores: (#C #S #D #I) 3 1 1 0
+REF:  parte DAVANTI O       parte dietro 
+HYP:  parte ******* D'AMATO parte dietro 
+Eval:       D       S                    
+
+Speaker sentences   0:  ll   utt# 42 of 217
+id: (ll-firenze__43)
+Scores: (#C #S #D #I) 4 1 3 0
+REF:  A NO è la ALLA la parte davanti 
+HYP:  * ** ** la LA   la parte davanti 
+Eval: D D  D     S                     
+
+Speaker sentences   1:  rf   utt# 42 of 217
+id: (rf-firenze__43)
+Scores: (#C #S #D #I) 0 1 1 0
+REF:  PARTE DAVANTI     
+HYP:  ***** MARTELLANTI 
+Eval: D     S           
+
+Speaker sentences   0:  ll   utt# 43 of 217
+id: (ll-firenze__44)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  Sì 
+HYP:  *** 
+Eval: D   
+
+Speaker sentences   1:  rf   utt# 43 of 217
+id: (rf-firenze__44)
+Scores: (#C #S #D #I) 1 1 0 2
+REF:  *** OKAY come * 
+HYP:  CHE ?    come ? 
+Eval: I   S         I 
+
+Speaker sentences   0:  ll   utt# 44 of 217
+id: (ll-firenze__45)
+Scores: (#C #S #D #I) 0 0 3 0
+REF:  EH IN VERTICALE 
+HYP:  ** ** ********* 
+Eval: D  D  D         
+
+Speaker sentences   1:  rf   utt# 44 of 217
+id: (rf-firenze__45)
+Scores: (#C #S #D #I) 2 1 0 1
+REF:  in ******* VERTICALE totalmente 
+HYP:  in VENDITA RADICALE  totalmente 
+Eval:    I       S                    
+
+Speaker sentences   0:  ll   utt# 45 of 217
+id: (ll-firenze__46)
+Scores: (#C #S #D #I) 0 1 2 0
+REF:  PRESSOCHé Sì VERTICALE  
+HYP:  ********** *** REPRESSORI 
+Eval: D          D   S          
+
+Speaker sentences   1:  rf   utt# 45 of 217
+id: (rf-firenze__46)
+Scores: (#C #S #D #I) 5 1 1 0
+REF:  passando sopra A un orologio per CASO  
+HYP:  passando sopra * un orologio per CARLO 
+Eval:                D                 S     
+
+Speaker sentences   0:  ll   utt# 46 of 217
+id: (ll-firenze__47)
+Scores: (#C #S #D #I) 5 3 3 0
+REF:  L'OROLOGIO non CE L'HO  comunque DEVI arrivare a quella MACCHININA LIR      
+HYP:  ********** non ** C'ERA comunque DI   arrivare a quella ********** MACCHINA 
+Eval: D              D  S              S                      D          S        
+
+Speaker sentences   1:  rf   utt# 46 of 217
+id: (rf-firenze__47)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  OKAY 
+HYP:  **** 
+Eval: D    
+
+Speaker sentences   0:  ll   utt# 47 of 217
+id: (ll-firenze__48)
+Scores: (#C #S #D #I) 4 0 1 0
+REF:  che è di colore rosso 
+HYP:  che ** di colore rosso 
+Eval:     D                  
+
+Speaker sentences   1:  rf   utt# 47 of 217
+id: (rf-firenze__48)
+Scores: (#C #S #D #I) 1 3 4 0
+REF:  E DA ME è F EHM  è grigia 
+HYP:  * ** ** ** A ADAM ?  grigia 
+Eval: D D  D  D  S S    S         
+
+Speaker sentences   0:  ll   utt# 48 of 217
+id: (ll-firenze__49)
+Scores: (#C #S #D #I) 2 2 1 0
+REF:  ecco QUELLA GRIGIA è    sopra 
+HYP:  ecco ****** QUELLE RIGHE sopra 
+Eval:      D      S      S           
+
+Speaker sentences   1:  rf   utt# 48 of 217
+id: (rf-firenze__49)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  Sì 
+HYP:  *** 
+Eval: D   
+
+Speaker sentences   0:  ll   utt# 49 of 217
+id: (ll-firenze__50)
+Scores: (#C #S #D #I) 3 1 3 0
+REF:  IO INVECE CE N'HO sotto una rossa 
+HYP:  ** ****** ** CHE  sotto una rossa 
+Eval: D  D      D  S                    
+
+Speaker sentences   1:  rf   utt# 49 of 217
+id: (rf-firenze__50)
+Scores: (#C #S #D #I) 0 1 1 0
+REF:  TE SE     
+HYP:  ** ESSERE 
+Eval: D  S      
+
+Speaker sentences   0:  ll   utt# 50 of 217
+id: (ll-firenze__51)
+Scores: (#C #S #D #I) 2 5 5 0
+REF:  quindi TE LO RISPIEGO TE SEI  ALLA PRIMA macchina DOVE TI DICEVO 
+HYP:  quindi ** ** DISPIEGO DI S'E9 LA   MIA   macchina **** ** ****** 
+Eval:        D  D  S        S  S    S    S              D    D  D      
+
+Speaker sentences   1:  rf   utt# 50 of 217
+id: (rf-firenze__51)
+Scores: (#C #S #D #I) 10 0 2 0
+REF:  Sì io sono partito HO fatto il giro della macchina rossa adesso 
+HYP:  *** io sono partito ** fatto il giro della macchina rossa adesso 
+Eval: D                   D                                            
+
+Speaker sentences   0:  ll   utt# 51 of 217
+id: (ll-firenze__52)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  S?  
+Eval: S   
+
+Speaker sentences   1:  rf   utt# 51 of 217
+id: (rf-firenze__52)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  OKAY 
+HYP:  CHE  
+Eval: S    
+
+Speaker sentences   0:  ll   utt# 52 of 217
+id: (ll-firenze__53)
+Scores: (#C #S #D #I) 0 3 1 0
+REF:  A QUEL PUNTO Lì 
+HYP:  * ?    CHE.  LI  
+Eval: D S    S     S   
+
+Speaker sentences   1:  rf   utt# 52 of 217
+id: (rf-firenze__53)
+Scores: (#C #S #D #I) 3 0 1 0
+REF:  vado tutto in O 
+HYP:  vado tutto in * 
+Eval:               D 
+
+Speaker sentences   0:  ll   utt# 53 of 217
+id: (ll-firenze__54)
+Scores: (#C #S #D #I) 6 2 0 0
+REF:  VAI  in diagonale fino quasi sopra la TORTA 
+HYP:  VARI in diagonale fino quasi sopra la PORTA 
+Eval: S                                     S     
+
+Speaker sentences   1:  rf   utt# 53 of 217
+id: (rf-firenze__54)
+Scores: (#C #S #D #I) 3 2 0 1
+REF:  * aspetta CIOè DALLA macchina rossa 
+HYP:  A aspetta C'?   UNA   macchina rossa 
+Eval: I         S     S                    
+
+Speaker sentences   0:  ll   utt# 54 of 217
+id: (ll-firenze__55)
+Scores: (#C #S #D #I) 2 2 2 0
+REF:  E CU DALLA macchina rossa SCENDI 
+HYP:  * ** ALLA  macchina rossa SCENE  
+Eval: D D  S                    S      
+
+Speaker sentences   1:  rf   utt# 54 of 217
+id: (rf-firenze__55)
+Scores: (#C #S #D #I) 2 1 0 0
+REF:  DEVO tornare indietro 
+HYP:  O    tornare indietro 
+Eval: S                     
+
+Speaker sentences   0:  ll   utt# 55 of 217
+id: (ll-firenze__56)
+Scores: (#C #S #D #I) 6 4 0 0
+REF:  EHM Sì torni fino verso la TORTA sopra la TORTA 
+HYP:  E   SI  torni fino verso la PORTA sopra la PORTA 
+Eval: S   S                       S              S     
+
+Speaker sentences   1:  rf   utt# 55 of 217
+id: (rf-firenze__56)
+Scores: (#C #S #D #I) 3 1 0 0
+REF:  in che modo PERò   
+HYP:  in che modo PROPRIO 
+Eval:             S       
+
+Speaker sentences   0:  ll   utt# 56 of 217
+id: (ll-firenze__57)
+Scores: (#C #S #D #I) 7 1 0 0
+REF:  con UNA linea un po' ondulata comunque diagonale 
+HYP:  con LA  linea un po' ondulata comunque diagonale 
+Eval:     S                                            
+
+Speaker sentences   1:  rf   utt# 56 of 217
+id: (rf-firenze__57)
+Scores: (#C #S #D #I) 2 3 1 0
+REF:  in OBLIQUO in GIù SAREBBE COMUNQUE  
+HYP:  in OBBLIGO in **** GI?     SAREBBERO 
+Eval:    S          D    S       S         
+
+Speaker sentences   0:  ll   utt# 57 of 217
+id: (ll-firenze__58)
+Scores: (#C #S #D #I) 0 2 3 0
+REF:  IN OBLIQUO IN GIù  Sì   
+HYP:  ** ******* ** PRIVE GIUSI 
+Eval: D  D       D  S     S     
+
+Speaker sentences   1:  rf   utt# 57 of 217
+id: (rf-firenze__58)
+Scores: (#C #S #D #I) 7 2 1 0
+REF:  Sì OKAY ma quindi ritorno alla stessa LINEA di prima 
+HYP:  SE  OK   ma quindi ritorno alla stessa ***** di prima 
+Eval: S   S                                  D              
+
+Speaker sentences   0:  ll   utt# 58 of 217
+id: (ll-firenze__59)
+Scores: (#C #S #D #I) 3 3 1 0
+REF:  ritorni molto VICINO a QUELLA DI     PRIMA 
+HYP:  ritorni molto VICINI a ****** QUELLI PORTO 
+Eval:               S        D      S      S     
+
+Speaker sentences   1:  rf   utt# 58 of 217
+id: (rf-firenze__59)
+Scores: (#C #S #D #I) 0 1 1 0
+REF:  OKAY Sì   
+HYP:  **** GHESI 
+Eval: D    S     
+
+Speaker sentences   0:  ll   utt# 59 of 217
+id: (ll-firenze__60)
+Scores: (#C #S #D #I) 3 0 0 0
+REF:  a questo punto 
+HYP:  a questo punto 
+Eval:                
+
+Speaker sentences   1:  rf   utt# 59 of 217
+id: (rf-firenze__60)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  ?   
+Eval: S   
+
+Speaker sentences   0:  ll   utt# 60 of 217
+id: (ll-firenze__61)
+Scores: (#C #S #D #I) 1 2 2 0
+REF:  SEI SOPRA la TORTA NO      
+HYP:  *** SOLO  la ***** PORTANO 
+Eval: D   S        D     S       
+
+Speaker sentences   1:  rf   utt# 60 of 217
+id: (rf-firenze__61)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SE  
+Eval: S   
+
+Speaker sentences   0:  ll   utt# 61 of 217
+id: (ll-firenze__62)
+Scores: (#C #S #D #I) 5 2 0 1
+REF:  * RISALI fino al paraurti della macchina GRIGIA 
+HYP:  I SALI   fino al paraurti della macchina DICE   
+Eval: I S                                      S      
+
+Speaker sentences   1:  rf   utt# 61 of 217
+id: (rf-firenze__62)
+Scores: (#C #S #D #I) 4 2 0 0
+REF:  quindi LA parte davanti sempre OKAY 
+HYP:  quindi A  parte davanti sempre CHE  
+Eval:        S                       S    
+
+Speaker sentences   0:  ll   utt# 62 of 217
+id: (ll-firenze__63)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SI  
+Eval: S   
+
+Speaker sentences   1:  rf   utt# 62 of 217
+id: (rf-firenze__63)
+Scores: (#C #S #D #I) 3 2 0 0
+REF:  RISALGO   come ve NORMALE verticale 
+HYP:  RISALGONO come ve NORMALI verticale 
+Eval: S                 S                 
+
+Speaker sentences   0:  ll   utt# 63 of 217
+id: (ll-firenze__64)
+Scores: (#C #S #D #I) 2 1 2 0
+REF:  UN PO' TONDEGGIANDO verso l'esterno 
+HYP:  ** *** ONDEGGIANDO  verso l'esterno 
+Eval: D  D   S                            
+
+Speaker sentences   1:  rf   utt# 63 of 217
+id: (rf-firenze__64)
+Scores: (#C #S #D #I) 1 1 3 0
+REF:  CIOè VERSO LA        parte D 
+HYP:  ***** ***** VICEVERSA parte * 
+Eval: D     D     S               D 
+
+Speaker sentences   0:  ll   utt# 64 of 217
+id: (ll-firenze__65)
+Scores: (#C #S #D #I) 3 0 4 0
+REF:  VERSO IL verso il limite DEL FOGLIO 
+HYP:  ***** ** verso il limite *** ****** 
+Eval: D     D                  D   D      
+
+Speaker sentences   1:  rf   utt# 64 of 217
+id: (rf-firenze__65)
+Scores: (#C #S #D #I) 2 1 0 0
+REF:  LA   mia destra 
+HYP:  ALLA mia destra 
+Eval: S               
+
+Speaker sentences   0:  ll   utt# 65 of 217
+id: (ll-firenze__66)
+Scores: (#C #S #D #I) 0 1 8 0
+REF:  EH 'UN NON TI VEDO NON MI RIESCE VEDè' 
+HYP:  ** *** *** ** **** *** ** ****** 10     
+Eval: D  D   D   D  D    D   D  D      S      
+
+Speaker sentences   1:  rf   utt# 65 of 217
+id: (rf-firenze__66)
+Scores: (#C #S #D #I) 0 1 1 0
+REF:  AH OKAY  
+HYP:  ** ANCHE 
+Eval: D  S     
+
+Speaker sentences   0:  ll   utt# 66 of 217
+id: (ll-firenze__67)
+Scores: (#C #S #D #I) 7 0 0 0
+REF:  verso verso il dove finisce il foglio 
+HYP:  verso verso il dove finisce il foglio 
+Eval:                                       
+
+Speaker sentences   1:  rf   utt# 66 of 217
+id: (rf-firenze__67)
+Scores: (#C #S #D #I) 0 2 1 0
+REF:  Sì OKAY  OKAY 
+HYP:  *** SERIO CHE  
+Eval: D   S     S    
+
+Speaker sentences   0:  ll   utt# 67 of 217
+id: (ll-firenze__68)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  EH 
+HYP:  ** 
+Eval: D  
+
+Speaker sentences   1:  rf   utt# 67 of 217
+id: (rf-firenze__68)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SE  
+Eval: S   
+
+Speaker sentences   0:  ll   utt# 68 of 217
+id: (ll-firenze__69)
+Scores: (#C #S #D #I) 4 1 2 0
+REF:  E ARRIVI AL   paraurti della macchina grigia 
+HYP:  * ****** RIGA paraurti della macchina grigia 
+Eval: D D      S                                   
+
+Speaker sentences   1:  rf   utt# 68 of 217
+id: (rf-firenze__69)
+Scores: (#C #S #D #I) 7 0 1 0
+REF:  ci sono ma come paraurti è molto vicino 
+HYP:  ci sono ma come paraurti ** molto vicino 
+Eval:                          D               
+
+Speaker sentences   0:  ll   utt# 69 of 217
+id: (ll-firenze__70)
+Scores: (#C #S #D #I) 3 0 1 0
+REF:  EHM a mezzo centimetro 
+HYP:  *** a mezzo centimetro 
+Eval: D                      
+
+Speaker sentences   1:  rf   utt# 69 of 217
+id: (rf-firenze__70)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  OKAY 
+HYP:  CHE  
+Eval: S    
+
+Speaker sentences   0:  ll   utt# 70 of 217
+id: (ll-firenze__71)
+Scores: (#C #S #D #I) 0 3 0 0
+REF:  DI COSTì PROSEGUI   
+HYP:  I  COSTI  PROSEGU'EC 
+Eval: S  S      S          
+
+Speaker sentences   1:  rf   utt# 70 of 217
+id: (rf-firenze__71)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  Sì 
+HYP:  *** 
+Eval: D   
+
+Speaker sentences   0:  ll   utt# 71 of 217
+id: (ll-firenze__72)
+Scores: (#C #S #D #I) 3 0 0 0
+REF:  lungo la macchina 
+HYP:  lungo la macchina 
+Eval:                   
+
+Speaker sentences   1:  rf   utt# 71 of 217
+id: (rf-firenze__72)
+Scores: (#C #S #D #I) 3 0 0 0
+REF:  in che senso 
+HYP:  in che senso 
+Eval:              
+
+Speaker sentences   0:  ll   utt# 72 of 217
+id: (ll-firenze__73)
+Scores: (#C #S #D #I) 13 1 2 0
+REF:  CIOè fai delle linee che arrivano fino alla parte posteriore sempre distanti mezzo centimetro DALLA MACCHINA 
+HYP:  CIO?  fai delle linee che arrivano fino alla parte posteriore sempre distanti mezzo centimetro ***** ******** 
+Eval: S                                                                                              D     D        
+
+Speaker sentences   1:  rf   utt# 72 of 217
+id: (rf-firenze__73)
+Scores: (#C #S #D #I) 3 0 2 0
+REF:  CIOè GIRO intorno alla macchina 
+HYP:  ***** **** intorno alla macchina 
+Eval: D     D                          
+
+Speaker sentences   0:  ll   utt# 73 of 217
+id: (ll-firenze__74)
+Scores: (#C #S #D #I) 3 2 1 0
+REF:  NO DEVI semplicemente ANDARCI di fianco 
+HYP:  ** DI   semplicemente ANDATI  di fianco 
+Eval: D  S                  S                 
+
+Speaker sentences   1:  rf   utt# 73 of 217
+id: (rf-firenze__74)
+Scores: (#C #S #D #I) 11 0 1 0
+REF:  di fianco ci sono andato F dalla parte dove finisce il foglio 
+HYP:  di fianco ci sono andato * dalla parte dove finisce il foglio 
+Eval:                          D                                    
+
+Speaker sentences   0:  ll   utt# 74 of 217
+id: (ll-firenze__75)
+Scores: (#C #S #D #I) 5 1 3 0
+REF:  NO aspetta DEVI LA macchina LA passi a sinistra 
+HYP:  ** aspetta **** DI macchina ** passi a sinistra 
+Eval: D          D    S           D                   
+
+Speaker sentences   1:  rf   utt# 74 of 217
+id: (rf-firenze__75)
+Scores: (#C #S #D #I) 4 1 4 0
+REF:  AH a sinistra la DEVO FA' LA       mia SINISTRA 
+HYP:  ** a sinistra la **** *** SINISTRA mia ******** 
+Eval: D                D    D   S            D        
+
+Speaker sentences   0:  ll   utt# 75 of 217
+id: (ll-firenze__76)
+Scores: (#C #S #D #I) 3 3 4 0
+REF:  A sinistra Sì alla S ALLA   sinistra Sì Sì  Sì 
+HYP:  * sinistra *** alla * SPALLA sinistra *** TIZI SI  
+Eval: D          D        D S               D   S    S   
+
+Speaker sentences   1:  rf   utt# 75 of 217
+id: (rf-firenze__76)
+Scores: (#C #S #D #I) 9 0 5 0
+REF:  EH ALLORA aspetta quindi non dove finisce il foglio A a rientrare NEL F 
+HYP:  ** ****** aspetta quindi non dove finisce il foglio * a rientrare *** * 
+Eval: D  D                                                D             D   D 
+
+Speaker sentences   0:  ll   utt# 76 of 217
+id: (ll-firenze__77)
+Scores: (#C #S #D #I) 1 6 11 0
+REF:  AH DE Sì DEVI RIENTRARE FAI UNA SPECIE DI       CURVA   IN  fuori IN QUESTO CASO E      POI  RIENTRI 
+HYP:  ** ** *** **** ********* *** *** ****** DESIDERI ENTRARE FAR fuori ** ****** **** QUESTA FASE POTENTI 
+Eval: D  D  D   D    D         D   D   D      S        S       S         D  D      D    S      S    S       
+
+Speaker sentences   1:  rf   utt# 76 of 217
+id: (rf-firenze__77)
+Scores: (#C #S #D #I) 0 1 2 0
+REF:  OK Sì OKAY 
+HYP:  ** *** CHE  
+Eval: D  D   S    
+
+Speaker sentences   0:  ll   utt# 77 of 217
+id: (ll-firenze__78)
+Scores: (#C #S #D #I) 7 2 1 0
+REF:  poi LE vedi un delle stelline in mezzo AL FOGLIO 
+HYP:  poi LI vedi un delle stelline in mezzo ** A      
+Eval:     S                                  D  S      
+
+Speaker sentences   1:  rf   utt# 77 of 217
+id: (rf-firenze__78)
+Scores: (#C #S #D #I) 0 0 3 0
+REF:  S Sì Sì 
+HYP:  * *** *** 
+Eval: D D   D   
+
+Speaker sentences   0:  ll   utt# 78 of 217
+id: (ll-firenze__79)
+Scores: (#C #S #D #I) 4 1 0 0
+REF:  ECCO  dalla fine della macchina 
+HYP:  SECCO dalla fine della macchina 
+Eval: S                               
+
+Speaker sentences   1:  rf   utt# 78 of 217
+id: (rf-firenze__79)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SE  
+Eval: S   
+
+Speaker sentences   0:  ll   utt# 79 of 217
+id: (ll-firenze__80)
+Scores: (#C #S #D #I) 13 4 1 0
+REF:  TI SPOSTI   fino a un punto che sta a TRE CENTIMETRI dalla stella PIù in alto a destra 
+HYP:  ** DISPOSTI fino a un punto che sta a 3   CM         dalla stella PI?  in alto a destra 
+Eval: D  S                                  S   S                       S                     
+
+Speaker sentences   1:  rf   utt# 79 of 217
+id: (rf-firenze__80)
+Scores: (#C #S #D #I) 4 0 0 0
+REF:  aspetta mi sposto come 
+HYP:  aspetta mi sposto come 
+Eval:                        
+
+Speaker sentences   0:  ll   utt# 80 of 217
+id: (ll-firenze__81)
+Scores: (#C #S #D #I) 4 0 3 0
+REF:  L'HAI PRESENTE la stella PIù in alto 
+HYP:  ***** ******** la stella **** in alto 
+Eval: D     D                  D            
+
+Speaker sentences   1:  rf   utt# 80 of 217
+id: (rf-firenze__81)
+Scores: (#C #S #D #I) 0 1 0 1
+REF:  ** Sì 
+HYP:  SE ?   
+Eval: I  S   
+
+Speaker sentences   0:  ll   utt# 81 of 217
+id: (ll-firenze__82)
+Scores: (#C #S #D #I) 2 2 3 0
+REF:  CHE è una DI QUELLE PIù piccole 
+HYP:  *** ** una ** DELLE  PI?  piccole 
+Eval: D   D      D  S      S            
+
+Speaker sentences   1:  rf   utt# 81 of 217
+id: (rf-firenze__82)
+Scores: (#C #S #D #I) 0 1 2 0
+REF:  Sì CE L'HO 
+HYP:  *** ** SE   
+Eval: D   D  S    
+
+Speaker sentences   0:  ll   utt# 82 of 217
+id: (ll-firenze__83)
+Scores: (#C #S #D #I) 6 0 0 0
+REF:  vai verso destra di tre centimetri 
+HYP:  vai verso destra di tre centimetri 
+Eval:                                    
+
+Speaker sentences   1:  rf   utt# 82 of 217
+id: (rf-firenze__83)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SE  
+Eval: S   
+
+Speaker sentences   0:  ll   utt# 83 of 217
+id: (ll-firenze__84)
+Scores: (#C #S #D #I) 2 0 2 0
+REF:  E TROVI un punto 
+HYP:  * ***** un punto 
+Eval: D D              
+
+Speaker sentences   1:  rf   utt# 83 of 217
+id: (rf-firenze__84)
+Scores: (#C #S #D #I) 1 0 0 0
+REF:  nero 
+HYP:  nero 
+Eval:      
+
+Speaker sentences   0:  ll   utt# 84 of 217
+id: (ll-firenze__85)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SI  
+Eval: S   
+
+Speaker sentences   1:  rf   utt# 84 of 217
+id: (rf-firenze__85)
+Scores: (#C #S #D #I) 5 1 5 0
+REF:  EH MA è un po' PIù IN ALTO     rispetto all'ultima stella 
+HYP:  ** ** ** un po' **** ** AFFINATO rispetto all'ultima stella 
+Eval: D  D  D         D    D  S                                   
+
+Speaker sentences   0:  ll   utt# 85 of 217
+id: (ll-firenze__86)
+Scores: (#C #S #D #I) 0 4 1 0
+REF:  INSOMMA è   QUELLA ZONA   Lì 
+HYP:  ******* SONO QUELLE SOLARI ?   
+Eval: D       S    S      S      S   
+
+Speaker sentences   1:  rf   utt# 85 of 217
+id: (rf-firenze__86)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  OKAY 
+HYP:  **** 
+Eval: D    
+
+Speaker sentences   0:  ll   utt# 86 of 217
+id: (ll-firenze__87)
+Scores: (#C #S #D #I) 11 4 2 0
+REF:  EH quel punto Lì è   il mio arrivo e lo colleghi fino AL A    DOV'ERI sulla macchina 
+HYP:  IN quel punto *** L'EC il mio arrivo e lo colleghi fino ** ALLA DOVERI  sulla macchina 
+Eval: S             D   S                                     D  S    S                      
+
+Speaker sentences   1:  rf   utt# 86 of 217
+id: (rf-firenze__87)
+Scores: (#C #S #D #I) 0 2 0 0
+REF:  LO  COLLEGO 
+HYP:  CON LE      
+Eval: S   S       
+
+Speaker sentences   0:  ll   utt# 87 of 217
+id: (ll-firenze__88)
+Scores: (#C #S #D #I) 6 3 5 0
+REF:  A  DOV'ERI prima CON LA  macchina CIOè TE VAI lungo la macchina e POI 
+HYP:  HA DOVERI  prima *** UNA macchina ***** ** *** lungo la macchina e *** 
+Eval: S  S             D   S            D     D  D                       D   
+
+Speaker sentences   1:  rf   utt# 87 of 217
+id: (rf-firenze__88)
+Scores: (#C #S #D #I) 4 1 4 0
+REF:  CIOè la macchina grigia SONO ANDATO lungo HO CONTINUATO    
+HYP:  ***** la macchina grigia **** ****** lungo ** CONTINUASSIMO 
+Eval: D                        D    D            D  S             
+
+Speaker sentences   0:  ll   utt# 88 of 217
+id: (ll-firenze__89)
+Scores: (#C #S #D #I) 9 3 7 0
+REF:  ALLA MACCHINA GRIGIA Sì e poi DA DA da LUNGO LA       macchina grigia VAI FINO   a questo punto nero 
+HYP:  **** ******** ****** *** e poi ** ** da DAL   DALL'UNA macchina grigia *** PAGINA a questo punto nero 
+Eval: D    D        D      D         D  D     S     S                        D   S                          
+
+Speaker sentences   1:  rf   utt# 88 of 217
+id: (rf-firenze__89)
+Scores: (#C #S #D #I) 2 1 0 0
+REF:  Sì ci sono 
+HYP:  CHE ci sono 
+Eval: S           
+
+Speaker sentences   0:  ll   utt# 89 of 217
+id: (ll-firenze__90)
+Scores: (#C #S #D #I) 1 0 0 0
+REF:  chiuso 
+HYP:  chiuso 
+Eval:        
+
+Speaker sentences   1:  rf   utt# 89 of 217
+id: (rf-firenze__90)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  OKAY 
+HYP:  **** 
+Eval: D    
+
+Speaker sentences   0:  ll   utt# 90 of 217
+id: (ll-firenze__91)
+Scores: (#C #S #D #I) 2 0 3 0
+REF:  POI DOVREBBE COMINCIà' il tuo 
+HYP:  *** ******** ********** il tuo 
+Eval: D   D        D                 
+
+Speaker sentences   1:  rf   utt# 90 of 217
+id: (rf-firenze__91)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  Sì 
+HYP:  *** 
+Eval: D   
+
+Speaker sentences   0:  ll   utt# 91 of 217
+id: (ll-firenze__92)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  OKAY 
+HYP:  **** 
+Eval: D    
+
+Speaker sentences   1:  rf   utt# 91 of 217
+id: (rf-firenze__92)
+Scores: (#C #S #D #I) 4 3 1 0
+REF:  ALLORA IL     MIO dunque hai una farfalla Sì 
+HYP:  ****** PREMIO HA  dunque hai una farfalla SI  
+Eval: D      S      S                           S   
+
+Speaker sentences   0:  ll   utt# 92 of 217
+id: (ll-firenze__93)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  NO    
+HYP:  ERANO 
+Eval: S     
+
+Speaker sentences   1:  rf   utt# 92 of 217
+id: (rf-firenze__93)
+Scores: (#C #S #D #I) 3 1 1 0
+REF:  VABBè C'HAI questo punto nero 
+HYP:  ****** AVERE questo punto nero 
+Eval: D      S                       
+
+Speaker sentences   0:  ll   utt# 93 of 217
+id: (ll-firenze__94)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SI  
+Eval: S   
+
+Speaker sentences   1:  rf   utt# 93 of 217
+id: (rf-firenze__94)
+Scores: (#C #S #D #I) 5 3 6 0
+REF:  CIOè IMMAGINATI che è EHM L'ALA sinistra DI una farfalla DA me CIOè è 
+HYP:  ***** IMMAGINA   che ** *** LA    sinistra ** una farfalla ** me ***** ?  
+Eval: D     S              D  D   S              D               D     D     S  
+
+Speaker sentences   0:  ll   utt# 94 of 217
+id: (ll-firenze__95)
+Scores: (#C #S #D #I) 3 1 5 0
+REF:  la farfalla STA A  destra OPPURE A SINISTRA DEL 
+HYP:  la farfalla *** DA destra ****** * ******** *** 
+Eval:             D   S         D      D D        D   
+
+Speaker sentences   1:  rf   utt# 94 of 217
+id: (rf-firenze__95)
+Scores: (#C #S #D #I) 3 1 2 0
+REF:  è a destra DEL punto NERO 
+HYP:  ** a destra IL  punto **** 
+Eval: D           S         D    
+
+Speaker sentences   0:  ll   utt# 95 of 217
+id: (ll-firenze__96)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì   
+HYP:  NANCY 
+Eval: S     
+
+Speaker sentences   1:  rf   utt# 95 of 217
+id: (rf-firenze__96)
+Scores: (#C #S #D #I) 6 6 3 0
+REF:  ALLORA A    questo punto TE METTITI METTITI NELLA    mia posizione COME IO sono adesso OKAY 
+HYP:  ****** ALLA questo punto ** TEMETTE DI      MEDICINA mia posizione **** MI sono adesso CHE  
+Eval: D      S                 D  S       S       S                      D    S              S    
+
+Speaker sentences   0:  ll   utt# 96 of 217
+id: (ll-firenze__97)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  Sì 
+HYP:  *** 
+Eval: D   
+
+Speaker sentences   1:  rf   utt# 96 of 217
+id: (rf-firenze__97)
+Scores: (#C #S #D #I) 4 0 0 0
+REF:  allora dal punto nero 
+HYP:  allora dal punto nero 
+Eval:                       
+
+Speaker sentences   0:  ll   utt# 97 of 217
+id: (ll-firenze__98)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SI  
+Eval: S   
+
+Speaker sentences   1:  rf   utt# 97 of 217
+id: (rf-firenze__98)
+Scores: (#C #S #D #I) 2 1 1 0
+REF:  TE VAI  verso destra 
+HYP:  ** VARI verso destra 
+Eval: D  S                 
+
+Speaker sentences   0:  ll   utt# 98 of 217
+id: (ll-firenze__99)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SI  
+Eval: S   
+
+Speaker sentences   1:  rf   utt# 98 of 217
+id: (rf-firenze__99)
+Scores: (#C #S #D #I) 3 1 0 0
+REF:  la mia destra OKAY 
+HYP:  la mia destra CHE  
+Eval:               S    
+
+Speaker sentences   0:  ll   utt# 99 of 217
+id: (ll-firenze__100)
+Scores: (#C #S #D #I) 0 1 2 0
+REF:  Sì Sì Sì  
+HYP:  *** *** RISI 
+Eval: D   D   S    
+
+Speaker sentences   1:  rf   utt# 99 of 217
+id: (rf-firenze__100)
+Scores: (#C #S #D #I) 2 2 0 0
+REF:  LO   VEDI un camion 
+HYP:  NOME DI   un camion 
+Eval: S    S              
+
+Speaker sentences   0:  ll   utt# 100 of 217
+id: (ll-firenze__101)
+Scores: (#C #S #D #I) 1 0 0 0
+REF:  certo 
+HYP:  certo 
+Eval:       
+
+Speaker sentences   1:  rf   utt# 100 of 217
+id: (rf-firenze__101)
+Scores: (#C #S #D #I) 6 2 3 0
+REF:  ALLORA TE   DEVI passare dietro al camion tratteggiando sempre UNA LINEA 
+HYP:  ****** ALLA TV   passare dietro al camion tratteggiando sempre *** ***** 
+Eval: D      S    S                                                  D   D     
+
+Speaker sentences   0:  ll   utt# 101 of 217
+id: (ll-firenze__102)
+Scores: (#C #S #D #I) 3 2 4 0
+REF:  ma la farfalla CO COSA C'ENTRA CON QUESTO NIENTE        
+HYP:  ma la farfalla ** **** ******* *** 900    QUEST'ORIENTE 
+Eval:                D  D    D       D   S      S             
+
+Speaker sentences   1:  rf   utt# 101 of 217
+id: (rf-firenze__102)
+Scores: (#C #S #D #I) 0 6 2 0
+REF:  NO NO ERA PER   INDICARTI IL        PUNTO NERO 
+HYP:  ** ** NON ERANO AVERE     INDICATI. NON   ?    
+Eval: D  D  S   S     S         S         S     S    
+
+Speaker sentences   0:  ll   utt# 102 of 217
+id: (ll-firenze__103)
+Scores: (#C #S #D #I) 1 2 10 0
+REF:  Sì E FINO A E IN CHE PUNTO PRECISO DEL CAMION CI             arrivo 
+HYP:  *** * **** * * ** *** ***** ******* *** COS?.  PERIODICAMENTE arrivo 
+Eval: D   D D    D D D  D   D     D       D   S      S                     
+
+Speaker sentences   1:  rf   utt# 102 of 217
+id: (rf-firenze__103)
+Scores: (#C #S #D #I) 3 4 2 0
+REF:  C'è IL PUNTO ALLORA DEVI fare una linea EHM 
+HYP:  **** ** HA    L'ARIA DI   fare una linea A   
+Eval: D    D  S     S      S                   S   
+
+Speaker sentences   0:  ll   utt# 103 of 217
+id: (ll-firenze__104)
+Scores: (#C #S #D #I) 1 0 0 0
+REF:  tratteggiata 
+HYP:  tratteggiata 
+Eval:              
+
+Speaker sentences   1:  rf   utt# 103 of 217
+id: (rf-firenze__104)
+Scores: (#C #S #D #I) 3 6 0 0
+REF:  Sì sempre verso destra MIA VERSO LA    SINISTRA TUA   
+HYP:  SI  sempre verso destra MI  HA    DETTO SI       ATTUA 
+Eval: S                       S   S     S     S        S     
+
+Speaker sentences   0:  ll   utt# 104 of 217
+id: (ll-firenze__105)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  Sì 
+HYP:  *** 
+Eval: D   
+
+Speaker sentences   1:  rf   utt# 104 of 217
+id: (rf-firenze__105)
+Scores: (#C #S #D #I) 3 0 1 0
+REF:  VAI dietro il camion 
+HYP:  *** dietro il camion 
+Eval: D                    
+
+Speaker sentences   0:  ll   utt# 105 of 217
+id: (ll-firenze__106)
+Scores: (#C #S #D #I) 3 0 1 0
+REF:  sulla sulla GOMMA posteriore 
+HYP:  sulla sulla ***** posteriore 
+Eval:             D                
+
+Speaker sentences   1:  rf   utt# 105 of 217
+id: (rf-firenze__106)
+Scores: (#C #S #D #I) 4 2 3 0
+REF:  Sì un po' PIù a destra DELLA GOMMA POSTERIORE 
+HYP:  SI  un po' PI?  a destra ***** ***** ********** 
+Eval: S          S             D     D     D          
+
+Speaker sentences   0:  ll   utt# 106 of 217
+id: (ll-firenze__107)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SI  
+Eval: S   
+
+Speaker sentences   1:  rf   utt# 106 of 217
+id: (rf-firenze__107)
+Scores: (#C #S #D #I) 6 2 5 1
+REF:  OKAY poi allora * continui a tratteggiare sempre DA ME è UNA LINEA TRATTEGGIATA 
+HYP:  **** poi allora A continui a tratteggiare sempre ** ** ** *** SI    DATA         
+Eval: D               I                                D  D  D  D   S     S            
+
+Speaker sentences   0:  ll   utt# 107 of 217
+id: (ll-firenze__108)
+Scores: (#C #S #D #I) 0 0 2 0
+REF:  Sì Sì 
+HYP:  *** *** 
+Eval: D   D   
+
+Speaker sentences   1:  rf   utt# 107 of 217
+id: (rf-firenze__108)
+Scores: (#C #S #D #I) 2 2 1 0
+REF:  allora LO VEDI il DADO  
+HYP:  allora ** PER  il GRADO 
+Eval:        D  S       S     
+
+Speaker sentences   0:  ll   utt# 108 of 217
+id: (ll-firenze__109)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  Sì 
+HYP:  *** 
+Eval: D   
+
+Speaker sentences   1:  rf   utt# 108 of 217
+id: (rf-firenze__109)
+Scores: (#C #S #D #I) 8 4 1 0
+REF:  CE L'HAI Sì da STAI CONTINUAN  la linea deve passare sopra il dado 
+HYP:  SI HA    CHE da **** STAMATTINA la linea deve passare sopra il dado 
+Eval: S  S     S      D    S                                              
+
+Speaker sentences   0:  ll   utt# 109 of 217
+id: (ll-firenze__110)
+Scores: (#C #S #D #I) 3 1 2 0
+REF:  e sopra ANCHE IL CAMION  prima 
+HYP:  e sopra ***** ** VICARIO prima 
+Eval:         D     D  S             
+
+Speaker sentences   1:  rf   utt# 109 of 217
+id: (rf-firenze__110)
+Scores: (#C #S #D #I) 4 1 0 0
+REF:  Sì passando sopra il camion 
+HYP:  SI  passando sopra il camion 
+Eval: S                            
+
+Speaker sentences   0:  ll   utt# 110 of 217
+id: (ll-firenze__111)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SI  
+Eval: S   
+
+Speaker sentences   1:  rf   utt# 110 of 217
+id: (rf-firenze__111)
+Scores: (#C #S #D #I) 2 3 7 0
+REF:  DEVI ANDARE SOPRA AL DADO  sopra LA PARTE SUPERIORE DEL dado Sì 
+HYP:  **** ****** ***** E  DELLA sopra ** ***** ********* IL  dado *** 
+Eval: D    D      D     S  S           D  D     D         S        D   
+
+Speaker sentences   0:  ll   utt# 111 of 217
+id: (ll-firenze__112)
+Scores: (#C #S #D #I) 1 1 0 0
+REF:  SOPRA okay 
+HYP:  SONO  okay 
+Eval: S          
+
+Speaker sentences   1:  rf   utt# 111 of 217
+id: (rf-firenze__112)
+Scores: (#C #S #D #I) 1 0 1 0
+REF:  POI allora 
+HYP:  *** allora 
+Eval: D          
+
+Speaker sentences   0:  ll   utt# 112 of 217
+id: (ll-firenze__113)
+Scores: (#C #S #D #I) 2 1 2 0
+REF:  ci sono SOPRA IL DADO     
+HYP:  ci sono ***** ** SUPERATO 
+Eval:         D     D  S        
+
+Speaker sentences   1:  rf   utt# 112 of 217
+id: (rf-firenze__113)
+Scores: (#C #S #D #I) 3 0 8 0
+REF:  Sì ALLORA C'HAI gli occhiali anche LI HAI VISTI GLI OCCHIALI 
+HYP:  *** ****** ***** gli occhiali anche ** *** ***** *** ******** 
+Eval: D   D      D                        D  D   D     D   D        
+
+Speaker sentences   0:  ll   utt# 113 of 217
+id: (ll-firenze__114)
+Scores: (#C #S #D #I) 4 0 0 0
+REF:  gli occhiali da sole 
+HYP:  gli occhiali da sole 
+Eval:                      
+
+Speaker sentences   1:  rf   utt# 113 of 217
+id: (rf-firenze__114)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SE  
+Eval: S   
+
+Speaker sentences   0:  ll   utt# 114 of 217
+id: (ll-firenze__115)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SI  
+Eval: S   
+
+Speaker sentences   1:  rf   utt# 114 of 217
+id: (rf-firenze__115)
+Scores: (#C #S #D #I) 6 0 2 0
+REF:  allora praticamente TE CON questa linea devi proseguire 
+HYP:  allora praticamente ** *** questa linea devi proseguire 
+Eval:                     D  D                                
+
+Speaker sentences   0:  ll   utt# 115 of 217
+id: (ll-firenze__116)
+Scores: (#C #S #D #I) 0 0 0 1
+REF:  * 
+HYP:  A 
+Eval: I 
+
+Speaker sentences   1:  rf   utt# 115 of 217
+id: (rf-firenze__116)
+Scores: (#C #S #D #I) 6 6 8 0
+REF:  allora FR EHM DEVI GIUNGERE IN UN PUNTO MEDIO IMMAGINATI UN     PUNTO     MEDIO  fra gli occhiali E il dado OKAY 
+HYP:  allora ** *** **** ******** ** ** ***** E     NON.       MEGLIO MACCHINA. MEGLIO fra gli occhiali * il dado CHE  
+Eval:        D  D   D    D        D  D  D     S     S          S      S         S                       D         S    
+
+Speaker sentences   0:  ll   utt# 116 of 217
+id: (ll-firenze__117)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì  
+HYP:  ESSI 
+Eval: S    
+
+Speaker sentences   1:  rf   utt# 116 of 217
+id: (rf-firenze__117)
+Scores: (#C #S #D #I) 2 1 1 0
+REF:  COME come distanza IN   
+HYP:  **** come distanza LENA 
+Eval: D                  S    
+
+Speaker sentences   0:  ll   utt# 117 of 217
+id: (ll-firenze__118)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  TE 
+HYP:  ** 
+Eval: D  
+
+Speaker sentences   1:  rf   utt# 117 of 217
+id: (rf-firenze__118)
+Scores: (#C #S #D #I) 0 1 3 0
+REF:  IN IN ORIZZONTALE OKAY    
+HYP:  ** ** *********** INNANZI 
+Eval: D  D  D           S       
+
+Speaker sentences   0:  ll   utt# 118 of 217
+id: (ll-firenze__119)
+Scores: (#C #S #D #I) 1 5 3 0
+REF:  Sì L'HO CAPITO TE C'HAI    ANCHE       UNA BICIRETTA  vicino 
+HYP:  *** **** ****** LO CAPITOLO ORIZZONTALE LA  BICICLETTA vicino 
+Eval: D   D    D      S  S        S           S   S                 
+
+Speaker sentences   1:  rf   utt# 118 of 217
+id: (rf-firenze__119)
+Scores: (#C #S #D #I) 0 0 2 0
+REF:  BICICLETTA NO 
+HYP:  ********** ** 
+Eval: D          D  
+
+Speaker sentences   0:  ll   utt# 119 of 217
+id: (ll-firenze__120)
+Scores: (#C #S #D #I) 0 3 2 0
+REF:  VABBè HO CAPITO VA BENE    
+HYP:  ****** ** HA     LE BRACCIA 
+Eval: D      D  S      S  S       
+
+Speaker sentences   1:  rf   utt# 119 of 217
+id: (rf-firenze__120)
+Scores: (#C #S #D #I) 3 1 5 0
+REF:  NON CE L'HO ALLORA C'è un punto IN mezzo 
+HYP:  *** ** **** ****** **** un punto E  mezzo 
+Eval: D   D  D    D      D             S        
+
+Speaker sentences   0:  ll   utt# 120 of 217
+id: (ll-firenze__121)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SE  
+Eval: S   
+
+Speaker sentences   1:  rf   utt# 120 of 217
+id: (rf-firenze__121)
+Scores: (#C #S #D #I) 8 2 9 1
+REF:  IMMAGINATI EHM diciamo mettiti COME SI PUò DIRE IN in verticale no *** CIOè   TRACCIATI una linea IN verticale NO 
+HYP:  ********** *** diciamo mettiti **** ** **** **** ** in verticale no C'? TRACCIA DI        una linea ** verticale ** 
+Eval: D          D                   D    D  D    D    D                  I   S       S                   D            D  
+
+Speaker sentences   0:  ll   utt# 121 of 217
+id: (ll-firenze__122)
+Scores: (#C #S #D #I) 6 5 5 0
+REF:  una linea TRA GLI occhiali E IL DADO E VADO A    METà  di questa linea OKAY 
+HYP:  una linea *** DI  occhiali * ** **** * DA   DOVE DOMINA di questa linea CHE  
+Eval:           D   S            D D  D    D S    S    S                      S    
+
+Speaker sentences   1:  rf   utt# 121 of 217
+id: (rf-firenze__122)
+Scores: (#C #S #D #I) 1 1 4 0
+REF:  Sì BRAVO OKAY arrivi FIN Lì     
+HYP:  *** ***** **** arrivi *** FELLINI 
+Eval: D   D     D           D   S       
+
+Speaker sentences   0:  ll   utt# 122 of 217
+id: (ll-firenze__123)
+Scores: (#C #S #D #I) 0 0 0 0
+
+Speaker sentences   1:  rf   utt# 122 of 217
+id: (rf-firenze__123)
+Scores: (#C #S #D #I) 3 1 3 0
+REF:  POI ALLORA C'è UN lupo anche vero 
+HYP:  *** ****** **** AL lupo anche vero 
+Eval: D   D      D    S                  
+
+Speaker sentences   0:  ll   utt# 123 of 217
+id: (ll-firenze__124)
+Scores: (#C #S #D #I) 2 1 1 0
+REF:  Sì UNO brutto viola 
+HYP:  *** S?  brutto viola 
+Eval: D   S                
+
+Speaker sentences   1:  rf   utt# 123 of 217
+id: (rf-firenze__124)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SE  
+Eval: S   
+
+Speaker sentences   0:  ll   utt# 124 of 217
+id: (ll-firenze__125)
+Scores: (#C #S #D #I) 0 0 0 0
+
+Speaker sentences   1:  rf   utt# 124 of 217
+id: (rf-firenze__125)
+Scores: (#C #S #D #I) 2 1 1 0
+REF:  ALLORA DA questo punto 
+HYP:  ****** A  questo punto 
+Eval: D      S               
+
+Speaker sentences   0:  ll   utt# 125 of 217
+id: (ll-firenze__126)
+Scores: (#C #S #D #I) 0 0 0 0
+
+Speaker sentences   1:  rf   utt# 125 of 217
+id: (rf-firenze__126)
+Scores: (#C #S #D #I) 5 0 0 0
+REF:  devi andare sopra il lupo 
+HYP:  devi andare sopra il lupo 
+Eval:                           
+
+Speaker sentences   0:  ll   utt# 126 of 217
+id: (ll-firenze__127)
+Scores: (#C #S #D #I) 0 0 2 0
+REF:  SOPRA LA 
+HYP:  ***** ** 
+Eval: D     D  
+
+Speaker sentences   1:  rf   utt# 126 of 217
+id: (rf-firenze__127)
+Scores: (#C #S #D #I) 2 2 0 0
+REF:  PASSANDOCI   molto vicino OKAY 
+HYP:  SORVOLANDOCI molto vicino CHE  
+Eval: S                         S    
+
+Speaker sentences   0:  ll   utt# 127 of 217
+id: (ll-firenze__128)
+Scores: (#C #S #D #I) 3 0 0 0
+REF:  vicino alla coda 
+HYP:  vicino alla coda 
+Eval:                  
+
+Speaker sentences   1:  rf   utt# 127 of 217
+id: (rf-firenze__128)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SI  
+Eval: S   
+
+Speaker sentences   0:  ll   utt# 128 of 217
+id: (ll-firenze__129)
+Scores: (#C #S #D #I) 1 0 0 0
+REF:  okay 
+HYP:  okay 
+Eval:      
+
+Speaker sentences   1:  rf   utt# 128 of 217
+id: (rf-firenze__129)
+Scores: (#C #S #D #I) 0 2 3 0
+REF:  PRATICAMENTE QUASI ATTACCATO ALLA        CODA   
+HYP:  ************ ***** ********* RIATTACCATA LACUNA 
+Eval: D            D     D         S           S      
+
+Speaker sentences   0:  ll   utt# 129 of 217
+id: (ll-firenze__130)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  ASPETTA 
+HYP:  SPETTA  
+Eval: S       
+
+Speaker sentences   1:  rf   utt# 129 of 217
+id: (rf-firenze__130)
+Scores: (#C #S #D #I) 0 2 1 0
+REF:  CI GIRI INTORNO 
+HYP:  ** DI   CINTURA 
+Eval: D  S    S       
+
+Speaker sentences   0:  ll   utt# 130 of 217
+id: (ll-firenze__131)
+Scores: (#C #S #D #I) 1 2 0 0
+REF:  ASPETTA DEVO arrivarci 
+HYP:  SPETTA  DI   arrivarci 
+Eval: S       S              
+
+Speaker sentences   1:  rf   utt# 130 of 217
+id: (rf-firenze__131)
+Scores: (#C #S #D #I) 1 3 2 0
+REF:  Sì OKAY GI CI  GIRI   intorno 
+HYP:  *** **** IO CHE VICINO intorno 
+Eval: D   D    S  S   S              
+
+Speaker sentences   0:  ll   utt# 131 of 217
+id: (ll-firenze__132)
+Scores: (#C #S #D #I) 2 2 0 0
+REF:  ci GIRO intorno Sì 
+HYP:  ci GIRA intorno SI  
+Eval:    S            S   
+
+Speaker sentences   1:  rf   utt# 131 of 217
+id: (rf-firenze__132)
+Scores: (#C #S #D #I) 1 2 3 0
+REF:  CIOè TI TORNA   come FIGURA NO       
+HYP:  ***** ** RITORNA come ****** FIGURANO 
+Eval: D     D  S            D      S        
+
+Speaker sentences   0:  ll   utt# 132 of 217
+id: (ll-firenze__133)
+Scores: (#C #S #D #I) 0 0 0 1
+REF:  ** 
+HYP:  UN 
+Eval: I  
+
+Speaker sentences   1:  rf   utt# 132 of 217
+id: (rf-firenze__133)
+Scores: (#C #S #D #I) 15 3 2 0
+REF:  detto molto male la PRIMA  parte CHE T'HO FATTO tratteggiare ASSOMIGLIA a un cuore una mezza parte di un cuore 
+HYP:  detto molto male la MINIMA parte *** **** A     tratteggiare ASSOMIGLI  a un cuore una mezza parte di un cuore 
+Eval:                     S            D   D    S                  S                                                 
+
+Speaker sentences   0:  ll   utt# 133 of 217
+id: (ll-firenze__134)
+Scores: (#C #S #D #I) 1 2 2 0
+REF:  NO PERò FA      LA     stessa 
+HYP:  ** ***** PROPRIO QUELLA stessa 
+Eval: D  D     S       S             
+
+Speaker sentences   1:  rf   utt# 133 of 217
+id: (rf-firenze__134)
+Scores: (#C #S #D #I) 4 4 0 0
+REF:  EH OKAY allora EHM GIRI    intorno al lupo 
+HYP:  ?  CHE  allora A   BALLARE intorno al lupo 
+Eval: S  S           S   S                       
+
+Speaker sentences   0:  ll   utt# 134 of 217
+id: (ll-firenze__135)
+Scores: (#C #S #D #I) 0 1 1 0
+REF:  ALLO Sì 
+HYP:  **** SI  
+Eval: D    S   
+
+Speaker sentences   1:  rf   utt# 134 of 217
+id: (rf-firenze__135)
+Scores: (#C #S #D #I) 5 5 3 0
+REF:  OKAY fino A  arrivare alla ZAMPA LO VEDI    LA    zampina PIù IN  avanti 
+HYP:  CHE  fino AD arrivare alla ***** ** ZAMPATA DELLA zampina **** PI? avanti 
+Eval: S         S                D     D  S       S             D    S          
+
+Speaker sentences   0:  ll   utt# 135 of 217
+id: (ll-firenze__136)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SI  
+Eval: S   
+
+Speaker sentences   1:  rf   utt# 135 of 217
+id: (rf-firenze__136)
+Scores: (#C #S #D #I) 4 2 1 0
+REF:  EH DEVI andare sempre PASSARCI molto vicino 
+HYP:  ?  DEVE andare sempre ******** molto vicino 
+Eval: S  S                  D                     
+
+Speaker sentences   0:  ll   utt# 136 of 217
+id: (ll-firenze__137)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SI  
+Eval: S   
+
+Speaker sentences   1:  rf   utt# 136 of 217
+id: (rf-firenze__137)
+Scores: (#C #S #D #I) 3 2 6 0
+REF:  TRATTEGGIANDO SEMPRE LA LINEA E PASSI SO      sotto AGLI occhiali giusto 
+HYP:  ************* ****** ** ***** * ***** ALLINEA sotto GLI  occhiali giusto 
+Eval: D             D      D  D     D D     S             S                    
+
+Speaker sentences   0:  ll   utt# 137 of 217
+id: (ll-firenze__138)
+Scores: (#C #S #D #I) 2 0 2 0
+REF:  SOTTO gli occhiali Sì 
+HYP:  ***** gli occhiali *** 
+Eval: D                  D   
+
+Speaker sentences   1:  rf   utt# 137 of 217
+id: (rf-firenze__138)
+Scores: (#C #S #D #I) 5 2 0 0
+REF:  passa sotto AGLI occhiali molto vicino OKAY 
+HYP:  passa sotto GLI  occhiali molto vicino CHE  
+Eval:             S                          S    
+
+Speaker sentences   0:  ll   utt# 138 of 217
+id: (ll-firenze__139)
+Scores: (#C #S #D #I) 0 0 0 0
+
+Speaker sentences   1:  rf   utt# 138 of 217
+id: (rf-firenze__139)
+Scores: (#C #S #D #I) 1 2 1 0
+REF:  poi VAI GIù SCENDI  
+HYP:  poi *** GI?  USCENTI 
+Eval:     D   S    S       
+
+Speaker sentences   0:  ll   utt# 139 of 217
+id: (ll-firenze__140)
+Scores: (#C #S #D #I) 0 0 2 0
+REF:  EH VERSO 
+HYP:  ** ***** 
+Eval: D  D     
+
+Speaker sentences   1:  rf   utt# 139 of 217
+id: (rf-firenze__140)
+Scores: (#C #S #D #I) 5 1 2 0
+REF:  EH allora adesso aspetta LE VEDI le stelle 
+HYP:  ED allora adesso aspetta ** **** le stelle 
+Eval: S                        D  D              
+
+Speaker sentences   0:  ll   utt# 140 of 217
+id: (ll-firenze__141)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SI  
+Eval: S   
+
+Speaker sentences   1:  rf   utt# 140 of 217
+id: (rf-firenze__141)
+Scores: (#C #S #D #I) 4 0 0 0
+REF:  sono precisamente otto giusto 
+HYP:  sono precisamente otto giusto 
+Eval:                               
+
+Speaker sentences   0:  ll   utt# 141 of 217
+id: (ll-firenze__142)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SI  
+Eval: S   
+
+Speaker sentences   1:  rf   utt# 141 of 217
+id: (rf-firenze__142)
+Scores: (#C #S #D #I) 9 4 5 0
+REF:  SO allora NE VE CE     N'HAI tre TE NO   nel LE LA    parte superiore sono tre le stelle 
+HYP:  ** allora ** ** NEMICI NEI   tre ** TENO nel ** NELLA parte superiore sono tre le stelle 
+Eval: D         D  D  S      S         D  S        D  S                                        
+
+Speaker sentences   0:  ll   utt# 142 of 217
+id: (ll-firenze__143)
+Scores: (#C #S #D #I) 1 2 6 0
+REF:  LE TRE LE TRE CHE STANNO PIù sopra Sì 
+HYP:  ** *** ** *** *** DEL    PI?  sopra *** 
+Eval: D  D   D  D   D   S      S          D   
+
+Speaker sentences   1:  rf   utt# 142 of 217
+id: (rf-firenze__143)
+Scores: (#C #S #D #I) 1 3 3 0
+REF:  Sì CE NE SON DUE  abbastanza GRANDI 
+HYP:  *** ** ** SE  VUOI abbastanza GRANDE 
+Eval: D   D  D  S   S               S      
+
+Speaker sentences   0:  ll   utt# 143 of 217
+id: (ll-firenze__144)
+Scores: (#C #S #D #I) 0 0 3 0
+REF:  E UNA PICCOLA 
+HYP:  * *** ******* 
+Eval: D D   D       
+
+Speaker sentences   1:  rf   utt# 143 of 217
+id: (rf-firenze__144)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SI  
+Eval: S   
+
+Speaker sentences   0:  ll   utt# 144 of 217
+id: (ll-firenze__145)
+Scores: (#C #S #D #I) 0 0 0 0
+
+Speaker sentences   1:  rf   utt# 144 of 217
+id: (rf-firenze__145)
+Scores: (#C #S #D #I) 3 2 0 0
+REF:  ALLORA la linea DEVE  passare 
+HYP:  HA     la linea DELLE passare 
+Eval: S               S             
+
+Speaker sentences   0:  ll   utt# 145 of 217
+id: (ll-firenze__146)
+Scores: (#C #S #D #I) 0 0 0 0
+
+Speaker sentences   1:  rf   utt# 145 of 217
+id: (rf-firenze__146)
+Scores: (#C #S #D #I) 7 0 1 0
+REF:  in mezzo fra la grande E la piccola 
+HYP:  in mezzo fra la grande * la piccola 
+Eval:                        D            
+
+Speaker sentences   0:  ll   utt# 146 of 217
+id: (ll-firenze__147)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SE  
+Eval: S   
+
+Speaker sentences   1:  rf   utt# 146 of 217
+id: (rf-firenze__147)
+Scores: (#C #S #D #I) 11 1 6 0
+REF:  LA EHM la mia stella grande è quella di sinistra quindi la tua è è UN contrario NO 
+HYP:  ** *** la mia stella grande ** quella di sinistra quindi la tua ** ** ?  contrario ** 
+Eval: D  D                        D                                   D  D  S            D  
+
+Speaker sentences   0:  ll   utt# 147 of 217
+id: (ll-firenze__148)
+Scores: (#C #S #D #I) 1 1 0 0
+REF:  Sì aspetta 
+HYP:  SI  aspetta 
+Eval: S           
+
+Speaker sentences   1:  rf   utt# 147 of 217
+id: (rf-firenze__148)
+Scores: (#C #S #D #I) 0 5 0 1
+REF:  ****** è     LA LA      STELLA DESTRA 
+HYP:  L'ALLA STELLA E  ASPETTA IL     DIARIO 
+Eval: I      S      S  S       S      S      
+
+Speaker sentences   0:  ll   utt# 148 of 217
+id: (ll-firenze__149)
+Scores: (#C #S #D #I) 1 3 3 0
+REF:  ASPETTA EHM IO SONO AGLI  occhiali NO       
+HYP:  ******* *** ** CHE  DAGLI occhiali DISCENDE 
+Eval: D       D   D  S    S              S        
+
+Speaker sentences   1:  rf   utt# 148 of 217
+id: (rf-firenze__149)
+Scores: (#C #S #D #I) 0 0 5 0
+REF:  OKAY DAGLI OCCHIALI DEVI SCENDERE 
+HYP:  **** ***** ******** **** ******** 
+Eval: D    D     D        D    D        
+
+Speaker sentences   0:  ll   utt# 149 of 217
+id: (ll-firenze__150)
+Scores: (#C #S #D #I) 3 0 4 0
+REF:  E V E PUNTO verso le stelle 
+HYP:  * * * ***** verso le stelle 
+Eval: D D D D                     
+
+Speaker sentences   1:  rf   utt# 149 of 217
+id: (rf-firenze__150)
+Scores: (#C #S #D #I) 3 1 0 0
+REF:  verso le stelle Sì 
+HYP:  verso le stelle SI  
+Eval:                 S   
+
+Speaker sentences   0:  ll   utt# 150 of 217
+id: (ll-firenze__151)
+Scores: (#C #S #D #I) 1 0 0 0
+REF:  ecco 
+HYP:  ecco 
+Eval:      
+
+Speaker sentences   1:  rf   utt# 150 of 217
+id: (rf-firenze__151)
+Scores: (#C #S #D #I) 11 0 4 0
+REF:  LA LA LI la LINEA deve passare in mezzo alla stella grande e quella piccola 
+HYP:  ** ** ** la ***** deve passare in mezzo alla stella grande e quella piccola 
+Eval: D  D  D     D                                                               
+
+Speaker sentences   0:  ll   utt# 151 of 217
+id: (ll-firenze__152)
+Scores: (#C #S #D #I) 12 1 1 0
+REF:  Sì ma CI deve entrare dalla parte del puntino nero o dalla parte opposta 
+HYP:  *** ma SI deve entrare dalla parte del puntino nero o dalla parte opposta 
+Eval: D      S                                                                  
+
+Speaker sentences   1:  rf   utt# 151 of 217
+id: (rf-firenze__152)
+Scores: (#C #S #D #I) 2 1 0 0
+REF:  IL puntino nero 
+HYP:  A  puntino nero 
+Eval: S               
+
+Speaker sentences   0:  ll   utt# 152 of 217
+id: (ll-firenze__153)
+Scores: (#C #S #D #I) 3 3 4 0
+REF:  IL PUNTO NERO è dove abbiamo SCAMBIATO I     percorsi NO  
+HYP:  ** ***** **** E  dove abbiamo ********* STATI percorsi NON 
+Eval: D  D     D    S               D         S              S   
+
+Speaker sentences   1:  rf   utt# 152 of 217
+id: (rf-firenze__153)
+Scores: (#C #S #D #I) 0 4 0 0
+REF:  Sì DOVE   TE  C'HAI 
+HYP:  VI  DOVETE JAI ?     
+Eval: S   S      S   S     
+
+Speaker sentences   0:  ll   utt# 153 of 217
+id: (ll-firenze__154)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  EH 
+HYP:  ** 
+Eval: D  
+
+Speaker sentences   1:  rf   utt# 153 of 217
+id: (rf-firenze__154)
+Scores: (#C #S #D #I) 4 4 4 1
+REF:  EH quello sarebbe l'arrivo I LE EHM IL LA partenza * IO     L'ARRIVO 
+HYP:  ** quello sarebbe l'arrivo * ** *** E  IN partenza E ARRIVO ?        
+Eval: D                          D D  D   S  S           I S      S        
+
+Speaker sentences   0:  ll   utt# 154 of 217
+id: (ll-firenze__155)
+Scores: (#C #S #D #I) 0 0 4 0
+REF:  IO Sì IO EH 
+HYP:  ** *** ** ** 
+Eval: D  D   D  D  
+
+Speaker sentences   1:  rf   utt# 154 of 217
+id: (rf-firenze__155)
+Scores: (#C #S #D #I) 8 7 7 0
+REF:  TI DICO DOVE    L'HO la stella PIù grande TI  RISULTA    la STELLA PIù grande è quella sotto QUELLA PIù sotto DI TUTTE 
+HYP:  ** IL   GOVERNO HA   la stella PI?  grande CHE RISULTASSE la ****** PI?  grande ** quella sotto ****** **** sotto ** ***** 
+Eval: D  S    S       S              S           S   S             D      S           D               D      D          D  D     
+
+Speaker sentences   0:  ll   utt# 155 of 217
+id: (ll-firenze__156)
+Scores: (#C #S #D #I) 1 1 3 0
+REF:  Sì PERò ASPETTA UN        momento 
+HYP:  *** ***** ******* L'ASPETTO momento 
+Eval: D   D     D       S                 
+
+Speaker sentences   1:  rf   utt# 155 of 217
+id: (rf-firenze__156)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  Sì 
+HYP:  *** 
+Eval: D   
+
+Speaker sentences   0:  ll   utt# 156 of 217
+id: (ll-firenze__157)
+Scores: (#C #S #D #I) 15 3 1 0
+REF:  PRIMA fra queste due stelle TE  C'ENTRI dalla parte del punto nero o da quell'altra o dalla parte DEL   
+HYP:  ***** fra queste due stelle DEI CENTRI  dalla parte del punto nero o da quell'altra o dalla parte DELLE 
+Eval: D                           S   S                                                                 S     
+
+Speaker sentences   1:  rf   utt# 156 of 217
+id: (rf-firenze__157)
+Scores: (#C #S #D #I) 2 1 10 0
+REF:  MA IL PUNTO NERO DA ME è   a destra RISPETTO A QUESTA LINEA 
+HYP:  ** ** ***** **** ** ** DAME a destra ******** * ****** ***** 
+Eval: D  D  D     D    D  D  S             D        D D      D     
+
+Speaker sentences   0:  ll   utt# 157 of 217
+id: (ll-firenze__158)
+Scores: (#C #S #D #I) 1 3 9 0
+REF:  Sì ANCHE A ME è A D ANCHE A ME è      a DESTRA 
+HYP:  *** ***** * ** ** * * ***** * SI CAMMINA a TESTA  
+Eval: D   D     D D  D  D D D     D S  S         S      
+
+Speaker sentences   1:  rf   utt# 157 of 217
+id: (rf-firenze__158)
+Scores: (#C #S #D #I) 7 3 5 0
+REF:  EHM aspetta TI COME TI POSSO spiegare allora innanzitutto ti dico COM'è l'arrivo DA ME    
+HYP:  *** aspetta ** **** ** DI    spiegare allora innanzitutto ti dico COME   l'arrivo ** DAMMI 
+Eval: D           D  D    D  S                                          S               D  S     
+
+Speaker sentences   0:  ll   utt# 158 of 217
+id: (ll-firenze__159)
+Scores: (#C #S #D #I) 0 0 0 0
+
+Speaker sentences   1:  rf   utt# 158 of 217
+id: (rf-firenze__159)
+Scores: (#C #S #D #I) 6 3 1 0
+REF:  ALLORA L'ARRIVO   è un punto sotto la stella PIù grande 
+HYP:  ****** ALL'ARRIVO ?  un punto sotto la stella PI?  grande 
+Eval: D      S          S                           S           
+
+Speaker sentences   0:  ll   utt# 159 of 217
+id: (ll-firenze__160)
+Scores: (#C #S #D #I) 2 0 1 0
+REF:  Sì che sarebbe 
+HYP:  *** che sarebbe 
+Eval: D               
+
+Speaker sentences   1:  rf   utt# 159 of 217
+id: (rf-firenze__160)
+Scores: (#C #S #D #I) 2 2 0 0
+REF:  l'ultima IN   SO  sotto 
+HYP:  l'ultima INS? PER sotto 
+Eval:          S    S         
+
+Speaker sentences   0:  ll   utt# 160 of 217
+id: (ll-firenze__161)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SI  
+Eval: S   
+
+Speaker sentences   1:  rf   utt# 160 of 217
+id: (rf-firenze__161)
+Scores: (#C #S #D #I) 10 5 1 1
+REF:  *** OKAY praticamente EHM devi CON questa linea DEVI arrivare a questo punto SOTTO A     questa stella 
+HYP:  CHE ?    praticamente NON devi A   questa linea DI   arrivare a questo punto ***** SOPRA questa stella 
+Eval: I   S                 S        S                S                            D     S                   
+
+Speaker sentences   0:  ll   utt# 161 of 217
+id: (ll-firenze__162)
+Scores: (#C #S #D #I) 0 0 0 0
+
+Speaker sentences   1:  rf   utt# 161 of 217
+id: (rf-firenze__162)
+Scores: (#C #S #D #I) 5 3 3 0
+REF:  SARà EHM  nemmeno mezzo centimetro SOTTO la STELLA PIù grande OKAY 
+HYP:  ***** SAR? nemmeno mezzo centimetro ***** la ****** PI?  grande CHE  
+Eval: D     S                             D        D      S           S    
+
+Speaker sentences   0:  ll   utt# 162 of 217
+id: (ll-firenze__163)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SI  
+Eval: S   
+
+Speaker sentences   1:  rf   utt# 162 of 217
+id: (rf-firenze__163)
+Scores: (#C #S #D #I) 13 2 6 0
+REF:  CI DE EH DEVI passare in mezzo alle stelle la parte superiore delle stelle quelle tre STELLE CHE T'HO DETTO   prima 
+HYP:  ** ** ** DEVE passare in mezzo alle stelle la parte superiore delle stelle quelle tre ****** *** **** STELLE. prima 
+Eval: D  D  D  S                                                                            D      D   D    S             
+
+Speaker sentences   0:  ll   utt# 163 of 217
+id: (ll-firenze__164)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  Sì 
+HYP:  *** 
+Eval: D   
+
+Speaker sentences   1:  rf   utt# 163 of 217
+id: (rf-firenze__164)
+Scores: (#C #S #D #I) 5 2 0 0
+REF:  dove C'è quella piccola in mezzo NO  
+HYP:  dove C'?  quella piccola in mezzo NON 
+Eval:      S                            S   
+
+Speaker sentences   0:  ll   utt# 164 of 217
+id: (ll-firenze__165)
+Scores: (#C #S #D #I) 0 3 7 0
+REF:  ASPETTA ASPETTA RICOMINCIA QUEST'ULTIMA PARTE PERCHé è UN        PO'   CASINOSA 
+HYP:  ******* ******* ********** ************ ***** ******* ** ASPETTANO PETRI ELOGI?   
+Eval: D       D       D          D            D     D       D  S         S     S        
+
+Speaker sentences   1:  rf   utt# 164 of 217
+id: (rf-firenze__165)
+Scores: (#C #S #D #I) 0 2 7 0
+REF:  EH LO SO NON SO NON MI SO     SPIEGà  
+HYP:  ** ** ** *** ** *** ** ALLORA SPIEGARE 
+Eval: D  D  D  D   D  D   D  S      S        
+
+Speaker sentences   0:  ll   utt# 165 of 217
+id: (ll-firenze__166)
+Scores: (#C #S #D #I) 4 1 1 0
+REF:  ALLORA le stelle sono otto NO  
+HYP:  ****** le stelle sono otto NON 
+Eval: D                          S   
+
+Speaker sentences   1:  rf   utt# 165 of 217
+id: (rf-firenze__166)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SI  
+Eval: S   
+
+Speaker sentences   0:  ll   utt# 166 of 217
+id: (ll-firenze__167)
+Scores: (#C #S #D #I) 4 0 1 0
+REF:  E sono messe a semicerchio 
+HYP:  * sono messe a semicerchio 
+Eval: D                          
+
+Speaker sentences   1:  rf   utt# 166 of 217
+id: (rf-firenze__167)
+Scores: (#C #S #D #I) 0 1 3 0
+REF:  Sì UNA SORTA Sì 
+HYP:  *** *** ***** CHE 
+Eval: D   D   D     S   
+
+Speaker sentences   0:  ll   utt# 167 of 217
+id: (ll-firenze__168)
+Scores: (#C #S #D #I) 6 2 1 0
+REF:  ecco E l'apertura del semicerchio è alla TUA sinistra 
+HYP:  ecco * l'apertura del semicerchio ?  alla SUA sinistra 
+Eval:      D                            S       S            
+
+Speaker sentences   1:  rf   utt# 167 of 217
+id: (rf-firenze__168)
+Scores: (#C #S #D #I) 3 3 4 0
+REF:  CIOè aspetta PERCHé COM    come COSA INTENDI TE       PER semicerchio 
+HYP:  ***** aspetta ******* PERCH? come **** ******* CORRENTE DI  semicerchio 
+Eval: D             D       S           D    D       S        S               
+
+Speaker sentences   0:  ll   utt# 168 of 217
+id: (ll-firenze__169)
+Scores: (#C #S #D #I) 6 1 2 0
+REF:  le stelle sono messe a semicerchio Sì O NO    
+HYP:  le stelle sono messe a semicerchio *** * SIANO 
+Eval:                                    D   D S     
+
+Speaker sentences   1:  rf   utt# 168 of 217
+id: (rf-firenze__169)
+Scores: (#C #S #D #I) 4 2 4 0
+REF:  MA IO  direi NON non lo definirei SEMICERCHIO DA ME        
+HYP:  ** MAI direi *** non lo definirei *********** ** SIGNIFICA 
+Eval: D  S         D                    D           D  S         
+
+Speaker sentences   0:  ll   utt# 169 of 217
+id: (ll-firenze__170)
+Scores: (#C #S #D #I) 2 2 0 1
+REF:  VABBè PERò sono messe * 
+HYP:  AVERE  PER?  sono messe ? 
+Eval: S      S                I 
+
+Speaker sentences   1:  rf   utt# 169 of 217
+id: (rf-firenze__170)
+Scores: (#C #S #D #I) 1 2 3 0
+REF:  EHM ASPETTA COME TI  POSSO     spiegare 
+HYP:  *** ******* **** CHE ASPETTANO spiegare 
+Eval: D   D       D    S   S                  
+
+Speaker sentences   0:  ll   utt# 170 of 217
+id: (ll-firenze__171)
+Scores: (#C #S #D #I) 0 4 4 0
+REF:  NO PERò SOMIGLIA A UN SEMICERCHIO O         NO  
+HYP:  ** ***** ******** * LA PROSSIMA    MILOSEVIC UNA 
+Eval: D  D     D        D S  S           S         S   
+
+Speaker sentences   1:  rf   utt# 170 of 217
+id: (rf-firenze__171)
+Scores: (#C #S #D #I) 6 0 3 0
+REF:  MAH IO C'HO due stelle che stanno nel mezzo 
+HYP:  *** ** **** due stelle che stanno nel mezzo 
+Eval: D   D  D                                    
+
+Speaker sentences   0:  ll   utt# 171 of 217
+id: (ll-firenze__172)
+Scores: (#C #S #D #I) 5 2 1 0
+REF:  allora non PUò ESSE' SON    diverse le stelle 
+HYP:  allora non **** PU?   ESSERE diverse le stelle 
+Eval:            D    S     S                        
+
+Speaker sentences   1:  rf   utt# 171 of 217
+id: (rf-firenze__172)
+Scores: (#C #S #D #I) 0 2 0 0
+REF:  DICI CIOè 
+HYP:  DICE CHE   
+Eval: S    S     
+
+Speaker sentences   0:  ll   utt# 172 of 217
+id: (ll-firenze__173)
+Scores: (#C #S #D #I) 3 1 3 0
+REF:  IO CE L'HO TU    tutte in fila 
+HYP:  ** ** **** TUTTO tutte in fila 
+Eval: D  D  D    S                   
+
+Speaker sentences   1:  rf   utt# 172 of 217
+id: (rf-firenze__173)
+Scores: (#C #S #D #I) 1 1 4 0
+REF:  E IO NE HO TRE    sopra 
+HYP:  * ** ** ** NOSTRE sopra 
+Eval: D D  D  D  S            
+
+Speaker sentences   0:  ll   utt# 173 of 217
+id: (ll-firenze__174)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SI  
+Eval: S   
+
+Speaker sentences   1:  rf   utt# 173 of 217
+id: (rf-firenze__174)
+Scores: (#C #S #D #I) 14 2 1 0
+REF:  poi una sotto di media grandezza rispetto a quella nel mezzo PIù piccola quella della QUELLA ALTA       
+HYP:  poi una sotto di media grandezza rispetto a quella nel mezzo PI?  piccola quella della ****** QUELL'ALTA 
+Eval:                                                              S                         D      S          
+
+Speaker sentences   0:  ll   utt# 174 of 217
+id: (ll-firenze__175)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SI  
+Eval: S   
+
+Speaker sentences   1:  rf   utt# 174 of 217
+id: (rf-firenze__175)
+Scores: (#C #S #D #I) 5 3 3 0
+REF:  okay NELLA PARTE PIù ALTA CE          N'HAI una piccola nel mezzo 
+HYP:  okay ***** ***** **** LA   PASSEGGIATA C'?   una piccola nel mezzo 
+Eval:      D     D     D    S    S           S                           
+
+Speaker sentences   0:  ll   utt# 175 of 217
+id: (ll-firenze__176)
+Scores: (#C #S #D #I) 2 3 1 0
+REF:  CE N'HO una piccola UNA GRANDE 
+HYP:  ** DA   una piccola UN  GRANDI 
+Eval: D  S                S   S      
+
+Speaker sentences   1:  rf   utt# 175 of 217
+id: (rf-firenze__176)
+Scores: (#C #S #D #I) 5 2 6 0
+REF:  E DUE GRANDI una A sinistra E UNA a destra CE L'HO io 
+HYP:  * *** A      una * sinistra * *** a destra ** FINO io 
+Eval: D D   S          D          D D            D  S       
+
+Speaker sentences   0:  ll   utt# 176 of 217
+id: (ll-firenze__177)
+Scores: (#C #S #D #I) 2 3 4 0
+REF:  S IO CE N'HO IO  CE N'HO una piccola 
+HYP:  * ** ** **** NON HO PER? una piccola 
+Eval: D D  D  D    S   S  S                
+
+Speaker sentences   1:  rf   utt# 176 of 217
+id: (rf-firenze__177)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  OKAY 
+HYP:  **** 
+Eval: D    
+
+Speaker sentences   0:  ll   utt# 177 of 217
+id: (ll-firenze__178)
+Scores: (#C #S #D #I) 8 3 5 0
+REF:  scendendo verso destra una grande E SCENDENDO VERSO DESTRA   una media è diverso Sì O NO    
+HYP:  scendendo verso destra una grande * ********* ***** FINESTRA una media E  diverso *** * SIANO 
+Eval:                                   D D         D     S                  S          D   D S     
+
+Speaker sentences   1:  rf   utt# 177 of 217
+id: (rf-firenze__178)
+Scores: (#C #S #D #I) 4 2 5 0
+REF:  EHM COM ALLORA LA parte superiore CE N'HAI TRE    di stelle 
+HYP:  *** *** ****** A  parte superiore ** ***** CENTRI di stelle 
+Eval: D   D   D      S                  D  D     S                
+
+Speaker sentences   0:  ll   utt# 178 of 217
+id: (ll-firenze__179)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SI  
+Eval: S   
+
+Speaker sentences   1:  rf   utt# 178 of 217
+id: (rf-firenze__179)
+Scores: (#C #S #D #I) 7 2 3 0
+REF:  ALLORA IO CE N'HO    una grande a sinistra una piccola NEL mezzo 
+HYP:  ****** ** ** AGITANO una grande a sinistra una piccola E   mezzo 
+Eval: D      D  D  S                                         S         
+
+Speaker sentences   0:  ll   utt# 179 of 217
+id: (ll-firenze__180)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  Sì 
+HYP:  *** 
+Eval: D   
+
+Speaker sentences   1:  rf   utt# 179 of 217
+id: (rf-firenze__180)
+Scores: (#C #S #D #I) 15 2 1 0
+REF:  e una della stessa grandezza di quella A sinistra PIù o meno un po' PIù piccola a destra 
+HYP:  e una della stessa grandezza di quella * sinistra PI?  o meno un po' PI?  piccola a destra 
+Eval:                                        D          S                  S                     
+
+Speaker sentences   0:  ll   utt# 180 of 217
+id: (ll-firenze__181)
+Scores: (#C #S #D #I) 1 2 1 1
+REF:  ECCO ALLORA SON diverse * 
+HYP:  **** ECCOLA SU  diverse ? 
+Eval: D    S      S           I 
+
+Speaker sentences   1:  rf   utt# 180 of 217
+id: (rf-firenze__181)
+Scores: (#C #S #D #I) 8 2 5 0
+REF:  come TI POSSO spiegare praticamente CIOè EHM questa linea da dagli occhiali TE DEVI SCENDERE   
+HYP:  come ** ***** spiegare praticamente ***** *** questa linea da dagli occhiali ** VEDE DISCENDERE 
+Eval:      D  D                           D     D                                  D  S    S          
+
+Speaker sentences   0:  ll   utt# 181 of 217
+id: (ll-firenze__182)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SI  
+Eval: S   
+
+Speaker sentences   1:  rf   utt# 181 of 217
+id: (rf-firenze__182)
+Scores: (#C #S #D #I) 4 1 1 0
+REF:  E DEVI passare in mezzo a 
+HYP:  * DEVE passare in mezzo a 
+Eval: D S                       
+
+Speaker sentences   0:  ll   utt# 182 of 217
+id: (ll-firenze__183)
+Scores: (#C #S #D #I) 0 5 2 0
+REF:  FACCIAMO PER GRADI SE  TI   TI   RIESCE 
+HYP:  ******** *** 9'B0  DDL VEDA COSE NON    
+Eval: D        D   S     S   S    S    S      
+
+Speaker sentences   1:  rf   utt# 182 of 217
+id: (rf-firenze__183)
+Scores: (#C #S #D #I) 2 2 6 0
+REF:  ASPETTA O SE NO ASPETTA TI POSSO     ANCHE  dire l'arrivo 
+HYP:  ******* * ** ** ******* ** ASPETTANO SACCHI dire l'arrivo 
+Eval: D       D D  D  D       D  S         S                    
+
+Speaker sentences   0:  ll   utt# 183 of 217
+id: (ll-firenze__184)
+Scores: (#C #S #D #I) 0 0 0 0
+
+Speaker sentences   1:  rf   utt# 183 of 217
+id: (rf-firenze__184)
+Scores: (#C #S #D #I) 7 4 8 0
+REF:  PER FARTI PERCHé SE L'ORDINE    delle stelle è DIVERSO NO ALLORA  L'ARRIVO   sai DOV'è da me TE lo spiego 
+HYP:  *** ***** ******* ** DELL'ORDINE delle stelle ** ******* ** DIVERSE ALL'ARRIVO sai DOV'?  da me ** lo spiego 
+Eval: D   D     D       D  S                        D  D       D  S       S              S            D            
+
+Speaker sentences   0:  ll   utt# 184 of 217
+id: (ll-firenze__185)
+Scores: (#C #S #D #I) 0 0 0 0
+
+Speaker sentences   1:  rf   utt# 184 of 217
+id: (rf-firenze__185)
+Scores: (#C #S #D #I) 1 1 3 1
+REF:  C'HAI PRESENTE LE DUE   macchine *** 
+HYP:  ***** ******** ** CREDO macchine PER 
+Eval: D     D        D  S              I   
+
+Speaker sentences   0:  ll   utt# 185 of 217
+id: (ll-firenze__186)
+Scores: (#C #S #D #I) 0 0 5 0
+REF:  E LE DUE M QUELLA 
+HYP:  * ** *** * ****** 
+Eval: D D  D   D D      
+
+Speaker sentences   1:  rf   utt# 185 of 217
+id: (rf-firenze__186)
+Scores: (#C #S #D #I) 3 2 0 0
+REF:  la GRIGIA E la rossa 
+HYP:  la VERIT? ? la rossa 
+Eval:    S      S          
+
+Speaker sentences   0:  ll   utt# 186 of 217
+id: (ll-firenze__187)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SE  
+Eval: S   
+
+Speaker sentences   1:  rf   utt# 186 of 217
+id: (rf-firenze__187)
+Scores: (#C #S #D #I) 1 1 0 0
+REF:  il L'ARRIVO 
+HYP:  il TARDIVO  
+Eval:    S        
+
+Speaker sentences   0:  ll   utt# 187 of 217
+id: (ll-firenze__188)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  Sì 
+HYP:  *** 
+Eval: D   
+
+Speaker sentences   1:  rf   utt# 187 of 217
+id: (rf-firenze__188)
+Scores: (#C #S #D #I) 10 2 2 1
+REF:  è sono * non sono sullo stesso piano d'altezza vero QUELLA GRIGIA E         quella rossa 
+HYP:  ** sono O non sono sullo stesso piano d'altezza vero ****** CHE    L'ATTRICE quella rossa 
+Eval: D       I                                            D      S      S                      
+
+Speaker sentences   0:  ll   utt# 188 of 217
+id: (ll-firenze__189)
+Scores: (#C #S #D #I) 1 0 3 0
+REF:  E INVECE LO sono 
+HYP:  * ****** ** sono 
+Eval: D D      D       
+
+Speaker sentences   1:  rf   utt# 188 of 217
+id: (rf-firenze__189)
+Scores: (#C #S #D #I) 2 0 0 0
+REF:  lo stesso 
+HYP:  lo stesso 
+Eval:           
+
+Speaker sentences   0:  ll   utt# 189 of 217
+id: (ll-firenze__190)
+Scores: (#C #S #D #I) 0 0 3 0
+REF:  PRE PRESSAPPOCO Sì 
+HYP:  *** *********** *** 
+Eval: D   D           D   
+
+Speaker sentences   1:  rf   utt# 189 of 217
+id: (rf-firenze__190)
+Scores: (#C #S #D #I) 0 1 5 0
+REF:  Sì MA NON PROPRIO LO STESSO  
+HYP:  *** ** *** ******* ** PRETESA 
+Eval: D   D  D   D       D  S       
+
+Speaker sentences   0:  ll   utt# 190 of 217
+id: (ll-firenze__191)
+Scores: (#C #S #D #I) 0 5 3 0
+REF:  QUELLA GRIGIA è UN   PO'   PIù IN      ALTO    
+HYP:  ****** ****** ** POSI PRIMA NON  PROPRIO L'ALTRO 
+Eval: D      D      D  S    S     S    S       S       
+
+Speaker sentences   1:  rf   utt# 190 of 217
+id: (rf-firenze__191)
+Scores: (#C #S #D #I) 1 1 0 0
+REF:  EH okay 
+HYP:  ?  okay 
+Eval: S       
+
+Speaker sentences   0:  ll   utt# 191 of 217
+id: (ll-firenze__192)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  Sì 
+HYP:  *** 
+Eval: D   
+
+Speaker sentences   1:  rf   utt# 191 of 217
+id: (rf-firenze__192)
+Scores: (#C #S #D #I) 15 2 2 0
+REF:  allora il punto d'arrivo te EHM è come se fosse HAI presente la LA   gomma posteriore della macchina grigia 
+HYP:  allora il punto d'arrivo te *** ?  come se fosse *** presente la ALLA gomma posteriore della macchina grigia 
+Eval:                             D   S                D               S                                           
+
+Speaker sentences   0:  ll   utt# 192 of 217
+id: (ll-firenze__193)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SI  
+Eval: S   
+
+Speaker sentences   1:  rf   utt# 192 of 217
+id: (rf-firenze__193)
+Scores: (#C #S #D #I) 5 3 2 1
+REF:  EH TE DEVI PASS  praticamente andare in ********* VERTICA in orizzontale 
+HYP:  ** ** ?    PARSA praticamente andare in VERTICALE E       in orizzontale 
+Eval: D  D  S    S                            I         S                      
+
+Speaker sentences   0:  ll   utt# 193 of 217
+id: (ll-firenze__194)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SI  
+Eval: S   
+
+Speaker sentences   1:  rf   utt# 193 of 217
+id: (rf-firenze__194)
+Scores: (#C #S #D #I) 3 3 0 0
+REF:  TRACCIARTI una linea immaginaria IN   ORIZZON 
+HYP:  TRACCIA    una linea immaginaria ALLA RADICE  
+Eval: S                                S    S       
+
+Speaker sentences   0:  ll   utt# 194 of 217
+id: (ll-firenze__195)
+Scores: (#C #S #D #I) 0 0 10 0
+REF:  FRA LA GOMMA POSTERIORE DE DI QUELLA GRIGIA E POI 
+HYP:  *** ** ***** ********** ** ** ****** ****** * *** 
+Eval: D   D  D     D          D  D  D      D      D D   
+
+Speaker sentences   1:  rf   utt# 194 of 217
+id: (rf-firenze__195)
+Scores: (#C #S #D #I) 8 0 7 0
+REF:  Sì e AND AN procedendo verso PR la mia sinistra CIOè verso destra DA TE 
+HYP:  *** e *** ** procedendo verso ** la mia sinistra ***** verso destra ** ** 
+Eval: D     D   D                   D                  D                  D  D  
+
+Speaker sentences   0:  ll   utt# 195 of 217
+id: (ll-firenze__196)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SI  
+Eval: S   
+
+Speaker sentences   1:  rf   utt# 195 of 217
+id: (rf-firenze__196)
+Scores: (#C #S #D #I) 8 1 5 0
+REF:  OKAY e arrivi al punto medio fra LA MACCHINA ROSSA E la macchina GRIGIA 
+HYP:  OK   e arrivi al punto medio fra ** ******** ***** * la macchina ****** 
+Eval: S                                D  D        D     D             D      
+
+Speaker sentences   0:  ll   utt# 196 of 217
+id: (ll-firenze__197)
+Scores: (#C #S #D #I) 2 1 0 0
+REF:  Sì ci sono 
+HYP:  SI  ci sono 
+Eval: S           
+
+Speaker sentences   1:  rf   utt# 196 of 217
+id: (rf-firenze__197)
+Scores: (#C #S #D #I) 0 1 3 0
+REF:  E QUELLO è L'ARRIVO     
+HYP:  * ****** ** QUELL'ARRIVA 
+Eval: D D      D  S            
+
+Speaker sentences   0:  ll   utt# 197 of 217
+id: (ll-firenze__198)
+Scores: (#C #S #D #I) 3 1 1 0
+REF:  è il tuo arrivo OKAY 
+HYP:  ** il tuo arrivo ?    
+Eval: D                S    
+
+Speaker sentences   1:  rf   utt# 197 of 217
+id: (rf-firenze__198)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  EH 
+HYP:  ** 
+Eval: D  
+
+Speaker sentences   0:  ll   utt# 198 of 217
+id: (ll-firenze__199)
+Scores: (#C #S #D #I) 6 1 1 0
+REF:  ora GUARDIAMO di passare QUESTO gruppo di stelle 
+HYP:  ora ********* di passare SUL    gruppo di stelle 
+Eval:     D                    S                       
+
+Speaker sentences   1:  rf   utt# 198 of 217
+id: (rf-firenze__199)
+Scores: (#C #S #D #I) 4 3 5 0
+REF:  EH IL gruppo di stelle è S è STRANO CHE      PERò siano 
+HYP:  ** E  gruppo di stelle ** * ** ****** ESTRANEE PER?  siano 
+Eval: D  S                   D  D D  D      S        S           
+
+Speaker sentences   0:  ll   utt# 199 of 217
+id: (ll-firenze__200)
+Scores: (#C #S #D #I) 2 0 0 0
+REF:  aspetta facciamolo 
+HYP:  aspetta facciamolo 
+Eval:                    
+
+Speaker sentences   1:  rf   utt# 199 of 217
+id: (rf-firenze__200)
+Scores: (#C #S #D #I) 14 5 4 0
+REF:  aspetta PIù TE  prova a mettertela al contrario IL foglio FORSE TE mi dici come sono da te e TI SEMBRA UN SEMICE 
+HYP:  aspetta **** PI? prova a mettertela al contrario ** foglio ***** SE mi dici come sono da te e ** NON    SI DICE   
+Eval:         D    S                                   D         D     S                            D  S      S  S      
+
+Speaker sentences   0:  ll   utt# 200 of 217
+id: (ll-firenze__201)
+Scores: (#C #S #D #I) 1 1 4 0
+REF:  MA IO CI AH Sì  perfetto 
+HYP:  ** ** ** ** ANZI perfetto 
+Eval: D  D  D  D  S             
+
+Speaker sentences   1:  rf   utt# 200 of 217
+id: (rf-firenze__201)
+Scores: (#C #S #D #I) 12 4 21 0
+REF:  E ASPETTA FAMMI VEDERE SE DA TE CIOè   a me non MI risulta UN SEMICERCHIO LE TUE stelle come le VEDI TE     CIOè almeno DA ME NE      risultano due in MEZZO CE NE SON DUE NEL mezzo 
+HYP:  * ******* ***** ****** ** ** ** REDATTI a me non ** risulta ** *********** ** *** stelle come le **** VENITE C'?   almeno ** ** DAMMENE risultano due in ***** ** ** *** *** *** mezzo 
+Eval: D D       D     D      D  D  D  S                D          D  D           D  D                  D    S      S            D  D  S                        D     D  D  D   D   D         
+
+Speaker sentences   0:  ll   utt# 201 of 217
+id: (ll-firenze__202)
+Scores: (#C #S #D #I) 1 4 5 0
+REF:  NO INVECE a ME RISULTA IL SEMICERCHIO PUNTO E BASTA   
+HYP:  ** ****** a ** ******* ** DUE         NON   ? BASTATO 
+Eval: D  D        D  D       D  S           S     S S       
+
+Speaker sentences   1:  rf   utt# 201 of 217
+id: (rf-firenze__202)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  VABBè 
+HYP:  ****** 
+Eval: D      
+
+Speaker sentences   0:  ll   utt# 202 of 217
+id: (ll-firenze__203)
+Scores: (#C #S #D #I) 2 1 5 0
+REF:  EH senti allora F VEDIAMO DI FA' COSì 
+HYP:  ** senti allora * ******* ** *** COS?  
+Eval: D               D D       D  D   S     
+
+Speaker sentences   1:  rf   utt# 202 of 217
+id: (rf-firenze__203)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  OKAY 
+HYP:  CHE  
+Eval: S    
+
+Speaker sentences   0:  ll   utt# 203 of 217
+id: (ll-firenze__204)
+Scores: (#C #S #D #I) 6 2 1 0
+REF:  facciamo per LINEE DI   CONGIUNGIMENTO   fra le altre figure 
+HYP:  facciamo per ***** LIRE RICONGIUNGIMENTO fra le altre figure 
+Eval:              D     S    S                                    
+
+Speaker sentences   1:  rf   utt# 203 of 217
+id: (rf-firenze__204)
+Scores: (#C #S #D #I) 2 2 2 0
+REF:  LINEE di CONGIUNGIMENTO IN               che SENSO 
+HYP:  ***** di ************** RICONGIUNGIMENTO che SENZA 
+Eval: D        D              S                    S     
+
+Speaker sentences   0:  ll   utt# 204 of 217
+id: (ll-firenze__205)
+Scores: (#C #S #D #I) 3 4 5 0
+REF:  NEL SENSO AD        ESEMPIO      metti FRA IL CAMION E       LA    macchina rossa 
+HYP:  *** ***** L'ESSENZA DELL'ESEMPIO metti *** ** ****** FALCADE NELLA macchina rossa 
+Eval: D   D     S         S                  D   D  D      S       S                    
+
+Speaker sentences   1:  rf   utt# 204 of 217
+id: (rf-firenze__205)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  Sì 
+HYP:  *** 
+Eval: D   
+
+Speaker sentences   0:  ll   utt# 205 of 217
+id: (ll-firenze__206)
+Scores: (#C #S #D #I) 3 0 3 1
+REF:  passa * quale distanza ECCETERA ECCETERA CAPITO 
+HYP:  passa A quale distanza ******** ******** ****** 
+Eval:       I                D        D        D      
+
+Speaker sentences   1:  rf   utt# 205 of 217
+id: (rf-firenze__206)
+Scores: (#C #S #D #I) 1 1 0 0
+REF:  LA    linea 
+HYP:  DALLA linea 
+Eval: S           
+
+Speaker sentences   0:  ll   utt# 206 of 217
+id: (ll-firenze__207)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  Sì 
+HYP:  *** 
+Eval: D   
+
+Speaker sentences   1:  rf   utt# 206 of 217
+id: (rf-firenze__207)
+Scores: (#C #S #D #I) 5 1 10 0
+REF:  QUESTA MA S EHM CIOè TE SEI ARRIVATO AL PUNTO    degli occhiali SOTTO sotto gli occhiali 
+HYP:  ****** ** * *** ***** ** *** ******** ** PRIVATA. degli occhiali ***** sotto gli occhiali 
+Eval: D      D  D D   D     D  D   D        D  S                       D                        
+
+Speaker sentences   0:  ll   utt# 207 of 217
+id: (ll-firenze__208)
+Scores: (#C #S #D #I) 0 0 5 0
+REF:  S SONO SOTTO GLI OCCHIALI 
+HYP:  * **** ***** *** ******** 
+Eval: D D    D     D   D        
+
+Speaker sentences   1:  rf   utt# 207 of 217
+id: (rf-firenze__208)
+Scores: (#C #S #D #I) 0 2 5 0
+REF:  EH DA QUEL PUNTO TE DEVI SCENDERE   
+HYP:  ** ** **** ***** ** VEDE DISCENDERE 
+Eval: D  D  D    D     D  S    S          
+
+Speaker sentences   0:  ll   utt# 208 of 217
+id: (ll-firenze__209)
+Scores: (#C #S #D #I) 0 0 3 0
+REF:  VERSO LE STELLE 
+HYP:  ***** ** ****** 
+Eval: D     D  D      
+
+Speaker sentences   1:  rf   utt# 208 of 217
+id: (rf-firenze__209)
+Scores: (#C #S #D #I) 4 3 0 1
+REF:  verso il centro ACCENTRANDOTI nel ****** NEL FOGLIO 
+HYP:  verso il centro RIENTRANTI    nel GENERE LO  VOGLIO 
+Eval:                 S                 I      S   S      
+
+Speaker sentences   0:  ll   utt# 209 of 217
+id: (ll-firenze__210)
+Scores: (#C #S #D #I) 1 2 5 0
+REF:  Sì Sì CI SONO FIN Lì SONO arrivato 
+HYP:  *** *** ** **** *** CHE SIA  arrivato 
+Eval: D   D   D  D    D   S   S             
+
+Speaker sentences   1:  rf   utt# 209 of 217
+id: (rf-firenze__210)
+Scores: (#C #S #D #I) 0 2 1 0
+REF:  LO VEDI L'ARRIVO 
+HYP:  ** IL   ARRIVO   
+Eval: D  S    S        
+
+Speaker sentences   0:  ll   utt# 210 of 217
+id: (ll-firenze__211)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SI  
+Eval: S   
+
+Speaker sentences   1:  rf   utt# 210 of 217
+id: (rf-firenze__211)
+Scores: (#C #S #D #I) 11 4 6 0
+REF:  EH TE CI     DEVI andare praticamente in verticale spostato UN PO' verso destra la mia destra E QUINDI LA  TUA sinistra 
+HYP:  ** ** DECIDE DI   andare praticamente in verticale spostato ** *** verso destra la mia destra * ****** CHE DI  sinistra 
+Eval: D  D  S      S                                              D  D                              D D      S   S            
+
+Speaker sentences   0:  ll   utt# 211 of 217
+id: (ll-firenze__212)
+Scores: (#C #S #D #I) 4 1 7 0
+REF:  S Sì MA DEVO passare IN MEZZO A delle stelle oppure NO  
+HYP:  * *** ** **** passare ** ***** * delle stelle oppure NON 
+Eval: D D   D  D            D  D     D                     S   
+
+Speaker sentences   1:  rf   utt# 211 of 217
+id: (rf-firenze__212)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SI  
+Eval: S   
+
+Speaker sentences   0:  ll   utt# 212 of 217
+id: (ll-firenze__213)
+Scores: (#C #S #D #I) 0 0 4 0
+REF:  EH E COME FACCIO 
+HYP:  ** * **** ****** 
+Eval: D  D D    D      
+
+Speaker sentences   1:  rf   utt# 212 of 217
+id: (rf-firenze__213)
+Scores: (#C #S #D #I) 11 4 2 1
+REF:  IO PENSO CHE      sia la parte destra * DELLA stella PIù piccola in alto alla destra della STELLA 
+HYP:  ** FA    MENZIONE sia la parte destra ? LA    stella PI?  piccola in alto alla destra della ****** 
+Eval: D  S     S                            I S            S                                      D      
+
+Speaker sentences   0:  ll   utt# 213 of 217
+id: (ll-firenze__214)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì   
+HYP:  SENNA 
+Eval: S     
+
+Speaker sentences   1:  rf   utt# 213 of 217
+id: (rf-firenze__214)
+Scores: (#C #S #D #I) 1 4 0 0
+REF:  PRATICAMENTE RASENTANDOLA E  ARRIVI all'arrivo 
+HYP:  PREVIAMENTE  RASENTANDO   LA RIGA   all'arrivo 
+Eval: S            S            S  S                 
+
+Speaker sentences   0:  ll   utt# 214 of 217
+id: (ll-firenze__215)
+Scores: (#C #S #D #I) 0 6 5 0
+REF:  BOH IO VO' COSì E POI  SE     'UN MI RIESCE PAZIENZA 
+HYP:  *** ** *** ***** * COS? POICH? NE  HO CHE    SIAMO    
+Eval: D   D  D   D     D S    S      S   S  S      S        
+
+Speaker sentences   1:  rf   utt# 214 of 217
+id: (rf-firenze__215)
+Scores: (#C #S #D #I) 0 0 4 0
+REF:  OKAY DAI VA BENE 
+HYP:  **** *** ** **** 
+Eval: D    D   D  D    
+
+Speaker sentences   0:  ll   utt# 215 of 217
+id: (ll-firenze__216)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  OKAY 
+HYP:  **** 
+Eval: D    
+
+Speaker sentences   1:  rf   utt# 215 of 217
+id: (rf-firenze__216)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  EH 
+HYP:  ** 
+Eval: D  
+
+Speaker sentences   0:  ll   utt# 216 of 217
+id: (ll-firenze__217)
+Scores: (#C #S #D #I) 0 0 2 0
+REF:  CI SIAMO 
+HYP:  ** ***** 
+Eval: D  D     
+
+Speaker sentences   1:  rf   utt# 216 of 217
+id: (rf-firenze__217)
+Scores: (#C #S #D #I) 0 0 2 0
+REF:  EH Sì 
+HYP:  ** *** 
+Eval: D  D   
+
+

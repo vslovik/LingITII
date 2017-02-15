@@ -1,0 +1,4141 @@
+===============================================================================
+
+                     SENTENCE LEVEL REPORT FOR THE SYSTEM:
+    Name: /home/valeriya/project/LingITII/trn/google.txt
+
+===============================================================================
+
+
+SPEAKER rf
+id: (rf-firenze__1)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  Sì 
+HYP:  *** 
+Eval: D   
+
+Correct               =    0.0%    0   (  0)
+Substitutions         =    0.0%    0   (  0)
+Deletions             =  100.0%    1   (  1)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =  100.0%    1   (  1)
+
+Ref. words            =            1   (  1)
+Hyp. words            =            0   (  0)
+Aligned words         =            1   (  1)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__2)
+Scores: (#C #S #D #I) 1 0 0 0
+REF:  okay 
+HYP:  okay 
+Eval:      
+
+Correct               =  100.0%    1   (  1)
+Substitutions         =    0.0%    0   (  0)
+Deletions             =    0.0%    0   (  1)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =    0.0%    0   (  1)
+
+Ref. words            =            1   (  2)
+Hyp. words            =            1   (  1)
+Aligned words         =            1   (  2)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__3)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  VERTICALE 
+HYP:  PERTICARE 
+Eval: S         
+
+Correct               =    0.0%    0   (  1)
+Substitutions         =  100.0%    1   (  1)
+Deletions             =    0.0%    0   (  1)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =  100.0%    1   (  2)
+
+Ref. words            =            1   (  3)
+Hyp. words            =            1   (  2)
+Aligned words         =            1   (  3)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__4)
+Scores: (#C #S #D #I) 2 0 0 0
+REF:  la partenza 
+HYP:  la partenza 
+Eval:             
+
+Correct               =  100.0%    2   (  3)
+Substitutions         =    0.0%    0   (  1)
+Deletions             =    0.0%    0   (  1)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =    0.0%    0   (  2)
+
+Ref. words            =            2   (  5)
+Hyp. words            =            2   (  4)
+Aligned words         =            2   (  5)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__5)
+Scores: (#C #S #D #I) 0 0 15 0
+REF:  A METà COME FRA LA MACCHINA E IL FO E LA FINE DEL FOGLIO O 
+HYP:  * ***** **** *** ** ******** * ** ** * ** **** *** ****** * 
+Eval: D D     D    D   D  D        D D  D  D D  D    D   D      D 
+
+Correct               =    0.0%    0   (  3)
+Substitutions         =    0.0%    0   (  1)
+Deletions             =  100.0%   15   ( 16)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =  100.0%   15   ( 17)
+
+Ref. words            =           15   ( 20)
+Hyp. words            =            0   (  4)
+Aligned words         =           15   ( 20)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__6)
+Scores: (#C #S #D #I) 1 0 2 0
+REF:  OKAY Sì okay 
+HYP:  **** *** okay 
+Eval: D    D        
+
+Correct               =   33.3%    1   (  4)
+Substitutions         =    0.0%    0   (  1)
+Deletions             =   66.7%    2   ( 18)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =   66.7%    2   ( 19)
+
+Ref. words            =            3   ( 23)
+Hyp. words            =            1   (  5)
+Aligned words         =            3   ( 23)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__7)
+Scores: (#C #S #D #I) 6 4 1 0
+REF:  NO  aspetta cioè con linee TRATTEG con la LINEA TRATTEGGIATA SCE       
+HYP:  NON aspetta cioè con linee FRATTE  con la ***** MIA          STRATEGIA 
+Eval: S                           S              D     S            S         
+
+Correct               =   54.5%    6   ( 10)
+Substitutions         =   36.4%    4   (  5)
+Deletions             =    9.1%    1   ( 19)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =   45.5%    5   ( 24)
+
+Ref. words            =           11   ( 34)
+Hyp. words            =           10   ( 15)
+Aligned words         =           11   ( 34)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__8)
+Scores: (#C #S #D #I) 5 1 1 0
+REF:  scendendo come dal PUNTO DE        di partenza 
+HYP:  scendendo come dal ***** VENDITORE di partenza 
+Eval:                    D     S                     
+
+Correct               =   71.4%    5   ( 15)
+Substitutions         =   14.3%    1   (  6)
+Deletions             =   14.3%    1   ( 20)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =   28.6%    2   ( 26)
+
+Ref. words            =            7   ( 41)
+Hyp. words            =            6   ( 21)
+Aligned words         =            7   ( 41)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__9)
+Scores: (#C #S #D #I) 6 0 0 0
+REF:  okay scendo vado sotto la televisione 
+HYP:  okay scendo vado sotto la televisione 
+Eval:                                       
+
+Correct               =  100.0%    6   ( 21)
+Substitutions         =    0.0%    0   (  6)
+Deletions             =    0.0%    0   ( 20)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =    0.0%    0   ( 26)
+
+Ref. words            =            6   ( 47)
+Hyp. words            =            6   ( 27)
+Aligned words         =            6   ( 47)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__10)
+Scores: (#C #S #D #I) 1 0 0 0
+REF:  okay 
+HYP:  okay 
+Eval:      
+
+Correct               =  100.0%    1   ( 22)
+Substitutions         =    0.0%    0   (  6)
+Deletions             =    0.0%    0   ( 20)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =    0.0%    0   ( 26)
+
+Ref. words            =            1   ( 48)
+Hyp. words            =            1   ( 28)
+Aligned words         =            1   ( 48)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__11)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  Sì 
+HYP:  *** 
+Eval: D   
+
+Correct               =    0.0%    0   ( 22)
+Substitutions         =    0.0%    0   (  6)
+Deletions             =  100.0%    1   ( 21)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =  100.0%    1   ( 27)
+
+Ref. words            =            1   ( 49)
+Hyp. words            =            0   ( 28)
+Aligned words         =            1   ( 49)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__12)
+Scores: (#C #S #D #I) 13 0 5 0
+REF:  Sì a metà sempre fra televisione E sci come linea FRA PU fra IL il punto di partenza 
+HYP:  *** a metà sempre fra televisione * sci come linea *** ** fra ** il punto di partenza 
+Eval: D                                  D                D   D      D                       
+
+Correct               =   72.2%   13   ( 35)
+Substitutions         =    0.0%    0   (  6)
+Deletions             =   27.8%    5   ( 26)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =   27.8%    5   ( 32)
+
+Ref. words            =           18   ( 67)
+Hyp. words            =           13   ( 41)
+Aligned words         =           18   ( 67)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__13)
+Scores: (#C #S #D #I) 0 1 1 0
+REF:  Sì OKAY 
+HYP:  *** CHE  
+Eval: D   S    
+
+Correct               =    0.0%    0   ( 35)
+Substitutions         =   50.0%    1   (  7)
+Deletions             =   50.0%    1   ( 27)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =  100.0%    2   ( 34)
+
+Ref. words            =            2   ( 69)
+Hyp. words            =            1   ( 42)
+Aligned words         =            2   ( 69)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__14)
+Scores: (#C #S #D #I) 8 4 0 0
+REF:  sì OKAY ma il punto è a metà FRA televisione E  SCI  
+HYP:  sì OK   ma il punto è a metà TRA televisione CI ESCI 
+Eval:     S                           S               S  S    
+
+Correct               =   66.7%    8   ( 43)
+Substitutions         =   33.3%    4   ( 11)
+Deletions             =    0.0%    0   ( 27)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =   33.3%    4   ( 38)
+
+Ref. words            =           12   ( 81)
+Hyp. words            =           12   ( 54)
+Aligned words         =           12   ( 81)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__15)
+Scores: (#C #S #D #I) 2 1 0 0
+REF:  Sì gli sci 
+HYP:  SE  gli sci 
+Eval: S           
+
+Correct               =   66.7%    2   ( 45)
+Substitutions         =   33.3%    1   ( 12)
+Deletions             =    0.0%    0   ( 27)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =   33.3%    1   ( 39)
+
+Ref. words            =            3   ( 84)
+Hyp. words            =            3   ( 57)
+Aligned words         =            3   ( 84)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__16)
+Scores: (#C #S #D #I) 5 3 0 0
+REF:  A  DESTRA DELLA televisione non hai degli sci 
+HYP:  AD ESSERE LA    televisione non hai degli sci 
+Eval: S  S      S                                   
+
+Correct               =   62.5%    5   ( 50)
+Substitutions         =   37.5%    3   ( 15)
+Deletions             =    0.0%    0   ( 27)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =   37.5%    3   ( 42)
+
+Ref. words            =            8   ( 92)
+Hyp. words            =            8   ( 65)
+Aligned words         =            8   ( 92)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__17)
+Scores: (#C #S #D #I) 0 0 0 0
+
+Correct               =  UNDEF%    0   ( 50)
+Substitutions         =  UNDEF%    0   ( 15)
+Deletions             =  UNDEF%    0   ( 27)
+Insertions            =  UNDEF%    0   (  0)
+
+Errors                =  UNDEF%    0   ( 42)
+
+Ref. words            =            0   ( 92)
+Hyp. words            =            0   ( 65)
+Aligned words         =            0   ( 92)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__18)
+Scores: (#C #S #D #I) 1 0 0 0
+REF:  okay 
+HYP:  okay 
+Eval:      
+
+Correct               =  100.0%    1   ( 51)
+Substitutions         =    0.0%    0   ( 15)
+Deletions             =    0.0%    0   ( 27)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =    0.0%    0   ( 42)
+
+Ref. words            =            1   ( 93)
+Hyp. words            =            1   ( 66)
+Aligned words         =            1   ( 93)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__19)
+Scores: (#C #S #D #I) 6 1 1 0
+REF:  una torta è ancora più a destra Sì   
+HYP:  una torta ** ancora più a destra SENSI 
+Eval:           D                       S     
+
+Correct               =   75.0%    6   ( 57)
+Substitutions         =   12.5%    1   ( 16)
+Deletions             =   12.5%    1   ( 28)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =   25.0%    2   ( 44)
+
+Ref. words            =            8   (101)
+Hyp. words            =            7   ( 73)
+Aligned words         =            8   (101)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__20)
+Scores: (#C #S #D #I) 0 0 2 0
+REF:  OKAY EHM 
+HYP:  **** *** 
+Eval: D    D   
+
+Correct               =    0.0%    0   ( 57)
+Substitutions         =    0.0%    0   ( 16)
+Deletions             =  100.0%    2   ( 30)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =  100.0%    2   ( 46)
+
+Ref. words            =            2   (103)
+Hyp. words            =            0   ( 73)
+Aligned words         =            2   (103)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__21)
+Scores: (#C #S #D #I) 6 1 3 0
+REF:  QUALE PUNTO  però di quello di partenza o IL PUNTO 
+HYP:  ***** QUALE. però di quello di partenza o ** ***** 
+Eval: D     S                                    D  D     
+
+Correct               =   60.0%    6   ( 63)
+Substitutions         =   10.0%    1   ( 17)
+Deletions             =   30.0%    3   ( 33)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =   40.0%    4   ( 50)
+
+Ref. words            =           10   (113)
+Hyp. words            =            7   ( 80)
+Aligned words         =           10   (113)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__22)
+Scores: (#C #S #D #I) 2 1 0 0
+REF:  il penultimo CIOè 
+HYP:  il penultimo CIELO 
+Eval:              S     
+
+Correct               =   66.7%    2   ( 65)
+Substitutions         =   33.3%    1   ( 18)
+Deletions             =    0.0%    0   ( 33)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =   33.3%    1   ( 51)
+
+Ref. words            =            3   (116)
+Hyp. words            =            3   ( 83)
+Aligned words         =            3   (116)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__23)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SI  
+Eval: S   
+
+Correct               =    0.0%    0   ( 65)
+Substitutions         =  100.0%    1   ( 19)
+Deletions             =    0.0%    0   ( 33)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =  100.0%    1   ( 52)
+
+Ref. words            =            1   (117)
+Hyp. words            =            1   ( 84)
+Aligned words         =            1   (117)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__24)
+Scores: (#C #S #D #I) 0 1 3 0
+REF:  DAL BASSO SEMPRE GIRO   
+HYP:  *** ***** ****** RIGIRO 
+Eval: D   D     D      S      
+
+Correct               =    0.0%    0   ( 65)
+Substitutions         =   25.0%    1   ( 20)
+Deletions             =   75.0%    3   ( 36)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =  100.0%    4   ( 56)
+
+Ref. words            =            4   (121)
+Hyp. words            =            1   ( 85)
+Aligned words         =            4   (121)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__25)
+Scores: (#C #S #D #I) 0 0 2 0
+REF:  OKAY Sì 
+HYP:  **** *** 
+Eval: D    D   
+
+Correct               =    0.0%    0   ( 65)
+Substitutions         =    0.0%    0   ( 20)
+Deletions             =  100.0%    2   ( 38)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =  100.0%    2   ( 58)
+
+Ref. words            =            2   (123)
+Hyp. words            =            0   ( 85)
+Aligned words         =            2   (123)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__26)
+Scores: (#C #S #D #I) 2 1 2 0
+REF:  Sì molto vicino O PROPRIO 
+HYP:  SEI molto vicino * ******* 
+Eval: S                D D       
+
+Correct               =   40.0%    2   ( 67)
+Substitutions         =   20.0%    1   ( 21)
+Deletions             =   40.0%    2   ( 40)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =   60.0%    3   ( 61)
+
+Ref. words            =            5   (128)
+Hyp. words            =            3   ( 88)
+Aligned words         =            5   (128)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__27)
+Scores: (#C #S #D #I) 2 1 2 0
+REF:  OKAY okay aspetta Sì OKAY 
+HYP:  **** okay aspetta *** SE   
+Eval: D                 D   S    
+
+Correct               =   40.0%    2   ( 69)
+Substitutions         =   20.0%    1   ( 22)
+Deletions             =   40.0%    2   ( 42)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =   60.0%    3   ( 64)
+
+Ref. words            =            5   (133)
+Hyp. words            =            3   ( 91)
+Aligned words         =            5   (133)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__28)
+Scores: (#C #S #D #I) 1 0 0 0
+REF:  dritto 
+HYP:  dritto 
+Eval:        
+
+Correct               =  100.0%    1   ( 70)
+Substitutions         =    0.0%    0   ( 22)
+Deletions             =    0.0%    0   ( 42)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =    0.0%    0   ( 64)
+
+Ref. words            =            1   (134)
+Hyp. words            =            1   ( 92)
+Aligned words         =            1   (134)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__29)
+Scores: (#C #S #D #I) 5 1 0 0
+REF:  sopra la televisione di quanto CIRCA 
+HYP:  sopra la televisione di quanto CERCA 
+Eval:                                S     
+
+Correct               =   83.3%    5   ( 75)
+Substitutions         =   16.7%    1   ( 23)
+Deletions             =    0.0%    0   ( 42)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =   16.7%    1   ( 65)
+
+Ref. words            =            6   (140)
+Hyp. words            =            6   ( 98)
+Aligned words         =            6   (140)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__30)
+Scores: (#C #S #D #I) 4 0 0 0
+REF:  un po' più sopra 
+HYP:  un po' più sopra 
+Eval:                   
+
+Correct               =  100.0%    4   ( 79)
+Substitutions         =    0.0%    0   ( 23)
+Deletions             =    0.0%    0   ( 42)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =    0.0%    0   ( 65)
+
+Ref. words            =            4   (144)
+Hyp. words            =            4   (102)
+Aligned words         =            4   (144)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__31)
+Scores: (#C #S #D #I) 0 0 11 0
+REF:  DEL PUNTO DI PARTENZA OKAY ASPETTA EH EHM Sì Sì Sì 
+HYP:  *** ***** ** ******** **** ******* ** *** *** *** *** 
+Eval: D   D     D  D        D    D       D  D   D   D   D   
+
+Correct               =    0.0%    0   ( 79)
+Substitutions         =    0.0%    0   ( 23)
+Deletions             =  100.0%   11   ( 53)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =  100.0%   11   ( 76)
+
+Ref. words            =           11   (155)
+Hyp. words            =            0   (102)
+Aligned words         =           11   (155)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__32)
+Scores: (#C #S #D #I) 1 0 1 0
+REF:  okay Sì 
+HYP:  okay *** 
+Eval:      D   
+
+Correct               =   50.0%    1   ( 80)
+Substitutions         =    0.0%    0   ( 23)
+Deletions             =   50.0%    1   ( 54)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =   50.0%    1   ( 77)
+
+Ref. words            =            2   (157)
+Hyp. words            =            1   (103)
+Aligned words         =            2   (157)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__33)
+Scores: (#C #S #D #I) 3 0 0 0
+REF:  okay ma come 
+HYP:  okay ma come 
+Eval:              
+
+Correct               =  100.0%    3   ( 83)
+Substitutions         =    0.0%    0   ( 23)
+Deletions             =    0.0%    0   ( 54)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =    0.0%    0   ( 77)
+
+Ref. words            =            3   (160)
+Hyp. words            =            3   (106)
+Aligned words         =            3   (160)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__34)
+Scores: (#C #S #D #I) 4 1 2 0
+REF:  Sì Sì MA    come ci vado dritto 
+HYP:  *** *** TORNA come ci vado dritto 
+Eval: D   D   S                         
+
+Correct               =   57.1%    4   ( 87)
+Substitutions         =   14.3%    1   ( 24)
+Deletions             =   28.6%    2   ( 56)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =   42.9%    3   ( 80)
+
+Ref. words            =            7   (167)
+Hyp. words            =            5   (111)
+Aligned words         =            7   (167)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__35)
+Scores: (#C #S #D #I) 1 1 0 0
+REF:  in OBLIQUO 
+HYP:  in OBBLIGO 
+Eval:    S       
+
+Correct               =   50.0%    1   ( 88)
+Substitutions         =   50.0%    1   ( 25)
+Deletions             =    0.0%    0   ( 56)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =   50.0%    1   ( 81)
+
+Ref. words            =            2   (169)
+Hyp. words            =            2   (113)
+Aligned words         =            2   (169)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__36)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  OKAY 
+HYP:  **** 
+Eval: D    
+
+Correct               =    0.0%    0   ( 88)
+Substitutions         =    0.0%    0   ( 25)
+Deletions             =  100.0%    1   ( 57)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =  100.0%    1   ( 82)
+
+Ref. words            =            1   (170)
+Hyp. words            =            0   (113)
+Aligned words         =            1   (170)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__37)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  Sì 
+HYP:  *** 
+Eval: D   
+
+Correct               =    0.0%    0   ( 88)
+Substitutions         =    0.0%    0   ( 25)
+Deletions             =  100.0%    1   ( 58)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =  100.0%    1   ( 83)
+
+Ref. words            =            1   (171)
+Hyp. words            =            0   (113)
+Aligned words         =            1   (171)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__38)
+Scores: (#C #S #D #I) 1 0 0 0
+REF:  okay 
+HYP:  okay 
+Eval:      
+
+Correct               =  100.0%    1   ( 89)
+Substitutions         =    0.0%    0   ( 25)
+Deletions             =    0.0%    0   ( 58)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =    0.0%    0   ( 83)
+
+Ref. words            =            1   (172)
+Hyp. words            =            1   (114)
+Aligned words         =            1   (172)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__39)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  Sì 
+HYP:  *** 
+Eval: D   
+
+Correct               =    0.0%    0   ( 89)
+Substitutions         =    0.0%    0   ( 25)
+Deletions             =  100.0%    1   ( 59)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =  100.0%    1   ( 84)
+
+Ref. words            =            1   (173)
+Hyp. words            =            0   (114)
+Aligned words         =            1   (173)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__40)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SE  
+Eval: S   
+
+Correct               =    0.0%    0   ( 89)
+Substitutions         =  100.0%    1   ( 26)
+Deletions             =    0.0%    0   ( 59)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =  100.0%    1   ( 85)
+
+Ref. words            =            1   (174)
+Hyp. words            =            1   (115)
+Aligned words         =            1   (174)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__41)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  Sì 
+HYP:  *** 
+Eval: D   
+
+Correct               =    0.0%    0   ( 89)
+Substitutions         =    0.0%    0   ( 26)
+Deletions             =  100.0%    1   ( 60)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =  100.0%    1   ( 86)
+
+Ref. words            =            1   (175)
+Hyp. words            =            0   (115)
+Aligned words         =            1   (175)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__42)
+Scores: (#C #S #D #I) 4 1 0 0
+REF:  parte davanti O parte dietro 
+HYP:  parte davanti A parte dietro 
+Eval:               S              
+
+Correct               =   80.0%    4   ( 93)
+Substitutions         =   20.0%    1   ( 27)
+Deletions             =    0.0%    0   ( 60)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =   20.0%    1   ( 87)
+
+Ref. words            =            5   (180)
+Hyp. words            =            5   (120)
+Aligned words         =            5   (180)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__43)
+Scores: (#C #S #D #I) 0 0 2 0
+REF:  PARTE DAVANTI 
+HYP:  ***** ******* 
+Eval: D     D       
+
+Correct               =    0.0%    0   ( 93)
+Substitutions         =    0.0%    0   ( 27)
+Deletions             =  100.0%    2   ( 62)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =  100.0%    2   ( 89)
+
+Ref. words            =            2   (182)
+Hyp. words            =            0   (120)
+Aligned words         =            2   (182)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__44)
+Scores: (#C #S #D #I) 2 0 0 0
+REF:  okay come 
+HYP:  okay come 
+Eval:           
+
+Correct               =  100.0%    2   ( 95)
+Substitutions         =    0.0%    0   ( 27)
+Deletions             =    0.0%    0   ( 62)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =    0.0%    0   ( 89)
+
+Ref. words            =            2   (184)
+Hyp. words            =            2   (122)
+Aligned words         =            2   (184)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__45)
+Scores: (#C #S #D #I) 1 0 2 0
+REF:  IN VERTICALE totalmente 
+HYP:  ** ********* totalmente 
+Eval: D  D                    
+
+Correct               =   33.3%    1   ( 96)
+Substitutions         =    0.0%    0   ( 27)
+Deletions             =   66.7%    2   ( 64)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =   66.7%    2   ( 91)
+
+Ref. words            =            3   (187)
+Hyp. words            =            1   (123)
+Aligned words         =            3   (187)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__46)
+Scores: (#C #S #D #I) 5 1 1 0
+REF:  PASSANDO sopra A un orologio per caso 
+HYP:  VERSANDO sopra * un orologio per caso 
+Eval: S              D                      
+
+Correct               =   71.4%    5   (101)
+Substitutions         =   14.3%    1   ( 28)
+Deletions             =   14.3%    1   ( 65)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =   28.6%    2   ( 93)
+
+Ref. words            =            7   (194)
+Hyp. words            =            6   (129)
+Aligned words         =            7   (194)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__47)
+Scores: (#C #S #D #I) 1 0 0 0
+REF:  okay 
+HYP:  okay 
+Eval:      
+
+Correct               =  100.0%    1   (102)
+Substitutions         =    0.0%    0   ( 28)
+Deletions             =    0.0%    0   ( 65)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =    0.0%    0   ( 93)
+
+Ref. words            =            1   (195)
+Hyp. words            =            1   (130)
+Aligned words         =            1   (195)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__48)
+Scores: (#C #S #D #I) 3 2 3 0
+REF:  E  da me è F EHM è grigia 
+HYP:  è da me ** * *** E  grigia 
+Eval: S        D  D D   S         
+
+Correct               =   37.5%    3   (105)
+Substitutions         =   25.0%    2   ( 30)
+Deletions             =   37.5%    3   ( 68)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =   62.5%    5   ( 98)
+
+Ref. words            =            8   (203)
+Hyp. words            =            5   (135)
+Aligned words         =            8   (203)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__49)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  Sì 
+HYP:  *** 
+Eval: D   
+
+Correct               =    0.0%    0   (105)
+Substitutions         =    0.0%    0   ( 30)
+Deletions             =  100.0%    1   ( 69)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =  100.0%    1   ( 99)
+
+Ref. words            =            1   (204)
+Hyp. words            =            0   (135)
+Aligned words         =            1   (204)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__50)
+Scores: (#C #S #D #I) 0 0 2 0
+REF:  TE SE 
+HYP:  ** ** 
+Eval: D  D  
+
+Correct               =    0.0%    0   (105)
+Substitutions         =    0.0%    0   ( 30)
+Deletions             =  100.0%    2   ( 71)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =  100.0%    2   (101)
+
+Ref. words            =            2   (206)
+Hyp. words            =            0   (135)
+Aligned words         =            2   (206)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__51)
+Scores: (#C #S #D #I) 10 0 2 0
+REF:  Sì io sono partito HO fatto il giro della macchina rossa adesso 
+HYP:  *** io sono partito ** fatto il giro della macchina rossa adesso 
+Eval: D                   D                                            
+
+Correct               =   83.3%   10   (115)
+Substitutions         =    0.0%    0   ( 30)
+Deletions             =   16.7%    2   ( 73)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =   16.7%    2   (103)
+
+Ref. words            =           12   (218)
+Hyp. words            =           10   (145)
+Aligned words         =           12   (218)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__52)
+Scores: (#C #S #D #I) 1 0 0 0
+REF:  okay 
+HYP:  okay 
+Eval:      
+
+Correct               =  100.0%    1   (116)
+Substitutions         =    0.0%    0   ( 30)
+Deletions             =    0.0%    0   ( 73)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =    0.0%    0   (103)
+
+Ref. words            =            1   (219)
+Hyp. words            =            1   (146)
+Aligned words         =            1   (219)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__53)
+Scores: (#C #S #D #I) 3 0 1 0
+REF:  vado tutto in O 
+HYP:  vado tutto in * 
+Eval:               D 
+
+Correct               =   75.0%    3   (119)
+Substitutions         =    0.0%    0   ( 30)
+Deletions             =   25.0%    1   ( 74)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =   25.0%    1   (104)
+
+Ref. words            =            4   (223)
+Hyp. words            =            3   (149)
+Aligned words         =            4   (223)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__54)
+Scores: (#C #S #D #I) 4 1 0 0
+REF:  aspetta CIOè dalla macchina rossa 
+HYP:  aspetta C'è  dalla macchina rossa 
+Eval:         S                          
+
+Correct               =   80.0%    4   (123)
+Substitutions         =   20.0%    1   ( 31)
+Deletions             =    0.0%    0   ( 74)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =   20.0%    1   (105)
+
+Ref. words            =            5   (228)
+Hyp. words            =            5   (154)
+Aligned words         =            5   (228)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__55)
+Scores: (#C #S #D #I) 2 0 1 0
+REF:  DEVO tornare indietro 
+HYP:  **** tornare indietro 
+Eval: D                     
+
+Correct               =   66.7%    2   (125)
+Substitutions         =    0.0%    0   ( 31)
+Deletions             =   33.3%    1   ( 75)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =   33.3%    1   (106)
+
+Ref. words            =            3   (231)
+Hyp. words            =            2   (156)
+Aligned words         =            3   (231)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__56)
+Scores: (#C #S #D #I) 4 0 0 0
+REF:  in che modo però 
+HYP:  in che modo però 
+Eval:                   
+
+Correct               =  100.0%    4   (129)
+Substitutions         =    0.0%    0   ( 31)
+Deletions             =    0.0%    0   ( 75)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =    0.0%    0   (106)
+
+Ref. words            =            4   (235)
+Hyp. words            =            4   (160)
+Aligned words         =            4   (235)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__57)
+Scores: (#C #S #D #I) 4 1 1 0
+REF:  in OBLIQUO in giù sarebbe COMUNQUE 
+HYP:  in OBBLIGO in giù sarebbe ******** 
+Eval:    S                       D        
+
+Correct               =   66.7%    4   (133)
+Substitutions         =   16.7%    1   ( 32)
+Deletions             =   16.7%    1   ( 76)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =   33.3%    2   (108)
+
+Ref. words            =            6   (241)
+Hyp. words            =            5   (165)
+Aligned words         =            6   (241)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__58)
+Scores: (#C #S #D #I) 8 0 2 0
+REF:  Sì OKAY ma quindi ritorno alla stessa linea di prima 
+HYP:  *** **** ma quindi ritorno alla stessa linea di prima 
+Eval: D   D                                                 
+
+Correct               =   80.0%    8   (141)
+Substitutions         =    0.0%    0   ( 32)
+Deletions             =   20.0%    2   ( 78)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =   20.0%    2   (110)
+
+Ref. words            =           10   (251)
+Hyp. words            =            8   (173)
+Aligned words         =           10   (251)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__59)
+Scores: (#C #S #D #I) 0 1 1 0
+REF:  OKAY Sì 
+HYP:  **** SE  
+Eval: D    S   
+
+Correct               =    0.0%    0   (141)
+Substitutions         =   50.0%    1   ( 33)
+Deletions             =   50.0%    1   ( 79)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =  100.0%    2   (112)
+
+Ref. words            =            2   (253)
+Hyp. words            =            1   (174)
+Aligned words         =            2   (253)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__60)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  Sì 
+HYP:  *** 
+Eval: D   
+
+Correct               =    0.0%    0   (141)
+Substitutions         =    0.0%    0   ( 33)
+Deletions             =  100.0%    1   ( 80)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =  100.0%    1   (113)
+
+Ref. words            =            1   (254)
+Hyp. words            =            0   (174)
+Aligned words         =            1   (254)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__61)
+Scores: (#C #S #D #I) 0 1 0 0
+REF:  Sì 
+HYP:  SE  
+Eval: S   
+
+Correct               =    0.0%    0   (141)
+Substitutions         =  100.0%    1   ( 34)
+Deletions             =    0.0%    0   ( 80)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =  100.0%    1   (114)
+
+Ref. words            =            1   (255)
+Hyp. words            =            1   (175)
+Aligned words         =            1   (255)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__62)
+Scores: (#C #S #D #I) 1 0 5 0
+REF:  QUINDI LA PARTE DAVANTI SEMPRE okay 
+HYP:  ****** ** ***** ******* ****** okay 
+Eval: D      D  D     D       D           
+
+Correct               =   16.7%    1   (142)
+Substitutions         =    0.0%    0   ( 34)
+Deletions             =   83.3%    5   ( 85)
+Insertions            =    0.0%    0   (  0)
+
+Errors                =   83.3%    5   (119)
+
+Ref. words            =            6   (261)
+Hyp. words            =            1   (176)
+Aligned words         =            6   (261)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__63)
+Scores: (#C #S #D #I) 3 2 0 1
+REF:  ** RISALGO come VE normale verticale 
+HYP:  MI SCIOLGO come è normale verticale 
+Eval: I  S            S                    
+
+Correct               =   60.0%    3   (145)
+Substitutions         =   40.0%    2   ( 36)
+Deletions             =    0.0%    0   ( 85)
+Insertions            =   20.0%    1   (  1)
+
+Errors                =   60.0%    3   (122)
+
+Ref. words            =            5   (266)
+Hyp. words            =            6   (182)
+Aligned words         =            6   (267)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__64)
+Scores: (#C #S #D #I) 4 0 1 0
+REF:  cioè verso la parte D 
+HYP:  cioè verso la parte * 
+Eval:                      D 
+
+Correct               =   80.0%    4   (149)
+Substitutions         =    0.0%    0   ( 36)
+Deletions             =   20.0%    1   ( 86)
+Insertions            =    0.0%    0   (  1)
+
+Errors                =   20.0%    1   (123)
+
+Ref. words            =            5   (271)
+Hyp. words            =            4   (186)
+Aligned words         =            5   (272)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__65)
+Scores: (#C #S #D #I) 2 1 0 0
+REF:  LA    mia destra 
+HYP:  DELLA mia destra 
+Eval: S                
+
+Correct               =   66.7%    2   (151)
+Substitutions         =   33.3%    1   ( 37)
+Deletions             =    0.0%    0   ( 86)
+Insertions            =    0.0%    0   (  1)
+
+Errors                =   33.3%    1   (124)
+
+Ref. words            =            3   (274)
+Hyp. words            =            3   (189)
+Aligned words         =            3   (275)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__66)
+Scores: (#C #S #D #I) 0 0 2 0
+REF:  AH OKAY 
+HYP:  ** **** 
+Eval: D  D    
+
+Correct               =    0.0%    0   (151)
+Substitutions         =    0.0%    0   ( 37)
+Deletions             =  100.0%    2   ( 88)
+Insertions            =    0.0%    0   (  1)
+
+Errors                =  100.0%    2   (126)
+
+Ref. words            =            2   (276)
+Hyp. words            =            0   (189)
+Aligned words         =            2   (277)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__67)
+Scores: (#C #S #D #I) 2 0 1 0
+REF:  sì OKAY okay 
+HYP:  sì **** okay 
+Eval:     D         
+
+Correct               =   66.7%    2   (153)
+Substitutions         =    0.0%    0   ( 37)
+Deletions             =   33.3%    1   ( 89)
+Insertions            =    0.0%    0   (  1)
+
+Errors                =   33.3%    1   (127)
+
+Ref. words            =            3   (279)
+Hyp. words            =            2   (191)
+Aligned words         =            3   (280)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__68)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  Sì 
+HYP:  *** 
+Eval: D   
+
+Correct               =    0.0%    0   (153)
+Substitutions         =    0.0%    0   ( 37)
+Deletions             =  100.0%    1   ( 90)
+Insertions            =    0.0%    0   (  1)
+
+Errors                =  100.0%    1   (128)
+
+Ref. words            =            1   (280)
+Hyp. words            =            0   (191)
+Aligned words         =            1   (281)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__69)
+Scores: (#C #S #D #I) 6 1 1 0
+REF:  ci sono ma come PARAURTI è    molto vicino 
+HYP:  ci sono ma come ******** PORTI molto vicino 
+Eval:                 D        S                  
+
+Correct               =   75.0%    6   (159)
+Substitutions         =   12.5%    1   ( 38)
+Deletions             =   12.5%    1   ( 91)
+Insertions            =    0.0%    0   (  1)
+
+Errors                =   25.0%    2   (130)
+
+Ref. words            =            8   (288)
+Hyp. words            =            7   (198)
+Aligned words         =            8   (289)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__70)
+Scores: (#C #S #D #I) 1 0 0 0
+REF:  okay 
+HYP:  okay 
+Eval:      
+
+Correct               =  100.0%    1   (160)
+Substitutions         =    0.0%    0   ( 38)
+Deletions             =    0.0%    0   ( 91)
+Insertions            =    0.0%    0   (  1)
+
+Errors                =    0.0%    0   (130)
+
+Ref. words            =            1   (289)
+Hyp. words            =            1   (199)
+Aligned words         =            1   (290)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__71)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  Sì 
+HYP:  *** 
+Eval: D   
+
+Correct               =    0.0%    0   (160)
+Substitutions         =    0.0%    0   ( 38)
+Deletions             =  100.0%    1   ( 92)
+Insertions            =    0.0%    0   (  1)
+
+Errors                =  100.0%    1   (131)
+
+Ref. words            =            1   (290)
+Hyp. words            =            0   (199)
+Aligned words         =            1   (291)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__72)
+Scores: (#C #S #D #I) 3 0 0 0
+REF:  in che senso 
+HYP:  in che senso 
+Eval:              
+
+Correct               =  100.0%    3   (163)
+Substitutions         =    0.0%    0   ( 38)
+Deletions             =    0.0%    0   ( 92)
+Insertions            =    0.0%    0   (  1)
+
+Errors                =    0.0%    0   (131)
+
+Ref. words            =            3   (293)
+Hyp. words            =            3   (202)
+Aligned words         =            3   (294)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__73)
+Scores: (#C #S #D #I) 4 0 1 0
+REF:  CIOè giro intorno alla macchina 
+HYP:  ***** giro intorno alla macchina 
+Eval: D                                
+
+Correct               =   80.0%    4   (167)
+Substitutions         =    0.0%    0   ( 38)
+Deletions             =   20.0%    1   ( 93)
+Insertions            =    0.0%    0   (  1)
+
+Errors                =   20.0%    1   (132)
+
+Ref. words            =            5   (298)
+Hyp. words            =            4   (206)
+Aligned words         =            5   (299)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__74)
+Scores: (#C #S #D #I) 11 0 1 0
+REF:  di fianco ci sono andato F dalla parte dove finisce il foglio 
+HYP:  di fianco ci sono andato * dalla parte dove finisce il foglio 
+Eval:                          D                                    
+
+Correct               =   91.7%   11   (178)
+Substitutions         =    0.0%    0   ( 38)
+Deletions             =    8.3%    1   ( 94)
+Insertions            =    0.0%    0   (  1)
+
+Errors                =    8.3%    1   (133)
+
+Ref. words            =           12   (310)
+Hyp. words            =           11   (217)
+Aligned words         =           12   (311)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__75)
+Scores: (#C #S #D #I) 5 1 3 0
+REF:  AH a sinistra la DEVO FA' LA       mia sinistra 
+HYP:  ** a sinistra la **** *** SINISTRA mia sinistra 
+Eval: D                D    D   S                     
+
+Correct               =   55.6%    5   (183)
+Substitutions         =   11.1%    1   ( 39)
+Deletions             =   33.3%    3   ( 97)
+Insertions            =    0.0%    0   (  1)
+
+Errors                =   44.4%    4   (137)
+
+Ref. words            =            9   (319)
+Hyp. words            =            6   (223)
+Aligned words         =            9   (320)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__76)
+Scores: (#C #S #D #I) 8 1 5 0
+REF:  EH ALLORA aspetta quindi NON dove finisce il foglio A a rientrare NEL F 
+HYP:  ** ****** aspetta quindi NO  dove finisce il foglio * a rientrare *** * 
+Eval: D  D                     S                          D             D   D 
+
+Correct               =   57.1%    8   (191)
+Substitutions         =    7.1%    1   ( 40)
+Deletions             =   35.7%    5   (102)
+Insertions            =    0.0%    0   (  1)
+
+Errors                =   42.9%    6   (143)
+
+Ref. words            =           14   (333)
+Hyp. words            =            9   (232)
+Aligned words         =           14   (334)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__77)
+Scores: (#C #S #D #I) 1 0 2 0
+REF:  OK Sì okay 
+HYP:  ** *** okay 
+Eval: D  D        
+
+Correct               =   33.3%    1   (192)
+Substitutions         =    0.0%    0   ( 40)
+Deletions             =   66.7%    2   (104)
+Insertions            =    0.0%    0   (  1)
+
+Errors                =   66.7%    2   (145)
+
+Ref. words            =            3   (336)
+Hyp. words            =            1   (233)
+Aligned words         =            3   (337)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__78)
+Scores: (#C #S #D #I) 0 0 3 0
+REF:  S Sì Sì 
+HYP:  * *** *** 
+Eval: D D   D   
+
+Correct               =    0.0%    0   (192)
+Substitutions         =    0.0%    0   ( 40)
+Deletions             =  100.0%    3   (107)
+Insertions            =    0.0%    0   (  1)
+
+Errors                =  100.0%    3   (148)
+
+Ref. words            =            3   (339)
+Hyp. words            =            0   (233)
+Aligned words         =            3   (340)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__79)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  Sì 
+HYP:  *** 
+Eval: D   
+
+Correct               =    0.0%    0   (192)
+Substitutions         =    0.0%    0   ( 40)
+Deletions             =  100.0%    1   (108)
+Insertions            =    0.0%    0   (  1)
+
+Errors                =  100.0%    1   (149)
+
+Ref. words            =            1   (340)
+Hyp. words            =            0   (233)
+Aligned words         =            1   (341)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__80)
+Scores: (#C #S #D #I) 2 1 1 0
+REF:  ASPETTA MI        sposto come 
+HYP:  ******* ASPETTAMI sposto come 
+Eval: D       S                     
+
+Correct               =   50.0%    2   (194)
+Substitutions         =   25.0%    1   ( 41)
+Deletions             =   25.0%    1   (109)
+Insertions            =    0.0%    0   (  1)
+
+Errors                =   50.0%    2   (151)
+
+Ref. words            =            4   (344)
+Hyp. words            =            3   (236)
+Aligned words         =            4   (345)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__81)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  Sì 
+HYP:  *** 
+Eval: D   
+
+Correct               =    0.0%    0   (194)
+Substitutions         =    0.0%    0   ( 41)
+Deletions             =  100.0%    1   (110)
+Insertions            =    0.0%    0   (  1)
+
+Errors                =  100.0%    1   (152)
+
+Ref. words            =            1   (345)
+Hyp. words            =            0   (236)
+Aligned words         =            1   (346)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__82)
+Scores: (#C #S #D #I) 0 0 3 0
+REF:  Sì CE L'HO 
+HYP:  *** ** **** 
+Eval: D   D  D    
+
+Correct               =    0.0%    0   (194)
+Substitutions         =    0.0%    0   ( 41)
+Deletions             =  100.0%    3   (113)
+Insertions            =    0.0%    0   (  1)
+
+Errors                =  100.0%    3   (155)
+
+Ref. words            =            3   (348)
+Hyp. words            =            0   (236)
+Aligned words         =            3   (349)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__83)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  Sì 
+HYP:  *** 
+Eval: D   
+
+Correct               =    0.0%    0   (194)
+Substitutions         =    0.0%    0   ( 41)
+Deletions             =  100.0%    1   (114)
+Insertions            =    0.0%    0   (  1)
+
+Errors                =  100.0%    1   (156)
+
+Ref. words            =            1   (349)
+Hyp. words            =            0   (236)
+Aligned words         =            1   (350)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__84)
+Scores: (#C #S #D #I) 1 0 0 0
+REF:  nero 
+HYP:  nero 
+Eval:      
+
+Correct               =  100.0%    1   (195)
+Substitutions         =    0.0%    0   ( 41)
+Deletions             =    0.0%    0   (114)
+Insertions            =    0.0%    0   (  1)
+
+Errors                =    0.0%    0   (156)
+
+Ref. words            =            1   (350)
+Hyp. words            =            1   (237)
+Aligned words         =            1   (351)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__85)
+Scores: (#C #S #D #I) 6 1 4 1
+REF:  EH MA è *** un PO' PIù IN      alto rispetto all'ultima stella 
+HYP:  ** ** è MAI un *** **** POCHINO alto rispetto all'ultima stella 
+Eval: D  D     I      D   D    S                                       
+
+Correct               =   54.5%    6   (201)
+Substitutions         =    9.1%    1   ( 42)
+Deletions             =   36.4%    4   (118)
+Insertions            =    9.1%    1   (  2)
+
+Errors                =   54.5%    6   (162)
+
+Ref. words            =           11   (361)
+Hyp. words            =            8   (245)
+Aligned words         =           12   (363)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__86)
+Scores: (#C #S #D #I) 1 0 0 0
+REF:  okay 
+HYP:  okay 
+Eval:      
+
+Correct               =  100.0%    1   (202)
+Substitutions         =    0.0%    0   ( 42)
+Deletions             =    0.0%    0   (118)
+Insertions            =    0.0%    0   (  2)
+
+Errors                =    0.0%    0   (162)
+
+Ref. words            =            1   (362)
+Hyp. words            =            1   (246)
+Aligned words         =            1   (364)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__87)
+Scores: (#C #S #D #I) 2 0 0 0
+REF:  lo collego 
+HYP:  lo collego 
+Eval:            
+
+Correct               =  100.0%    2   (204)
+Substitutions         =    0.0%    0   ( 42)
+Deletions             =    0.0%    0   (118)
+Insertions            =    0.0%    0   (  2)
+
+Errors                =    0.0%    0   (162)
+
+Ref. words            =            2   (364)
+Hyp. words            =            2   (248)
+Aligned words         =            2   (366)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__88)
+Scores: (#C #S #D #I) 2 2 5 0
+REF:  CIOè la macchina GRIGIA SONO ANDATO LUNGO HO CONTINUATO 
+HYP:  E     la macchina ****** **** ****** ***** ** DIESEL     
+Eval: S                 D      D    D      D     D  S          
+
+Correct               =   22.2%    2   (206)
+Substitutions         =   22.2%    2   ( 44)
+Deletions             =   55.6%    5   (123)
+Insertions            =    0.0%    0   (  2)
+
+Errors                =   77.8%    7   (169)
+
+Ref. words            =            9   (373)
+Hyp. words            =            4   (252)
+Aligned words         =            9   (375)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__89)
+Scores: (#C #S #D #I) 2 1 0 0
+REF:  Sì ci sono 
+HYP:  CHE ci sono 
+Eval: S           
+
+Correct               =   66.7%    2   (208)
+Substitutions         =   33.3%    1   ( 45)
+Deletions             =    0.0%    0   (123)
+Insertions            =    0.0%    0   (  2)
+
+Errors                =   33.3%    1   (170)
+
+Ref. words            =            3   (376)
+Hyp. words            =            3   (255)
+Aligned words         =            3   (378)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__90)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  OKAY 
+HYP:  **** 
+Eval: D    
+
+Correct               =    0.0%    0   (208)
+Substitutions         =    0.0%    0   ( 45)
+Deletions             =  100.0%    1   (124)
+Insertions            =    0.0%    0   (  2)
+
+Errors                =  100.0%    1   (171)
+
+Ref. words            =            1   (377)
+Hyp. words            =            0   (255)
+Aligned words         =            1   (379)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__91)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  Sì 
+HYP:  *** 
+Eval: D   
+
+Correct               =    0.0%    0   (208)
+Substitutions         =    0.0%    0   ( 45)
+Deletions             =  100.0%    1   (125)
+Insertions            =    0.0%    0   (  2)
+
+Errors                =  100.0%    1   (172)
+
+Ref. words            =            1   (378)
+Hyp. words            =            0   (255)
+Aligned words         =            1   (380)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__92)
+Scores: (#C #S #D #I) 4 1 3 0
+REF:  ALLORA IL MIO DUNQUE   hai una farfalla sì 
+HYP:  ****** ** *** COMUNQUE hai una farfalla sì 
+Eval: D      D  D   S                             
+
+Correct               =   50.0%    4   (212)
+Substitutions         =   12.5%    1   ( 46)
+Deletions             =   37.5%    3   (128)
+Insertions            =    0.0%    0   (  2)
+
+Errors                =   50.0%    4   (176)
+
+Ref. words            =            8   (386)
+Hyp. words            =            5   (260)
+Aligned words         =            8   (388)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__93)
+Scores: (#C #S #D #I) 4 1 0 0
+REF:  vabbè C'HAI questo punto nero 
+HYP:  vabbè CIOè questo punto nero 
+Eval:        S                       
+
+Correct               =   80.0%    4   (216)
+Substitutions         =   20.0%    1   ( 47)
+Deletions             =    0.0%    0   (128)
+Insertions            =    0.0%    0   (  2)
+
+Errors                =   20.0%    1   (177)
+
+Ref. words            =            5   (391)
+Hyp. words            =            5   (265)
+Aligned words         =            5   (393)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__94)
+Scores: (#C #S #D #I) 9 2 3 0
+REF:  cioè immaginati che è EHM L'ALA sinistra DI una farfalla da me cioè è 
+HYP:  cioè immaginati che ** *** LA    sinistra IN una farfalla da me cioè ** 
+Eval:                      D  D   S              S                           D  
+
+Correct               =   64.3%    9   (225)
+Substitutions         =   14.3%    2   ( 49)
+Deletions             =   21.4%    3   (131)
+Insertions            =    0.0%    0   (  2)
+
+Errors                =   35.7%    5   (182)
+
+Ref. words            =           14   (405)
+Hyp. words            =           11   (276)
+Aligned words         =           14   (407)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__95)
+Scores: (#C #S #D #I) 2 0 4 0
+REF:  è A DESTRA DEL punto nero 
+HYP:  ** * ****** *** punto nero 
+Eval: D  D D      D              
+
+Correct               =   33.3%    2   (227)
+Substitutions         =    0.0%    0   ( 49)
+Deletions             =   66.7%    4   (135)
+Insertions            =    0.0%    0   (  2)
+
+Errors                =   66.7%    4   (186)
+
+Ref. words            =            6   (411)
+Hyp. words            =            2   (278)
+Aligned words         =            6   (413)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__96)
+Scores: (#C #S #D #I) 8 1 6 0
+REF:  ALLORA A QUESTO PUNTO TE mettiti mettiti nella mia posizione come IO sono adesso OKAY 
+HYP:  ****** * ****** ***** ** mettiti mettiti nella mia posizione come ** sono adesso CHE  
+Eval: D      D D      D     D                                           D              S    
+
+Correct               =   53.3%    8   (235)
+Substitutions         =    6.7%    1   ( 50)
+Deletions             =   40.0%    6   (141)
+Insertions            =    0.0%    0   (  2)
+
+Errors                =   46.7%    7   (193)
+
+Ref. words            =           15   (426)
+Hyp. words            =            9   (287)
+Aligned words         =           15   (428)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__97)
+Scores: (#C #S #D #I) 4 0 0 0
+REF:  allora dal punto nero 
+HYP:  allora dal punto nero 
+Eval:                       
+
+Correct               =  100.0%    4   (239)
+Substitutions         =    0.0%    0   ( 50)
+Deletions             =    0.0%    0   (141)
+Insertions            =    0.0%    0   (  2)
+
+Errors                =    0.0%    0   (193)
+
+Ref. words            =            4   (430)
+Hyp. words            =            4   (291)
+Aligned words         =            4   (432)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__98)
+Scores: (#C #S #D #I) 3 1 0 0
+REF:  TE  vai verso destra 
+HYP:  CHE vai verso destra 
+Eval: S                    
+
+Correct               =   75.0%    3   (242)
+Substitutions         =   25.0%    1   ( 51)
+Deletions             =    0.0%    0   (141)
+Insertions            =    0.0%    0   (  2)
+
+Errors                =   25.0%    1   (194)
+
+Ref. words            =            4   (434)
+Hyp. words            =            4   (295)
+Aligned words         =            4   (436)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__99)
+Scores: (#C #S #D #I) 4 0 0 0
+REF:  la mia destra okay 
+HYP:  la mia destra okay 
+Eval:                    
+
+Correct               =  100.0%    4   (246)
+Substitutions         =    0.0%    0   ( 51)
+Deletions             =    0.0%    0   (141)
+Insertions            =    0.0%    0   (  2)
+
+Errors                =    0.0%    0   (194)
+
+Ref. words            =            4   (438)
+Hyp. words            =            4   (299)
+Aligned words         =            4   (440)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__100)
+Scores: (#C #S #D #I) 4 0 0 0
+REF:  lo vedi un camion 
+HYP:  lo vedi un camion 
+Eval:                   
+
+Correct               =  100.0%    4   (250)
+Substitutions         =    0.0%    0   ( 51)
+Deletions             =    0.0%    0   (141)
+Insertions            =    0.0%    0   (  2)
+
+Errors                =    0.0%    0   (194)
+
+Ref. words            =            4   (442)
+Hyp. words            =            4   (303)
+Aligned words         =            4   (444)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__101)
+Scores: (#C #S #D #I) 8 2 1 0
+REF:  ALLORA TE   DEVI passare dietro al camion tratteggiando sempre una linea 
+HYP:  ****** ALLA TELE passare dietro al camion tratteggiando sempre una linea 
+Eval: D      S    S                                                            
+
+Correct               =   72.7%    8   (258)
+Substitutions         =   18.2%    2   ( 53)
+Deletions             =    9.1%    1   (142)
+Insertions            =    0.0%    0   (  2)
+
+Errors                =   27.3%    3   (197)
+
+Ref. words            =           11   (453)
+Hyp. words            =           10   (313)
+Aligned words         =           11   (455)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__102)
+Scores: (#C #S #D #I) 5 0 3 0
+REF:  no no era per indicarti IL PUNTO NERO 
+HYP:  no no era per indicarti ** ***** **** 
+Eval:                         D  D     D    
+
+Correct               =   62.5%    5   (263)
+Substitutions         =    0.0%    0   ( 53)
+Deletions             =   37.5%    3   (145)
+Insertions            =    0.0%    0   (  2)
+
+Errors                =   37.5%    3   (200)
+
+Ref. words            =            8   (461)
+Hyp. words            =            5   (318)
+Aligned words         =            8   (463)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__103)
+Scores: (#C #S #D #I) 5 0 4 0
+REF:  C'è IL PUNTO allora devi fare una linea EHM 
+HYP:  **** ** ***** allora devi fare una linea *** 
+Eval: D    D  D                                D   
+
+Correct               =   55.6%    5   (268)
+Substitutions         =    0.0%    0   ( 53)
+Deletions             =   44.4%    4   (149)
+Insertions            =    0.0%    0   (  2)
+
+Errors                =   44.4%    4   (204)
+
+Ref. words            =            9   (470)
+Hyp. words            =            5   (323)
+Aligned words         =            9   (472)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__104)
+Scores: (#C #S #D #I) 7 1 1 0
+REF:  Sì sempre verso destra mia verso la sinistra TUA 
+HYP:  *** sempre verso destra mia verso la sinistra SUA 
+Eval: D                                             S   
+
+Correct               =   77.8%    7   (275)
+Substitutions         =   11.1%    1   ( 54)
+Deletions             =   11.1%    1   (150)
+Insertions            =    0.0%    0   (  2)
+
+Errors                =   22.2%    2   (206)
+
+Ref. words            =            9   (479)
+Hyp. words            =            8   (331)
+Aligned words         =            9   (481)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__105)
+Scores: (#C #S #D #I) 4 0 0 0
+REF:  vai dietro il camion 
+HYP:  vai dietro il camion 
+Eval:                      
+
+Correct               =  100.0%    4   (279)
+Substitutions         =    0.0%    0   ( 54)
+Deletions             =    0.0%    0   (150)
+Insertions            =    0.0%    0   (  2)
+
+Errors                =    0.0%    0   (206)
+
+Ref. words            =            4   (483)
+Hyp. words            =            4   (335)
+Aligned words         =            4   (485)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__106)
+Scores: (#C #S #D #I) 5 0 4 0
+REF:  Sì un po' più a destra DELLA GOMMA POSTERIORE 
+HYP:  *** un po' più a destra ***** ***** ********** 
+Eval: D                        D     D     D          
+
+Correct               =   55.6%    5   (284)
+Substitutions         =    0.0%    0   ( 54)
+Deletions             =   44.4%    4   (154)
+Insertions            =    0.0%    0   (  2)
+
+Errors                =   44.4%    4   (210)
+
+Ref. words            =            9   (492)
+Hyp. words            =            5   (340)
+Aligned words         =            9   (494)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__107)
+Scores: (#C #S #D #I) 6 1 6 1
+REF:  ***** OKAY poi allora continui a tratteggiare sempre DA ME è UNA LINEA TRATTEGGIATA 
+HYP:  CERCA E    poi allora continui a tratteggiare sempre ** ** ** *** ***** ************ 
+Eval: I     S                                              D  D  D  D   D     D            
+
+Correct               =   46.2%    6   (290)
+Substitutions         =    7.7%    1   ( 55)
+Deletions             =   46.2%    6   (160)
+Insertions            =    7.7%    1   (  3)
+
+Errors                =   61.5%    8   (218)
+
+Ref. words            =           13   (505)
+Hyp. words            =            8   (348)
+Aligned words         =           14   (508)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__108)
+Scores: (#C #S #D #I) 4 0 1 0
+REF:  ALLORA lo vedi il dado 
+HYP:  ****** lo vedi il dado 
+Eval: D                      
+
+Correct               =   80.0%    4   (294)
+Substitutions         =    0.0%    0   ( 55)
+Deletions             =   20.0%    1   (161)
+Insertions            =    0.0%    0   (  3)
+
+Errors                =   20.0%    1   (219)
+
+Ref. words            =            5   (510)
+Hyp. words            =            4   (352)
+Aligned words         =            5   (513)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__109)
+Scores: (#C #S #D #I) 9 2 2 0
+REF:  ce l'hai Sì DA STAI CONTINUAN  la linea deve passare sopra il dado 
+HYP:  ce l'hai *** ** SE   STAMATTINA la linea deve passare sopra il dado 
+Eval:          D   D  S    S                                              
+
+Correct               =   69.2%    9   (303)
+Substitutions         =   15.4%    2   ( 57)
+Deletions             =   15.4%    2   (163)
+Insertions            =    0.0%    0   (  3)
+
+Errors                =   30.8%    4   (223)
+
+Ref. words            =           13   (523)
+Hyp. words            =           11   (363)
+Aligned words         =           13   (526)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__110)
+Scores: (#C #S #D #I) 4 1 0 1
+REF:  sì ** PASSANDO sopra il camion 
+HYP:  sì MA STANDO   sopra il camion 
+Eval:     I  S                        
+
+Correct               =   80.0%    4   (307)
+Substitutions         =   20.0%    1   ( 58)
+Deletions             =    0.0%    0   (163)
+Insertions            =   20.0%    1   (  4)
+
+Errors                =   40.0%    2   (225)
+
+Ref. words            =            5   (528)
+Hyp. words            =            6   (369)
+Aligned words         =            6   (532)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__111)
+Scores: (#C #S #D #I) 4 1 7 1
+REF:  * devi andare SOPRA AL DADO sopra LA PARTE SUPERIORE DEL dado Sì 
+HYP:  E devi andare ***** ** **** sopra ** ***** ********* IL  dado *** 
+Eval: I             D     D  D          D  D     D         S        D   
+
+Correct               =   33.3%    4   (311)
+Substitutions         =    8.3%    1   ( 59)
+Deletions             =   58.3%    7   (170)
+Insertions            =    8.3%    1   (  5)
+
+Errors                =   75.0%    9   (234)
+
+Ref. words            =           12   (540)
+Hyp. words            =            6   (375)
+Aligned words         =           13   (545)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__112)
+Scores: (#C #S #D #I) 2 0 0 0
+REF:  poi allora 
+HYP:  poi allora 
+Eval:            
+
+Correct               =  100.0%    2   (313)
+Substitutions         =    0.0%    0   ( 59)
+Deletions             =    0.0%    0   (170)
+Insertions            =    0.0%    0   (  5)
+
+Errors                =    0.0%    0   (234)
+
+Ref. words            =            2   (542)
+Hyp. words            =            2   (377)
+Aligned words         =            2   (547)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__113)
+Scores: (#C #S #D #I) 6 1 4 0
+REF:  Sì ALLORA C'HAI gli occhiali anche LI HAI visti gli occhiali 
+HYP:  *** ****** ***** gli occhiali anche ** LE  visti gli occhiali 
+Eval: D   D      D                        D  S                      
+
+Correct               =   54.5%    6   (319)
+Substitutions         =    9.1%    1   ( 60)
+Deletions             =   36.4%    4   (174)
+Insertions            =    0.0%    0   (  5)
+
+Errors                =   45.5%    5   (239)
+
+Ref. words            =           11   (553)
+Hyp. words            =            7   (384)
+Aligned words         =           11   (558)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__114)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  Sì 
+HYP:  *** 
+Eval: D   
+
+Correct               =    0.0%    0   (319)
+Substitutions         =    0.0%    0   ( 60)
+Deletions             =  100.0%    1   (175)
+Insertions            =    0.0%    0   (  5)
+
+Errors                =  100.0%    1   (240)
+
+Ref. words            =            1   (554)
+Hyp. words            =            0   (384)
+Aligned words         =            1   (559)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__115)
+Scores: (#C #S #D #I) 7 0 1 0
+REF:  allora praticamente TE con questa linea devi proseguire 
+HYP:  allora praticamente ** con questa linea devi proseguire 
+Eval:                     D                                   
+
+Correct               =   87.5%    7   (326)
+Substitutions         =    0.0%    0   ( 60)
+Deletions             =   12.5%    1   (176)
+Insertions            =    0.0%    0   (  5)
+
+Errors                =   12.5%    1   (241)
+
+Ref. words            =            8   (562)
+Hyp. words            =            7   (391)
+Aligned words         =            8   (567)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__116)
+Scores: (#C #S #D #I) 15 1 4 1
+REF:  ALLORA FR EHM devi giungere IN un punto medio ******** IMMAGINATI un punto medio fra gli occhiali e il dado okay 
+HYP:  ****** ** *** devi giungere ** un punto medio IMMAGINA SE         un punto medio fra gli occhiali e il dado okay 
+Eval: D      D  D                 D                 I        S                                                         
+
+Correct               =   75.0%   15   (341)
+Substitutions         =    5.0%    1   ( 61)
+Deletions             =   20.0%    4   (180)
+Insertions            =    5.0%    1   (  6)
+
+Errors                =   30.0%    6   (247)
+
+Ref. words            =           20   (582)
+Hyp. words            =           17   (408)
+Aligned words         =           21   (588)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__117)
+Scores: (#C #S #D #I) 2 2 0 2
+REF:  COME COME    distanza in ********* ****** 
+HYP:  OK   SICCOME distanza in LOCALITà VICINO 
+Eval: S    S                   I         I      
+
+Correct               =   50.0%    2   (343)
+Substitutions         =   50.0%    2   ( 63)
+Deletions             =    0.0%    0   (180)
+Insertions            =   50.0%    2   (  8)
+
+Errors                =  100.0%    4   (251)
+
+Ref. words            =            4   (586)
+Hyp. words            =            6   (414)
+Aligned words         =            6   (594)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__118)
+Scores: (#C #S #D #I) 0 0 4 0
+REF:  IN IN ORIZZONTALE OKAY 
+HYP:  ** ** *********** **** 
+Eval: D  D  D           D    
+
+Correct               =    0.0%    0   (343)
+Substitutions         =    0.0%    0   ( 63)
+Deletions             =  100.0%    4   (184)
+Insertions            =    0.0%    0   (  8)
+
+Errors                =  100.0%    4   (255)
+
+Ref. words            =            4   (590)
+Hyp. words            =            0   (414)
+Aligned words         =            4   (598)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__119)
+Scores: (#C #S #D #I) 0 0 2 0
+REF:  BICICLETTA NO 
+HYP:  ********** ** 
+Eval: D          D  
+
+Correct               =    0.0%    0   (343)
+Substitutions         =    0.0%    0   ( 63)
+Deletions             =  100.0%    2   (186)
+Insertions            =    0.0%    0   (  8)
+
+Errors                =  100.0%    2   (257)
+
+Ref. words            =            2   (592)
+Hyp. words            =            0   (414)
+Aligned words         =            2   (600)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__120)
+Scores: (#C #S #D #I) 0 0 9 0
+REF:  NON CE L'HO ALLORA C'è UN PUNTO IN MEZZO 
+HYP:  *** ** **** ****** **** ** ***** ** ***** 
+Eval: D   D  D    D      D    D  D     D  D     
+
+Correct               =    0.0%    0   (343)
+Substitutions         =    0.0%    0   ( 63)
+Deletions             =  100.0%    9   (195)
+Insertions            =    0.0%    0   (  8)
+
+Errors                =  100.0%    9   (266)
+
+Ref. words            =            9   (601)
+Hyp. words            =            0   (414)
+Aligned words         =            9   (609)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__121)
+Scores: (#C #S #D #I) 13 0 6 0
+REF:  IMMAGINATI EHM DICIAMO METTITI come si può dire IN in verticale no cioè tracciati una linea in verticale NO 
+HYP:  ********** *** ******* ******* come si può dire ** in verticale no cioè tracciati una linea in verticale ** 
+Eval: D          D   D       D                         D                                                         D  
+
+Correct               =   68.4%   13   (356)
+Substitutions         =    0.0%    0   ( 63)
+Deletions             =   31.6%    6   (201)
+Insertions            =    0.0%    0   (  8)
+
+Errors                =   31.6%    6   (272)
+
+Ref. words            =           19   (620)
+Hyp. words            =           13   (427)
+Aligned words         =           19   (628)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__122)
+Scores: (#C #S #D #I) 1 0 5 0
+REF:  Sì BRAVO okay ARRIVI FIN Lì 
+HYP:  *** ***** okay ****** *** *** 
+Eval: D   D          D      D   D   
+
+Correct               =   16.7%    1   (357)
+Substitutions         =    0.0%    0   ( 63)
+Deletions             =   83.3%    5   (206)
+Insertions            =    0.0%    0   (  8)
+
+Errors                =   83.3%    5   (277)
+
+Ref. words            =            6   (626)
+Hyp. words            =            1   (428)
+Aligned words         =            6   (634)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__123)
+Scores: (#C #S #D #I) 6 1 0 0
+REF:  poi ALLORA c'è un lupo anche vero 
+HYP:  poi ALLA   c'è un lupo anche vero 
+Eval:     S                              
+
+Correct               =   85.7%    6   (363)
+Substitutions         =   14.3%    1   ( 64)
+Deletions             =    0.0%    0   (206)
+Insertions            =    0.0%    0   (  8)
+
+Errors                =   14.3%    1   (278)
+
+Ref. words            =            7   (633)
+Hyp. words            =            7   (435)
+Aligned words         =            7   (641)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__124)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  Sì 
+HYP:  *** 
+Eval: D   
+
+Correct               =    0.0%    0   (363)
+Substitutions         =    0.0%    0   ( 64)
+Deletions             =  100.0%    1   (207)
+Insertions            =    0.0%    0   (  8)
+
+Errors                =  100.0%    1   (279)
+
+Ref. words            =            1   (634)
+Hyp. words            =            0   (435)
+Aligned words         =            1   (642)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__125)
+Scores: (#C #S #D #I) 0 0 4 0
+REF:  ALLORA DA QUESTO PUNTO 
+HYP:  ****** ** ****** ***** 
+Eval: D      D  D      D     
+
+Correct               =    0.0%    0   (363)
+Substitutions         =    0.0%    0   ( 64)
+Deletions             =  100.0%    4   (211)
+Insertions            =    0.0%    0   (  8)
+
+Errors                =  100.0%    4   (283)
+
+Ref. words            =            4   (638)
+Hyp. words            =            0   (435)
+Aligned words         =            4   (646)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__126)
+Scores: (#C #S #D #I) 5 0 0 0
+REF:  devi andare sopra il lupo 
+HYP:  devi andare sopra il lupo 
+Eval:                           
+
+Correct               =  100.0%    5   (368)
+Substitutions         =    0.0%    0   ( 64)
+Deletions             =    0.0%    0   (211)
+Insertions            =    0.0%    0   (  8)
+
+Errors                =    0.0%    0   (283)
+
+Ref. words            =            5   (643)
+Hyp. words            =            5   (440)
+Aligned words         =            5   (651)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__127)
+Scores: (#C #S #D #I) 3 0 1 0
+REF:  PASSANDOCI molto vicino okay 
+HYP:  ********** molto vicino okay 
+Eval: D                            
+
+Correct               =   75.0%    3   (371)
+Substitutions         =    0.0%    0   ( 64)
+Deletions             =   25.0%    1   (212)
+Insertions            =    0.0%    0   (  8)
+
+Errors                =   25.0%    1   (284)
+
+Ref. words            =            4   (647)
+Hyp. words            =            3   (443)
+Aligned words         =            4   (655)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__128)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  Sì 
+HYP:  *** 
+Eval: D   
+
+Correct               =    0.0%    0   (371)
+Substitutions         =    0.0%    0   ( 64)
+Deletions             =  100.0%    1   (213)
+Insertions            =    0.0%    0   (  8)
+
+Errors                =  100.0%    1   (285)
+
+Ref. words            =            1   (648)
+Hyp. words            =            0   (443)
+Aligned words         =            1   (656)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__129)
+Scores: (#C #S #D #I) 0 0 5 0
+REF:  PRATICAMENTE QUASI ATTACCATO ALLA CODA 
+HYP:  ************ ***** ********* **** **** 
+Eval: D            D     D         D    D    
+
+Correct               =    0.0%    0   (371)
+Substitutions         =    0.0%    0   ( 64)
+Deletions             =  100.0%    5   (218)
+Insertions            =    0.0%    0   (  8)
+
+Errors                =  100.0%    5   (290)
+
+Ref. words            =            5   (653)
+Hyp. words            =            0   (443)
+Aligned words         =            5   (661)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__130)
+Scores: (#C #S #D #I) 2 1 0 0
+REF:  ci GIRI intorno 
+HYP:  ci GIRA intorno 
+Eval:    S            
+
+Correct               =   66.7%    2   (373)
+Substitutions         =   33.3%    1   ( 65)
+Deletions             =    0.0%    0   (218)
+Insertions            =    0.0%    0   (  8)
+
+Errors                =   33.3%    1   (291)
+
+Ref. words            =            3   (656)
+Hyp. words            =            3   (446)
+Aligned words         =            3   (664)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__131)
+Scores: (#C #S #D #I) 2 1 3 0
+REF:  Sì OKAY GI ci GIRI intorno 
+HYP:  *** **** ** ci GIRA intorno 
+Eval: D   D    D     S            
+
+Correct               =   33.3%    2   (375)
+Substitutions         =   16.7%    1   ( 66)
+Deletions             =   50.0%    3   (221)
+Insertions            =    0.0%    0   (  8)
+
+Errors                =   66.7%    4   (295)
+
+Ref. words            =            6   (662)
+Hyp. words            =            3   (449)
+Aligned words         =            6   (670)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__132)
+Scores: (#C #S #D #I) 0 2 4 0
+REF:  CIOè TI TORNA COME FIGURA NO      
+HYP:  ***** ** ***** **** SI     TORNANO 
+Eval: D     D  D     D    S      S       
+
+Correct               =    0.0%    0   (375)
+Substitutions         =   33.3%    2   ( 68)
+Deletions             =   66.7%    4   (225)
+Insertions            =    0.0%    0   (  8)
+
+Errors                =  100.0%    6   (301)
+
+Ref. words            =            6   (668)
+Hyp. words            =            2   (451)
+Aligned words         =            6   (676)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__133)
+Scores: (#C #S #D #I) 15 3 2 0
+REF:  detto molto male la prima parte CHE T'HO fatto tratteggiare assomiglia A UN CUORE  una mezza parte di un cuore 
+HYP:  detto molto male la prima parte TI  HO   fatto tratteggiare assomiglia * ** ANCORA una mezza parte di un cuore 
+Eval:                                 S   S                                  D D  S                                  
+
+Correct               =   75.0%   15   (390)
+Substitutions         =   15.0%    3   ( 71)
+Deletions             =   10.0%    2   (227)
+Insertions            =    0.0%    0   (  8)
+
+Errors                =   25.0%    5   (306)
+
+Ref. words            =           20   (688)
+Hyp. words            =           18   (469)
+Aligned words         =           20   (696)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__134)
+Scores: (#C #S #D #I) 3 2 3 0
+REF:  EH OKAY allora EHM GIRI INTORNO al lupo 
+HYP:  ** OK   allora *** **** TORNO   al lupo 
+Eval: D  S           D   D    S               
+
+Correct               =   37.5%    3   (393)
+Substitutions         =   25.0%    2   ( 73)
+Deletions             =   37.5%    3   (230)
+Insertions            =    0.0%    0   (  8)
+
+Errors                =   62.5%    5   (311)
+
+Ref. words            =            8   (696)
+Hyp. words            =            5   (474)
+Aligned words         =            8   (704)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__135)
+Scores: (#C #S #D #I) 12 0 1 1
+REF:  okay * fino A arrivare alla zampa lo vedi la zampina più in avanti 
+HYP:  okay E fino * arrivare alla zampa lo vedi la zampina più in avanti 
+Eval:      I      D                                                       
+
+Correct               =   92.3%   12   (405)
+Substitutions         =    0.0%    0   ( 73)
+Deletions             =    7.7%    1   (231)
+Insertions            =    7.7%    1   (  9)
+
+Errors                =   15.4%    2   (313)
+
+Ref. words            =           13   (709)
+Hyp. words            =           13   (487)
+Aligned words         =           14   (718)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__136)
+Scores: (#C #S #D #I) 6 1 0 0
+REF:  EH devi andare sempre passarci molto vicino 
+HYP:  E  devi andare sempre passarci molto vicino 
+Eval: S                                           
+
+Correct               =   85.7%    6   (411)
+Substitutions         =   14.3%    1   ( 74)
+Deletions             =    0.0%    0   (231)
+Insertions            =    0.0%    0   (  9)
+
+Errors                =   14.3%    1   (314)
+
+Ref. words            =            7   (716)
+Hyp. words            =            7   (494)
+Aligned words         =            7   (725)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__137)
+Scores: (#C #S #D #I) 7 3 1 0
+REF:  TRATTEGGIANDO sempre LA linea e passi SO sotto AGLI occhiali giusto 
+HYP:  STRATEGIA     sempre A  linea e passi ** sotto GLI  occhiali giusto 
+Eval: S                    S                D        S                    
+
+Correct               =   63.6%    7   (418)
+Substitutions         =   27.3%    3   ( 77)
+Deletions             =    9.1%    1   (232)
+Insertions            =    0.0%    0   (  9)
+
+Errors                =   36.4%    4   (318)
+
+Ref. words            =           11   (727)
+Hyp. words            =           10   (504)
+Aligned words         =           11   (736)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__138)
+Scores: (#C #S #D #I) 4 1 2 0
+REF:  PASSA SOTTO AGLI occhiali molto vicino okay 
+HYP:  ***** ***** GLI  occhiali molto vicino okay 
+Eval: D     D     S                               
+
+Correct               =   57.1%    4   (422)
+Substitutions         =   14.3%    1   ( 78)
+Deletions             =   28.6%    2   (234)
+Insertions            =    0.0%    0   (  9)
+
+Errors                =   42.9%    3   (321)
+
+Ref. words            =            7   (734)
+Hyp. words            =            5   (509)
+Aligned words         =            7   (743)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__139)
+Scores: (#C #S #D #I) 4 0 0 0
+REF:  poi vai giù scendi 
+HYP:  poi vai giù scendi 
+Eval:                     
+
+Correct               =  100.0%    4   (426)
+Substitutions         =    0.0%    0   ( 78)
+Deletions             =    0.0%    0   (234)
+Insertions            =    0.0%    0   (  9)
+
+Errors                =    0.0%    0   (321)
+
+Ref. words            =            4   (738)
+Hyp. words            =            4   (513)
+Aligned words         =            4   (747)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__140)
+Scores: (#C #S #D #I) 7 0 1 0
+REF:  EH allora adesso aspetta le vedi le stelle 
+HYP:  ** allora adesso aspetta le vedi le stelle 
+Eval: D                                          
+
+Correct               =   87.5%    7   (433)
+Substitutions         =    0.0%    0   ( 78)
+Deletions             =   12.5%    1   (235)
+Insertions            =    0.0%    0   (  9)
+
+Errors                =   12.5%    1   (322)
+
+Ref. words            =            8   (746)
+Hyp. words            =            7   (520)
+Aligned words         =            8   (755)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__141)
+Scores: (#C #S #D #I) 3 1 0 1
+REF:  ** sono precisamente OTTO giusto 
+HYP:  SI sono precisamente 8    giusto 
+Eval: I                    S           
+
+Correct               =   75.0%    3   (436)
+Substitutions         =   25.0%    1   ( 79)
+Deletions             =    0.0%    0   (235)
+Insertions            =   25.0%    1   ( 10)
+
+Errors                =   50.0%    2   (324)
+
+Ref. words            =            4   (750)
+Hyp. words            =            5   (525)
+Aligned words         =            5   (760)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__142)
+Scores: (#C #S #D #I) 8 3 7 0
+REF:  SO allora NE VE ce N'HAI TRE TE NO NEL   LE       LA    parte superiore sono tre le stelle 
+HYP:  ** allora ** ** ce ***** *** ** ** L'HAI TRATTINO NELLA parte superiore sono tre le stelle 
+Eval: D         D  D     D     D   D  D  S     S        S                                        
+
+Correct               =   44.4%    8   (444)
+Substitutions         =   16.7%    3   ( 82)
+Deletions             =   38.9%    7   (242)
+Insertions            =    0.0%    0   ( 10)
+
+Errors                =   55.6%   10   (334)
+
+Ref. words            =           18   (768)
+Hyp. words            =           11   (536)
+Aligned words         =           18   (778)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__143)
+Scores: (#C #S #D #I) 5 1 1 0
+REF:  Sì ce ne SON  due abbastanza grandi 
+HYP:  *** ce ne SONO due abbastanza grandi 
+Eval: D         S                          
+
+Correct               =   71.4%    5   (449)
+Substitutions         =   14.3%    1   ( 83)
+Deletions             =   14.3%    1   (243)
+Insertions            =    0.0%    0   ( 10)
+
+Errors                =   28.6%    2   (336)
+
+Ref. words            =            7   (775)
+Hyp. words            =            6   (542)
+Aligned words         =            7   (785)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__144)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  Sì 
+HYP:  *** 
+Eval: D   
+
+Correct               =    0.0%    0   (449)
+Substitutions         =    0.0%    0   ( 83)
+Deletions             =  100.0%    1   (244)
+Insertions            =    0.0%    0   ( 10)
+
+Errors                =  100.0%    1   (337)
+
+Ref. words            =            1   (776)
+Hyp. words            =            0   (542)
+Aligned words         =            1   (786)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__145)
+Scores: (#C #S #D #I) 0 0 5 0
+REF:  ALLORA LA LINEA DEVE PASSARE 
+HYP:  ****** ** ***** **** ******* 
+Eval: D      D  D     D    D       
+
+Correct               =    0.0%    0   (449)
+Substitutions         =    0.0%    0   ( 83)
+Deletions             =  100.0%    5   (249)
+Insertions            =    0.0%    0   ( 10)
+
+Errors                =  100.0%    5   (342)
+
+Ref. words            =            5   (781)
+Hyp. words            =            0   (542)
+Aligned words         =            5   (791)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__146)
+Scores: (#C #S #D #I) 8 0 0 0
+REF:  in mezzo fra la grande e la piccola 
+HYP:  in mezzo fra la grande e la piccola 
+Eval:                                     
+
+Correct               =  100.0%    8   (457)
+Substitutions         =    0.0%    0   ( 83)
+Deletions             =    0.0%    0   (249)
+Insertions            =    0.0%    0   ( 10)
+
+Errors                =    0.0%    0   (342)
+
+Ref. words            =            8   (789)
+Hyp. words            =            8   (550)
+Aligned words         =            8   (799)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__147)
+Scores: (#C #S #D #I) 14 1 3 0
+REF:  LA EHM la mia stella grande è quella di sinistra quindi la TUA è  è un contrario no 
+HYP:  ** *** la mia stella grande è quella di sinistra quindi la *** SUA è un contrario no 
+Eval: D  D                                                        D   S                      
+
+Correct               =   77.8%   14   (471)
+Substitutions         =    5.6%    1   ( 84)
+Deletions             =   16.7%    3   (252)
+Insertions            =    0.0%    0   ( 10)
+
+Errors                =   22.2%    4   (346)
+
+Ref. words            =           18   (807)
+Hyp. words            =           15   (565)
+Aligned words         =           18   (817)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__148)
+Scores: (#C #S #D #I) 2 1 2 0
+REF:  è LA la stella DESTRA 
+HYP:  ** ** la stella DEI    
+Eval: D  D            S      
+
+Correct               =   40.0%    2   (473)
+Substitutions         =   20.0%    1   ( 85)
+Deletions             =   40.0%    2   (254)
+Insertions            =    0.0%    0   ( 10)
+
+Errors                =   60.0%    3   (349)
+
+Ref. words            =            5   (812)
+Hyp. words            =            3   (568)
+Aligned words         =            5   (822)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__149)
+Scores: (#C #S #D #I) 5 0 0 0
+REF:  okay dagli occhiali devi scendere 
+HYP:  okay dagli occhiali devi scendere 
+Eval:                                   
+
+Correct               =  100.0%    5   (478)
+Substitutions         =    0.0%    0   ( 85)
+Deletions             =    0.0%    0   (254)
+Insertions            =    0.0%    0   ( 10)
+
+Errors                =    0.0%    0   (349)
+
+Ref. words            =            5   (817)
+Hyp. words            =            5   (573)
+Aligned words         =            5   (827)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__150)
+Scores: (#C #S #D #I) 0 0 4 0
+REF:  VERSO LE STELLE Sì 
+HYP:  ***** ** ****** *** 
+Eval: D     D  D      D   
+
+Correct               =    0.0%    0   (478)
+Substitutions         =    0.0%    0   ( 85)
+Deletions             =  100.0%    4   (258)
+Insertions            =    0.0%    0   ( 10)
+
+Errors                =  100.0%    4   (353)
+
+Ref. words            =            4   (821)
+Hyp. words            =            0   (573)
+Aligned words         =            4   (831)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__151)
+Scores: (#C #S #D #I) 12 0 3 0
+REF:  LA LA LI la linea deve passare in mezzo alla stella grande e quella piccola 
+HYP:  ** ** ** la linea deve passare in mezzo alla stella grande e quella piccola 
+Eval: D  D  D                                                                     
+
+Correct               =   80.0%   12   (490)
+Substitutions         =    0.0%    0   ( 85)
+Deletions             =   20.0%    3   (261)
+Insertions            =    0.0%    0   ( 10)
+
+Errors                =   20.0%    3   (356)
+
+Ref. words            =           15   (836)
+Hyp. words            =           12   (585)
+Aligned words         =           15   (846)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__152)
+Scores: (#C #S #D #I) 2 1 0 0
+REF:  IL puntino nero 
+HYP:  E  puntino nero 
+Eval: S               
+
+Correct               =   66.7%    2   (492)
+Substitutions         =   33.3%    1   ( 86)
+Deletions             =    0.0%    0   (261)
+Insertions            =    0.0%    0   ( 10)
+
+Errors                =   33.3%    1   (357)
+
+Ref. words            =            3   (839)
+Hyp. words            =            3   (588)
+Aligned words         =            3   (849)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__153)
+Scores: (#C #S #D #I) 0 1 3 0
+REF:  Sì DOVE TE C'HAI 
+HYP:  *** **** ** SAI   
+Eval: D   D    D  S     
+
+Correct               =    0.0%    0   (492)
+Substitutions         =   25.0%    1   ( 87)
+Deletions             =   75.0%    3   (264)
+Insertions            =    0.0%    0   ( 10)
+
+Errors                =  100.0%    4   (361)
+
+Ref. words            =            4   (843)
+Hyp. words            =            1   (589)
+Aligned words         =            4   (853)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__154)
+Scores: (#C #S #D #I) 6 2 4 0
+REF:  EH quello sarebbe l'arrivo I LE EHM IL la partenza io L'ARRIVO 
+HYP:  ** quello sarebbe l'arrivo * ** *** è la partenza io ARRIVO   
+Eval: D                          D D  D   S                 S        
+
+Correct               =   50.0%    6   (498)
+Substitutions         =   16.7%    2   ( 89)
+Deletions             =   33.3%    4   (268)
+Insertions            =    0.0%    0   ( 10)
+
+Errors                =   50.0%    6   (367)
+
+Ref. words            =           12   (855)
+Hyp. words            =            8   (597)
+Aligned words         =           12   (865)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__155)
+Scores: (#C #S #D #I) 18 2 2 1
+REF:  ti dico dove L'HO la stella più grande ti risulta la stella più grande è quella sotto quella *** PIù sotto 
+HYP:  ti dico dove LO   la stella più grande ti risulta la stella più grande è quella sotto quella CHE IO   sotto 
+Eval:              S                                                                                  I   S          
+
+>> REF:  DI TUTTE 
+>> HYP:  ** ***** 
+>> Eval: D  D     
+
+Correct               =   81.8%   18   (516)
+Substitutions         =    9.1%    2   ( 91)
+Deletions             =    9.1%    2   (270)
+Insertions            =    4.5%    1   ( 11)
+
+Errors                =   22.7%    5   (372)
+
+Ref. words            =           22   (877)
+Hyp. words            =           21   (618)
+Aligned words         =           23   (888)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__156)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  Sì 
+HYP:  *** 
+Eval: D   
+
+Correct               =    0.0%    0   (516)
+Substitutions         =    0.0%    0   ( 91)
+Deletions             =  100.0%    1   (271)
+Insertions            =    0.0%    0   ( 11)
+
+Errors                =  100.0%    1   (373)
+
+Ref. words            =            1   (878)
+Hyp. words            =            0   (618)
+Aligned words         =            1   (889)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__157)
+Scores: (#C #S #D #I) 8 0 5 0
+REF:  ma il punto nero da me è a destra RISPETTO A QUESTA LINEA 
+HYP:  ma il punto nero da me ** a destra ******** * ****** ***** 
+Eval:                        D           D        D D      D     
+
+Correct               =   61.5%    8   (524)
+Substitutions         =    0.0%    0   ( 91)
+Deletions             =   38.5%    5   (276)
+Insertions            =    0.0%    0   ( 11)
+
+Errors                =   38.5%    5   (378)
+
+Ref. words            =           13   (891)
+Hyp. words            =            8   (626)
+Aligned words         =           13   (902)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__158)
+Scores: (#C #S #D #I) 8 5 2 0
+REF:  EHM ASPETTA TI        come TI POSSO   spiegare allora innanzitutto ti dico COM'è L'ARRIVO da me 
+HYP:  *** ******* ASPETTATI come SI POSSONO spiegare allora innanzitutto ti dico COME   ARRIVO   da me 
+Eval: D   D       S              S  S                                            S      S              
+
+Correct               =   53.3%    8   (532)
+Substitutions         =   33.3%    5   ( 96)
+Deletions             =   13.3%    2   (278)
+Insertions            =    0.0%    0   ( 11)
+
+Errors                =   46.7%    7   (385)
+
+Ref. words            =           15   (906)
+Hyp. words            =           13   (639)
+Aligned words         =           15   (917)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__159)
+Scores: (#C #S #D #I) 9 0 1 0
+REF:  ALLORA l'arrivo è un punto sotto la stella più grande 
+HYP:  ****** l'arrivo è un punto sotto la stella più grande 
+Eval: D                                                       
+
+Correct               =   90.0%    9   (541)
+Substitutions         =    0.0%    0   ( 96)
+Deletions             =   10.0%    1   (279)
+Insertions            =    0.0%    0   ( 11)
+
+Errors                =   10.0%    1   (386)
+
+Ref. words            =           10   (916)
+Hyp. words            =            9   (648)
+Aligned words         =           10   (927)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__160)
+Scores: (#C #S #D #I) 3 0 1 0
+REF:  l'ultima in SO sotto 
+HYP:  l'ultima in ** sotto 
+Eval:             D        
+
+Correct               =   75.0%    3   (544)
+Substitutions         =    0.0%    0   ( 96)
+Deletions             =   25.0%    1   (280)
+Insertions            =    0.0%    0   ( 11)
+
+Errors                =   25.0%    1   (387)
+
+Ref. words            =            4   (920)
+Hyp. words            =            3   (651)
+Aligned words         =            4   (931)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__161)
+Scores: (#C #S #D #I) 13 1 2 0
+REF:  okay praticamente EHM devi CON questa linea devi arrivare a questo punto sotto A questa stella 
+HYP:  okay praticamente *** devi IN  questa linea devi arrivare a questo punto sotto * questa stella 
+Eval:                   D        S                                                   D               
+
+Correct               =   81.3%   13   (557)
+Substitutions         =    6.3%    1   ( 97)
+Deletions             =   12.5%    2   (282)
+Insertions            =    0.0%    0   ( 11)
+
+Errors                =   18.8%    3   (390)
+
+Ref. words            =           16   (936)
+Hyp. words            =           14   (665)
+Aligned words         =           16   (947)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__162)
+Scores: (#C #S #D #I) 10 0 1 0
+REF:  sarà EHM nemmeno mezzo centimetro sotto la stella più grande okay 
+HYP:  sarà *** nemmeno mezzo centimetro sotto la stella più grande okay 
+Eval:       D                                                             
+
+Correct               =   90.9%   10   (567)
+Substitutions         =    0.0%    0   ( 97)
+Deletions             =    9.1%    1   (283)
+Insertions            =    0.0%    0   ( 11)
+
+Errors                =    9.1%    1   (391)
+
+Ref. words            =           11   (947)
+Hyp. words            =           10   (675)
+Aligned words         =           11   (958)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__163)
+Scores: (#C #S #D #I) 18 1 2 1
+REF:  ci DE EH devi passare in mezzo alle stelle la parte superiore delle stelle quelle tre stelle che ** T'HO detto prima 
+HYP:  ci ** ** devi passare in mezzo alle stelle la parte superiore delle stelle quelle tre stelle che TI HO   detto prima 
+Eval:    D  D                                                                                          I  S                
+
+Correct               =   85.7%   18   (585)
+Substitutions         =    4.8%    1   ( 98)
+Deletions             =    9.5%    2   (285)
+Insertions            =    4.8%    1   ( 12)
+
+Errors                =   19.0%    4   (395)
+
+Ref. words            =           21   (968)
+Hyp. words            =           20   (695)
+Aligned words         =           22   (980)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__164)
+Scores: (#C #S #D #I) 7 0 0 0
+REF:  dove c'è quella piccola in mezzo no 
+HYP:  dove c'è quella piccola in mezzo no 
+Eval:                                      
+
+Correct               =  100.0%    7   (592)
+Substitutions         =    0.0%    0   ( 98)
+Deletions             =    0.0%    0   (285)
+Insertions            =    0.0%    0   ( 12)
+
+Errors                =    0.0%    0   (395)
+
+Ref. words            =            7   (975)
+Hyp. words            =            7   (702)
+Aligned words         =            7   (987)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__165)
+Scores: (#C #S #D #I) 1 2 6 0
+REF:  EH LO SO NON SO NON    mi SO SPIEGà 
+HYP:  ** ** ** *** ** ALLORA mi ** SPIEGA  
+Eval: D  D  D  D   D  S         D  S       
+
+Correct               =   11.1%    1   (593)
+Substitutions         =   22.2%    2   (100)
+Deletions             =   66.7%    6   (291)
+Insertions            =    0.0%    0   ( 12)
+
+Errors                =   88.9%    8   (403)
+
+Ref. words            =            9   (984)
+Hyp. words            =            3   (705)
+Aligned words         =            9   (996)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__166)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  Sì 
+HYP:  *** 
+Eval: D   
+
+Correct               =    0.0%    0   (593)
+Substitutions         =    0.0%    0   (100)
+Deletions             =  100.0%    1   (292)
+Insertions            =    0.0%    0   ( 12)
+
+Errors                =  100.0%    1   (404)
+
+Ref. words            =            1   (985)
+Hyp. words            =            0   (705)
+Aligned words         =            1   (997)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__167)
+Scores: (#C #S #D #I) 0 0 4 0
+REF:  Sì UNA SORTA Sì 
+HYP:  *** *** ***** *** 
+Eval: D   D   D     D   
+
+Correct               =    0.0%    0   (593)
+Substitutions         =    0.0%    0   (100)
+Deletions             =  100.0%    4   (296)
+Insertions            =    0.0%    0   ( 12)
+
+Errors                =  100.0%    4   (408)
+
+Ref. words            =            4   (989)
+Hyp. words            =            0   (705)
+Aligned words         =            4   (1001)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__168)
+Scores: (#C #S #D #I) 6 1 3 0
+REF:  CIOè aspetta perché COM COME cosa intendi TE per semicerchio 
+HYP:  C'è  aspetta perché *** **** cosa intendi ** per semicerchio 
+Eval: S                     D   D                 D                  
+
+Correct               =   60.0%    6   (599)
+Substitutions         =   10.0%    1   (101)
+Deletions             =   30.0%    3   (299)
+Insertions            =    0.0%    0   ( 12)
+
+Errors                =   40.0%    4   (412)
+
+Ref. words            =           10   (999)
+Hyp. words            =            7   (712)
+Aligned words         =           10   (1011)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__169)
+Scores: (#C #S #D #I) 6 3 1 0
+REF:  ma io direi NON non lo definirei SEMICERCHIO DA ME 
+HYP:  ma io direi *** non lo definirei SE          MI CI 
+Eval:             D                    S           S  S  
+
+Correct               =   60.0%    6   (605)
+Substitutions         =   30.0%    3   (104)
+Deletions             =   10.0%    1   (300)
+Insertions            =    0.0%    0   ( 12)
+
+Errors                =   40.0%    4   (416)
+
+Ref. words            =           10   (1009)
+Hyp. words            =            9   (721)
+Aligned words         =           10   (1021)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__170)
+Scores: (#C #S #D #I) 2 1 3 0
+REF:  EHM ASPETTA COME TI        posso spiegare 
+HYP:  *** ******* **** ASPETTAMI posso spiegare 
+Eval: D   D       D    S                        
+
+Correct               =   33.3%    2   (607)
+Substitutions         =   16.7%    1   (105)
+Deletions             =   50.0%    3   (303)
+Insertions            =    0.0%    0   ( 12)
+
+Errors                =   66.7%    4   (420)
+
+Ref. words            =            6   (1015)
+Hyp. words            =            3   (724)
+Aligned words         =            6   (1027)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__171)
+Scores: (#C #S #D #I) 6 0 3 0
+REF:  MAH IO C'HO due stelle che stanno nel mezzo 
+HYP:  *** ** **** due stelle che stanno nel mezzo 
+Eval: D   D  D                                    
+
+Correct               =   66.7%    6   (613)
+Substitutions         =    0.0%    0   (105)
+Deletions             =   33.3%    3   (306)
+Insertions            =    0.0%    0   ( 12)
+
+Errors                =   33.3%    3   (423)
+
+Ref. words            =            9   (1024)
+Hyp. words            =            6   (730)
+Aligned words         =            9   (1036)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__172)
+Scores: (#C #S #D #I) 1 0 1 0
+REF:  DICI cioè 
+HYP:  **** cioè 
+Eval: D          
+
+Correct               =   50.0%    1   (614)
+Substitutions         =    0.0%    0   (105)
+Deletions             =   50.0%    1   (307)
+Insertions            =    0.0%    0   ( 12)
+
+Errors                =   50.0%    1   (424)
+
+Ref. words            =            2   (1026)
+Hyp. words            =            1   (731)
+Aligned words         =            2   (1038)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__173)
+Scores: (#C #S #D #I) 6 0 0 0
+REF:  e io ne ho tre sopra 
+HYP:  e io ne ho tre sopra 
+Eval:                      
+
+Correct               =  100.0%    6   (620)
+Substitutions         =    0.0%    0   (105)
+Deletions             =    0.0%    0   (307)
+Insertions            =    0.0%    0   ( 12)
+
+Errors                =    0.0%    0   (424)
+
+Ref. words            =            6   (1032)
+Hyp. words            =            6   (737)
+Aligned words         =            6   (1044)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__174)
+Scores: (#C #S #D #I) 16 0 1 0
+REF:  poi una sotto di media grandezza rispetto a quella nel mezzo più piccola quella DELLA quella alta 
+HYP:  poi una sotto di media grandezza rispetto a quella nel mezzo più piccola quella ***** quella alta 
+Eval:                                                                                  D                 
+
+Correct               =   94.1%   16   (636)
+Substitutions         =    0.0%    0   (105)
+Deletions             =    5.9%    1   (308)
+Insertions            =    0.0%    0   ( 12)
+
+Errors                =    5.9%    1   (425)
+
+Ref. words            =           17   (1049)
+Hyp. words            =           16   (753)
+Aligned words         =           17   (1061)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__175)
+Scores: (#C #S #D #I) 10 1 0 0
+REF:  okay nella parte più alta ce N'HAI una piccola nel mezzo 
+HYP:  okay nella parte più alta ce L'HAI una piccola nel mezzo 
+Eval:                               S                           
+
+Correct               =   90.9%   10   (646)
+Substitutions         =    9.1%    1   (106)
+Deletions             =    0.0%    0   (308)
+Insertions            =    0.0%    0   ( 12)
+
+Errors                =    9.1%    1   (426)
+
+Ref. words            =           11   (1060)
+Hyp. words            =           11   (764)
+Aligned words         =           11   (1072)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__176)
+Scores: (#C #S #D #I) 7 0 6 0
+REF:  E DUE GRANDI una A sinistra E una A destra ce l'ho io 
+HYP:  * *** ****** una * sinistra * una * destra ce l'ho io 
+Eval: D D   D          D          D     D                   
+
+Correct               =   53.8%    7   (653)
+Substitutions         =    0.0%    0   (106)
+Deletions             =   46.2%    6   (314)
+Insertions            =    0.0%    0   ( 12)
+
+Errors                =   46.2%    6   (432)
+
+Ref. words            =           13   (1073)
+Hyp. words            =            7   (771)
+Aligned words         =           13   (1085)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__177)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  OKAY 
+HYP:  **** 
+Eval: D    
+
+Correct               =    0.0%    0   (653)
+Substitutions         =    0.0%    0   (106)
+Deletions             =  100.0%    1   (315)
+Insertions            =    0.0%    0   ( 12)
+
+Errors                =  100.0%    1   (433)
+
+Ref. words            =            1   (1074)
+Hyp. words            =            0   (771)
+Aligned words         =            1   (1086)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__178)
+Scores: (#C #S #D #I) 7 1 3 0
+REF:  EHM COM ALLORA la parte superiore ce N'HAI tre di stelle 
+HYP:  *** *** ****** la parte superiore ce N'è  tre di stelle 
+Eval: D   D   D                            S                   
+
+Correct               =   63.6%    7   (660)
+Substitutions         =    9.1%    1   (107)
+Deletions             =   27.3%    3   (318)
+Insertions            =    0.0%    0   ( 12)
+
+Errors                =   36.4%    4   (437)
+
+Ref. words            =           11   (1085)
+Hyp. words            =            8   (779)
+Aligned words         =           11   (1097)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__179)
+Scores: (#C #S #D #I) 8 0 4 0
+REF:  ALLORA IO CE N'HO una grande a sinistra una piccola nel mezzo 
+HYP:  ****** ** ** **** una grande a sinistra una piccola nel mezzo 
+Eval: D      D  D  D                                                
+
+Correct               =   66.7%    8   (668)
+Substitutions         =    0.0%    0   (107)
+Deletions             =   33.3%    4   (322)
+Insertions            =    0.0%    0   ( 12)
+
+Errors                =   33.3%    4   (441)
+
+Ref. words            =           12   (1097)
+Hyp. words            =            8   (787)
+Aligned words         =           12   (1109)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__180)
+Scores: (#C #S #D #I) 17 0 1 0
+REF:  e una della stessa grandezza di quella A sinistra più o meno un po' più piccola a destra 
+HYP:  e una della stessa grandezza di quella * sinistra più o meno un po' più piccola a destra 
+Eval:                                        D                                                   
+
+Correct               =   94.4%   17   (685)
+Substitutions         =    0.0%    0   (107)
+Deletions             =    5.6%    1   (323)
+Insertions            =    0.0%    0   ( 12)
+
+Errors                =    5.6%    1   (442)
+
+Ref. words            =           18   (1115)
+Hyp. words            =           17   (804)
+Aligned words         =           18   (1127)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__181)
+Scores: (#C #S #D #I) 13 0 2 0
+REF:  come ti posso spiegare praticamente cioè EHM questa linea DA dagli occhiali te devi scendere 
+HYP:  come ti posso spiegare praticamente cioè *** questa linea ** dagli occhiali te devi scendere 
+Eval:                                           D                D                                  
+
+Correct               =   86.7%   13   (698)
+Substitutions         =    0.0%    0   (107)
+Deletions             =   13.3%    2   (325)
+Insertions            =    0.0%    0   ( 12)
+
+Errors                =   13.3%    2   (444)
+
+Ref. words            =           15   (1130)
+Hyp. words            =           13   (817)
+Aligned words         =           15   (1142)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__182)
+Scores: (#C #S #D #I) 5 0 1 0
+REF:  E devi passare in mezzo a 
+HYP:  * devi passare in mezzo a 
+Eval: D                         
+
+Correct               =   83.3%    5   (703)
+Substitutions         =    0.0%    0   (107)
+Deletions             =   16.7%    1   (326)
+Insertions            =    0.0%    0   ( 12)
+
+Errors                =   16.7%    1   (445)
+
+Ref. words            =            6   (1136)
+Hyp. words            =            5   (822)
+Aligned words         =            6   (1148)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__183)
+Scores: (#C #S #D #I) 6 0 4 0
+REF:  ASPETTA O se no ASPETTA TI posso anche dire l'arrivo 
+HYP:  ******* * se no ******* ** posso anche dire l'arrivo 
+Eval: D       D       D       D                            
+
+Correct               =   60.0%    6   (709)
+Substitutions         =    0.0%    0   (107)
+Deletions             =   40.0%    4   (330)
+Insertions            =    0.0%    0   ( 12)
+
+Errors                =   40.0%    4   (449)
+
+Ref. words            =           10   (1146)
+Hyp. words            =            6   (828)
+Aligned words         =           10   (1158)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__184)
+Scores: (#C #S #D #I) 16 2 1 0
+REF:  per farti perché se l'ordine delle stelle è DIVERSO no allora L'ARRIVO sai dov'è da me te lo spiego 
+HYP:  per farti perché se l'ordine delle stelle ** DIVERSE no allora ARRIVO   sai dov'è da me te lo spiego 
+Eval:                                            D  S                 S                                      
+
+Correct               =   84.2%   16   (725)
+Substitutions         =   10.5%    2   (109)
+Deletions             =    5.3%    1   (331)
+Insertions            =    0.0%    0   ( 12)
+
+Errors                =   15.8%    3   (452)
+
+Ref. words            =           19   (1165)
+Hyp. words            =           18   (846)
+Aligned words         =           19   (1177)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__185)
+Scores: (#C #S #D #I) 4 1 0 0
+REF:  C'HAI presente le due macchine 
+HYP:  GIà  presente le due macchine 
+Eval: S                              
+
+Correct               =   80.0%    4   (729)
+Substitutions         =   20.0%    1   (110)
+Deletions             =    0.0%    0   (331)
+Insertions            =    0.0%    0   ( 12)
+
+Errors                =   20.0%    1   (453)
+
+Ref. words            =            5   (1170)
+Hyp. words            =            5   (851)
+Aligned words         =            5   (1182)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__186)
+Scores: (#C #S #D #I) 1 1 3 0
+REF:  LA GRIGIA E LA       rossa 
+HYP:  ** ****** * L'AQUILA rossa 
+Eval: D  D      D S              
+
+Correct               =   20.0%    1   (730)
+Substitutions         =   20.0%    1   (111)
+Deletions             =   60.0%    3   (334)
+Insertions            =    0.0%    0   ( 12)
+
+Errors                =   80.0%    4   (457)
+
+Ref. words            =            5   (1175)
+Hyp. words            =            2   (853)
+Aligned words         =            5   (1187)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__187)
+Scores: (#C #S #D #I) 1 0 1 0
+REF:  IL l'arrivo 
+HYP:  ** l'arrivo 
+Eval: D           
+
+Correct               =   50.0%    1   (731)
+Substitutions         =    0.0%    0   (111)
+Deletions             =   50.0%    1   (335)
+Insertions            =    0.0%    0   ( 12)
+
+Errors                =   50.0%    1   (458)
+
+Ref. words            =            2   (1177)
+Hyp. words            =            1   (854)
+Aligned words         =            2   (1189)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__188)
+Scores: (#C #S #D #I) 13 1 0 0
+REF:  è sono non sono sullo stesso piano d'altezza vero quella grigia e quella rossa 
+HYP:  E  sono non sono sullo stesso piano d'altezza vero quella grigia e quella rossa 
+Eval: S                                                                               
+
+Correct               =   92.9%   13   (744)
+Substitutions         =    7.1%    1   (112)
+Deletions             =    0.0%    0   (335)
+Insertions            =    0.0%    0   ( 12)
+
+Errors                =    7.1%    1   (459)
+
+Ref. words            =           14   (1191)
+Hyp. words            =           14   (868)
+Aligned words         =           14   (1203)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__189)
+Scores: (#C #S #D #I) 2 0 0 0
+REF:  lo stesso 
+HYP:  lo stesso 
+Eval:           
+
+Correct               =  100.0%    2   (746)
+Substitutions         =    0.0%    0   (112)
+Deletions             =    0.0%    0   (335)
+Insertions            =    0.0%    0   ( 12)
+
+Errors                =    0.0%    0   (459)
+
+Ref. words            =            2   (1193)
+Hyp. words            =            2   (870)
+Aligned words         =            2   (1205)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__190)
+Scores: (#C #S #D #I) 5 1 0 0
+REF:  sì ma non proprio lo STESSO 
+HYP:  sì ma non proprio lo SPERO  
+Eval:                       S      
+
+Correct               =   83.3%    5   (751)
+Substitutions         =   16.7%    1   (113)
+Deletions             =    0.0%    0   (335)
+Insertions            =    0.0%    0   ( 12)
+
+Errors                =   16.7%    1   (460)
+
+Ref. words            =            6   (1199)
+Hyp. words            =            6   (876)
+Aligned words         =            6   (1211)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__191)
+Scores: (#C #S #D #I) 1 0 1 0
+REF:  EH okay 
+HYP:  ** okay 
+Eval: D       
+
+Correct               =   50.0%    1   (752)
+Substitutions         =    0.0%    0   (113)
+Deletions             =   50.0%    1   (336)
+Insertions            =    0.0%    0   ( 12)
+
+Errors                =   50.0%    1   (461)
+
+Ref. words            =            2   (1201)
+Hyp. words            =            1   (877)
+Aligned words         =            2   (1213)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__192)
+Scores: (#C #S #D #I) 18 0 1 0
+REF:  allora il punto d'arrivo te EHM è come se fosse hai presente la la gomma posteriore della macchina grigia 
+HYP:  allora il punto d'arrivo te *** è come se fosse hai presente la la gomma posteriore della macchina grigia 
+Eval:                             D                                                                              
+
+Correct               =   94.7%   18   (770)
+Substitutions         =    0.0%    0   (113)
+Deletions             =    5.3%    1   (337)
+Insertions            =    0.0%    0   ( 12)
+
+Errors                =    5.3%    1   (462)
+
+Ref. words            =           19   (1220)
+Hyp. words            =           18   (895)
+Aligned words         =           19   (1232)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__193)
+Scores: (#C #S #D #I) 6 3 1 1
+REF:  EH TE  devi PASS praticamente andare in ********* VERTICA in orizzontale 
+HYP:  è CHE devi **** praticamente andare in VERTICALE E       in orizzontale 
+Eval: S  S        D                           I         S                      
+
+Correct               =   60.0%    6   (776)
+Substitutions         =   30.0%    3   (116)
+Deletions             =   10.0%    1   (338)
+Insertions            =   10.0%    1   ( 13)
+
+Errors                =   50.0%    5   (467)
+
+Ref. words            =           10   (1230)
+Hyp. words            =           10   (905)
+Aligned words         =           11   (1243)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__194)
+Scores: (#C #S #D #I) 3 1 2 0
+REF:  TRACCIARTI una linea immaginaria IN ORIZZON 
+HYP:  TRACCIARE  una linea immaginaria ** ******* 
+Eval: S                                D  D       
+
+Correct               =   50.0%    3   (779)
+Substitutions         =   16.7%    1   (117)
+Deletions             =   33.3%    2   (340)
+Insertions            =    0.0%    0   ( 13)
+
+Errors                =   50.0%    3   (470)
+
+Ref. words            =            6   (1236)
+Hyp. words            =            4   (909)
+Aligned words         =            6   (1249)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__195)
+Scores: (#C #S #D #I) 10 0 5 0
+REF:  Sì E AND AN procedendo verso PR la mia sinistra cioè verso destra da te 
+HYP:  *** * *** ** procedendo verso ** la mia sinistra cioè verso destra da te 
+Eval: D   D D   D                   D                                           
+
+Correct               =   66.7%   10   (789)
+Substitutions         =    0.0%    0   (117)
+Deletions             =   33.3%    5   (345)
+Insertions            =    0.0%    0   ( 13)
+
+Errors                =   33.3%    5   (475)
+
+Ref. words            =           15   (1251)
+Hyp. words            =           10   (919)
+Aligned words         =           15   (1264)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__196)
+Scores: (#C #S #D #I) 11 2 1 0
+REF:  okay e arrivi al punto medio fra la macchina rossa E LA macchina GRIGIA 
+HYP:  okay e arrivi al punto medio fra la macchina rossa * A  macchina DICE   
+Eval:                                                    D S           S      
+
+Correct               =   78.6%   11   (800)
+Substitutions         =   14.3%    2   (119)
+Deletions             =    7.1%    1   (346)
+Insertions            =    0.0%    0   ( 13)
+
+Errors                =   21.4%    3   (478)
+
+Ref. words            =           14   (1265)
+Hyp. words            =           13   (932)
+Aligned words         =           14   (1278)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__197)
+Scores: (#C #S #D #I) 0 2 2 0
+REF:  E QUELLO è     L'ARRIVO 
+HYP:  * ****** QUELLE ARRIVA   
+Eval: D D      S      S        
+
+Correct               =    0.0%    0   (800)
+Substitutions         =   50.0%    2   (121)
+Deletions             =   50.0%    2   (348)
+Insertions            =    0.0%    0   ( 13)
+
+Errors                =  100.0%    4   (482)
+
+Ref. words            =            4   (1269)
+Hyp. words            =            2   (934)
+Aligned words         =            4   (1282)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__198)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  EH 
+HYP:  ** 
+Eval: D  
+
+Correct               =    0.0%    0   (800)
+Substitutions         =    0.0%    0   (121)
+Deletions             =  100.0%    1   (349)
+Insertions            =    0.0%    0   ( 13)
+
+Errors                =  100.0%    1   (483)
+
+Ref. words            =            1   (1270)
+Hyp. words            =            0   (934)
+Aligned words         =            1   (1283)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__199)
+Scores: (#C #S #D #I) 8 0 4 0
+REF:  EH IL gruppo di stelle è S è strano che però siano 
+HYP:  ** ** gruppo di stelle ** * è strano che però siano 
+Eval: D  D                   D  D                           
+
+Correct               =   66.7%    8   (808)
+Substitutions         =    0.0%    0   (121)
+Deletions             =   33.3%    4   (353)
+Insertions            =    0.0%    0   ( 13)
+
+Errors                =   33.3%    4   (487)
+
+Ref. words            =           12   (1282)
+Hyp. words            =            8   (942)
+Aligned words         =           12   (1295)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__200)
+Scores: (#C #S #D #I) 16 5 2 3
+REF:  ******* ******** ** aspetta più TE  prova a METTERTELA al contrario IL foglio forse TE mi dici come sono da te 
+HYP:  ASPETTA FACCIAMO LO aspetta più CHE prova a METTERTI   al contrario ** foglio forse SE mi dici come sono da te 
+Eval: I       I        I               S           S                       D               S                          
+
+>> REF:  E ti SEMBRA un SEMICE 
+>> HYP:  * ti SARà  un Sì    
+>> Eval: D    S         S      
+
+Correct               =   69.6%   16   (824)
+Substitutions         =   21.7%    5   (126)
+Deletions             =    8.7%    2   (355)
+Insertions            =   13.0%    3   ( 16)
+
+Errors                =   43.5%   10   (497)
+
+Ref. words            =           23   (1305)
+Hyp. words            =           24   (966)
+Aligned words         =           26   (1321)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__201)
+Scores: (#C #S #D #I) 25 4 8 0
+REF:  E ASPETTA FAMMI VEDERE SE DA TE CIOè a me non mi risulta un semicerchio le TUE stelle come le vedi TE CIOè 
+HYP:  * ******* ***** ****** ** ** ** ***** a me non mi risulta un semicerchio le SUE stelle come le vedi SE C'è  
+Eval: D D       D     D      D  D  D  D                                           S                       S  S     
+
+>> REF:  almeno da me ne risultano due in mezzo ce ne SON  due nel mezzo 
+>> HYP:  almeno da me ne risultano due in mezzo ce ne SONO due nel mezzo 
+>> Eval:                                              S                  
+
+Correct               =   67.6%   25   (849)
+Substitutions         =   10.8%    4   (130)
+Deletions             =   21.6%    8   (363)
+Insertions            =    0.0%    0   ( 16)
+
+Errors                =   32.4%   12   (509)
+
+Ref. words            =           37   (1342)
+Hyp. words            =           29   (995)
+Aligned words         =           37   (1358)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__202)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  VABBè 
+HYP:  ****** 
+Eval: D      
+
+Correct               =    0.0%    0   (849)
+Substitutions         =    0.0%    0   (130)
+Deletions             =  100.0%    1   (364)
+Insertions            =    0.0%    0   ( 16)
+
+Errors                =  100.0%    1   (510)
+
+Ref. words            =            1   (1343)
+Hyp. words            =            0   (995)
+Aligned words         =            1   (1359)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__203)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  OKAY 
+HYP:  **** 
+Eval: D    
+
+Correct               =    0.0%    0   (849)
+Substitutions         =    0.0%    0   (130)
+Deletions             =  100.0%    1   (365)
+Insertions            =    0.0%    0   ( 16)
+
+Errors                =  100.0%    1   (511)
+
+Ref. words            =            1   (1344)
+Hyp. words            =            0   (995)
+Aligned words         =            1   (1360)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__204)
+Scores: (#C #S #D #I) 1 3 2 0
+REF:  LINEE DI    congiungimento IN CHE   SENSO 
+HYP:  ***** LINEA congiungimento ** ANCHE SENZA 
+Eval: D     S                    D  S     S     
+
+Correct               =   16.7%    1   (850)
+Substitutions         =   50.0%    3   (133)
+Deletions             =   33.3%    2   (367)
+Insertions            =    0.0%    0   ( 16)
+
+Errors                =   83.3%    5   (516)
+
+Ref. words            =            6   (1350)
+Hyp. words            =            4   (999)
+Aligned words         =            6   (1366)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__205)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  Sì 
+HYP:  *** 
+Eval: D   
+
+Correct               =    0.0%    0   (850)
+Substitutions         =    0.0%    0   (133)
+Deletions             =  100.0%    1   (368)
+Insertions            =    0.0%    0   ( 16)
+
+Errors                =  100.0%    1   (517)
+
+Ref. words            =            1   (1351)
+Hyp. words            =            0   (999)
+Aligned words         =            1   (1367)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__206)
+Scores: (#C #S #D #I) 2 0 0 0
+REF:  la linea 
+HYP:  la linea 
+Eval:          
+
+Correct               =  100.0%    2   (852)
+Substitutions         =    0.0%    0   (133)
+Deletions             =    0.0%    0   (368)
+Insertions            =    0.0%    0   ( 16)
+
+Errors                =    0.0%    0   (517)
+
+Ref. words            =            2   (1353)
+Hyp. words            =            2   (1001)
+Aligned words         =            2   (1369)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__207)
+Scores: (#C #S #D #I) 9 0 7 0
+REF:  QUESTA MA S EHM CIOè TE sei arrivato al punto degli occhiali sotto sotto gli OCCHIALI 
+HYP:  ****** ** * *** ***** ** sei arrivato al punto degli occhiali sotto sotto gli ******** 
+Eval: D      D  D D   D     D                                                       D        
+
+Correct               =   56.3%    9   (861)
+Substitutions         =    0.0%    0   (133)
+Deletions             =   43.8%    7   (375)
+Insertions            =    0.0%    0   ( 16)
+
+Errors                =   43.8%    7   (524)
+
+Ref. words            =           16   (1369)
+Hyp. words            =            9   (1010)
+Aligned words         =           16   (1385)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__208)
+Scores: (#C #S #D #I) 5 1 1 0
+REF:  EH da quel punto TE devi scendere 
+HYP:  ** da quel punto TI devi scendere 
+Eval: D                S                
+
+Correct               =   71.4%    5   (866)
+Substitutions         =   14.3%    1   (134)
+Deletions             =   14.3%    1   (376)
+Insertions            =    0.0%    0   ( 16)
+
+Errors                =   28.6%    2   (526)
+
+Ref. words            =            7   (1376)
+Hyp. words            =            6   (1016)
+Aligned words         =            7   (1392)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__209)
+Scores: (#C #S #D #I) 3 1 3 1
+REF:  VERSO IL CENTRO ACCENTRANDOTI  nel ****** nel foglio 
+HYP:  ***** ** ****** CONCENTRANDOSI nel SECCHI nel foglio 
+Eval: D     D  D      S                  I                 
+
+Correct               =   42.9%    3   (869)
+Substitutions         =   14.3%    1   (135)
+Deletions             =   42.9%    3   (379)
+Insertions            =   14.3%    1   ( 17)
+
+Errors                =   71.4%    5   (531)
+
+Ref. words            =            7   (1383)
+Hyp. words            =            5   (1021)
+Aligned words         =            8   (1400)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__210)
+Scores: (#C #S #D #I) 3 0 0 0
+REF:  lo vedi l'arrivo 
+HYP:  lo vedi l'arrivo 
+Eval:                  
+
+Correct               =  100.0%    3   (872)
+Substitutions         =    0.0%    0   (135)
+Deletions             =    0.0%    0   (379)
+Insertions            =    0.0%    0   ( 17)
+
+Errors                =    0.0%    0   (531)
+
+Ref. words            =            3   (1386)
+Hyp. words            =            3   (1024)
+Aligned words         =            3   (1403)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__211)
+Scores: (#C #S #D #I) 18 0 3 0
+REF:  EH TE CI devi andare praticamente in verticale spostato un po' verso destra la mia destra e quindi la tua sinistra 
+HYP:  ** ** ** devi andare praticamente in verticale spostato un po' verso destra la mia destra e quindi la tua sinistra 
+Eval: D  D  D                                                                                                            
+
+Correct               =   85.7%   18   (890)
+Substitutions         =    0.0%    0   (135)
+Deletions             =   14.3%    3   (382)
+Insertions            =    0.0%    0   ( 17)
+
+Errors                =   14.3%    3   (534)
+
+Ref. words            =           21   (1407)
+Hyp. words            =           18   (1042)
+Aligned words         =           21   (1424)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__212)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  Sì 
+HYP:  *** 
+Eval: D   
+
+Correct               =    0.0%    0   (890)
+Substitutions         =    0.0%    0   (135)
+Deletions             =  100.0%    1   (383)
+Insertions            =    0.0%    0   ( 17)
+
+Errors                =  100.0%    1   (535)
+
+Ref. words            =            1   (1408)
+Hyp. words            =            0   (1042)
+Aligned words         =            1   (1425)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__213)
+Scores: (#C #S #D #I) 13 4 0 2
+REF:  io penso che sia la parte destra * DELLA stella più piccola in alto ALLA destra * DELLA STELLA 
+HYP:  io penso che sia la parte destra E LA    stella più piccola in alto A    destra E LA    SERA   
+Eval:                                  I S                                 S           I S     S      
+
+Correct               =   76.5%   13   (903)
+Substitutions         =   23.5%    4   (139)
+Deletions             =    0.0%    0   (383)
+Insertions            =   11.8%    2   ( 19)
+
+Errors                =   35.3%    6   (541)
+
+Ref. words            =           17   (1425)
+Hyp. words            =           19   (1061)
+Aligned words         =           19   (1444)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__214)
+Scores: (#C #S #D #I) 4 1 0 1
+REF:  praticamente ********** RASENTANDOLA e arrivi all'arrivo 
+HYP:  praticamente RASENTANDO LA           e arrivi all'arrivo 
+Eval:              I          S                                
+
+Correct               =   80.0%    4   (907)
+Substitutions         =   20.0%    1   (140)
+Deletions             =    0.0%    0   (383)
+Insertions            =   20.0%    1   ( 20)
+
+Errors                =   40.0%    2   (543)
+
+Ref. words            =            5   (1430)
+Hyp. words            =            6   (1067)
+Aligned words         =            6   (1450)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__215)
+Scores: (#C #S #D #I) 0 0 4 0
+REF:  OKAY DAI VA BENE 
+HYP:  **** *** ** **** 
+Eval: D    D   D  D    
+
+Correct               =    0.0%    0   (907)
+Substitutions         =    0.0%    0   (140)
+Deletions             =  100.0%    4   (387)
+Insertions            =    0.0%    0   ( 20)
+
+Errors                =  100.0%    4   (547)
+
+Ref. words            =            4   (1434)
+Hyp. words            =            0   (1067)
+Aligned words         =            4   (1454)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__216)
+Scores: (#C #S #D #I) 0 0 1 0
+REF:  EH 
+HYP:  ** 
+Eval: D  
+
+Correct               =    0.0%    0   (907)
+Substitutions         =    0.0%    0   (140)
+Deletions             =  100.0%    1   (388)
+Insertions            =    0.0%    0   ( 20)
+
+Errors                =  100.0%    1   (548)
+
+Ref. words            =            1   (1435)
+Hyp. words            =            0   (1067)
+Aligned words         =            1   (1455)
+
+-------------------------------------------------------------------------------
+
+id: (rf-firenze__217)
+Scores: (#C #S #D #I) 0 0 2 0
+REF:  EH Sì 
+HYP:  ** *** 
+Eval: D  D   
+
+Correct               =    0.0%    0   (907)
+Substitutions         =    0.0%    0   (140)
+Deletions             =  100.0%    2   (390)
+Insertions            =    0.0%    0   ( 20)
+
+Errors                =  100.0%    2   (550)
+
+Ref. words            =            2   (1437)
+Hyp. words            =            0   (1067)
+Aligned words         =            2   (1457)
+
+-------------------------------------------------------------------------------
+
