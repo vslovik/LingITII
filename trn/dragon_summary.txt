@@ -278,160 +278,162 @@ Begin alignment of Ref File: '/home/valeriya/project/LingITII/trn/clips.txt' and
     Alignment# 138 for speaker rf          
     Alignment# 139 for speaker ll          
     Alignment# 139 for speaker rf          
-    Alignment# 140 for speaker ll              Alignment# 141 for speaker ll          
+    Alignment# 140 for speaker ll          
     Alignment# 140 for speaker rf          
-    Alignment# 142 for speaker ll          
+    Alignment# 141 for speaker ll          
     Alignment# 141 for speaker rf          
-    Alignment# 143 for speaker ll          
+    Alignment# 142 for speaker ll          
     Alignment# 142 for speaker rf          
-    Alignment# 144 for speaker ll          
+    Alignment# 143 for speaker ll          
     Alignment# 143 for speaker rf          
-    Alignment# 145 for speaker ll          
+    Alignment# 144 for speaker ll          
     Alignment# 144 for speaker rf          
-    Alignment# 146 for speaker ll          
+    Alignment# 145 for speaker ll          
     Alignment# 145 for speaker rf          
-    Alignment# 147 for speaker ll          
+    Alignment# 146 for speaker ll          
     Alignment# 146 for speaker rf          
-    Alignment# 148 for speaker ll          
+    Alignment# 147 for speaker ll          
     Alignment# 147 for speaker rf          
-    Alignment# 149 for speaker ll          
+    Alignment# 148 for speaker ll          
     Alignment# 148 for speaker rf          
-    Alignment# 150 for speaker ll          
+    Alignment# 149 for speaker ll          
     Alignment# 149 for speaker rf          
-    Alignment# 151 for speaker ll          
+    Alignment# 150 for speaker ll          
     Alignment# 150 for speaker rf          
-    Alignment# 152 for speaker ll          
+    Alignment# 151 for speaker ll          
     Alignment# 151 for speaker rf          
-    Alignment# 153 for speaker ll          
+    Alignment# 152 for speaker ll          
     Alignment# 152 for speaker rf          
-    Alignment# 154 for speaker ll          
+    Alignment# 153 for speaker ll          
     Alignment# 153 for speaker rf          
-    Alignment# 155 for speaker ll          
+    Alignment# 154 for speaker ll          
     Alignment# 154 for speaker rf          
-    Alignment# 156 for speaker ll          
+    Alignment# 155 for speaker ll          
     Alignment# 155 for speaker rf          
-    Alignment# 157 for speaker ll          
+    Alignment# 156 for speaker ll          
     Alignment# 156 for speaker rf          
-    Alignment# 158 for speaker ll          
+    Alignment# 157 for speaker ll          
     Alignment# 157 for speaker rf          
-    Alignment# 159 for speaker ll          
+    Alignment# 158 for speaker ll          
     Alignment# 158 for speaker rf          
-    Alignment# 160 for speaker ll          
+    Alignment# 159 for speaker ll          
     Alignment# 159 for speaker rf          
-    Alignment# 161 for speaker ll          
+    Alignment# 160 for speaker ll          
     Alignment# 160 for speaker rf          
-    Alignment# 162 for speaker ll          
+    Alignment# 161 for speaker ll          
     Alignment# 161 for speaker rf          
-    Alignment# 163 for speaker ll          
+    Alignment# 162 for speaker ll          
     Alignment# 162 for speaker rf          
-    Alignment# 164 for speaker ll          
+    Alignment# 163 for speaker ll          
     Alignment# 163 for speaker rf          
-    Alignment# 165 for speaker ll          
+    Alignment# 164 for speaker ll          
     Alignment# 164 for speaker rf          
-    Alignment# 166 for speaker ll          
+    Alignment# 165 for speaker ll          
     Alignment# 165 for speaker rf          
-    Alignment# 167 for speaker ll          
+    Alignment# 166 for speaker ll          
     Alignment# 166 for speaker rf          
-    Alignment# 168 for speaker ll          
+    Alignment# 167 for speaker ll          
     Alignment# 167 for speaker rf          
-    Alignment# 169 for speaker ll          
+    Alignment# 168 for speaker ll          
     Alignment# 168 for speaker rf          
-    Alignment# 170 for speaker ll          
+    Alignment# 169 for speaker ll          
     Alignment# 169 for speaker rf          
-    Alignment# 171 for speaker ll          
+    Alignment# 170 for speaker ll          
     Alignment# 170 for speaker rf          
-    Alignment# 172 for speaker ll          
+    Alignment# 171 for speaker ll          
     Alignment# 171 for speaker rf          
-    Alignment# 173 for speaker ll          
+    Alignment# 172 for speaker ll          
     Alignment# 172 for speaker rf          
-    Alignment# 174 for speaker ll          
+    Alignment# 173 for speaker ll          
     Alignment# 173 for speaker rf          
-    Alignment# 175 for speaker ll          
+    Alignment# 174 for speaker ll          
     Alignment# 174 for speaker rf          
-    Alignment# 176 for speaker ll          
+    Alignment# 175 for speaker ll          
     Alignment# 175 for speaker rf          
-    Alignment# 177 for speaker ll          
+    Alignment# 176 for speaker ll          
     Alignment# 176 for speaker rf          
-    Alignment# 178 for speaker ll          
+    Alignment# 177 for speaker ll          
     Alignment# 177 for speaker rf          
-    Alignment# 179 for speaker ll          
+    Alignment# 178 for speaker ll          
     Alignment# 178 for speaker rf          
-    Alignment# 180 for speaker ll          
+    Alignment# 179 for speaker ll          
     Alignment# 179 for speaker rf          
-    Alignment# 181 for speaker ll          
+    Alignment# 180 for speaker ll          
     Alignment# 180 for speaker rf          
-    Alignment# 182 for speaker ll          
+    Alignment# 181 for speaker ll          
     Alignment# 181 for speaker rf          
-    Alignment# 183 for speaker ll          
+    Alignment# 182 for speaker ll          
     Alignment# 182 for speaker rf          
-    Alignment# 184 for speaker ll          
+    Alignment# 183 for speaker ll          
     Alignment# 183 for speaker rf          
-    Alignment# 185 for speaker ll          
+    Alignment# 184 for speaker ll          
     Alignment# 184 for speaker rf          
-    Alignment# 186 for speaker ll          
+    Alignment# 185 for speaker ll          
     Alignment# 185 for speaker rf          
-    Alignment# 187 for speaker ll          
+    Alignment# 186 for speaker ll          
     Alignment# 186 for speaker rf          
-    Alignment# 188 for speaker ll          
+    Alignment# 187 for speaker ll          
     Alignment# 187 for speaker rf          
-    Alignment# 189 for speaker ll          
+    Alignment# 188 for speaker ll          
     Alignment# 188 for speaker rf          
-    Alignment# 190 for speaker ll          
+    Alignment# 189 for speaker ll          
     Alignment# 189 for speaker rf          
-    Alignment# 191 for speaker ll          
+    Alignment# 190 for speaker ll          
     Alignment# 190 for speaker rf          
-    Alignment# 192 for speaker ll          
+    Alignment# 191 for speaker ll          
     Alignment# 191 for speaker rf          
-    Alignment# 193 for speaker ll          
+    Alignment# 192 for speaker ll          
     Alignment# 192 for speaker rf          
-    Alignment# 194 for speaker ll          
+    Alignment# 193 for speaker ll          
     Alignment# 193 for speaker rf          
-    Alignment# 195 for speaker ll          
+    Alignment# 194 for speaker ll          
     Alignment# 194 for speaker rf          
-    Alignment# 196 for speaker ll          
+    Alignment# 195 for speaker ll          
     Alignment# 195 for speaker rf          
-    Alignment# 197 for speaker ll          
+    Alignment# 196 for speaker ll          
     Alignment# 196 for speaker rf          
-    Alignment# 198 for speaker ll          
+    Alignment# 197 for speaker ll          
     Alignment# 197 for speaker rf          
-    Alignment# 199 for speaker ll          
+    Alignment# 198 for speaker ll          
     Alignment# 198 for speaker rf          
-    Alignment# 200 for speaker ll          
+    Alignment# 199 for speaker ll          
     Alignment# 199 for speaker rf          
-    Alignment# 201 for speaker ll          
+    Alignment# 200 for speaker ll          
     Alignment# 200 for speaker rf          
-    Alignment# 202 for speaker ll          
+    Alignment# 201 for speaker ll          
     Alignment# 201 for speaker rf          
-    Alignment# 203 for speaker ll          
+    Alignment# 202 for speaker ll          
     Alignment# 202 for speaker rf          
-    Alignment# 204 for speaker ll          
+    Alignment# 203 for speaker ll          
     Alignment# 203 for speaker rf          
-    Alignment# 205 for speaker ll          
+    Alignment# 204 for speaker ll          
     Alignment# 204 for speaker rf          
-    Alignment# 206 for speaker ll          
+    Alignment# 205 for speaker ll          
     Alignment# 205 for speaker rf          
-    Alignment# 207 for speaker ll          
+    Alignment# 206 for speaker ll          
     Alignment# 206 for speaker rf          
-    Alignment# 208 for speaker ll          
+    Alignment# 207 for speaker ll          
     Alignment# 207 for speaker rf          
-    Alignment# 209 for speaker ll          
+    Alignment# 208 for speaker ll          
     Alignment# 208 for speaker rf          
-    Alignment# 210 for speaker ll          
+    Alignment# 209 for speaker ll          
     Alignment# 209 for speaker rf          
-    Alignment# 211 for speaker ll          
+    Alignment# 210 for speaker ll          
     Alignment# 210 for speaker rf          
-    Alignment# 212 for speaker ll          
+    Alignment# 211 for speaker ll          
     Alignment# 211 for speaker rf          
-    Alignment# 213 for speaker ll          
+    Alignment# 212 for speaker ll          
     Alignment# 212 for speaker rf          
-    Alignment# 214 for speaker ll          
+    Alignment# 213 for speaker ll          
     Alignment# 213 for speaker rf          
-    Alignment# 215 for speaker ll          
+    Alignment# 214 for speaker ll          
     Alignment# 214 for speaker rf          
-    Alignment# 216 for speaker ll          
+    Alignment# 215 for speaker ll          
     Alignment# 215 for speaker rf          
-    Alignment# 217 for speaker ll          
+    Alignment# 216 for speaker ll          
     Alignment# 216 for speaker rf          
+    Alignment# 217 for speaker ll          
+    Alignment# 217 for speaker rf          
 
 
 
@@ -443,15 +445,15 @@ Begin alignment of Ref File: '/home/valeriya/project/LingITII/trn/clips.txt' and
       |-----------------------------------------------------------------|
       | SPKR   | # Snt  # Wrd | Corr    Sub    Del    Ins    Err  S.Err |
       |--------+--------------+-----------------------------------------|
-      | ll     |  217    1175 | 43.0   25.2   31.8    1.2   58.2   88.5 |
+      | ll     |  217    1175 | 43.0   25.0   32.0    0.9   57.9   88.5 |
       |--------+--------------+-----------------------------------------|
-      | rf     |  216    1429 | 45.3   23.6   31.1    1.1   55.8   94.4 |
+      | rf     |  217    1437 | 45.4   23.5   31.1    1.1   55.7   94.5 |
       |=================================================================|
-      | Sum/Avg|  433    2604 | 44.2   24.3   31.5    1.2   56.9   91.5 |
+      | Sum/Avg|  434    2612 | 44.3   24.2   31.5    1.0   56.7   91.5 |
       |=================================================================|
-      |  Mean  |216.5  1302.0 | 44.1   24.4   31.5    1.2   57.0   91.5 |
-      |  S.D.  |  0.7  179.6  |  1.6    1.1    0.5    0.1    1.7    4.2 |
-      | Median |216.5  1302.0 | 44.1   24.4   31.5    1.2   57.0   91.5 |
+      |  Mean  |217.0  1306.0 | 44.2   24.3   31.6    1.0   56.8   91.5 |
+      |  S.D.  |  0.0  185.3  |  1.7    1.1    0.6    0.2    1.5    4.2 |
+      | Median |217.0  1306.0 | 44.2   24.3   31.6    1.0   56.8   91.5 |
       `-----------------------------------------------------------------'
 
 Successful Completion
