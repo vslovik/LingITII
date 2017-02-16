@@ -1,0 +1,469 @@
+TEXT_inf.
+
+MAT:            mt
+MAP:            A
+TRM:
+Ndl:            01
+Ntr:
+Nls:
+REG:            F
+
+
+SPEAKERS_inf.
+
+INp1:         L. L., M, 18, Bagno a Ripoli(FI), spontaneo, fluente, G>F
+INp2:         R. F., M, 18, Bagno a Ripoli(FI), spontaneo, fluente, F>G
+
+
+RECORDING_inf.
+
+TYP:          DAT
+LOC:          Firenze/abitazione
+DAT:          04/02/01
+DUR:          15.25,336
+CON:          buone. In alcuni punti il segnale satura e dopo i
+              tredici minuti si registra anche un'alternanza nella
+              variazione di volume
+
+
+TRANSCRIPTION_inf.
+
+DAT:          12/02/02
+CMT:
+Nst:          435
+
+
+allora la partenza starebbe hai presente quella televisione in basso a sinistra (LL-Firenze_1)
+sì (RF-Firenze_1)
+ecco a sinistra della televisione (LL-Firenze_2)
+okay (RF-Firenze_2)
+sulla verticale della macchinina (LL-Firenze_3)
+verticale (RF-Firenze_3)
+sì (LL-Firenze_4)
+la partenza (RF-Firenze_4)
+sì a metà fra la macchinina e il fondo del foglio (LL-Firenze_5)
+a metà eh come fra la macchina e il fo+ e la fine del foglio o (RF-Firenze_5)
+sì a metà fra la macchina e la fine del foglio okay a sinistra della televisione (LL-Firenze_6)
+okay sì okay (RF-Firenze_6)
+poi scendi un po' andando a destra e giri intorno alla televisione (LL-Firenze_7)
+no aspetta c'è con linea tratteg+ con la linea tratteggiata sce+ (RF-Firenze_7)
+sì e fai un semicerchio intorno alla televisione (LL-Firenze_8)
+scendendo come dal punto de+ di partenza (RF-Firenze_8)
+scendi dal punto di partenza verso destra in basso (LL-Firenze_9)
+okay scendo vado sotto la televisione (LL-Firenze_9)
+sì (LL-Firenze_10)
+okay (RF-Firenze_10)
+dopodiché risali un po' sempre andando verso destra (LL-Firenze_11)
+sì (RF-Firenze_11)
+fino alla stessa altezza del punto di partenza (LL-Firenze_12)
+sì a metà sempre fra televisione e sci come linea fra pu+ fra il il punto di partenza (RF-Firenze_12)
+aspetta te la partenza fa' un semicerchio intorno alla televisione (LL-Firenze_13)
+sì okay (RF-Firenze_13)
+poi risali un po' fino a che in orizzontale il l'altezza della partenza è uguale a quella di del punto in cui sei adesso (LL-Firenze_14)
+sì okay ma il punto è a metà fra televisione e sci (RF-Firenze_14)
+e sci (LL-Firenze_15)
+sì gli sci (RF-Firenze_15)
+indo' stanno (LL-Firenze_16)
+a destra della televisione non hai degli sci (RF-Firenze_16)
+no (LL-Firenze_17)
+mh (RF-Firenze_17)
+sì comu+ ehm comunque posso immaginà dove siano vesti sci (LL-Firenze_18)
+okay (RF-Firenze_18)
+te c'hai una torta (LL-Firenze_19)
+una torta è ancora più a destra sì (RF-Firenze_19)
+sì ecco devi girare intorno alla torta completamente (LL-Firenze_20)
+okay (RF-Firenze_20)
+e ritorni molto vicino al punto di di in cui eravamo prima (LL-Firenze_21)
+quale punto però di quello di partenza o il punto (RF-Firenze_21)
+no l'ulti+ l'ultimo detto (LL-Firenze_22)
+il penultimo cioè (RF-Firenze_22)
+quello che dicevi vicino a vicino agli sci no (LL-Firenze_23)
+sì (RF-Firenze_23)
+giri intorno alla torta e fa' codesto (LL-Firenze_24)
+dal basso sempre giro (RF-Firenze_24)
+te c'entri dal basso e e risali dall'alto (LL-Firenze_25)
+okay sì (RF-Firenze_25)
+e so+ c'è il punto in cui siamo adesso e vicino a quello in cui c'era il ehm eravamo prima okay (LL-Firenze_26)
+sì molto vicino o proprio (RF-Firenze_26)
+sì molto vicino quasi si toccano (LL-Firenze_27)
+okay aspetta sì (RF-Firenze_26)
+poi vai un pochino dritto fino ad essere sopra la televisione (LL-Firenze_27)
+dritto (RF-Firenze_27)
+dritto (LL-Firenze_28)
+sopra la televisione di quanto circa (RF-Firenze_28)
+in verticale un po' più sopra del punto di partenza (LL-Firenze_29)
+un po' più sopra (RF-Firenze_29)
+sì (LL-Firenze_30)
+del punto di partenza okay aspetta eh ehm sì (RF-Firenze_30)
+poi in alto a sinistra c'è la macchina (LL-Firenze_31)
+okay sì (RF-Firenze_31)
+devi devi arrivarci sulla sua sinistra sulla sinistra della macchina (LL-Firenze_32)
+okay ma come (RF-Firenze_32)
+dal dal punto dove siamo adesso (LL-Firenze_33)
+sì sì ma come ci vado dritto (RF-Firenze_33)
+pressoché dritto (LL-Firenze_34)
+in obliquo (RF-Firenze_34)
+sì in obliquo (LL-Firenze_35)
+okay (RF-Firenze_35)
+fino al dove c'è il paraurti (LL-Firenze_36)
+sì (RF-Firenze_35)
+ecco poi giri sopra alla macchina (LL-Firenze_37)
+okay (RF-Firenze_37)
+ehm riscendi fino ad arrivare alla gomma posteriore (LL-Firenze_38)
+sì (RF-Firenze_38)
+a questo punto ehm c'è un'altra macchinina sulla destra (LL-Firenze_39)
+sì (RF-Firenze_39)
+ecco dal dalla gomma posteriore della prima macchina (LL-Firenze_40)
+sì (RF-Firenze_40)
+arrivi al paraurti di quest'altra (LL-Firenze_41)
+parte davanti o parte dietro (RF-Firenze_41)
+a n è la alla la parte davanti (LL-Firenze_42)
+parte davanti (RF-Firenze_42)
+sì (LL-Firenze_43)
+okay come (RF-Firenze_43)
+eh in verticale (LL-Firenze_44)
+in verticale totalmente (RF-Firenze_44)
+pressoché sì verticale (LL-Firenze_45)
+passando# sopra a un orologio per caso (RF-Firenze_45)
+l'orologio# non ce l'ho comunque devi arrivare a quella macchinina lì (LL-Firenze_46)
+okay (RF-Firenze_46)
+che è di colore rosso (LL-Firenze_47)
+eeh e da me è f+ è grigia (RF-Firenze_47)
+ecco quella grigia è sopra (LL-Firenze_48)
+sì (RF-Firenze_48)
+io invece ce n'ho sotto una rossa (LL-Firenze_49)
+te se+ (RF-Firenze_49)
+quindi te lo rispiego te sei alla prima macchina dove ti dicevo (LL-Firenze_50)
+sì io sono partito ho fatto il giro della macchina rossa adesso (RF-Firenze_50)
+sì (LL-Firenze_51)
+okay (RF-Firenze_51)
+a quel punto lì (LL-Firenze_52)
+vado tutto in o (RF-Firenze_52)
+vai in diagonale fino quasi sopra la torta (LL-Firenze_53)
+mh aspetta c'è dalla macchina rossa (RF-Firenze_53)
+dalla macchina rossa scendi (LL-Firenze_54)
+devo tornare indietro (RF-Firenze_54)
+ehm sì torni fino verso la torta sopra la torta (LL-Firenze_55)
+in che modo però (RF-Firenze_55)
+con una linea un po' ondulata comunque diagonale (LL-Firenze_56)
+in obliquo in giù sarebbe comunque (RF-Firenze_56)
+in obliquo in# giù sì (LL-Firenze_57)
+sì okay ma quindi ritorno alla stessa linea di prima (RF-Firenze_57)
+ritorni# molto vicino a quella di prima (LL-Firenze_58)
+okay sì (RF-Firenze_58)
+a questo punto (LL-Firenze_59)
+sì (RF-Firenze_59)
+sei sopra la torta no (LL-Firenze_60)
+sì (RF-Firenze_60)
+risali fino al paraurti della macchina grigia (LL-Firenze_61)
+quindi eeh la parte davanti sempre okay (RF-Firenze_61)
+sì (LL-Firenze_62)
+risalgo come ve+ normale verticale (RF-Firenze_62)
+un po' tondeggiando verso l'esterno (LL-Firenze_63)
+c'è verso la parte d+ eeh (RF-Firenze_63)
+verso il verso il limite del foglio (LL-Firenze_64)
+la mia destra (RF-Firenze_64)
+eh 'un non ti vedo non mi riesce vedè' (LL-Firenze_65)
+ah okay (RF-Firenze_65)
+verso verso il dove finisce il foglio (LL-Firenze_66)
+sì okay okay (RF-Firenze_66)
+eh (LL-Firenze_67)
+sì (RF-Firenze_67)
+e arrivi al paraurti della macchina grigia (LL-Firenze_68)
+ci sono ma come paraurti è molto vicino (RF-Firenze_68)
+a mezzo centimetro (LL-Firenze_69)
+okay (RF-Firenze_69)
+di costì prosegui (LL-Firenze_70)
+sì (RF-Firenze_70)
+lungo la macchina (LL-Firenze_71)
+in che senso (RF-Firenze_71)
+cioè fai delle linee che arrivano fino alla parte posteriore sempre distanti mezzo centimetro dalla macchina (LL-Firenze_72)
+cioè giro intorno# alla macchina (RF-Firenze_72)
+no devi semplicemente andarci di fianco (LL-Firenze_73)
+di fianco ci sono andato f+ dalla parte dove finisce il foglio (RF-Firenze_73)
+no aspetta devi la macchina la passi a sinistra (LL-Firenze_74)
+ah a sinistra la devo fa la mia sinistra (RF-Firenze_74)
+a sinistra sì alla s+ alla sinistra sì sì sì (LL-Firenze_75)
+eh allo+ aspetta quindi non dove finisce il foglio a a rientrare (RF-Firenze_75)
+ah de+ sì devi rientrare fai una specie di curva in fuori in questo caso e poi rientri (LL-Firenze_76)
+ok+ sì okay (RF-Firenze_76)
+poi le vedi delle stelline mezzo al foglio (LL-Firenze_77)
+s+ sì sì (RF-Firenze_77)
+ecco dalla fine della macchina (LL-Firenze_78)
+sì (RF-Firenze_78)
+ti sposti fino a un punto che sta a tre centimetri dalla stella più in alto a destra (LL-Firenze_79)
+aspetta mi sposto come (RF-Firenze_79)
+l'hai presente la stella più in alto (LL-Firenze_80)
+sì (RF-Firenze_80)
+che è una di quelle più piccole (LL-Firenze_81)
+sì ce l'ho (RF-Firenze_81)
+vai verso destra di tre centimetri (LL-Firenze_82)
+sì (RF-Firenze_82)
+e trovi un punto (LL-Firenze_83)
+nero (RF-Firenze_83)
+sì (LL-Firenze_84)
+eh ma è un po' più in alto rispetto all'ultima stella (RF-Firenze_84)
+insomma è quella zona lì (LL-Firenze_85)
+okay (RF-Firenze_85)
+quel punto lì è il mio arrivo e lo colleghi fino al a dov'eri sulla macchina (LL-Firenze_86)
+lo collego (RF-Firenze_86)
+a dov'eri prima con la macchina cioè te vai lungo la macchina e poi (LL-Firenze_87)
+cioè la macchina grigia sono andato lungo ho continuato (RF-Firenze_87)
+alla macchina grigia e poi da da da lungo la macchina grigia vai fino a questo punto nero (LL-Firenze_88)
+sì ci sono (RF-Firenze_88)
+chiuso (LL-Firenze_89)
+okay (RF-Firenze_89)
+poi dovrebbe comincià' il tuo (LL-Firenze_90)
+sì (RF-Firenze_90)
+okay (LL-Firenze_100)
+allora il mio eeh dunque hai una farfalla sì (RF-Firenze_100)
+no (LL-Firenze_100)
+vabbè c'hai questo punto nero (RF-Firenze_100)
+sì (LL-Firenze_100)
+cioè immaginati fin che è ehm l'ala sinistra di una farfalla da me cioè è (RF-Firenze_100)
+la farfalla sta a destra oppure a sinistra del (LL-Firenze_100)
+è a destra del punto nero (RF-Firenze_100)
+sì (LL-Firenze_100)
+allora a questo punto te mettiti mettiti nella mia posizione come io sono adesso okay (RF-Firenze_100)
+sì (LL-Firenze_100)
+allora dal punto nero (RF-Firenze_100)
+sì (LL-Firenze_100)
+te vai eeh verso destra (RF-Firenze_100)
+sì (LL-Firenze_100)
+la mia destra okay (RF-Firenze_100)
+sì sì sì (LL-Firenze_100)
+lo vedi un camion (RF-Firenze_100)
+certo (LL-Firenze_100)
+allora te devi passare dietro al camion tratteggiando sempre una linea (RF-Firenze_100)
+ma la farfalla co+ cosa c'entra con questo niente (LL-Firenze_100)
+no no era per indicarti il punto nero (RF-Firenze_100)
+sì e fino a e in che punto preciso del camion ci arrivo (LL-Firenze_100)
+c'è il punto allora devi fare una linea ehm (RF-Firenze_100)
+tratteggiata (LL-Firenze_100)
+sì sempre verso destra mia verso la sinistra tua (RF-Firenze_100)
+sì (LL-Firenze_100)
+vai dietro il camion (RF-Firenze_100)
+sulla sulla gomma posteriore (LL-Firenze_100)
+sì un po' più a destra della gomma posteriore (RF-Firenze_100)
+sì (LL-Firenze_100)
+okay poi allora eeh continui a tratteggiare sempre da me è una linea tratteggiata (RF-Firenze_100)
+sì sì (LL-Firenze_100)
+allora lo vedi il dado (RF-Firenze_100)
+sì (LL-Firenze_100)
+ce l'hai sì da stai continuan+ la linea deve passare sopra il dado (RF-Firenze_100)
+e sopra anche il camion prima (LL-Firenze_100)
+sì passando sopra il camion (RF-Firenze_100)
+sì (LL-Firenze_100)
+eeh devi andare sopra al dado sopra la parte superiore del dado sì (RF-Firenze_100)
+sopra okay (LL-Firenze_100)
+poi allora (RF-Firenze_100)
+ci sono sopra il dado (LL-Firenze_100)
+sì allora c'hai gli occhiali anche li hai visti gli occhiali (RF-Firenze_100)
+gli occhiali da sole (LL-Firenze_100)
+sì (RF-Firenze_100)
+sì (LL-Firenze_100)
+allora praticamente te con questa linea devi proseguire (RF-Firenze_100)
+mh (LL-Firenze_100)
+eeh allora fr+ ehm devi giungere in un punto medio immaginati un punto medio fra gli occhiali e il dado okay (RF-Firenze_100)
+sì (LL-Firenze_100)
+come come distanza in (RF-Firenze_100)
+- (LL-Firenze_100)
+in in orizzontale okay (RF-Firenze_100)
+sì l'ho capito te c'hai anche una bicicletta vicino
+bicicletta no (RF-Firenze_100)
+vabbè ho capito va bene (LL-Firenze_100)
+non ce l'ho allora c'è un punto in mezzo (RF-Firenze_100)
+sì (LL-Firenze_100)
+immaginati ehm diciamo mettiti come si può dire in eeh in verticale no cioè tracciati una linea in verticale no (LL-Firenze_100)
+una linea tra gli occhiali e il dado e vado a metà di questa linea okay (LL-Firenze_100)
+sì bravo okay arrivi fin lì (LL-Firenze_100)
+mh (LL-Firenze_100)
+poi allora c'è un lupo anche vero (LL-Firenze_100)
+sì uno brutto viola (LL-Firenze_100)
+sì (LL-Firenze_100)
+mh (LL-Firenze_100)
+allora da questo punto (LL-Firenze_100)
+mh (LL-Firenze_100)
+devi andare sopra il lupo (LL-Firenze_100)
+sopra la (LL-Firenze_100)
+passandoci molto vicino okay (LL-Firenze_100)
+vicino alla coda (LL-Firenze_100)
+sì (LL-Firenze_100)
+okay (LL-Firenze_100)
+praticamente quasi attaccato alla coda (LL-Firenze_100)
+aspetta
+ci giri intorno
+aspetta devo arrivarci
+sì okay gi+ ci giri intorno
+ci giro intorno sì
+c'è ti torna come figura no
+mh
+detto molto male la prima parte che t'ho fatto tratteggiare assomiglia a un cuore una mezza parte di un cuore
+mh no però fa la stessa
+eh okay allora ehm giri intorno al lupo
+allo+ sì
+okay eeh fino a arrivare alla zampa lo vedi la zampina più in avanti
+sì
+eh devi andare sempre passarci molto vicino
+sì
+tratteggiando sempre la linea e passi so+ sotto agli occhiali giusto
+sotto gli occhiali sì
+passa sotto agli occhiali molto vicino okay
+mh
+poi vai giù scendi
+eh verso
+eh allora adesso aspetta le vedi le stelle
+sì
+sono precisamente otto giusto
+sì
+so+ allora eeh ne ve+ ce n'hai tre te no nel le la parte superiore sono tre le stelle
+le tre le tre che stanno più sopra sì
+sì ce ne son due abbastanza grandi
+e una piccola
+sì
+mh
+allora la linea deve passare
+mh
+in mezzo fra la grande e la piccola
+sì
+la ehm la mia stella grande è quella di sinistra quindi la tua è è in contrario no
+sì aspetta
+è la la stella destra
+aspetta ehm io sono agli occhiali no
+okay dagli occhiali devi scendere
+e v+ e punto verso le stelle
+eeh verso le stelle sì
+ecco
+la la li+ la linea deve passare in mezzo alla stella grande e quella piccola
+sì ma ci deve entrare dalla parte del puntino nero o dalla parte opposta
+eeh il puntino nero
+il punto nero è dove abbiamo scambiato i percorsi no
+sì dove te c'hai
+eh
+eh quello sarebbe l'arrivo i le ehm il la partenza io l'arrivo
+io sì io
+ti dico dove l'ho eeh la stella più grande ti risulta la stella più grande è quella sotto quella più sotto di tutte
+sì però aspetta un momento
+sì
+prima# fra queste due stelle te c'entri dalla parte del punto nero o da quell'altra o dalla parte del
+mh ma la parte del punto nero da me è a destra rispetto a questa linea
+sì anche a me è a d+ anche a me è a destra
+mh ehm aspetta ti come ti posso spiegare allora innanzitutto ti dico com'è l'arrivo da me
+mh
+allora l'arrivo è un punto sotto la stella più grande
+sì che sarebbe
+l'ultima in so+ eeh sotto
+sì
+okay praticamente ehm devi eeh con questa linea devi arrivare a questo punto sotto a questa stella
+mh
+sarà ehm nemmeno mezzo centimetro sotto la stella più grande okay
+mh sì
+ci de+ eh devi passare in mezzo alle stelle la parte superiore delle stelle quelle tre stelle che t'ho detto prima
+sì
+dove c'è quella piccola in mezzo no
+aspetta aspetta ricomincia quest'ultima parte perché è un po' casinosa
+eh lo so eeh non so non mi so spiegare
+allora le stelle sono otto no
+sì
+e sono messe a semicerchio
+sì una sorta sì
+ecco e l'apertura del semicerchio è alla tua sinistra
+cioè aspetta perché com+ come cosa intendi te per semicerchio
+le stelle sono messe a semicerchio sì o no
+ma io direi non non lo definirei semicerchio da me
+vabbè però sono messe eeh
+aspetta come ti posso spiegare
+no però somiglia a un semicerchio o no
+mah io c'ho due stelle che stanno nel mezzo
+allora non può esse' son diverse le stelle
+dici cioè
+io ce l'ho tu+ tutte in fila
+e io ne ho tre sopra
+sì
+poi una sotto di media grandezza rispetto a quella nel mezzo più piccola quella del quella alta
+mh sì
+okay nella parte più alta ce n'hai una piccola nel mezzo
+ce n'ho una piccola una grande
+e due grandi una a sinistra e una a destra ce l'ho io
+s+ io ce n'ho io ce n'ho una piccola
+okay
+scendendo verso destra una grande e scendendo verso destra una media è diverso sì o no
+ehm com+ allora la parte superiore ce n'hai tre di stelle
+sì
+allo+ io ce n'ho una grande a sinistra una piccola nel mezzo
+mh mh
+e una della stessa grandezza di quella a sinistra più o meno un po' più piccola a destra
+mh mh ecco allo+ son diverse
+mh eeh come ti posso spiegare praticamente cioè ehm questa linea da+ dagli occhiali te devi scendere
+sì
+e devi passare in mezzo a
+facciamo per gradi se ti ti riesce
+aspetta#o se no aspetta ti posso anche dire l'arrivo
+mh
+per farti perché se l'ordine delle stelle è diverso no allora l'arrivo sai dov'è da me te lo spiego
+mh mh
+c'hai presente le due macchine
+e le due m+ quella
+la grigia e la rossa
+sì
+il l'arrivo
+sì
+è sono non sono sullo stesso piano d'altezza vero quella grigia e quella rossa
+e invece lo sono
+lo stesso
+pre+ pressappoco sì
+sì ma non proprio lo stesso
+quella grigia è un po' più in alto
+okay
+sì
+allora il punto d'arrivo te ehm è come se fosse eeh hai presente la la gomma posteriore della macchina grigia
+sì
+eh te devi pass+ praticamente andare in vertica+ eeh in orizzontale
+sì
+tracciarti una linea immaginaria <sp> #<F#389> in orizzon+#?
+fra la gomma posteriore de+ di quella grigia e poi
+sì e<ee> ed+ an+ procedendo verso pr+ la mia sinistra cioè verso destra da te
+sì
+okay e arrivi al punto medio fra la macchina rossa e la macchina grigia
+sì ci sono
+e quello è l'arrivo
+è il tuo arrivo okay
+eh
+ora guardiamo di passare questo gruppo di stelle (LL)
+eh il gruppo di stelle è s+ è strano che però siano
+aspetta facciamolo
+aspetta più te prova a mettertela al contrario il foglio forse te mi dici come sono da te e ti sembra un semice+
+ma io ci ah sì perfetto
+e aspetta fammi vedere se da te c'è a me non mi risulta un semicerchio le tue stelle come le vedi te cioè almeno da me ne risultano due in mezzo ce ne son due nel mezzo
+no invece a me risulta il semicerchio punto e basta
+vabbè
+eh senti allora f+ vediamo di fa' così
+okay
+facciamo per linee di congiungimento fra le altre figure
+linee di congiungimento ? in che senso ?
+nel senso ad esempio metti fra il camion e la macchina rossa
+sì
+passa quale distanza eccetera eccetera capito
+la linea
+sì
+questa ma s+ ehm c'è te sei arrivato al punto degli occhiali sotto sotto gli occhiali
+s+ sono sotto gli occhiali
+eh da quel punto te devi scendere eeh
+verso le stelle
+verso il centro accentrandoti nel nel foglio
+sì sì ci sono fin lì sono arrivato
+lo vedi l'arrivo
+sì
+eh te ci devi andare praticamente in verticale spostato un po' verso destra la mia destra e quindi la tua sinistra
+s+ sì ma devo passare in mezzo a delle stelle oppure no
+sì
+eh e come faccio
+io penso che sia la parte destra della stella più piccola in alto alla destra della stella
+mh sì
+praticamente rasentandola e arrivi all'arrivo (RF-)
+boh io vo' così e poi se 'un mi riesce pazienza
+okay dai va bene
+okay
+eh
+ci siamo (LL)
+eh sì

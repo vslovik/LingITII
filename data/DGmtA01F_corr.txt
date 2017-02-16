@@ -34,7 +34,7 @@ Nst:          435
 
 
 p1G#1:  allora <breath> <sp> <inspiration> la partenza <breath>
-        <tongue-click> starebbe / l'hai presente <sp> <inspiration>
+        <tongue-click> starebbe / l'hai? presente <sp> <inspiration>
         quella televisione ? <sp> in basso a sinistra ?
 
 
@@ -81,7 +81,7 @@ p1G#13:  poi <inspiration> {<NOISE> scendi} un po' andando a destra e
          giri intorno <vocal> alla televisione
 
 
-p2F#14:  no , aspetta <tongue-click> cè con<nn> linea tratteg+ /
+p2F#14:  no , aspetta <tongue-click> c'è con<nn> linea tratteg+ /
          con la linea #<G#15> tratteggiata ? <inspiration> sce+#
 
 
@@ -133,7 +133,7 @@ p1G#25:  <ah> aspetta , te <sp> la partenza <inspiration> #<F#26> fa'
          un semicerchio# intorno alla #<F#26> televisione#
 
 
-p2F#26:  #<G#25> sì# <lp> #<G#25> <tongue-click> okay# <sp>
+p2F#26:  #<G#25> sì#? <lp> #<G#25> <tongue-click> okay# <sp>
          {[whispering <unclear>}
 
 
@@ -348,7 +348,7 @@ p1G#83:  arrivi al paraurti di quest'altra
 p2F#84:  parte davanti o parte dietro ?
 
 
-p1G#85:  a <vocal> no , è la / alla / la parte davanti
+p1G#85:  a <vocal> n , è la / alla / la parte davanti
 
 
 p2F#86:  parte #<G#87> davanti ?#
@@ -426,7 +426,7 @@ p1G#107:  #<F#106> vai<ii># <sp> in diagonale <sp> fino quasi sopra
 
 
 p2F#108:  {[whispering] <mh>} <lp> <inspiration> <clear-throath>
-          <tongue-click> #<G#109> aspetta# cè dalla macchina
+          <tongue-click> #<G#109> aspetta# c'è dalla macchina
           #<G#109> rossa ?#
 
 
@@ -503,7 +503,7 @@ p1G#127:  #<F#126> un po'# tondeggiando verso l'esterno
 <sp>
 
 
-p2F#128:  <vocal> cè verso la parte d+ <sp> #<G#129> <eeh>#
+p2F#128:  <vocal> c'è verso la parte d+ <sp> #<G#129> <eeh>#
 
 
 p1G#129:  #<F#128> verso# il verso il limite del #<F#130> foglio#
@@ -601,7 +601,7 @@ p1G#151:  #<F#150> a sinistra , sì# <lp> <vocal> alla s+ alla
           sinistra , sì sì sì
 
 
-p2F#152:  <eh!> allora aspetta <breath> <tongue-click> quindi non dove
+p2F#152:  <eh!> allora? aspetta <breath> <tongue-click> quindi non dove
           finisce il foglio <sp> a a rientrare #<G#153>
 
 'allora' è ipoarticolato
@@ -1000,7 +1000,7 @@ p2G#262:  #<F#261> sì# okay <sp> gi+ / ci giri intorno
 p1F#263:  ci giro intorno , #<G#264> sì#
 
 
-p2G#264:  #<F#263> cioè# ti torna <vocal> come figura , no ?
+p2G#264:  #<F#263> c'è# ti torna <vocal> come figura , no ?
 
 
 p1F#265:  #<G#266> <mh>#
@@ -1240,7 +1240,7 @@ p2G#328:  dove c'è quella piccola in mezzo , #<F#329> no ?#
 
 
 p1F#329:  #<G#328> aspetta# , aspetta , ricomincia quest'ultima parte
-          perché è un po' casinosa
+          perché è un po' casinosa?
 
 
 p2G#330:  <eh> lo so ! #<F#331> <eeh> non so / non mi so spiegà'#
@@ -1349,7 +1349,7 @@ p2G#356:  <ehm> <sp> com+ <sp> allora , la parte superiore ce n'hai tre
 p1F#357:  sì
 
 
-p2G#358:  allora io ce n'ho <sp> una grande <sp> <tongue-click> 
+p2G#358:  allora? io ce n'ho <sp> una grande <sp> <tongue-click>
           #<F#359> a sinistra <inspiration># una piccola nel mezzo
 
 
@@ -1510,7 +1510,7 @@ p2G#400:  aspetta più <sp> te prova a mettertela al contrario il
 p1F#401:  #<G#400> ma <sp> io ci# <lp> <ah!> sì ! perfetto
 
 
-p2G#402:  e aspetta , fammi vedere se da te <sp> cè a me non mi
+p2G#402:  e aspetta , fammi vedere se da te <sp> c'è a me non mi
           risulta un semicerchio le tue stelle , come le vedi te <sp>
           <inspiration> cioè almeno da me ne risultano due in mezzo ,
           ce ne son due #<F#403> nel mezzo#
