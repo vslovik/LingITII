@@ -512,7 +512,7 @@ p1G#129:  #<F#128> verso# il verso il limite del #<F#130> foglio#
 p2F#130:  #<G#129> la mia# destra ?
 
 
-p1G#131:
+p1G#131:  <eh> 'un [dialect] {<laugh> non ti vedo non mi riesce vedè'}
 
 tutto il turno è disturbato
 
