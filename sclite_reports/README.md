@@ -26,3 +26,23 @@ http://mariangemarcano.blogspot.it/2012/09/speech-recognition-setting-up-sclite.
 scilite reports: http://www1.icsi.berkeley.edu/Speech/docs/sctk-1.2/outputs.htm#output_reports_name_0
 
 ./sclite -r "/home/valeriya/project/LingITII/trn/clips.txt" -h "/home/valeriya/project/LingITII/trn/google.txt" -i rm -o dtl
+
+
+./sclite -r "/home/valeriya/project/LingITII/trn/clips.txt" -h "/home/valeriya/project/LingITII/trn/dragon.txt" -i rm -o dtl
+./sclite -r "/home/valeriya/project/LingITII/trn/clips.txt" -h "/home/valeriya/project/LingITII/trn/google.txt" -i rm -o dtl
+./sclite -r "/home/valeriya/project/LingITII/trn/clips.txt" -h "/home/valeriya/project/LingITII/trn/dragon.txt" -i rm -o lur
+./sclite -r "/home/valeriya/project/LingITII/trn/clips.txt" -h "/home/valeriya/project/LingITII/trn/google.txt" -i rm -o lur
+./sclite -r "/home/valeriya/project/LingITII/trn/clips.txt" -h "/home/valeriya/project/LingITII/trn/dragon.txt" -i rm -o pralign
+./sclite -r "/home/valeriya/project/LingITII/trn/clips.txt" -h "/home/valeriya/project/LingITII/trn/google.txt" -i rm -o pralign
+./sclite -r "/home/valeriya/project/LingITII/trn/clips.txt" -h "/home/valeriya/project/LingITII/trn/dragon.txt" -i rm -o prf
+./sclite -r "/home/valeriya/project/LingITII/trn/clips.txt" -h "/home/valeriya/project/LingITII/trn/google.txt" -i rm -o prf
+./sclite -r "/home/valeriya/project/LingITII/trn/clips.txt" -h "/home/valeriya/project/LingITII/trn/dragon.txt" -i rm -o rsum
+./sclite -r "/home/valeriya/project/LingITII/trn/clips.txt" -h "/home/valeriya/project/LingITII/trn/google.txt" -i rm -o rsum
+./sclite -r "/home/valeriya/project/LingITII/trn/clips.txt" -h "/home/valeriya/project/LingITII/trn/dragon.txt" -i rm -o sgml
+./sclite -r "/home/valeriya/project/LingITII/trn/clips.txt" -h "/home/valeriya/project/LingITII/trn/google.txt" -i rm -o sgml
+./sclite -r "/home/valeriya/project/LingITII/trn/clips.txt" -h "/home/valeriya/project/LingITII/trn/dragon.txt" -i rm -o spk
+./sclite -r "/home/valeriya/project/LingITII/trn/clips.txt" -h "/home/valeriya/project/LingITII/trn/google.txt" -i rm -o spk
+./sclite -r "/home/valeriya/project/LingITII/trn/clips.txt" -h "/home/valeriya/project/LingITII/trn/dragon.txt" -i rm -o snt
+./sclite -r "/home/valeriya/project/LingITII/trn/clips.txt" -h "/home/valeriya/project/LingITII/trn/google.txt" -i rm -o snt
+./sclite -r "/home/valeriya/project/LingITII/trn/clips.txt" -h "/home/valeriya/project/LingITII/trn/dragon.txt" -i rm -o sum
+./sclite -r "/home/valeriya/project/LingITII/trn/clips.txt" -h "/home/valeriya/project/LingITII/trn/google.txt" -i rm -o sum

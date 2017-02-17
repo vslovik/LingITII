@@ -53,9 +53,9 @@ class Reader(object):
 
     def __iter__(self):
         if self.filename:
-            file = codecs.open(self.filename, 'r', 'ISO-8859-1', errors='ignore')
+            file = codecs.open(self.filename, 'r', 'utf-8', errors='ignore')
         else:
-            file = codecs.getreader('ISO-8859-1')(sys.stdin)
+            file = codecs.getreader('utf-8')(sys.stdin)
         i = 0
         for line in file:
             i += 1
