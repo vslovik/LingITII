@@ -1,4 +1,4 @@
-<SYSTEM title="/home/valeriya/project/LingITII/trn/dragon.txt" ref_fname="/home/valeriya/project/LingITII/trn/clips.txt" hyp_fname="/home/valeriya/project/LingITII/trn/dragon.txt" creation_date="Fri Feb 17 23:15:12 2017" format="2.4" frag_corr="FALSE" opt_del="FALSE" weight_ali="FALSE" weight_filename="">
+<SYSTEM title="/home/valeriya/project/LingITII/trn/dragon.txt" ref_fname="/home/valeriya/project/LingITII/trn/clips.txt" hyp_fname="/home/valeriya/project/LingITII/trn/dragon.txt" creation_date="Fri Sep 15 21:11:21 2017" format="2.4" frag_corr="FALSE" opt_del="FALSE" weight_ali="FALSE" weight_filename="">
 <SPEAKER id="ll">
 <PATH id="(ll-firenze_1)" word_cnt="12" sequence="0">
 C,"allora","allora":C,"la","la":C,"partenza","partenza":C,"starebbe","starebbe":D,"hai",:C,"presente","presente":C,"quella","quella":C,"televisione","televisione":C,"in","in":C,"basso","basso":C,"a","a":C,"sinistra","sinistra"
@@ -13,10 +13,10 @@ C,"sulla","sulla":S,"verticale","vetrina":C,"della","della":C,"macchinina","macc
 S,"sì","si"
 </PATH>
 <PATH id="(ll-firenze_5)" word_cnt="11" sequence="8">
-D,"sì",:C,"a","a":S,"metà","met�":C,"fra","fra":C,"la","la":D,"macchinina",:D,"e",:S,"il","mantiene":C,"fondo","fondo":C,"del","del":C,"foglio","foglio"
+D,"sì",:C,"a","a":C,"metà","metà":C,"fra","fra":C,"la","la":D,"macchinina",:D,"e",:S,"il","mantiene":C,"fondo","fondo":C,"del","del":C,"foglio","foglio"
 </PATH>
 <PATH id="(ll-firenze_6)" word_cnt="16" sequence="10">
-S,"sì","cos�":C,"a","a":S,"metà","met�":C,"fra","fra":C,"la","la":C,"macchina","macchina":D,"e",:S,"la","alla":C,"fine","fine":D,"del",:D,"foglio",:S,"okay","con":S,"a","le":S,"sinistra","assise":C,"della","della":C,"televisione","televisione"
+S,"sì","così":C,"a","a":C,"metà","metà":C,"fra","fra":C,"la","la":C,"macchina","macchina":D,"e",:S,"la","alla":C,"fine","fine":D,"del",:D,"foglio",:S,"okay","con":S,"a","le":S,"sinistra","assise":C,"della","della":C,"televisione","televisione"
 </PATH>
 <PATH id="(ll-firenze_7)" word_cnt="12" sequence="12">
 C,"poi","poi":C,"scendi","scendi":C,"un","un":C,"po'","po'":S,"andando","dando":C,"a","a":C,"destra","destra":C,"e","e":S,"giri","il":C,"intorno","intorno":C,"alla","alla":C,"televisione","televisione"
@@ -39,8 +39,8 @@ D,"fino",:D,"alla",:S,"stessa","sa":S,"altezza","di":S,"del","essere":C,"punto",
 <PATH id="(ll-firenze_13)" word_cnt="10" sequence="24">
 C,"aspetta","aspetta":D,"te",:C,"la","la":C,"partenza","partenza":D,"fa'",:D,"un",:D,"semicerchio",:D,"intorno",:S,"alla","falsificatore":C,"televisione","televisione"
 </PATH>
-<PATH id="(ll-firenze_14)" word_cnt="24" sequence="26">
-C,"poi","poi":S,"risali","risale":C,"un","un":C,"po'","po'":C,"fino","fino":C,"a","a":C,"che","che":C,"in","in":C,"orizzontale","orizzontale":C,"il","il":S,"l'altezza","l'attesa":C,"della","della":C,"partenza","partenza":D,"è",:S,"uguale","qual":S,"a","�":C,"quella","quella":D,"di",:D,"del",:D,"punto",:S,"in","di:":S,"cui","questa":S,"sei","�":C,"adesso","adesso"
+<PATH id="(ll-firenze_14)" word_cnt="25" sequence="26">
+C,"poi","poi":S,"risali","risale":C,"un","un":C,"po'","po'":C,"fino","fino":C,"a","a":C,"che","che":C,"in","in":C,"orizzontale","orizzontale":C,"il","il":S,"l'altezza","l'attesa":C,"della","della":C,"partenza","partenza":I,,"qual":C,"è","è":D,"uguale",:D,"a",:C,"quella","quella":D,"di",:D,"del",:D,"punto",:S,"in","di:":S,"cui","questa":S,"sei","è":C,"adesso","adesso"
 </PATH>
 <PATH id="(ll-firenze_15)" word_cnt="2" sequence="28">
 D,"e",:S,"sci","esci"
@@ -52,7 +52,7 @@ D,"indo'",:D,"stanno",
 C,"no","no"
 </PATH>
 <PATH id="(ll-firenze_18)" word_cnt="10" sequence="34">
-D,"sì",:D,"comu+",:S,"ehm","si":C,"comunque","comunque":D,"posso",:S,"immaginà","possibile":S,"dove","autolesionisti":S,"siano","che":S,"vesti","�":S,"sci","morta"
+D,"sì",:D,"comu+",:S,"ehm","si":C,"comunque","comunque":D,"posso",:S,"immaginà","possibile":S,"dove","autolesionisti":S,"siano","che":S,"vesti","è":S,"sci","morta"
 </PATH>
 <PATH id="(ll-firenze_19)" word_cnt="4" sequence="36">
 D,"te",:D,"c'hai",:D,"una",:D,"torta",
@@ -67,7 +67,7 @@ D,"e",:C,"ritorni","ritorni":C,"molto","molto":C,"vicino","vicino":C,"al","al":C
 D,"no",:D,"l'ulti+",:C,"l'ultimo","l'ultimo":C,"detto","detto"
 </PATH>
 <PATH id="(ll-firenze_23)" word_cnt="10" sequence="44">
-D,"quello",:C,"che","che":C,"dicevi","dicevi":I,,"che":S,"vicino","la":S,"a","vicina":C,"vicino","vicino":D,"agli",:S,"sci","se":S,"no","�"
+D,"quello",:C,"che","che":C,"dicevi","dicevi":I,,"che":S,"vicino","la":S,"a","vicina":C,"vicino","vicino":D,"agli",:S,"sci","se":S,"no","è"
 </PATH>
 <PATH id="(ll-firenze_24)" word_cnt="7" sequence="46">
 D,"giri",:D,"intorno",:D,"alla",:S,"torta","dietro":S,"e","la":S,"fa'","porta":S,"codesto","fuori"
@@ -76,7 +76,7 @@ D,"giri",:D,"intorno",:D,"alla",:S,"torta","dietro":S,"e","la":S,"fa'","porta":S
 S,"te","dei":S,"c'entri","centri":C,"dal","dal":C,"basso","basso":D,"e",:D,"e",:S,"risali","risale":C,"dall'alto","dall'alto"
 </PATH>
 <PATH id="(ll-firenze_26)" word_cnt="21" sequence="50">
-S,"e","se":S,"so+","esso":S,"c'è","c'�":C,"il","il":C,"punto","punto":D,"in",:C,"cui","cui":C,"siamo","siamo":C,"adesso","adesso":D,"e",:C,"vicino","vicino":C,"a","a":C,"quello","quello":C,"in","in":C,"cui","cui":C,"c'era","c'era":C,"il","il":D,"ehm",:D,"eravamo",:D,"prima",:S,"okay","proprio"
+S,"e","se":S,"so+","esso":C,"c'è","c'è":C,"il","il":C,"punto","punto":D,"in",:C,"cui","cui":C,"siamo","siamo":C,"adesso","adesso":D,"e",:C,"vicino","vicino":C,"a","a":C,"quello","quello":C,"in","in":C,"cui","cui":C,"c'era","c'era":C,"il","il":D,"ehm",:D,"eravamo",:D,"prima",:S,"okay","proprio"
 </PATH>
 <PATH id="(ll-firenze_27)" word_cnt="6" sequence="52">
 D,"sì",:C,"molto","molto":C,"vicino","vicino":C,"quasi","quasi":D,"si",:C,"toccano","toccano"
@@ -88,7 +88,7 @@ C,"poi","poi":C,"vai","vai":S,"un","o":S,"pochino","poi":C,"dritto","dritto":C,"
 C,"dritto","dritto"
 </PATH>
 <PATH id="(ll-firenze_30)" word_cnt="10" sequence="58">
-C,"in","in":C,"verticale","verticale":C,"un","un":C,"po'","po'":S,"più","pi�":C,"sopra","sopra":C,"del","del":C,"punto","punto":C,"di","di":C,"partenza","partenza"
+C,"in","in":C,"verticale","verticale":C,"un","un":C,"po'","po'":C,"più","più":C,"sopra","sopra":C,"del","del":C,"punto","punto":C,"di","di":C,"partenza","partenza"
 </PATH>
 <PATH id="(ll-firenze_31)" word_cnt="1" sequence="60">
 S,"sì","si"
@@ -100,7 +100,7 @@ C,"poi","poi":D,"in",:D,"alto",:D,"a",:S,"sinistra","altro":S,"c'è","che":C,"la
 D,"devi",:S,"devi","di":C,"arrivarci","arrivarci":C,"sulla","sulla":C,"sua","sua":D,"sinistra",:D,"sulla",:C,"sinistra","sinistra":C,"della","della":C,"macchina","macchina"
 </PATH>
 <PATH id="(ll-firenze_34)" word_cnt="6" sequence="66">
-S,"dal","da":C,"dal","dal":C,"punto","punto":S,"dove","di":S,"siamo","s�":S,"adesso","medesima"
+S,"dal","da":C,"dal","dal":C,"punto","punto":S,"dove","di":S,"siamo","sì":S,"adesso","medesima"
 </PATH>
 <PATH id="(ll-firenze_35)" word_cnt="2" sequence="68">
 D,"pressoché",:C,"dritto","dritto"
@@ -118,7 +118,7 @@ C,"ecco","ecco":C,"poi","poi":C,"giri","giri":C,"sopra","sopra":S,"alla","la":C,
 D,"ehm",:S,"riscendi","discende":C,"fino","fino":C,"ad","ad":C,"arrivare","arrivare":S,"alla","la":C,"gomma","gomma":C,"posteriore","posteriore"
 </PATH>
 <PATH id="(ll-firenze_40)" word_cnt="9" sequence="78">
-C,"a","a":C,"questo","questo":C,"punto","punto":D,"ehm",:S,"c'è","c'�":C,"un'altra","un'altra":S,"macchinina","macchina":C,"sulla","sulla":C,"destra","destra"
+C,"a","a":C,"questo","questo":C,"punto","punto":D,"ehm",:C,"c'è","c'è":C,"un'altra","un'altra":S,"macchinina","macchina":C,"sulla","sulla":C,"destra","destra"
 </PATH>
 <PATH id="(ll-firenze_41)" word_cnt="8" sequence="80">
 C,"ecco","ecco":C,"dal","dal":C,"dalla","dalla":D,"gomma",:C,"posteriore","posteriore":C,"della","della":C,"prima","prima":C,"macchina","macchina"
@@ -151,13 +151,13 @@ C,"ecco","ecco":D,"quella",:S,"grigia","quelle":S,"è","righe":C,"sopra","sopra"
 D,"io",:D,"invece",:D,"ce",:S,"n'ho","che":C,"sotto","sotto":C,"una","una":C,"rossa","rossa"
 </PATH>
 <PATH id="(ll-firenze_51)" word_cnt="12" sequence="100">
-C,"quindi","quindi":D,"te",:D,"lo",:S,"rispiego","dispiego":S,"te","di":S,"sei","s�":S,"alla","la":S,"prima","mia":C,"macchina","macchina":D,"dove",:D,"ti",:D,"dicevo",
+C,"quindi","quindi":D,"te",:D,"lo",:S,"rispiego","dispiego":S,"te","di":S,"sei","sì":S,"alla","la":S,"prima","mia":C,"macchina","macchina":D,"dove",:D,"ti",:D,"dicevo",
 </PATH>
 <PATH id="(ll-firenze_52)" word_cnt="1" sequence="102">
-S,"sì","s�"
+C,"sì","sì"
 </PATH>
 <PATH id="(ll-firenze_53)" word_cnt="4" sequence="104">
-D,"a",:S,"quel","�":S,"punto","che.":S,"lì","li"
+D,"a",:S,"quel","è":S,"punto","che.":S,"lì","li"
 </PATH>
 <PATH id="(ll-firenze_54)" word_cnt="8" sequence="106">
 S,"vai","vari":C,"in","in":C,"diagonale","diagonale":C,"fino","fino":C,"quasi","quasi":C,"sopra","sopra":C,"la","la":S,"torta","porta"
@@ -211,13 +211,13 @@ D,"e",:D,"arrivi",:S,"al","riga":C,"paraurti","paraurti":C,"della","della":C,"ma
 C,"a","a":C,"mezzo","mezzo":C,"centimetro","centimetro"
 </PATH>
 <PATH id="(ll-firenze_71)" word_cnt="3" sequence="140">
-S,"di","i":S,"costì","costi":S,"prosegui","prosegu�"
+S,"di","i":S,"costì","costi":S,"prosegui","proseguì"
 </PATH>
 <PATH id="(ll-firenze_72)" word_cnt="3" sequence="142">
 C,"lungo","lungo":C,"la","la":C,"macchina","macchina"
 </PATH>
 <PATH id="(ll-firenze_73)" word_cnt="16" sequence="144">
-S,"cioè","cio�":C,"fai","fai":C,"delle","delle":C,"linee","linee":C,"che","che":C,"arrivano","arrivano":C,"fino","fino":C,"alla","alla":C,"parte","parte":C,"posteriore","posteriore":C,"sempre","sempre":C,"distanti","distanti":C,"mezzo","mezzo":C,"centimetro","centimetro":D,"dalla",:D,"macchina",
+C,"cioè","cioè":C,"fai","fai":C,"delle","delle":C,"linee","linee":C,"che","che":C,"arrivano","arrivano":C,"fino","fino":C,"alla","alla":C,"parte","parte":C,"posteriore","posteriore":C,"sempre","sempre":C,"distanti","distanti":C,"mezzo","mezzo":C,"centimetro","centimetro":D,"dalla",:D,"macchina",
 </PATH>
 <PATH id="(ll-firenze_74)" word_cnt="6" sequence="146">
 D,"no",:S,"devi","di":C,"semplicemente","semplicemente":S,"andarci","andati":C,"di","di":C,"fianco","fianco"
@@ -238,13 +238,13 @@ C,"poi","poi":S,"le","li":C,"vedi","vedi":I,,"un":C,"delle","delle":C,"stelline"
 S,"ecco","secco":C,"dalla","dalla":C,"fine","fine":C,"della","della":C,"macchina","macchina"
 </PATH>
 <PATH id="(ll-firenze_80)" word_cnt="18" sequence="158">
-D,"ti",:S,"sposti","disposti":C,"fino","fino":C,"a","a":C,"un","un":C,"punto","punto":C,"che","che":C,"sta","sta":C,"a","a":S,"tre","3":S,"centimetri","cm":C,"dalla","dalla":C,"stella","stella":S,"più","pi�":C,"in","in":C,"alto","alto":C,"a","a":C,"destra","destra"
+D,"ti",:S,"sposti","disposti":C,"fino","fino":C,"a","a":C,"un","un":C,"punto","punto":C,"che","che":C,"sta","sta":C,"a","a":S,"tre","3":S,"centimetri","cm":C,"dalla","dalla":C,"stella","stella":C,"più","più":C,"in","in":C,"alto","alto":C,"a","a":C,"destra","destra"
 </PATH>
 <PATH id="(ll-firenze_81)" word_cnt="7" sequence="160">
 D,"l'hai",:D,"presente",:C,"la","la":C,"stella","stella":D,"più",:C,"in","in":C,"alto","alto"
 </PATH>
 <PATH id="(ll-firenze_82)" word_cnt="7" sequence="162">
-D,"che",:D,"è",:C,"una","una":D,"di",:S,"quelle","delle":S,"più","pi�":C,"piccole","piccole"
+D,"che",:D,"è",:C,"una","una":D,"di",:S,"quelle","delle":C,"più","più":C,"piccole","piccole"
 </PATH>
 <PATH id="(ll-firenze_83)" word_cnt="6" sequence="164">
 C,"vai","vai":C,"verso","verso":C,"destra","destra":C,"di","di":C,"tre","tre":C,"centimetri","centimetri"
@@ -259,7 +259,7 @@ S,"sì","si"
 D,"insomma",:D,"è",:S,"quella","sono":S,"zona","quelle":S,"lì","solari"
 </PATH>
 <PATH id="(ll-firenze_87)" word_cnt="17" sequence="172">
-I,,"in":C,"quel","quel":C,"punto","punto":D,"lì",:S,"è","l�":C,"il","il":C,"mio","mio":C,"arrivo","arrivo":C,"e","e":C,"lo","lo":C,"colleghi","colleghi":C,"fino","fino":D,"al",:S,"a","alla":S,"dov'eri","doveri":C,"sulla","sulla":C,"macchina","macchina"
+I,,"in":C,"quel","quel":C,"punto","punto":C,"lì","lì":D,"è",:C,"il","il":C,"mio","mio":C,"arrivo","arrivo":C,"e","e":C,"lo","lo":C,"colleghi","colleghi":C,"fino","fino":D,"al",:S,"a","alla":S,"dov'eri","doveri":C,"sulla","sulla":C,"macchina","macchina"
 </PATH>
 <PATH id="(ll-firenze_88)" word_cnt="14" sequence="174">
 S,"a","ha":S,"dov'eri","doveri":C,"prima","prima":D,"con",:S,"la","una":C,"macchina","macchina":D,"cioè",:D,"te",:D,"vai",:C,"lungo","lungo":C,"la","la":C,"macchina","macchina":C,"e","e":D,"poi",
@@ -307,7 +307,7 @@ C,"certo","certo"
 C,"ma","ma":C,"la","la":C,"farfalla","farfalla":D,"co+",:D,"cosa",:D,"c'entra",:D,"con",:S,"questo","900":S,"niente","quest'oriente"
 </PATH>
 <PATH id="(ll-firenze_103)" word_cnt="13" sequence="204">
-D,"sì",:D,"e",:D,"fino",:D,"a",:D,"e",:D,"in",:D,"che",:D,"punto",:D,"preciso",:D,"del",:S,"camion","cos�.":S,"ci","periodicamente":C,"arrivo","arrivo"
+D,"sì",:D,"e",:D,"fino",:D,"a",:D,"e",:D,"in",:D,"che",:D,"punto",:D,"preciso",:D,"del",:S,"camion","così.":S,"ci","periodicamente":C,"arrivo","arrivo"
 </PATH>
 <PATH id="(ll-firenze_104)" word_cnt="1" sequence="206">
 C,"tratteggiata","tratteggiata"
@@ -370,7 +370,7 @@ C,"una","una":C,"linea","linea":D,"tra",:S,"gli","di":C,"occhiali","occhiali":D,
 
 </PATH>
 <PATH id="(ll-firenze_124)" word_cnt="4" sequence="246">
-D,"sì",:S,"uno","s�":C,"brutto","brutto":C,"viola","viola"
+C,"sì","sì":D,"uno",:C,"brutto","brutto":C,"viola","viola"
 </PATH>
 <PATH id="(ll-firenze_125)" word_cnt="0" sequence="248">
 
@@ -427,7 +427,7 @@ S,"sì","si"
 S,"sì","si"
 </PATH>
 <PATH id="(ll-firenze_143)" word_cnt="9" sequence="284">
-D,"le",:D,"tre",:D,"le",:D,"tre",:D,"che",:S,"stanno","del":S,"più","pi�":C,"sopra","sopra":D,"sì",
+D,"le",:D,"tre",:D,"le",:D,"tre",:D,"che",:S,"stanno","del":C,"più","più":C,"sopra","sopra":D,"sì",
 </PATH>
 <PATH id="(ll-firenze_144)" word_cnt="3" sequence="286">
 D,"e",:D,"una",:D,"piccola",
@@ -502,19 +502,19 @@ D,"allora",:C,"le","le":C,"stelle","stelle":C,"sono","sono":C,"otto","otto":S,"n
 D,"e",:C,"sono","sono":C,"messe","messe":C,"a","a":C,"semicerchio","semicerchio"
 </PATH>
 <PATH id="(ll-firenze_168)" word_cnt="9" sequence="334">
-C,"ecco","ecco":D,"e",:C,"l'apertura","l'apertura":C,"del","del":C,"semicerchio","semicerchio":S,"è","�":C,"alla","alla":S,"tua","sua":C,"sinistra","sinistra"
+C,"ecco","ecco":D,"e",:C,"l'apertura","l'apertura":C,"del","del":C,"semicerchio","semicerchio":C,"è","è":C,"alla","alla":S,"tua","sua":C,"sinistra","sinistra"
 </PATH>
 <PATH id="(ll-firenze_169)" word_cnt="9" sequence="336">
 C,"le","le":C,"stelle","stelle":C,"sono","sono":C,"messe","messe":C,"a","a":C,"semicerchio","semicerchio":D,"sì",:D,"o",:S,"no","siano"
 </PATH>
 <PATH id="(ll-firenze_170)" word_cnt="5" sequence="338">
-S,"vabbè","avere":S,"però","per�":C,"sono","sono":C,"messe","messe":I,,"�"
+S,"vabbè","avere":C,"però","però":C,"sono","sono":C,"messe","messe":I,,"è"
 </PATH>
 <PATH id="(ll-firenze_171)" word_cnt="8" sequence="340">
 D,"no",:D,"però",:D,"somiglia",:D,"a",:S,"un","la":S,"semicerchio","prossima":S,"o","milosevic":S,"no","una"
 </PATH>
 <PATH id="(ll-firenze_172)" word_cnt="8" sequence="342">
-C,"allora","allora":C,"non","non":D,"può",:S,"esse'","pi�":S,"son","essere":C,"diverse","diverse":C,"le","le":C,"stelle","stelle"
+C,"allora","allora":C,"non","non":D,"può",:S,"esse'","più":S,"son","essere":C,"diverse","diverse":C,"le","le":C,"stelle","stelle"
 </PATH>
 <PATH id="(ll-firenze_173)" word_cnt="7" sequence="344">
 D,"io",:D,"ce",:D,"l'ho",:S,"tu+","tutto":C,"tutte","tutte":C,"in","in":C,"fila","fila"
@@ -529,7 +529,7 @@ S,"sì","si"
 D,"ce",:S,"n'ho","da":C,"una","una":C,"piccola","piccola":S,"una","un":S,"grande","grandi"
 </PATH>
 <PATH id="(ll-firenze_177)" word_cnt="9" sequence="352">
-D,"s+",:D,"io",:D,"ce",:D,"n'ho",:S,"io","non":S,"ce","ho":S,"n'ho","per�":C,"una","una":C,"piccola","piccola"
+D,"s+",:D,"io",:D,"ce",:D,"n'ho",:S,"io","non":S,"ce","ho":S,"n'ho","però":C,"una","una":C,"piccola","piccola"
 </PATH>
 <PATH id="(ll-firenze_178)" word_cnt="16" sequence="354">
 C,"scendendo","scendendo":C,"verso","verso":C,"destra","destra":C,"una","una":C,"grande","grande":D,"e",:D,"scendendo",:D,"verso",:S,"destra","finestra":C,"una","una":C,"media","media":S,"è","e":C,"diverso","diverso":D,"sì",:D,"o",:S,"no","siano"
@@ -541,7 +541,7 @@ S,"sì","si"
 
 </PATH>
 <PATH id="(ll-firenze_181)" word_cnt="5" sequence="360">
-D,"ecco",:S,"allo+","eccola":S,"son","su":C,"diverse","diverse":I,,"�"
+D,"ecco",:S,"allo+","eccola":S,"son","su":C,"diverse","diverse":I,,"è"
 </PATH>
 <PATH id="(ll-firenze_182)" word_cnt="1" sequence="362">
 S,"sì","si"
@@ -604,10 +604,10 @@ C,"aspetta","aspetta":C,"facciamolo","facciamolo"
 D,"ma",:D,"io",:D,"ci",:D,"ah",:S,"sì","anzi":C,"perfetto","perfetto"
 </PATH>
 <PATH id="(ll-firenze_202)" word_cnt="10" sequence="402">
-D,"no",:D,"invece",:C,"a","a":D,"me",:D,"risulta",:D,"il",:S,"semicerchio","due":S,"punto","non":S,"e","�":S,"basta","bastato"
+D,"no",:D,"invece",:C,"a","a":D,"me",:D,"risulta",:D,"il",:S,"semicerchio","due":S,"punto","non":S,"e","è":S,"basta","bastato"
 </PATH>
 <PATH id="(ll-firenze_203)" word_cnt="8" sequence="404">
-D,"eh",:C,"senti","senti":C,"allora","allora":D,"f+",:D,"vediamo",:D,"di",:D,"fa'",:S,"così","cos�"
+D,"eh",:C,"senti","senti":C,"allora","allora":D,"f+",:D,"vediamo",:D,"di",:D,"fa'",:C,"così","così"
 </PATH>
 <PATH id="(ll-firenze_204)" word_cnt="9" sequence="406">
 C,"facciamo","facciamo":C,"per","per":D,"linee",:S,"di","lire":S,"congiungimento","ricongiungimento":C,"fra","fra":C,"le","le":C,"altre","altre":C,"figure","figure"
@@ -643,7 +643,7 @@ D,"eh",:D,"e",:D,"come",:D,"faccio",
 S,"sì","senna"
 </PATH>
 <PATH id="(ll-firenze_215)" word_cnt="11" sequence="428">
-D,"boh",:D,"io",:D,"vo'",:D,"così",:D,"e",:S,"poi","cos�":S,"se","poich�":S,"'un","ne":S,"mi","ho":S,"riesce","che":S,"pazienza","siamo"
+D,"boh",:D,"io",:D,"vo'",:C,"così","così":D,"e",:D,"poi",:S,"se","poiché":S,"'un","ne":S,"mi","ho":S,"riesce","che":S,"pazienza","siamo"
 </PATH>
 <PATH id="(ll-firenze_216)" word_cnt="1" sequence="430">
 D,"okay",
@@ -666,7 +666,7 @@ C,"verticale","verticale"
 C,"la","la":C,"partenza","partenza"
 </PATH>
 <PATH id="(rf-firenze_5)" word_cnt="17" sequence="9">
-C,"a","a":D,"metà",:S,"eh","met�":C,"come","come":C,"fra","fra":I,,"ha":C,"la","la":C,"macchina","macchina":D,"e",:C,"il","il":S,"fo+","foro":C,"e","e":C,"la","la":C,"fine","fine":C,"del","del":C,"foglio","foglio":D,"o",
+C,"a","a":C,"metà","metà":D,"eh",:C,"come","come":C,"fra","fra":I,,"ha":C,"la","la":C,"macchina","macchina":D,"e",:C,"il","il":S,"fo+","foro":C,"e","e":C,"la","la":C,"fine","fine":C,"del","del":C,"foglio","foglio":D,"o",
 </PATH>
 <PATH id="(rf-firenze_6)" word_cnt="3" sequence="11">
 D,"okay",:D,"sì",:S,"okay","che"
@@ -687,13 +687,13 @@ C,"okay","okay"
 S,"sì","si"
 </PATH>
 <PATH id="(rf-firenze_12)" word_cnt="18" sequence="23">
-D,"sì",:C,"a","a":S,"metà","met�":C,"sempre","sempre":C,"fra","fra":C,"televisione","televisione":D,"e",:S,"sci","ci":C,"come","come":C,"linea","linea":D,"fra",:S,"pu+","fra.":C,"fra","fra":D,"il",:C,"il","il":C,"punto","punto":C,"di","di":C,"partenza","partenza"
+D,"sì",:C,"a","a":C,"metà","metà":C,"sempre","sempre":C,"fra","fra":C,"televisione","televisione":D,"e",:S,"sci","ci":C,"come","come":C,"linea","linea":D,"fra",:S,"pu+","fra.":C,"fra","fra":D,"il",:C,"il","il":C,"punto","punto":C,"di","di":C,"partenza","partenza"
 </PATH>
 <PATH id="(rf-firenze_13)" word_cnt="2" sequence="25">
 D,"sì",:S,"okay","che"
 </PATH>
 <PATH id="(rf-firenze_14)" word_cnt="12" sequence="27">
-D,"sì",:D,"okay",:D,"ma",:S,"il","s�":S,"punto","che":S,"è","mai.":C,"a","a":S,"metà","met�":C,"fra","fra":C,"televisione","televisione":D,"e",:S,"sci","ci"
+C,"sì","sì":D,"okay",:D,"ma",:D,"il",:S,"punto","che":S,"è","mai.":C,"a","a":C,"metà","metà":C,"fra","fra":C,"televisione","televisione":D,"e",:S,"sci","ci"
 </PATH>
 <PATH id="(rf-firenze_15)" word_cnt="3" sequence="29">
 S,"sì","se":C,"gli","gli":C,"sci","sci"
@@ -708,7 +708,7 @@ S,"a","ad":S,"destra","essere":S,"della","la":S,"televisione","previsione":C,"no
 D,"okay",
 </PATH>
 <PATH id="(rf-firenze_19)" word_cnt="8" sequence="37">
-C,"una","una":D,"torta",:S,"è","forte":C,"ancora","ancora":S,"più","pi�":C,"a","a":C,"destra","destra":D,"sì",
+C,"una","una":D,"torta",:S,"è","forte":C,"ancora","ancora":C,"più","più":C,"a","a":C,"destra","destra":D,"sì",
 </PATH>
 <PATH id="(rf-firenze_20)" word_cnt="1" sequence="39">
 D,"okay",
@@ -717,7 +717,7 @@ D,"okay",
 D,"quale",:D,"punto",:S,"però","quale.":S,"di","prodi":C,"quello","quello":C,"di","di":C,"partenza","partenza":D,"o",:D,"il",:S,"punto","honolulu"
 </PATH>
 <PATH id="(rf-firenze_22)" word_cnt="3" sequence="43">
-C,"il","il":C,"penultimo","penultimo":S,"cioè","ci�"
+C,"il","il":C,"penultimo","penultimo":S,"cioè","ciè"
 </PATH>
 <PATH id="(rf-firenze_23)" word_cnt="1" sequence="45">
 D,"sì",
@@ -729,7 +729,7 @@ C,"dal","dal":S,"basso","vaso":C,"sempre","sempre":C,"giro","giro"
 D,"okay",:D,"sì",
 </PATH>
 <PATH id="(rf-firenze_26)" word_cnt="5" sequence="51">
-S,"sì","s�":C,"molto","molto":C,"vicino","vicino":D,"o",:D,"proprio",
+C,"sì","sì":C,"molto","molto":C,"vicino","vicino":D,"o",:D,"proprio",
 </PATH>
 <PATH id="(rf-firenze_27)" word_cnt="3" sequence="53">
 S,"okay","che":S,"aspetta","aspetto":S,"sì","se"
@@ -741,7 +741,7 @@ C,"dritto","dritto"
 C,"sopra","sopra":D,"la",:C,"televisione","televisione":S,"di","in":C,"quanto","quanto":C,"circa","circa"
 </PATH>
 <PATH id="(rf-firenze_30)" word_cnt="4" sequence="59">
-C,"un","un":C,"po'","po'":S,"più","pi�":C,"sopra","sopra"
+C,"un","un":C,"po'","po'":C,"più","più":C,"sopra","sopra"
 </PATH>
 <PATH id="(rf-firenze_31)" word_cnt="9" sequence="61">
 D,"del",:D,"punto",:D,"di",:D,"partenza",:D,"okay",:D,"aspetta",:D,"eh",:D,"ehm",:S,"sì","se"
@@ -771,7 +771,7 @@ S,"okay","che"
 D,"sì",
 </PATH>
 <PATH id="(rf-firenze_40)" word_cnt="1" sequence="79">
-S,"sì","c'�"
+S,"sì","c'è"
 </PATH>
 <PATH id="(rf-firenze_41)" word_cnt="1" sequence="81">
 D,"sì",
@@ -795,7 +795,7 @@ C,"passando","passando":C,"sopra","sopra":D,"a",:C,"un","un":C,"orologio","orolo
 D,"okay",
 </PATH>
 <PATH id="(rf-firenze_48)" word_cnt="7" sequence="95">
-D,"e",:D,"da",:D,"me",:S,"è","a":S,"f+","adam":S,"è","�":C,"grigia","grigia"
+D,"e",:D,"da",:D,"me",:S,"è","a":S,"f+","adam":C,"è","è":C,"grigia","grigia"
 </PATH>
 <PATH id="(rf-firenze_49)" word_cnt="1" sequence="97">
 D,"sì",
@@ -813,7 +813,7 @@ S,"okay","che"
 C,"vado","vado":C,"tutto","tutto":C,"in","in":D,"o",
 </PATH>
 <PATH id="(rf-firenze_54)" word_cnt="6" sequence="107">
-I,,"a":C,"aspetta","aspetta":S,"c'è","c'�":S,"dalla","una":C,"macchina","macchina":C,"rossa","rossa"
+I,,"a":C,"aspetta","aspetta":C,"c'è","c'è":S,"dalla","una":C,"macchina","macchina":C,"rossa","rossa"
 </PATH>
 <PATH id="(rf-firenze_55)" word_cnt="3" sequence="109">
 S,"devo","o":C,"tornare","tornare":C,"indietro","indietro"
@@ -822,7 +822,7 @@ S,"devo","o":C,"tornare","tornare":C,"indietro","indietro"
 C,"in","in":C,"che","che":C,"modo","modo":S,"però","proprio"
 </PATH>
 <PATH id="(rf-firenze_57)" word_cnt="6" sequence="113">
-C,"in","in":S,"obliquo","obbligo":C,"in","in":D,"giù",:S,"sarebbe","gi�":S,"comunque","sarebbero"
+C,"in","in":S,"obliquo","obbligo":C,"in","in":C,"giù","giù":D,"sarebbe",:S,"comunque","sarebbero"
 </PATH>
 <PATH id="(rf-firenze_58)" word_cnt="10" sequence="115">
 S,"sì","se":S,"okay","ok":C,"ma","ma":C,"quindi","quindi":C,"ritorno","ritorno":C,"alla","alla":C,"stessa","stessa":D,"linea",:C,"di","di":C,"prima","prima"
@@ -831,7 +831,7 @@ S,"sì","se":S,"okay","ok":C,"ma","ma":C,"quindi","quindi":C,"ritorno","ritorno"
 D,"okay",:S,"sì","ghesi"
 </PATH>
 <PATH id="(rf-firenze_60)" word_cnt="1" sequence="119">
-S,"sì","s�"
+C,"sì","sì"
 </PATH>
 <PATH id="(rf-firenze_61)" word_cnt="1" sequence="121">
 S,"sì","se"
@@ -894,7 +894,7 @@ S,"sì","se"
 C,"aspetta","aspetta":C,"mi","mi":C,"sposto","sposto":C,"come","come"
 </PATH>
 <PATH id="(rf-firenze_81)" word_cnt="2" sequence="161">
-I,,"se":S,"sì","�"
+I,,"se":S,"sì","è"
 </PATH>
 <PATH id="(rf-firenze_82)" word_cnt="3" sequence="163">
 D,"sì",:D,"ce",:S,"l'ho","se"
@@ -933,7 +933,7 @@ D,"allora",:S,"il","premio":S,"mio","ha":C,"dunque","dunque":C,"hai","hai":C,"un
 D,"vabbè",:S,"c'hai","avere":C,"questo","questo":C,"punto","punto":C,"nero","nero"
 </PATH>
 <PATH id="(rf-firenze_94)" word_cnt="15" sequence="187">
-D,"cioè",:D,"immaginati",:S,"fin","immagina":C,"che","che":D,"è",:D,"ehm",:S,"l'ala","la":C,"sinistra","sinistra":D,"di",:C,"una","una":C,"farfalla","farfalla":D,"da",:C,"me","me":D,"cioè",:S,"è","�"
+D,"cioè",:D,"immaginati",:S,"fin","immagina":C,"che","che":D,"è",:D,"ehm",:S,"l'ala","la":C,"sinistra","sinistra":D,"di",:C,"una","una":C,"farfalla","farfalla":D,"da",:C,"me","me":D,"cioè",:C,"è","è"
 </PATH>
 <PATH id="(rf-firenze_95)" word_cnt="6" sequence="189">
 D,"è",:C,"a","a":C,"destra","destra":S,"del","il":C,"punto","punto":D,"nero",
@@ -969,7 +969,7 @@ S,"sì","si":C,"sempre","sempre":C,"verso","verso":C,"destra","destra":S,"mia","
 D,"vai",:C,"dietro","dietro":C,"il","il":C,"camion","camion"
 </PATH>
 <PATH id="(rf-firenze_106)" word_cnt="9" sequence="211">
-S,"sì","si":C,"un","un":C,"po'","po'":S,"più","pi�":C,"a","a":C,"destra","destra":D,"della",:D,"gomma",:D,"posteriore",
+S,"sì","si":C,"un","un":C,"po'","po'":C,"più","più":C,"a","a":C,"destra","destra":D,"della",:D,"gomma",:D,"posteriore",
 </PATH>
 <PATH id="(rf-firenze_107)" word_cnt="14" sequence="213">
 D,"okay",:C,"poi","poi":C,"allora","allora":I,,"a":C,"continui","continui":C,"a","a":C,"tratteggiare","tratteggiare":C,"sempre","sempre":D,"da",:D,"me",:D,"è",:D,"una",:S,"linea","si":S,"tratteggiata","data"
@@ -1014,7 +1014,7 @@ D,"bicicletta",:D,"no",
 D,"non",:D,"ce",:D,"l'ho",:D,"allora",:D,"c'è",:C,"un","un":C,"punto","punto":S,"in","e":C,"mezzo","mezzo"
 </PATH>
 <PATH id="(rf-firenze_121)" word_cnt="20" sequence="241">
-D,"immaginati",:D,"ehm",:C,"diciamo","diciamo":C,"mettiti","mettiti":D,"come",:D,"si",:D,"può",:D,"dire",:D,"in",:C,"in","in":C,"verticale","verticale":C,"no","no":I,,"c'�":S,"cioè","traccia":S,"tracciati","di":C,"una","una":C,"linea","linea":D,"in",:C,"verticale","verticale":D,"no",
+D,"immaginati",:D,"ehm",:C,"diciamo","diciamo":C,"mettiti","mettiti":D,"come",:D,"si",:D,"può",:D,"dire",:D,"in",:C,"in","in":C,"verticale","verticale":C,"no","no":I,,"c'è":S,"cioè","traccia":S,"tracciati","di":C,"una","una":C,"linea","linea":D,"in",:C,"verticale","verticale":D,"no",
 </PATH>
 <PATH id="(rf-firenze_122)" word_cnt="6" sequence="243">
 D,"sì",:D,"bravo",:D,"okay",:C,"arrivi","arrivi":D,"fin",:S,"lì","fellini"
@@ -1053,13 +1053,13 @@ D,"c'è",:D,"ti",:S,"torna","ritorna":C,"come","come":D,"figura",:S,"no","figura
 C,"detto","detto":C,"molto","molto":C,"male","male":C,"la","la":S,"prima","minima":C,"parte","parte":D,"che",:D,"t'ho",:S,"fatto","a":C,"tratteggiare","tratteggiare":S,"assomiglia","assomigli":C,"a","a":C,"un","un":C,"cuore","cuore":C,"una","una":C,"mezza","mezza":C,"parte","parte":C,"di","di":C,"un","un":C,"cuore","cuore"
 </PATH>
 <PATH id="(rf-firenze_134)" word_cnt="8" sequence="267">
-S,"eh","�":S,"okay","che":C,"allora","allora":S,"ehm","a":S,"giri","ballare":C,"intorno","intorno":C,"al","al":C,"lupo","lupo"
+S,"eh","è":S,"okay","che":C,"allora","allora":S,"ehm","a":S,"giri","ballare":C,"intorno","intorno":C,"al","al":C,"lupo","lupo"
 </PATH>
 <PATH id="(rf-firenze_135)" word_cnt="13" sequence="269">
-S,"okay","che":C,"fino","fino":S,"a","ad":C,"arrivare","arrivare":C,"alla","alla":D,"zampa",:D,"lo",:S,"vedi","zampata":S,"la","della":C,"zampina","zampina":D,"più",:S,"in","pi�":C,"avanti","avanti"
+S,"okay","che":C,"fino","fino":S,"a","ad":C,"arrivare","arrivare":C,"alla","alla":D,"zampa",:D,"lo",:S,"vedi","zampata":S,"la","della":C,"zampina","zampina":C,"più","più":D,"in",:C,"avanti","avanti"
 </PATH>
 <PATH id="(rf-firenze_136)" word_cnt="7" sequence="271">
-S,"eh","�":S,"devi","deve":C,"andare","andare":C,"sempre","sempre":D,"passarci",:C,"molto","molto":C,"vicino","vicino"
+S,"eh","è":S,"devi","deve":C,"andare","andare":C,"sempre","sempre":D,"passarci",:C,"molto","molto":C,"vicino","vicino"
 </PATH>
 <PATH id="(rf-firenze_137)" word_cnt="11" sequence="273">
 D,"tratteggiando",:D,"sempre",:D,"la",:D,"linea",:D,"e",:D,"passi",:S,"so+","allinea":C,"sotto","sotto":S,"agli","gli":C,"occhiali","occhiali":C,"giusto","giusto"
@@ -1068,7 +1068,7 @@ D,"tratteggiando",:D,"sempre",:D,"la",:D,"linea",:D,"e",:D,"passi",:S,"so+","all
 C,"passa","passa":C,"sotto","sotto":S,"agli","gli":C,"occhiali","occhiali":C,"molto","molto":C,"vicino","vicino":S,"okay","che"
 </PATH>
 <PATH id="(rf-firenze_139)" word_cnt="4" sequence="277">
-C,"poi","poi":D,"vai",:S,"giù","gi�":S,"scendi","uscenti"
+C,"poi","poi":D,"vai",:C,"giù","giù":S,"scendi","uscenti"
 </PATH>
 <PATH id="(rf-firenze_140)" word_cnt="8" sequence="279">
 S,"eh","ed":C,"allora","allora":C,"adesso","adesso":C,"aspetta","aspetta":D,"le",:D,"vedi",:C,"le","le":C,"stelle","stelle"
@@ -1092,7 +1092,7 @@ S,"allora","ha":C,"la","la":C,"linea","linea":S,"deve","delle":C,"passare","pass
 C,"in","in":C,"mezzo","mezzo":C,"fra","fra":C,"la","la":C,"grande","grande":D,"e",:C,"la","la":C,"piccola","piccola"
 </PATH>
 <PATH id="(rf-firenze_147)" word_cnt="18" sequence="293">
-D,"la",:D,"ehm",:C,"la","la":C,"mia","mia":C,"stella","stella":C,"grande","grande":D,"è",:C,"quella","quella":C,"di","di":C,"sinistra","sinistra":C,"quindi","quindi":C,"la","la":C,"tua","tua":D,"è",:D,"è",:S,"in","�":C,"contrario","contrario":D,"no",
+D,"la",:D,"ehm",:C,"la","la":C,"mia","mia":C,"stella","stella":C,"grande","grande":D,"è",:C,"quella","quella":C,"di","di":C,"sinistra","sinistra":C,"quindi","quindi":C,"la","la":C,"tua","tua":D,"è",:C,"è","è":D,"in",:C,"contrario","contrario":D,"no",
 </PATH>
 <PATH id="(rf-firenze_148)" word_cnt="6" sequence="295">
 I,,"l'alla":S,"è","stella":S,"la","e":S,"la","aspetta":S,"stella","il":S,"destra","diario"
@@ -1110,13 +1110,13 @@ D,"la",:D,"la",:D,"li+",:C,"la","la":D,"linea",:C,"deve","deve":C,"passare","pas
 S,"il","a":C,"puntino","puntino":C,"nero","nero"
 </PATH>
 <PATH id="(rf-firenze_153)" word_cnt="4" sequence="305">
-S,"sì","vi":S,"dove","dovete":S,"te","jai":S,"c'hai","�"
+S,"sì","vi":S,"dove","dovete":S,"te","jai":S,"c'hai","è"
 </PATH>
 <PATH id="(rf-firenze_154)" word_cnt="12" sequence="307">
 D,"eh",:C,"quello","quello":C,"sarebbe","sarebbe":C,"l'arrivo","l'arrivo":D,"i",:D,"le",:D,"ehm",:S,"il","e":S,"la","in":C,"partenza","partenza":S,"io","e":S,"l'arrivo","arrivo"
 </PATH>
 <PATH id="(rf-firenze_155)" word_cnt="22" sequence="309">
-D,"ti",:S,"dico","il":S,"dove","governo":S,"l'ho","ha":C,"la","la":C,"stella","stella":S,"più","pi�":C,"grande","grande":S,"ti","che":S,"risulta","risultasse":C,"la","la":D,"stella",:S,"più","pi�":C,"grande","grande":D,"è",:C,"quella","quella":C,"sotto","sotto":D,"quella",:D,"più",:C,"sotto","sotto":D,"di",:D,"tutte",
+D,"ti",:S,"dico","il":S,"dove","governo":S,"l'ho","ha":C,"la","la":C,"stella","stella":C,"più","più":C,"grande","grande":S,"ti","che":S,"risulta","risultasse":C,"la","la":D,"stella",:C,"più","più":C,"grande","grande":D,"è",:C,"quella","quella":C,"sotto","sotto":D,"quella",:D,"più",:C,"sotto","sotto":D,"di",:D,"tutte",
 </PATH>
 <PATH id="(rf-firenze_156)" word_cnt="1" sequence="311">
 D,"sì",
@@ -1128,22 +1128,22 @@ D,"ma",:D,"la",:D,"parte",:D,"del",:D,"punto",:D,"nero",:D,"da",:D,"me",:S,"è",
 D,"ehm",:C,"aspetta","aspetta":D,"ti",:D,"come",:D,"ti",:S,"posso","di":C,"spiegare","spiegare":C,"allora","allora":C,"innanzitutto","innanzitutto":C,"ti","ti":C,"dico","dico":S,"com'è","come":C,"l'arrivo","l'arrivo":D,"da",:S,"me","dammi"
 </PATH>
 <PATH id="(rf-firenze_159)" word_cnt="10" sequence="317">
-D,"allora",:S,"l'arrivo","all'arrivo":S,"è","�":C,"un","un":C,"punto","punto":C,"sotto","sotto":C,"la","la":C,"stella","stella":S,"più","pi�":C,"grande","grande"
+D,"allora",:S,"l'arrivo","all'arrivo":C,"è","è":C,"un","un":C,"punto","punto":C,"sotto","sotto":C,"la","la":C,"stella","stella":C,"più","più":C,"grande","grande"
 </PATH>
 <PATH id="(rf-firenze_160)" word_cnt="4" sequence="319">
-C,"l'ultima","l'ultima":S,"in","ins�":S,"so+","per":C,"sotto","sotto"
+C,"l'ultima","l'ultima":S,"in","insù":S,"so+","per":C,"sotto","sotto"
 </PATH>
 <PATH id="(rf-firenze_161)" word_cnt="17" sequence="321">
-I,,"che":S,"okay","�":C,"praticamente","praticamente":S,"ehm","non":C,"devi","devi":S,"con","a":C,"questa","questa":C,"linea","linea":S,"devi","di":C,"arrivare","arrivare":C,"a","a":C,"questo","questo":C,"punto","punto":D,"sotto",:S,"a","sopra":C,"questa","questa":C,"stella","stella"
+I,,"che":S,"okay","è":C,"praticamente","praticamente":S,"ehm","non":C,"devi","devi":S,"con","a":C,"questa","questa":C,"linea","linea":S,"devi","di":C,"arrivare","arrivare":C,"a","a":C,"questo","questo":C,"punto","punto":D,"sotto",:S,"a","sopra":C,"questa","questa":C,"stella","stella"
 </PATH>
 <PATH id="(rf-firenze_162)" word_cnt="11" sequence="323">
-D,"sarà",:S,"ehm","sar�":C,"nemmeno","nemmeno":C,"mezzo","mezzo":C,"centimetro","centimetro":D,"sotto",:C,"la","la":D,"stella",:S,"più","pi�":C,"grande","grande":S,"okay","che"
+C,"sarà","sarà":D,"ehm",:C,"nemmeno","nemmeno":C,"mezzo","mezzo":C,"centimetro","centimetro":D,"sotto",:C,"la","la":D,"stella",:C,"più","più":C,"grande","grande":S,"okay","che"
 </PATH>
 <PATH id="(rf-firenze_163)" word_cnt="21" sequence="325">
 D,"ci",:D,"de+",:D,"eh",:S,"devi","deve":C,"passare","passare":C,"in","in":C,"mezzo","mezzo":C,"alle","alle":C,"stelle","stelle":C,"la","la":C,"parte","parte":C,"superiore","superiore":C,"delle","delle":C,"stelle","stelle":C,"quelle","quelle":C,"tre","tre":D,"stelle",:D,"che",:D,"t'ho",:S,"detto","stelle.":C,"prima","prima"
 </PATH>
 <PATH id="(rf-firenze_164)" word_cnt="7" sequence="327">
-C,"dove","dove":S,"c'è","c'�":C,"quella","quella":C,"piccola","piccola":C,"in","in":C,"mezzo","mezzo":S,"no","non"
+C,"dove","dove":C,"c'è","c'è":C,"quella","quella":C,"piccola","piccola":C,"in","in":C,"mezzo","mezzo":S,"no","non"
 </PATH>
 <PATH id="(rf-firenze_165)" word_cnt="9" sequence="329">
 D,"eh",:D,"lo",:D,"so",:D,"non",:D,"so",:D,"non",:D,"mi",:S,"so","allora":C,"spiegare","spiegare"
@@ -1155,7 +1155,7 @@ S,"sì","si"
 D,"sì",:D,"una",:D,"sorta",:S,"sì","che"
 </PATH>
 <PATH id="(rf-firenze_168)" word_cnt="10" sequence="335">
-D,"cioè",:C,"aspetta","aspetta":D,"perché",:S,"com+","perch�":C,"come","come":D,"cosa",:D,"intendi",:S,"te","corrente":S,"per","di":C,"semicerchio","semicerchio"
+D,"cioè",:C,"aspetta","aspetta":C,"perché","perché":D,"com+",:C,"come","come":D,"cosa",:D,"intendi",:S,"te","corrente":S,"per","di":C,"semicerchio","semicerchio"
 </PATH>
 <PATH id="(rf-firenze_169)" word_cnt="10" sequence="337">
 D,"ma",:S,"io","mai":C,"direi","direi":D,"non",:C,"non","non":C,"lo","lo":C,"definirei","definirei":D,"semicerchio",:D,"da",:S,"me","significa"
@@ -1173,10 +1173,10 @@ S,"dici","dice":S,"cioè","che"
 D,"e",:D,"io",:D,"ne",:D,"ho",:S,"tre","nostre":C,"sopra","sopra"
 </PATH>
 <PATH id="(rf-firenze_174)" word_cnt="17" sequence="347">
-C,"poi","poi":C,"una","una":C,"sotto","sotto":C,"di","di":C,"media","media":C,"grandezza","grandezza":C,"rispetto","rispetto":C,"a","a":C,"quella","quella":C,"nel","nel":C,"mezzo","mezzo":S,"più","pi�":C,"piccola","piccola":C,"quella","quella":D,"del",:S,"quella","della":S,"alta","quell'alta"
+C,"poi","poi":C,"una","una":C,"sotto","sotto":C,"di","di":C,"media","media":C,"grandezza","grandezza":C,"rispetto","rispetto":C,"a","a":C,"quella","quella":C,"nel","nel":C,"mezzo","mezzo":C,"più","più":C,"piccola","piccola":C,"quella","quella":D,"del",:S,"quella","della":S,"alta","quell'alta"
 </PATH>
 <PATH id="(rf-firenze_175)" word_cnt="11" sequence="349">
-C,"okay","okay":D,"nella",:D,"parte",:D,"più",:S,"alta","la":S,"ce","passeggiata":S,"n'hai","c'�":C,"una","una":C,"piccola","piccola":C,"nel","nel":C,"mezzo","mezzo"
+C,"okay","okay":D,"nella",:D,"parte",:D,"più",:S,"alta","la":S,"ce","passeggiata":S,"n'hai","c'è":C,"una","una":C,"piccola","piccola":C,"nel","nel":C,"mezzo","mezzo"
 </PATH>
 <PATH id="(rf-firenze_176)" word_cnt="13" sequence="351">
 D,"e",:D,"due",:S,"grandi","a":C,"una","una":D,"a",:C,"sinistra","sinistra":D,"e",:D,"una",:C,"a","a":C,"destra","destra":D,"ce",:S,"l'ho","fino":C,"io","io"
@@ -1191,7 +1191,7 @@ D,"ehm",:D,"com+",:D,"allora",:S,"la","a":C,"parte","parte":C,"superiore","super
 D,"allo+",:D,"io",:D,"ce",:S,"n'ho","agitano":C,"una","una":C,"grande","grande":C,"a","a":C,"sinistra","sinistra":C,"una","una":C,"piccola","piccola":S,"nel","e":C,"mezzo","mezzo"
 </PATH>
 <PATH id="(rf-firenze_180)" word_cnt="18" sequence="359">
-C,"e","e":C,"una","una":C,"della","della":C,"stessa","stessa":C,"grandezza","grandezza":C,"di","di":C,"quella","quella":D,"a",:C,"sinistra","sinistra":S,"più","pi�":C,"o","o":C,"meno","meno":C,"un","un":C,"po'","po'":S,"più","pi�":C,"piccola","piccola":C,"a","a":C,"destra","destra"
+C,"e","e":C,"una","una":C,"della","della":C,"stessa","stessa":C,"grandezza","grandezza":C,"di","di":C,"quella","quella":D,"a",:C,"sinistra","sinistra":C,"più","più":C,"o","o":C,"meno","meno":C,"un","un":C,"po'","po'":C,"più","più":C,"piccola","piccola":C,"a","a":C,"destra","destra"
 </PATH>
 <PATH id="(rf-firenze_181)" word_cnt="15" sequence="361">
 C,"come","come":D,"ti",:D,"posso",:C,"spiegare","spiegare":C,"praticamente","praticamente":D,"cioè",:D,"ehm",:C,"questa","questa":C,"linea","linea":S,"da+","da":C,"dagli","dagli":C,"occhiali","occhiali":D,"te",:S,"devi","vede":S,"scendere","discendere"
@@ -1203,13 +1203,13 @@ D,"e",:S,"devi","deve":C,"passare","passare":C,"in","in":C,"mezzo","mezzo":C,"a"
 D,"aspetta",:D,"o",:D,"se",:D,"no",:D,"aspetta",:D,"ti",:S,"posso","aspettano":S,"anche","sacchi":C,"dire","dire":C,"l'arrivo","l'arrivo"
 </PATH>
 <PATH id="(rf-firenze_184)" word_cnt="19" sequence="367">
-D,"per",:D,"farti",:D,"perché",:D,"se",:S,"l'ordine","dell'ordine":C,"delle","delle":C,"stelle","stelle":D,"è",:D,"diverso",:D,"no",:S,"allora","diverse":S,"l'arrivo","all'arrivo":C,"sai","sai":S,"dov'è","dov'�":C,"da","da":C,"me","me":D,"te",:C,"lo","lo":C,"spiego","spiego"
+D,"per",:D,"farti",:D,"perché",:D,"se",:S,"l'ordine","dell'ordine":C,"delle","delle":C,"stelle","stelle":D,"è",:D,"diverso",:D,"no",:S,"allora","diverse":S,"l'arrivo","all'arrivo":C,"sai","sai":C,"dov'è","dov'è":C,"da","da":C,"me","me":D,"te",:C,"lo","lo":C,"spiego","spiego"
 </PATH>
 <PATH id="(rf-firenze_185)" word_cnt="6" sequence="369">
 D,"c'hai",:D,"presente",:D,"le",:S,"due","credo":C,"macchine","macchine":I,,"per"
 </PATH>
 <PATH id="(rf-firenze_186)" word_cnt="5" sequence="371">
-C,"la","la":S,"grigia","verit�":S,"e","�":C,"la","la":C,"rossa","rossa"
+C,"la","la":S,"grigia","verità":S,"e","è":C,"la","la":C,"rossa","rossa"
 </PATH>
 <PATH id="(rf-firenze_187)" word_cnt="2" sequence="373">
 C,"il","il":S,"l'arrivo","tardivo"
@@ -1224,13 +1224,13 @@ C,"lo","lo":C,"stesso","stesso"
 D,"sì",:D,"ma",:D,"non",:D,"proprio",:D,"lo",:S,"stesso","pretesa"
 </PATH>
 <PATH id="(rf-firenze_191)" word_cnt="2" sequence="381">
-I,,"�":C,"okay","okay"
+I,,"è":C,"okay","okay"
 </PATH>
 <PATH id="(rf-firenze_192)" word_cnt="19" sequence="383">
-C,"allora","allora":C,"il","il":C,"punto","punto":C,"d'arrivo","d'arrivo":C,"te","te":D,"ehm",:S,"è","�":C,"come","come":C,"se","se":C,"fosse","fosse":D,"hai",:C,"presente","presente":C,"la","la":S,"la","alla":C,"gomma","gomma":C,"posteriore","posteriore":C,"della","della":C,"macchina","macchina":C,"grigia","grigia"
+C,"allora","allora":C,"il","il":C,"punto","punto":C,"d'arrivo","d'arrivo":C,"te","te":D,"ehm",:C,"è","è":C,"come","come":C,"se","se":C,"fosse","fosse":D,"hai",:C,"presente","presente":C,"la","la":S,"la","alla":C,"gomma","gomma":C,"posteriore","posteriore":C,"della","della":C,"macchina","macchina":C,"grigia","grigia"
 </PATH>
 <PATH id="(rf-firenze_193)" word_cnt="11" sequence="385">
-D,"eh",:D,"te",:S,"devi","�":S,"pass+","parsa":C,"praticamente","praticamente":C,"andare","andare":C,"in","in":I,,"verticale":S,"vertica+","e":C,"in","in":C,"orizzontale","orizzontale"
+D,"eh",:D,"te",:S,"devi","è":S,"pass+","parsa":C,"praticamente","praticamente":C,"andare","andare":C,"in","in":I,,"verticale":S,"vertica+","e":C,"in","in":C,"orizzontale","orizzontale"
 </PATH>
 <PATH id="(rf-firenze_194)" word_cnt="6" sequence="387">
 S,"tracciarti","traccia":C,"una","una":C,"linea","linea":C,"immaginaria","immaginaria":S,"in","alla":S,"orizzon+","radice"
@@ -1248,13 +1248,13 @@ D,"e",:D,"quello",:D,"è",:S,"l'arrivo","quell'arriva"
 D,"eh",
 </PATH>
 <PATH id="(rf-firenze_199)" word_cnt="12" sequence="397">
-D,"eh",:S,"il","e":C,"gruppo","gruppo":C,"di","di":C,"stelle","stelle":D,"è",:D,"s+",:D,"è",:D,"strano",:S,"che","estranee":S,"però","per�":C,"siano","siano"
+D,"eh",:S,"il","e":C,"gruppo","gruppo":C,"di","di":C,"stelle","stelle":D,"è",:D,"s+",:D,"è",:D,"strano",:S,"che","estranee":C,"però","però":C,"siano","siano"
 </PATH>
 <PATH id="(rf-firenze_200)" word_cnt="23" sequence="399">
-C,"aspetta","aspetta":D,"più",:S,"te","pi�":C,"prova","prova":C,"a","a":C,"mettertela","mettertela":C,"al","al":C,"contrario","contrario":D,"il",:C,"foglio","foglio":D,"forse",:S,"te","se":C,"mi","mi":C,"dici","dici":C,"come","come":C,"sono","sono":C,"da","da":C,"te","te":C,"e","e":D,"ti",:S,"sembra","non":S,"un","si":S,"semice+","dice"
+C,"aspetta","aspetta":C,"più","più":D,"te",:C,"prova","prova":C,"a","a":C,"mettertela","mettertela":C,"al","al":C,"contrario","contrario":D,"il",:C,"foglio","foglio":D,"forse",:S,"te","se":C,"mi","mi":C,"dici","dici":C,"come","come":C,"sono","sono":C,"da","da":C,"te","te":C,"e","e":D,"ti",:S,"sembra","non":S,"un","si":S,"semice+","dice"
 </PATH>
 <PATH id="(rf-firenze_201)" word_cnt="37" sequence="401">
-D,"e",:D,"aspetta",:D,"fammi",:D,"vedere",:D,"se",:D,"da",:D,"te",:S,"c'è","redatti":C,"a","a":C,"me","me":C,"non","non":D,"mi",:C,"risulta","risulta":D,"un",:D,"semicerchio",:D,"le",:D,"tue",:C,"stelle","stelle":C,"come","come":C,"le","le":D,"vedi",:S,"te","venite":S,"cioè","c'�":C,"almeno","almeno":D,"da",:D,"me",:S,"ne","dammene":C,"risultano","risultano":C,"due","due":C,"in","in":D,"mezzo",:D,"ce",:D,"ne",:D,"son",:D,"due",:D,"nel",:C,"mezzo","mezzo"
+D,"e",:D,"aspetta",:D,"fammi",:D,"vedere",:D,"se",:D,"da",:D,"te",:S,"c'è","redatti":C,"a","a":C,"me","me":C,"non","non":D,"mi",:C,"risulta","risulta":D,"un",:D,"semicerchio",:D,"le",:D,"tue",:C,"stelle","stelle":C,"come","come":C,"le","le":D,"vedi",:S,"te","venite":S,"cioè","c'è":C,"almeno","almeno":D,"da",:D,"me",:S,"ne","dammene":C,"risultano","risultano":C,"due","due":C,"in","in":D,"mezzo",:D,"ce",:D,"ne",:D,"son",:D,"due",:D,"nel",:C,"mezzo","mezzo"
 </PATH>
 <PATH id="(rf-firenze_202)" word_cnt="1" sequence="403">
 D,"vabbè",
@@ -1290,7 +1290,7 @@ D,"eh",:D,"te",:S,"ci","decide":S,"devi","di":C,"andare","andare":C,"praticament
 S,"sì","si"
 </PATH>
 <PATH id="(rf-firenze_213)" word_cnt="18" sequence="425">
-D,"io",:S,"penso","fa":S,"che","menzione":C,"sia","sia":C,"la","la":C,"parte","parte":C,"destra","destra":I,,"�":S,"della","la":C,"stella","stella":S,"più","pi�":C,"piccola","piccola":C,"in","in":C,"alto","alto":C,"alla","alla":C,"destra","destra":C,"della","della":D,"stella",
+D,"io",:S,"penso","fa":S,"che","menzione":C,"sia","sia":C,"la","la":C,"parte","parte":C,"destra","destra":I,,"è":S,"della","la":C,"stella","stella":C,"più","più":C,"piccola","piccola":C,"in","in":C,"alto","alto":C,"alla","alla":C,"destra","destra":C,"della","della":D,"stella",
 </PATH>
 <PATH id="(rf-firenze_214)" word_cnt="5" sequence="427">
 S,"praticamente","previamente":S,"rasentandola","rasentando":S,"e","la":S,"arrivi","riga":C,"all'arrivo","all'arrivo"

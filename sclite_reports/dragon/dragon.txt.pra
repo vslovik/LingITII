@@ -34,16 +34,16 @@ HYP:  SI
 Eval: S   
 
 id: (ll-firenze_5)
-Scores: (#C #S #D #I) 6 2 3 0
-REF:  Sì a METà fra la MACCHININA E IL       fondo del foglio 
-HYP:  *** a MET�  fra la ********** * MANTIENE fondo del foglio 
-Eval: D     S            D          D S                         
+Scores: (#C #S #D #I) 7 1 3 0
+REF:  Sì a metà fra la MACCHININA E IL       fondo del foglio 
+HYP:  *** a metà fra la ********** * MANTIENE fondo del foglio 
+Eval: D                  D          D S                         
 
 id: (ll-firenze_6)
-Scores: (#C #S #D #I) 7 6 3 0
-REF:  Sì  a METà fra la macchina E LA   fine DEL FOGLIO OKAY A  SINISTRA della televisione 
-HYP:  COS� a MET�  fra la macchina * ALLA fine *** ****** CON  LE ASSISE   della televisione 
-Eval: S      S                     D S         D   D      S    S  S                          
+Scores: (#C #S #D #I) 8 5 3 0
+REF:  Sì   a metà fra la macchina E LA   fine DEL FOGLIO OKAY A  SINISTRA della televisione 
+HYP:  COSì a metà fra la macchina * ALLA fine *** ****** CON  LE ASSISE   della televisione 
+Eval: S                             D S         D   D      S    S  S                          
 
 id: (ll-firenze_7)
 Scores: (#C #S #D #I) 10 2 0 0
@@ -88,10 +88,10 @@ HYP:  aspetta ** la partenza *** ** *********** ******* FALSIFICATORE television
 Eval:         D              D   D  D           D       S                         
 
 id: (ll-firenze_14)
-Scores: (#C #S #D #I) 13 7 4 0
-REF:  poi RISALI un po' fino a che in orizzontale il L'ALTEZZA della partenza è UGUALE A quella DI DEL PUNTO IN  CUI    SEI adesso 
-HYP:  poi RISALE un po' fino a che in orizzontale il L'ATTESA  della partenza ** QUAL   � quella ** *** ***** DI: QUESTA �   adesso 
-Eval:     S                                          S                        D  S      S        D  D   D     S   S      S          
+Scores: (#C #S #D #I) 14 5 5 1
+REF:  poi RISALI un po' fino a che in orizzontale il L'ALTEZZA della partenza **** è UGUALE A quella DI DEL PUNTO IN  CUI    SEI adesso 
+HYP:  poi RISALE un po' fino a che in orizzontale il L'ATTESA  della partenza QUAL è ****** * quella ** *** ***** DI: QUESTA è  adesso 
+Eval:     S                                          S                        I       D      D        D  D   D     S   S      S          
 
 id: (ll-firenze_15)
 Scores: (#C #S #D #I) 0 1 1 0
@@ -114,7 +114,7 @@ Eval:
 id: (ll-firenze_18)
 Scores: (#C #S #D #I) 1 6 3 0
 REF:  Sì COMU+ EHM comunque POSSO IMMAGINà DOVE           SIANO VESTI SCI   
-HYP:  *** ***** SI  comunque ***** POSSIBILE AUTOLESIONISTI CHE   �     MORTA 
+HYP:  *** ***** SI  comunque ***** POSSIBILE AUTOLESIONISTI CHE   è    MORTA 
 Eval: D   D     S            D     S         S              S     S     S     
 
 id: (ll-firenze_19)
@@ -144,7 +144,7 @@ Eval: D  D
 id: (ll-firenze_23)
 Scores: (#C #S #D #I) 3 4 2 1
 REF:  QUELLO che dicevi *** VICINO A      vicino AGLI SCI NO 
-HYP:  ****** che dicevi CHE LA     VICINA vicino **** SE  �  
+HYP:  ****** che dicevi CHE LA     VICINA vicino **** SE  è 
 Eval: D                 I   S      S             D    S   S  
 
 id: (ll-firenze_24)
@@ -160,10 +160,10 @@ HYP:  DEI CENTRI  dal basso * * RISALE dall'alto
 Eval: S   S                 D D S                
 
 id: (ll-firenze_26)
-Scores: (#C #S #D #I) 12 4 5 0
-REF:  E  SO+  C'è il punto IN cui siamo adesso E vicino a quello in cui c'era il EHM ERAVAMO PRIMA OKAY    
-HYP:  SE ESSO C'�  il punto ** cui siamo adesso * vicino a quello in cui c'era il *** ******* ***** PROPRIO 
-Eval: S  S    S             D                   D                                 D   D       D     S       
+Scores: (#C #S #D #I) 13 3 5 0
+REF:  E  SO+  c'è il punto IN cui siamo adesso E vicino a quello in cui c'era il EHM ERAVAMO PRIMA OKAY    
+HYP:  SE ESSO c'è il punto ** cui siamo adesso * vicino a quello in cui c'era il *** ******* ***** PROPRIO 
+Eval: S  S                  D                   D                                 D   D       D     S       
 
 id: (ll-firenze_27)
 Scores: (#C #S #D #I) 4 0 2 0
@@ -184,10 +184,10 @@ HYP:  dritto
 Eval:        
 
 id: (ll-firenze_30)
-Scores: (#C #S #D #I) 9 1 0 0
-REF:  in verticale un po' PIù sopra del punto di partenza 
-HYP:  in verticale un po' PI�  sopra del punto di partenza 
-Eval:                     S                                
+Scores: (#C #S #D #I) 10 0 0 0
+REF:  in verticale un po' più sopra del punto di partenza 
+HYP:  in verticale un po' più sopra del punto di partenza 
+Eval:                                                      
 
 id: (ll-firenze_31)
 Scores: (#C #S #D #I) 0 1 0 0
@@ -210,7 +210,7 @@ Eval: D    S                        D        D
 id: (ll-firenze_34)
 Scores: (#C #S #D #I) 2 4 0 0
 REF:  DAL dal punto DOVE SIAMO ADESSO   
-HYP:  DA  dal punto DI   S�    MEDESIMA 
+HYP:  DA  dal punto DI   Sì   MEDESIMA 
 Eval: S             S    S     S        
 
 id: (ll-firenze_35)
@@ -244,10 +244,10 @@ HYP:  *** DISCENDE fino ad arrivare LA   gomma posteriore
 Eval: D   S                         S                     
 
 id: (ll-firenze_40)
-Scores: (#C #S #D #I) 6 2 1 0
-REF:  a questo punto EHM C'è un'altra MACCHININA sulla destra 
-HYP:  a questo punto *** C'�  un'altra MACCHINA   sulla destra 
-Eval:                D   S             S                       
+Scores: (#C #S #D #I) 7 1 1 0
+REF:  a questo punto EHM c'è un'altra MACCHININA sulla destra 
+HYP:  a questo punto *** c'è un'altra MACCHINA   sulla destra 
+Eval:                D                 S                       
 
 id: (ll-firenze_41)
 Scores: (#C #S #D #I) 7 0 1 0
@@ -312,19 +312,19 @@ Eval: D  D      D  S
 id: (ll-firenze_51)
 Scores: (#C #S #D #I) 2 5 5 0
 REF:  quindi TE LO RISPIEGO TE SEI ALLA PRIMA macchina DOVE TI DICEVO 
-HYP:  quindi ** ** DISPIEGO DI S�  LA   MIA   macchina **** ** ****** 
+HYP:  quindi ** ** DISPIEGO DI Sì LA   MIA   macchina **** ** ****** 
 Eval:        D  D  S        S  S   S    S              D    D  D      
 
 id: (ll-firenze_52)
-Scores: (#C #S #D #I) 0 1 0 0
-REF:  Sì 
-HYP:  S�  
-Eval: S   
+Scores: (#C #S #D #I) 1 0 0 0
+REF:  sì 
+HYP:  sì 
+Eval:     
 
 id: (ll-firenze_53)
 Scores: (#C #S #D #I) 0 3 1 0
 REF:  A QUEL PUNTO Lì 
-HYP:  * �    CHE.  LI  
+HYP:  * è   CHE.  LI  
 Eval: D S    S     S   
 
 id: (ll-firenze_54)
@@ -431,9 +431,9 @@ Eval:
 
 id: (ll-firenze_71)
 Scores: (#C #S #D #I) 0 3 0 0
-REF:  DI COSTì PROSEGUI 
-HYP:  I  COSTI  PROSEGU� 
-Eval: S  S      S        
+REF:  DI COSTì PROSEGUI  
+HYP:  I  COSTI  PROSEGUì 
+Eval: S  S      S         
 
 id: (ll-firenze_72)
 Scores: (#C #S #D #I) 3 0 0 0
@@ -442,10 +442,10 @@ HYP:  lungo la macchina
 Eval:                   
 
 id: (ll-firenze_73)
-Scores: (#C #S #D #I) 13 1 2 0
-REF:  CIOè fai delle linee che arrivano fino alla parte posteriore sempre distanti mezzo centimetro DALLA MACCHINA 
-HYP:  CIO�  fai delle linee che arrivano fino alla parte posteriore sempre distanti mezzo centimetro ***** ******** 
-Eval: S                                                                                              D     D        
+Scores: (#C #S #D #I) 14 0 2 0
+REF:  cioè fai delle linee che arrivano fino alla parte posteriore sempre distanti mezzo centimetro DALLA MACCHINA 
+HYP:  cioè fai delle linee che arrivano fino alla parte posteriore sempre distanti mezzo centimetro ***** ******** 
+Eval:                                                                                                D     D        
 
 id: (ll-firenze_74)
 Scores: (#C #S #D #I) 3 2 1 0
@@ -484,10 +484,10 @@ HYP:  SECCO dalla fine della macchina
 Eval: S                               
 
 id: (ll-firenze_80)
-Scores: (#C #S #D #I) 13 4 1 0
-REF:  TI SPOSTI   fino a un punto che sta a TRE CENTIMETRI dalla stella PIù in alto a destra 
-HYP:  ** DISPOSTI fino a un punto che sta a 3   CM         dalla stella PI�  in alto a destra 
-Eval: D  S                                  S   S                       S                     
+Scores: (#C #S #D #I) 14 3 1 0
+REF:  TI SPOSTI   fino a un punto che sta a TRE CENTIMETRI dalla stella più in alto a destra 
+HYP:  ** DISPOSTI fino a un punto che sta a 3   CM         dalla stella più in alto a destra 
+Eval: D  S                                  S   S                                             
 
 id: (ll-firenze_81)
 Scores: (#C #S #D #I) 4 0 3 0
@@ -496,10 +496,10 @@ HYP:  ***** ******** la stella **** in alto
 Eval: D     D                  D            
 
 id: (ll-firenze_82)
-Scores: (#C #S #D #I) 2 2 3 0
-REF:  CHE è una DI QUELLE PIù piccole 
-HYP:  *** ** una ** DELLE  PI�  piccole 
-Eval: D   D      D  S      S            
+Scores: (#C #S #D #I) 3 1 3 0
+REF:  CHE è una DI QUELLE più piccole 
+HYP:  *** ** una ** DELLE  più piccole 
+Eval: D   D      D  S                   
 
 id: (ll-firenze_83)
 Scores: (#C #S #D #I) 6 0 0 0
@@ -526,10 +526,10 @@ HYP:  ******* ** SONO   QUELLE SOLARI
 Eval: D       D  S      S      S      
 
 id: (ll-firenze_87)
-Scores: (#C #S #D #I) 11 3 2 1
-REF:  ** quel punto Lì è il mio arrivo e lo colleghi fino AL A    DOV'ERI sulla macchina 
-HYP:  IN quel punto *** L� il mio arrivo e lo colleghi fino ** ALLA DOVERI  sulla macchina 
-Eval: I             D   S                                   D  S    S                      
+Scores: (#C #S #D #I) 12 2 2 1
+REF:  ** quel punto lì è il mio arrivo e lo colleghi fino AL A    DOV'ERI sulla macchina 
+HYP:  IN quel punto lì ** il mio arrivo e lo colleghi fino ** ALLA DOVERI  sulla macchina 
+Eval: I                 D                                   D  S    S                      
 
 id: (ll-firenze_88)
 Scores: (#C #S #D #I) 6 3 5 0
@@ -624,7 +624,7 @@ Eval:                D   D    D       D   S      S
 id: (ll-firenze_103)
 Scores: (#C #S #D #I) 1 2 10 0
 REF:  Sì E FINO A E IN CHE PUNTO PRECISO DEL CAMION CI             arrivo 
-HYP:  *** * **** * * ** *** ***** ******* *** COS�.  PERIODICAMENTE arrivo 
+HYP:  *** * **** * * ** *** ***** ******* *** COSì. PERIODICAMENTE arrivo 
 Eval: D   D D    D D D  D   D     D       D   S      S                     
 
 id: (ll-firenze_104)
@@ -745,10 +745,10 @@ id: (ll-firenze_123)
 Scores: (#C #S #D #I) 0 0 0 0
 
 id: (ll-firenze_124)
-Scores: (#C #S #D #I) 2 1 1 0
-REF:  Sì UNO brutto viola 
-HYP:  *** S�  brutto viola 
-Eval: D   S                
+Scores: (#C #S #D #I) 3 0 1 0
+REF:  sì UNO brutto viola 
+HYP:  sì *** brutto viola 
+Eval:     D                
 
 id: (ll-firenze_125)
 Scores: (#C #S #D #I) 0 0 0 0
@@ -850,10 +850,10 @@ HYP:  SI
 Eval: S   
 
 id: (ll-firenze_143)
-Scores: (#C #S #D #I) 1 2 6 0
-REF:  LE TRE LE TRE CHE STANNO PIù sopra Sì 
-HYP:  ** *** ** *** *** DEL    PI�  sopra *** 
-Eval: D  D   D  D   D   S      S          D   
+Scores: (#C #S #D #I) 2 1 6 0
+REF:  LE TRE LE TRE CHE STANNO più sopra Sì 
+HYP:  ** *** ** *** *** DEL    più sopra *** 
+Eval: D  D   D  D   D   S                 D   
 
 id: (ll-firenze_144)
 Scores: (#C #S #D #I) 0 0 3 0
@@ -988,10 +988,10 @@ HYP:  * sono messe a semicerchio
 Eval: D                          
 
 id: (ll-firenze_168)
-Scores: (#C #S #D #I) 6 2 1 0
+Scores: (#C #S #D #I) 7 1 1 0
 REF:  ecco E l'apertura del semicerchio è alla TUA sinistra 
-HYP:  ecco * l'apertura del semicerchio �  alla SUA sinistra 
-Eval:      D                            S       S            
+HYP:  ecco * l'apertura del semicerchio è alla SUA sinistra 
+Eval:      D                                    S            
 
 id: (ll-firenze_169)
 Scores: (#C #S #D #I) 6 1 2 0
@@ -1000,10 +1000,10 @@ HYP:  le stelle sono messe a semicerchio *** * SIANO
 Eval:                                    D   D S     
 
 id: (ll-firenze_170)
-Scores: (#C #S #D #I) 2 2 0 1
-REF:  VABBè PERò sono messe * 
-HYP:  AVERE  PER�  sono messe � 
-Eval: S      S                I 
+Scores: (#C #S #D #I) 3 1 0 1
+REF:  VABBè però sono messe ** 
+HYP:  AVERE  però sono messe è 
+Eval: S                       I  
 
 id: (ll-firenze_171)
 Scores: (#C #S #D #I) 0 4 4 0
@@ -1014,7 +1014,7 @@ Eval: D  D     D        D S  S           S         S
 id: (ll-firenze_172)
 Scores: (#C #S #D #I) 5 2 1 0
 REF:  allora non PUò ESSE' SON    diverse le stelle 
-HYP:  allora non **** PI�   ESSERE diverse le stelle 
+HYP:  allora non **** PIù  ESSERE diverse le stelle 
 Eval:            D    S     S                        
 
 id: (ll-firenze_173)
@@ -1043,9 +1043,9 @@ Eval: D  S                S   S
 
 id: (ll-firenze_177)
 Scores: (#C #S #D #I) 2 3 4 0
-REF:  S+ IO CE N'HO IO  CE N'HO una piccola 
-HYP:  ** ** ** **** NON HO PER� una piccola 
-Eval: D  D  D  D    S   S  S                
+REF:  S+ IO CE N'HO IO  CE N'HO  una piccola 
+HYP:  ** ** ** **** NON HO PERò una piccola 
+Eval: D  D  D  D    S   S  S                 
 
 id: (ll-firenze_178)
 Scores: (#C #S #D #I) 8 3 5 0
@@ -1064,9 +1064,9 @@ Scores: (#C #S #D #I) 0 0 0 0
 
 id: (ll-firenze_181)
 Scores: (#C #S #D #I) 1 2 1 1
-REF:  ECCO ALLO+  SON diverse * 
-HYP:  **** ECCOLA SU  diverse � 
-Eval: D    S      S           I 
+REF:  ECCO ALLO+  SON diverse ** 
+HYP:  **** ECCOLA SU  diverse è 
+Eval: D    S      S           I  
 
 id: (ll-firenze_182)
 Scores: (#C #S #D #I) 0 1 0 0
@@ -1184,15 +1184,15 @@ Eval: D  D  D  D  S
 
 id: (ll-firenze_202)
 Scores: (#C #S #D #I) 1 4 5 0
-REF:  NO INVECE a ME RISULTA IL SEMICERCHIO PUNTO E BASTA   
-HYP:  ** ****** a ** ******* ** DUE         NON   � BASTATO 
-Eval: D  D        D  D       D  S           S     S S       
+REF:  NO INVECE a ME RISULTA IL SEMICERCHIO PUNTO E  BASTA   
+HYP:  ** ****** a ** ******* ** DUE         NON   è BASTATO 
+Eval: D  D        D  D       D  S           S     S  S       
 
 id: (ll-firenze_203)
-Scores: (#C #S #D #I) 2 1 5 0
-REF:  EH senti allora F+ VEDIAMO DI FA' COSì 
-HYP:  ** senti allora ** ******* ** *** COS�  
-Eval: D               D  D       D  D   S     
+Scores: (#C #S #D #I) 3 0 5 0
+REF:  EH senti allora F+ VEDIAMO DI FA' così 
+HYP:  ** senti allora ** ******* ** *** così 
+Eval: D               D  D       D  D         
 
 id: (ll-firenze_204)
 Scores: (#C #S #D #I) 6 2 1 0
@@ -1261,10 +1261,10 @@ HYP:  SENNA
 Eval: S     
 
 id: (ll-firenze_215)
-Scores: (#C #S #D #I) 0 6 5 0
-REF:  BOH IO VO' COSì E POI  SE     'UN MI RIESCE PAZIENZA 
-HYP:  *** ** *** ***** * COS� POICH� NE  HO CHE    SIAMO    
-Eval: D   D  D   D     D S    S      S   S  S      S        
+Scores: (#C #S #D #I) 1 5 5 0
+REF:  BOH IO VO' così E POI SE      'UN MI RIESCE PAZIENZA 
+HYP:  *** ** *** così * *** POICHé NE  HO CHE    SIAMO    
+Eval: D   D  D         D D   S       S   S  S      S        
 
 id: (ll-firenze_216)
 Scores: (#C #S #D #I) 0 0 1 0
@@ -1304,10 +1304,10 @@ HYP:  la partenza
 Eval:             
 
 id: (rf-firenze_5)
-Scores: (#C #S #D #I) 11 2 3 1
-REF:  a METà EH   come fra ** la macchina E il FO+  e la fine del foglio O 
-HYP:  a ***** MET� come fra HA la macchina * il FORO e la fine del foglio * 
-Eval:   D     S             I              D    S                         D 
+Scores: (#C #S #D #I) 12 1 3 1
+REF:  a metà EH come fra ** la macchina E il FO+  e la fine del foglio O 
+HYP:  a metà ** come fra HA la macchina * il FORO e la fine del foglio * 
+Eval:         D           I              D    S                         D 
 
 id: (rf-firenze_6)
 Scores: (#C #S #D #I) 0 1 2 0
@@ -1346,10 +1346,10 @@ HYP:  SI
 Eval: S   
 
 id: (rf-firenze_12)
-Scores: (#C #S #D #I) 11 3 4 0
-REF:  Sì a METà sempre fra televisione E SCI come linea FRA PU+  fra IL il punto di partenza 
-HYP:  *** a MET�  sempre fra televisione * CI  come linea *** FRA. fra ** il punto di partenza 
-Eval: D     S                            D S              D   S        D                       
+Scores: (#C #S #D #I) 12 2 4 0
+REF:  Sì a metà sempre fra televisione E SCI come linea FRA PU+  fra IL il punto di partenza 
+HYP:  *** a metà sempre fra televisione * CI  come linea *** FRA. fra ** il punto di partenza 
+Eval: D                                  D S              D   S        D                       
 
 id: (rf-firenze_13)
 Scores: (#C #S #D #I) 0 1 1 0
@@ -1358,10 +1358,10 @@ HYP:  *** CHE
 Eval: D   S    
 
 id: (rf-firenze_14)
-Scores: (#C #S #D #I) 3 5 4 0
-REF:  Sì OKAY MA IL PUNTO è   a METà fra televisione E SCI 
-HYP:  *** **** ** S� CHE   MAI. a MET�  fra televisione * CI  
-Eval: D   D    D  S  S     S      S                     D S   
+Scores: (#C #S #D #I) 5 3 4 0
+REF:  sì OKAY MA IL PUNTO è   a metà fra televisione E SCI 
+HYP:  sì **** ** ** CHE   MAI. a metà fra televisione * CI  
+Eval:     D    D  D  S     S                            D S   
 
 id: (rf-firenze_15)
 Scores: (#C #S #D #I) 2 1 0 0
@@ -1385,10 +1385,10 @@ HYP:  ****
 Eval: D    
 
 id: (rf-firenze_19)
-Scores: (#C #S #D #I) 4 2 2 0
-REF:  una TORTA è    ancora PIù a destra Sì 
-HYP:  una ***** FORTE ancora PI�  a destra *** 
-Eval:     D     S            S             D   
+Scores: (#C #S #D #I) 5 1 2 0
+REF:  una TORTA è    ancora più a destra Sì 
+HYP:  una ***** FORTE ancora più a destra *** 
+Eval:     D     S                          D   
 
 id: (rf-firenze_20)
 Scores: (#C #S #D #I) 0 0 1 0
@@ -1405,7 +1405,7 @@ Eval: D     D     S      S                        D D  S
 id: (rf-firenze_22)
 Scores: (#C #S #D #I) 2 1 0 0
 REF:  il penultimo CIOè 
-HYP:  il penultimo CI�   
+HYP:  il penultimo CIè  
 Eval:              S     
 
 id: (rf-firenze_23)
@@ -1427,10 +1427,10 @@ HYP:  **** ***
 Eval: D    D   
 
 id: (rf-firenze_26)
-Scores: (#C #S #D #I) 2 1 2 0
-REF:  Sì molto vicino O PROPRIO 
-HYP:  S�  molto vicino * ******* 
-Eval: S                D D       
+Scores: (#C #S #D #I) 3 0 2 0
+REF:  sì molto vicino O PROPRIO 
+HYP:  sì molto vicino * ******* 
+Eval:                  D D       
 
 id: (rf-firenze_27)
 Scores: (#C #S #D #I) 0 3 0 0
@@ -1451,10 +1451,10 @@ HYP:  sopra ** televisione IN quanto circa
 Eval:       D              S               
 
 id: (rf-firenze_30)
-Scores: (#C #S #D #I) 3 1 0 0
-REF:  un po' PIù sopra 
-HYP:  un po' PI�  sopra 
-Eval:        S          
+Scores: (#C #S #D #I) 4 0 0 0
+REF:  un po' più sopra 
+HYP:  un po' più sopra 
+Eval:                   
 
 id: (rf-firenze_31)
 Scores: (#C #S #D #I) 0 1 8 0
@@ -1512,9 +1512,9 @@ Eval: D
 
 id: (rf-firenze_40)
 Scores: (#C #S #D #I) 0 1 0 0
-REF:  Sì 
-HYP:  C'� 
-Eval: S   
+REF:  Sì  
+HYP:  C'è 
+Eval: S    
 
 id: (rf-firenze_41)
 Scores: (#C #S #D #I) 0 0 1 0
@@ -1559,10 +1559,10 @@ HYP:  ****
 Eval: D    
 
 id: (rf-firenze_48)
-Scores: (#C #S #D #I) 1 3 3 0
+Scores: (#C #S #D #I) 2 2 3 0
 REF:  E DA ME è F+   è grigia 
-HYP:  * ** ** A  ADAM �  grigia 
-Eval: D D  D  S  S    S         
+HYP:  * ** ** A  ADAM è grigia 
+Eval: D D  D  S  S              
 
 id: (rf-firenze_49)
 Scores: (#C #S #D #I) 0 0 1 0
@@ -1595,10 +1595,10 @@ HYP:  vado tutto in *
 Eval:               D 
 
 id: (rf-firenze_54)
-Scores: (#C #S #D #I) 3 2 0 1
-REF:  * aspetta C'è DALLA macchina rossa 
-HYP:  A aspetta C'�  UNA   macchina rossa 
-Eval: I         S    S                    
+Scores: (#C #S #D #I) 4 1 0 1
+REF:  * aspetta c'è DALLA macchina rossa 
+HYP:  A aspetta c'è UNA   macchina rossa 
+Eval: I              S                    
 
 id: (rf-firenze_55)
 Scores: (#C #S #D #I) 2 1 0 0
@@ -1613,10 +1613,10 @@ HYP:  in che modo PROPRIO
 Eval:             S       
 
 id: (rf-firenze_57)
-Scores: (#C #S #D #I) 2 3 1 0
-REF:  in OBLIQUO in GIù SAREBBE COMUNQUE  
-HYP:  in OBBLIGO in **** GI�     SAREBBERO 
-Eval:    S          D    S       S         
+Scores: (#C #S #D #I) 3 2 1 0
+REF:  in OBLIQUO in giù SAREBBE COMUNQUE  
+HYP:  in OBBLIGO in giù ******* SAREBBERO 
+Eval:    S               D       S         
 
 id: (rf-firenze_58)
 Scores: (#C #S #D #I) 7 2 1 0
@@ -1631,10 +1631,10 @@ HYP:  **** GHESI
 Eval: D    S     
 
 id: (rf-firenze_60)
-Scores: (#C #S #D #I) 0 1 0 0
-REF:  Sì 
-HYP:  S�  
-Eval: S   
+Scores: (#C #S #D #I) 1 0 0 0
+REF:  sì 
+HYP:  sì 
+Eval:     
 
 id: (rf-firenze_61)
 Scores: (#C #S #D #I) 0 1 0 0
@@ -1759,7 +1759,7 @@ Eval:
 id: (rf-firenze_81)
 Scores: (#C #S #D #I) 0 1 0 1
 REF:  ** Sì 
-HYP:  SE �   
+HYP:  SE è  
 Eval: I  S   
 
 id: (rf-firenze_82)
@@ -1835,10 +1835,10 @@ HYP:  ****** AVERE questo punto nero
 Eval: D      S                       
 
 id: (rf-firenze_94)
-Scores: (#C #S #D #I) 5 3 7 0
+Scores: (#C #S #D #I) 6 2 7 0
 REF:  CIOè IMMAGINATI FIN      che è EHM L'ALA sinistra DI una farfalla DA me CIOè è 
-HYP:  ***** ********** IMMAGINA che ** *** LA    sinistra ** una farfalla ** me ***** �  
-Eval: D     D          S            D  D   S              D               D     D     S  
+HYP:  ***** ********** IMMAGINA che ** *** LA    sinistra ** una farfalla ** me ***** è 
+Eval: D     D          S            D  D   S              D               D     D        
 
 id: (rf-firenze_95)
 Scores: (#C #S #D #I) 3 1 2 0
@@ -1907,10 +1907,10 @@ HYP:  *** dietro il camion
 Eval: D                    
 
 id: (rf-firenze_106)
-Scores: (#C #S #D #I) 4 2 3 0
-REF:  Sì un po' PIù a destra DELLA GOMMA POSTERIORE 
-HYP:  SI  un po' PI�  a destra ***** ***** ********** 
-Eval: S          S             D     D     D          
+Scores: (#C #S #D #I) 5 1 3 0
+REF:  Sì un po' più a destra DELLA GOMMA POSTERIORE 
+HYP:  SI  un po' più a destra ***** ***** ********** 
+Eval: S                        D     D     D          
 
 id: (rf-firenze_107)
 Scores: (#C #S #D #I) 6 2 5 1
@@ -1998,9 +1998,9 @@ Eval: D   D  D    D      D             S
 
 id: (rf-firenze_121)
 Scores: (#C #S #D #I) 8 2 9 1
-REF:  IMMAGINATI EHM diciamo mettiti COME SI PUò DIRE IN in verticale no *** CIOè   TRACCIATI una linea IN verticale NO 
-HYP:  ********** *** diciamo mettiti **** ** **** **** ** in verticale no C'� TRACCIA DI        una linea ** verticale ** 
-Eval: D          D                   D    D  D    D    D                  I   S       S                   D            D  
+REF:  IMMAGINATI EHM diciamo mettiti COME SI PUò DIRE IN in verticale no **** CIOè   TRACCIATI una linea IN verticale NO 
+HYP:  ********** *** diciamo mettiti **** ** **** **** ** in verticale no C'è TRACCIA DI        una linea ** verticale ** 
+Eval: D          D                   D    D  D    D    D                  I    S       S                   D            D  
 
 id: (rf-firenze_122)
 Scores: (#C #S #D #I) 1 1 4 0
@@ -2077,19 +2077,19 @@ Eval:                     S            D   D    S                  S
 id: (rf-firenze_134)
 Scores: (#C #S #D #I) 4 4 0 0
 REF:  EH OKAY allora EHM GIRI    intorno al lupo 
-HYP:  �  CHE  allora A   BALLARE intorno al lupo 
+HYP:  è CHE  allora A   BALLARE intorno al lupo 
 Eval: S  S           S   S                       
 
 id: (rf-firenze_135)
-Scores: (#C #S #D #I) 5 5 3 0
-REF:  OKAY fino A  arrivare alla ZAMPA LO VEDI    LA    zampina PIù IN  avanti 
-HYP:  CHE  fino AD arrivare alla ***** ** ZAMPATA DELLA zampina **** PI� avanti 
-Eval: S         S                D     D  S       S             D    S          
+Scores: (#C #S #D #I) 6 4 3 0
+REF:  OKAY fino A  arrivare alla ZAMPA LO VEDI    LA    zampina più IN avanti 
+HYP:  CHE  fino AD arrivare alla ***** ** ZAMPATA DELLA zampina più ** avanti 
+Eval: S         S                D     D  S       S                  D         
 
 id: (rf-firenze_136)
 Scores: (#C #S #D #I) 4 2 1 0
 REF:  EH DEVI andare sempre PASSARCI molto vicino 
-HYP:  �  DEVE andare sempre ******** molto vicino 
+HYP:  è DEVE andare sempre ******** molto vicino 
 Eval: S  S                  D                     
 
 id: (rf-firenze_137)
@@ -2105,10 +2105,10 @@ HYP:  passa sotto GLI  occhiali molto vicino CHE
 Eval:             S                          S    
 
 id: (rf-firenze_139)
-Scores: (#C #S #D #I) 1 2 1 0
-REF:  poi VAI GIù SCENDI  
-HYP:  poi *** GI�  USCENTI 
-Eval:     D   S    S       
+Scores: (#C #S #D #I) 2 1 1 0
+REF:  poi VAI giù SCENDI  
+HYP:  poi *** giù USCENTI 
+Eval:     D        S       
 
 id: (rf-firenze_140)
 Scores: (#C #S #D #I) 5 1 2 0
@@ -2153,10 +2153,10 @@ HYP:  in mezzo fra la grande * la piccola
 Eval:                        D            
 
 id: (rf-firenze_147)
-Scores: (#C #S #D #I) 11 1 6 0
+Scores: (#C #S #D #I) 12 0 6 0
 REF:  LA EHM la mia stella grande è quella di sinistra quindi la tua è è IN contrario NO 
-HYP:  ** *** la mia stella grande ** quella di sinistra quindi la tua ** ** �  contrario ** 
-Eval: D  D                        D                                   D  D  S            D  
+HYP:  ** *** la mia stella grande ** quella di sinistra quindi la tua ** è ** contrario ** 
+Eval: D  D                        D                                   D     D            D  
 
 id: (rf-firenze_148)
 Scores: (#C #S #D #I) 0 5 0 1
@@ -2191,7 +2191,7 @@ Eval: S
 id: (rf-firenze_153)
 Scores: (#C #S #D #I) 0 4 0 0
 REF:  Sì DOVE   TE  C'HAI 
-HYP:  VI  DOVETE JAI �     
+HYP:  VI  DOVETE JAI è    
 Eval: S   S      S   S     
 
 id: (rf-firenze_154)
@@ -2201,10 +2201,10 @@ HYP:  ** quello sarebbe l'arrivo * ** *** E  IN partenza E  ARRIVO
 Eval: D                          D D  D   S  S           S  S        
 
 id: (rf-firenze_155)
-Scores: (#C #S #D #I) 8 7 7 0
-REF:  TI DICO DOVE    L'HO la stella PIù grande TI  RISULTA    la STELLA PIù grande è quella sotto QUELLA PIù sotto DI TUTTE 
-HYP:  ** IL   GOVERNO HA   la stella PI�  grande CHE RISULTASSE la ****** PI�  grande ** quella sotto ****** **** sotto ** ***** 
-Eval: D  S    S       S              S           S   S             D      S           D               D      D          D  D     
+Scores: (#C #S #D #I) 10 5 7 0
+REF:  TI DICO DOVE    L'HO la stella più grande TI  RISULTA    la STELLA più grande è quella sotto QUELLA PIù sotto DI TUTTE 
+HYP:  ** IL   GOVERNO HA   la stella più grande CHE RISULTASSE la ****** più grande ** quella sotto ****** **** sotto ** ***** 
+Eval: D  S    S       S                          S   S             D                  D               D      D          D  D     
 
 id: (rf-firenze_156)
 Scores: (#C #S #D #I) 0 0 1 0
@@ -2225,28 +2225,28 @@ HYP:  *** aspetta ** **** ** DI    spiegare allora innanzitutto ti dico COME   l
 Eval: D           D  D    D  S                                          S               D  S     
 
 id: (rf-firenze_159)
-Scores: (#C #S #D #I) 6 3 1 0
-REF:  ALLORA L'ARRIVO   è un punto sotto la stella PIù grande 
-HYP:  ****** ALL'ARRIVO �  un punto sotto la stella PI�  grande 
-Eval: D      S          S                           S           
+Scores: (#C #S #D #I) 8 1 1 0
+REF:  ALLORA L'ARRIVO   è un punto sotto la stella più grande 
+HYP:  ****** ALL'ARRIVO è un punto sotto la stella più grande 
+Eval: D      S                                                  
 
 id: (rf-firenze_160)
 Scores: (#C #S #D #I) 2 2 0 0
-REF:  l'ultima IN   SO+ sotto 
-HYP:  l'ultima INS� PER sotto 
-Eval:          S    S         
+REF:  l'ultima IN    SO+ sotto 
+HYP:  l'ultima INSù PER sotto 
+Eval:          S     S         
 
 id: (rf-firenze_161)
 Scores: (#C #S #D #I) 10 5 1 1
 REF:  *** OKAY praticamente EHM devi CON questa linea DEVI arrivare a questo punto SOTTO A     questa stella 
-HYP:  CHE �    praticamente NON devi A   questa linea DI   arrivare a questo punto ***** SOPRA questa stella 
+HYP:  CHE è   praticamente NON devi A   questa linea DI   arrivare a questo punto ***** SOPRA questa stella 
 Eval: I   S                 S        S                S                            D     S                   
 
 id: (rf-firenze_162)
-Scores: (#C #S #D #I) 5 3 3 0
-REF:  SARà EHM  nemmeno mezzo centimetro SOTTO la STELLA PIù grande OKAY 
-HYP:  ***** SAR� nemmeno mezzo centimetro ***** la ****** PI�  grande CHE  
-Eval: D     S                             D        D      S           S    
+Scores: (#C #S #D #I) 7 1 3 0
+REF:  sarà EHM nemmeno mezzo centimetro SOTTO la STELLA più grande OKAY 
+HYP:  sarà *** nemmeno mezzo centimetro ***** la ****** più grande CHE  
+Eval:       D                            D        D                  S    
 
 id: (rf-firenze_163)
 Scores: (#C #S #D #I) 13 2 6 0
@@ -2255,10 +2255,10 @@ HYP:  ** *** ** DEVE passare in mezzo alle stelle la parte superiore delle stell
 Eval: D  D   D  S                                                                            D      D   D    S             
 
 id: (rf-firenze_164)
-Scores: (#C #S #D #I) 5 2 0 0
-REF:  dove C'è quella piccola in mezzo NO  
-HYP:  dove C'�  quella piccola in mezzo NON 
-Eval:      S                            S   
+Scores: (#C #S #D #I) 6 1 0 0
+REF:  dove c'è quella piccola in mezzo NO  
+HYP:  dove c'è quella piccola in mezzo NON 
+Eval:                                   S   
 
 id: (rf-firenze_165)
 Scores: (#C #S #D #I) 1 1 7 0
@@ -2279,10 +2279,10 @@ HYP:  *** *** ***** CHE
 Eval: D   D   D     S   
 
 id: (rf-firenze_168)
-Scores: (#C #S #D #I) 3 3 4 0
-REF:  CIOè aspetta PERCHé COM+   come COSA INTENDI TE       PER semicerchio 
-HYP:  ***** aspetta ******* PERCH� come **** ******* CORRENTE DI  semicerchio 
-Eval: D             D       S           D    D       S        S               
+Scores: (#C #S #D #I) 4 2 4 0
+REF:  CIOè aspetta perché COM+ come COSA INTENDI TE       PER semicerchio 
+HYP:  ***** aspetta perché **** come **** ******* CORRENTE DI  semicerchio 
+Eval: D                     D         D    D       S        S               
 
 id: (rf-firenze_169)
 Scores: (#C #S #D #I) 4 2 4 0
@@ -2315,15 +2315,15 @@ HYP:  * ** ** ** NOSTRE sopra
 Eval: D D  D  D  S            
 
 id: (rf-firenze_174)
-Scores: (#C #S #D #I) 13 3 1 0
-REF:  poi una sotto di media grandezza rispetto a quella nel mezzo PIù piccola quella DEL QUELLA ALTA       
-HYP:  poi una sotto di media grandezza rispetto a quella nel mezzo PI�  piccola quella *** DELLA  QUELL'ALTA 
-Eval:                                                              S                   D   S      S          
+Scores: (#C #S #D #I) 14 2 1 0
+REF:  poi una sotto di media grandezza rispetto a quella nel mezzo più piccola quella DEL QUELLA ALTA       
+HYP:  poi una sotto di media grandezza rispetto a quella nel mezzo più piccola quella *** DELLA  QUELL'ALTA 
+Eval:                                                                                  D   S      S          
 
 id: (rf-firenze_175)
 Scores: (#C #S #D #I) 5 3 3 0
 REF:  okay NELLA PARTE PIù ALTA CE          N'HAI una piccola nel mezzo 
-HYP:  okay ***** ***** **** LA   PASSEGGIATA C'�   una piccola nel mezzo 
+HYP:  okay ***** ***** **** LA   PASSEGGIATA C'è  una piccola nel mezzo 
 Eval:      D     D     D    S    S           S                           
 
 id: (rf-firenze_176)
@@ -2351,10 +2351,10 @@ HYP:  ***** ** ** AGITANO una grande a sinistra una piccola E   mezzo
 Eval: D     D  D  S                                         S         
 
 id: (rf-firenze_180)
-Scores: (#C #S #D #I) 15 2 1 0
-REF:  e una della stessa grandezza di quella A sinistra PIù o meno un po' PIù piccola a destra 
-HYP:  e una della stessa grandezza di quella * sinistra PI�  o meno un po' PI�  piccola a destra 
-Eval:                                        D          S                  S                     
+Scores: (#C #S #D #I) 17 0 1 0
+REF:  e una della stessa grandezza di quella A sinistra più o meno un po' più piccola a destra 
+HYP:  e una della stessa grandezza di quella * sinistra più o meno un po' più piccola a destra 
+Eval:                                        D                                                   
 
 id: (rf-firenze_181)
 Scores: (#C #S #D #I) 7 3 5 0
@@ -2375,10 +2375,10 @@ HYP:  ******* * ** ** ******* ** ASPETTANO SACCHI dire l'arrivo
 Eval: D       D D  D  D       D  S         S                    
 
 id: (rf-firenze_184)
-Scores: (#C #S #D #I) 7 4 8 0
-REF:  PER FARTI PERCHé SE L'ORDINE    delle stelle è DIVERSO NO ALLORA  L'ARRIVO   sai DOV'è da me TE lo spiego 
-HYP:  *** ***** ******* ** DELL'ORDINE delle stelle ** ******* ** DIVERSE ALL'ARRIVO sai DOV'�  da me ** lo spiego 
-Eval: D   D     D       D  S                        D  D       D  S       S              S            D            
+Scores: (#C #S #D #I) 8 3 8 0
+REF:  PER FARTI PERCHé SE L'ORDINE    delle stelle è DIVERSO NO ALLORA  L'ARRIVO   sai dov'è da me TE lo spiego 
+HYP:  *** ***** ******* ** DELL'ORDINE delle stelle ** ******* ** DIVERSE ALL'ARRIVO sai dov'è da me ** lo spiego 
+Eval: D   D     D       D  S                        D  D       D  S       S                           D            
 
 id: (rf-firenze_185)
 Scores: (#C #S #D #I) 1 1 3 1
@@ -2388,9 +2388,9 @@ Eval: D     D        D  S              I
 
 id: (rf-firenze_186)
 Scores: (#C #S #D #I) 3 2 0 0
-REF:  la GRIGIA E la rossa 
-HYP:  la VERIT� � la rossa 
-Eval:    S      S          
+REF:  la GRIGIA  E  la rossa 
+HYP:  la VERITà è la rossa 
+Eval:    S       S           
 
 id: (rf-firenze_187)
 Scores: (#C #S #D #I) 1 1 0 0
@@ -2418,20 +2418,20 @@ Eval: D   D  D   D       D  S
 
 id: (rf-firenze_191)
 Scores: (#C #S #D #I) 1 0 0 1
-REF:  * okay 
-HYP:  � okay 
-Eval: I      
+REF:  ** okay 
+HYP:  è okay 
+Eval: I       
 
 id: (rf-firenze_192)
-Scores: (#C #S #D #I) 15 2 2 0
+Scores: (#C #S #D #I) 16 1 2 0
 REF:  allora il punto d'arrivo te EHM è come se fosse HAI presente la LA   gomma posteriore della macchina grigia 
-HYP:  allora il punto d'arrivo te *** �  come se fosse *** presente la ALLA gomma posteriore della macchina grigia 
-Eval:                             D   S                D               S                                           
+HYP:  allora il punto d'arrivo te *** è come se fosse *** presente la ALLA gomma posteriore della macchina grigia 
+Eval:                             D                    D               S                                           
 
 id: (rf-firenze_193)
 Scores: (#C #S #D #I) 5 3 2 1
 REF:  EH TE DEVI PASS+ praticamente andare in ********* VERTICA+ in orizzontale 
-HYP:  ** ** �    PARSA praticamente andare in VERTICALE E        in orizzontale 
+HYP:  ** ** è   PARSA praticamente andare in VERTICALE E        in orizzontale 
 Eval: D  D  S    S                            I         S                       
 
 id: (rf-firenze_194)
@@ -2465,21 +2465,21 @@ HYP:  **
 Eval: D  
 
 id: (rf-firenze_199)
-Scores: (#C #S #D #I) 4 3 5 0
-REF:  EH IL gruppo di stelle è S+ è STRANO CHE      PERò siano 
-HYP:  ** E  gruppo di stelle ** ** ** ****** ESTRANEE PER�  siano 
-Eval: D  S                   D  D  D  D      S        S           
+Scores: (#C #S #D #I) 5 2 5 0
+REF:  EH IL gruppo di stelle è S+ è STRANO CHE      però siano 
+HYP:  ** E  gruppo di stelle ** ** ** ****** ESTRANEE però siano 
+Eval: D  S                   D  D  D  D      S                    
 
 id: (rf-firenze_200)
-Scores: (#C #S #D #I) 14 5 4 0
-REF:  aspetta PIù TE  prova a mettertela al contrario IL foglio FORSE TE mi dici come sono da te e TI SEMBRA UN SEMICE+ 
-HYP:  aspetta **** PI� prova a mettertela al contrario ** foglio ***** SE mi dici come sono da te e ** NON    SI DICE    
-Eval:         D    S                                   D         D     S                            D  S      S  S       
+Scores: (#C #S #D #I) 15 4 4 0
+REF:  aspetta più TE prova a mettertela al contrario IL foglio FORSE TE mi dici come sono da te e TI SEMBRA UN SEMICE+ 
+HYP:  aspetta più ** prova a mettertela al contrario ** foglio ***** SE mi dici come sono da te e ** NON    SI DICE    
+Eval:              D                                  D         D     S                            D  S      S  S       
 
 id: (rf-firenze_201)
 Scores: (#C #S #D #I) 12 4 21 0
 REF:  E ASPETTA FAMMI VEDERE SE DA TE C'è    a me non MI risulta UN SEMICERCHIO LE TUE stelle come le VEDI TE     CIOè almeno DA ME NE      risultano due in MEZZO CE NE SON DUE NEL mezzo 
-HYP:  * ******* ***** ****** ** ** ** REDATTI a me non ** risulta ** *********** ** *** stelle come le **** VENITE C'�   almeno ** ** DAMMENE risultano due in ***** ** ** *** *** *** mezzo 
+HYP:  * ******* ***** ****** ** ** ** REDATTI a me non ** risulta ** *********** ** *** stelle come le **** VENITE C'è  almeno ** ** DAMMENE risultano due in ***** ** ** *** *** *** mezzo 
 Eval: D D       D     D      D  D  D  S                D          D  D           D  D                  D    S      S            D  D  S                        D     D  D  D   D   D         
 
 id: (rf-firenze_202)
@@ -2549,10 +2549,10 @@ HYP:  SI
 Eval: S   
 
 id: (rf-firenze_213)
-Scores: (#C #S #D #I) 11 4 2 1
-REF:  IO PENSO CHE      sia la parte destra * DELLA stella PIù piccola in alto alla destra della STELLA 
-HYP:  ** FA    MENZIONE sia la parte destra � LA    stella PI�  piccola in alto alla destra della ****** 
-Eval: D  S     S                            I S            S                                      D      
+Scores: (#C #S #D #I) 12 3 2 1
+REF:  IO PENSO CHE      sia la parte destra ** DELLA stella più piccola in alto alla destra della STELLA 
+HYP:  ** FA    MENZIONE sia la parte destra è LA    stella più piccola in alto alla destra della ****** 
+Eval: D  S     S                            I  S                                                   D      
 
 id: (rf-firenze_214)
 Scores: (#C #S #D #I) 1 4 0 0

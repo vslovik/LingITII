@@ -84,17 +84,17 @@ Aligned words         =            1   ( 22)
 -------------------------------------------------------------------------------
 
 id: (ll-firenze_5)
-Scores: (#C #S #D #I) 6 2 3 0
-REF:  Sì a METà fra la MACCHININA E IL       fondo del foglio 
-HYP:  *** a MET�  fra la ********** * MANTIENE fondo del foglio 
-Eval: D     S            D          D S                         
+Scores: (#C #S #D #I) 7 1 3 0
+REF:  Sì a metà fra la MACCHININA E IL       fondo del foglio 
+HYP:  *** a metà fra la ********** * MANTIENE fondo del foglio 
+Eval: D                  D          D S                         
 
-Correct               =   54.5%    6   ( 25)
-Substitutions         =   18.2%    2   (  4)
+Correct               =   63.6%    7   ( 26)
+Substitutions         =    9.1%    1   (  3)
 Deletions             =   27.3%    3   (  4)
 Insertions            =    0.0%    0   (  0)
 
-Errors                =   45.5%    5   (  8)
+Errors                =   36.4%    4   (  7)
 
 Ref. words            =           11   ( 33)
 Hyp. words            =            8   ( 29)
@@ -103,17 +103,17 @@ Aligned words         =           11   ( 33)
 -------------------------------------------------------------------------------
 
 id: (ll-firenze_6)
-Scores: (#C #S #D #I) 7 6 3 0
-REF:  Sì  a METà fra la macchina E LA   fine DEL FOGLIO OKAY A  SINISTRA della televisione 
-HYP:  COS� a MET�  fra la macchina * ALLA fine *** ****** CON  LE ASSISE   della televisione 
-Eval: S      S                     D S         D   D      S    S  S                          
+Scores: (#C #S #D #I) 8 5 3 0
+REF:  Sì   a metà fra la macchina E LA   fine DEL FOGLIO OKAY A  SINISTRA della televisione 
+HYP:  COSì a metà fra la macchina * ALLA fine *** ****** CON  LE ASSISE   della televisione 
+Eval: S                             D S         D   D      S    S  S                          
 
-Correct               =   43.8%    7   ( 32)
-Substitutions         =   37.5%    6   ( 10)
+Correct               =   50.0%    8   ( 34)
+Substitutions         =   31.3%    5   (  8)
 Deletions             =   18.8%    3   (  7)
 Insertions            =    0.0%    0   (  0)
 
-Errors                =   56.3%    9   ( 17)
+Errors                =   50.0%    8   ( 15)
 
 Ref. words            =           16   ( 49)
 Hyp. words            =           13   ( 42)
@@ -127,12 +127,12 @@ REF:  poi scendi un po' ANDANDO a destra e GIRI intorno alla televisione
 HYP:  poi scendi un po' DANDO   a destra e IL   intorno alla televisione 
 Eval:                   S                  S                             
 
-Correct               =   83.3%   10   ( 42)
-Substitutions         =   16.7%    2   ( 12)
+Correct               =   83.3%   10   ( 44)
+Substitutions         =   16.7%    2   ( 10)
 Deletions             =    0.0%    0   (  7)
 Insertions            =    0.0%    0   (  0)
 
-Errors                =   16.7%    2   ( 19)
+Errors                =   16.7%    2   ( 17)
 
 Ref. words            =           12   ( 61)
 Hyp. words            =           12   ( 54)
@@ -146,12 +146,12 @@ REF:  Sì E   fai un SEMICERCHIO INTORNO    ALLA televisione
 HYP:  *** CHE fai un *********** SEMICENTRO LA   televisione 
 Eval: D   S          D           S          S                
 
-Correct               =   37.5%    3   ( 45)
-Substitutions         =   37.5%    3   ( 15)
+Correct               =   37.5%    3   ( 47)
+Substitutions         =   37.5%    3   ( 13)
 Deletions             =   25.0%    2   (  9)
 Insertions            =    0.0%    0   (  0)
 
-Errors                =   62.5%    5   ( 24)
+Errors                =   62.5%    5   ( 22)
 
 Ref. words            =            8   ( 69)
 Hyp. words            =            6   ( 60)
@@ -165,12 +165,12 @@ REF:  ** SCENDI   DAL punto di partenza verso destra in basso
 HYP:  DI PARTENZA DA  punto di partenza verso destra in basso 
 Eval: I  S        S                                           
 
-Correct               =   77.8%    7   ( 52)
-Substitutions         =   22.2%    2   ( 17)
+Correct               =   77.8%    7   ( 54)
+Substitutions         =   22.2%    2   ( 15)
 Deletions             =    0.0%    0   (  9)
 Insertions            =   11.1%    1   (  1)
 
-Errors                =   33.3%    3   ( 27)
+Errors                =   33.3%    3   ( 25)
 
 Ref. words            =            9   ( 78)
 Hyp. words            =           10   ( 70)
@@ -184,12 +184,12 @@ REF:  Sì
 HYP:  SI  
 Eval: S   
 
-Correct               =    0.0%    0   ( 52)
-Substitutions         =  100.0%    1   ( 18)
+Correct               =    0.0%    0   ( 54)
+Substitutions         =  100.0%    1   ( 16)
 Deletions             =    0.0%    0   (  9)
 Insertions            =    0.0%    0   (  1)
 
-Errors                =  100.0%    1   ( 28)
+Errors                =  100.0%    1   ( 26)
 
 Ref. words            =            1   ( 79)
 Hyp. words            =            1   ( 71)
@@ -203,12 +203,12 @@ REF:  **** ** DOPODICHé RISALI un po' sempre andando verso destra
 HYP:  DOPO DI CHE        RISALE un po' sempre andando verso destra 
 Eval: I    I  S          S                                         
 
-Correct               =   75.0%    6   ( 58)
-Substitutions         =   25.0%    2   ( 20)
+Correct               =   75.0%    6   ( 60)
+Substitutions         =   25.0%    2   ( 18)
 Deletions             =    0.0%    0   (  9)
 Insertions            =   25.0%    2   (  3)
 
-Errors                =   50.0%    4   ( 32)
+Errors                =   50.0%    4   ( 30)
 
 Ref. words            =            8   ( 87)
 Hyp. words            =           10   ( 81)
@@ -222,12 +222,12 @@ REF:  FINO ALLA STESSA ALTEZZA DEL    punto di partenza **
 HYP:  **** **** SA     DI      ESSERE punto di partenza SE 
 Eval: D    D    S      S       S                        I  
 
-Correct               =   37.5%    3   ( 61)
-Substitutions         =   37.5%    3   ( 23)
+Correct               =   37.5%    3   ( 63)
+Substitutions         =   37.5%    3   ( 21)
 Deletions             =   25.0%    2   ( 11)
 Insertions            =   12.5%    1   (  4)
 
-Errors                =   75.0%    6   ( 38)
+Errors                =   75.0%    6   ( 36)
 
 Ref. words            =            8   ( 95)
 Hyp. words            =            7   ( 88)
@@ -241,12 +241,12 @@ REF:  aspetta TE la partenza FA' UN SEMICERCHIO INTORNO ALLA          television
 HYP:  aspetta ** la partenza *** ** *********** ******* FALSIFICATORE televisione 
 Eval:         D              D   D  D           D       S                         
 
-Correct               =   40.0%    4   ( 65)
-Substitutions         =   10.0%    1   ( 24)
+Correct               =   40.0%    4   ( 67)
+Substitutions         =   10.0%    1   ( 22)
 Deletions             =   50.0%    5   ( 16)
 Insertions            =    0.0%    0   (  4)
 
-Errors                =   60.0%    6   ( 44)
+Errors                =   60.0%    6   ( 42)
 
 Ref. words            =           10   (105)
 Hyp. words            =            5   ( 93)
@@ -255,25 +255,25 @@ Aligned words         =           10   (109)
 -------------------------------------------------------------------------------
 
 id: (ll-firenze_14)
-Scores: (#C #S #D #I) 13 7 4 0
-REF:  poi RISALI un po' fino a che in orizzontale il L'ALTEZZA della partenza è UGUALE A quella DI DEL PUNTO IN  
-HYP:  poi RISALE un po' fino a che in orizzontale il L'ATTESA  della partenza ** QUAL   � quella ** *** ***** DI: 
-Eval:     S                                          S                        D  S      S        D  D   D     S   
+Scores: (#C #S #D #I) 14 5 5 1
+REF:  poi RISALI un po' fino a che in orizzontale il L'ALTEZZA della partenza **** è UGUALE A quella DI DEL PUNTO IN  
+HYP:  poi RISALE un po' fino a che in orizzontale il L'ATTESA  della partenza QUAL è ****** * quella ** *** ***** DI: 
+Eval:     S                                          S                        I       D      D        D  D   D     S   
 
 >> REF:  CUI    SEI adesso 
->> HYP:  QUESTA �   adesso 
+>> HYP:  QUESTA è  adesso 
 >> Eval: S      S          
 
-Correct               =   54.2%   13   ( 78)
-Substitutions         =   29.2%    7   ( 31)
-Deletions             =   16.7%    4   ( 20)
-Insertions            =    0.0%    0   (  4)
+Correct               =   58.3%   14   ( 81)
+Substitutions         =   20.8%    5   ( 27)
+Deletions             =   20.8%    5   ( 21)
+Insertions            =    4.2%    1   (  5)
 
-Errors                =   45.8%   11   ( 55)
+Errors                =   45.8%   11   ( 53)
 
 Ref. words            =           24   (129)
 Hyp. words            =           20   (113)
-Aligned words         =           24   (133)
+Aligned words         =           25   (134)
 
 -------------------------------------------------------------------------------
 
@@ -283,16 +283,16 @@ REF:  E SCI
 HYP:  * ESCI 
 Eval: D S    
 
-Correct               =    0.0%    0   ( 78)
-Substitutions         =   50.0%    1   ( 32)
-Deletions             =   50.0%    1   ( 21)
-Insertions            =    0.0%    0   (  4)
+Correct               =    0.0%    0   ( 81)
+Substitutions         =   50.0%    1   ( 28)
+Deletions             =   50.0%    1   ( 22)
+Insertions            =    0.0%    0   (  5)
 
-Errors                =  100.0%    2   ( 57)
+Errors                =  100.0%    2   ( 55)
 
 Ref. words            =            2   (131)
 Hyp. words            =            1   (114)
-Aligned words         =            2   (135)
+Aligned words         =            2   (136)
 
 -------------------------------------------------------------------------------
 
@@ -302,16 +302,16 @@ REF:  INDO' STANNO
 HYP:  ***** ****** 
 Eval: D     D      
 
-Correct               =    0.0%    0   ( 78)
-Substitutions         =    0.0%    0   ( 32)
-Deletions             =  100.0%    2   ( 23)
-Insertions            =    0.0%    0   (  4)
+Correct               =    0.0%    0   ( 81)
+Substitutions         =    0.0%    0   ( 28)
+Deletions             =  100.0%    2   ( 24)
+Insertions            =    0.0%    0   (  5)
 
-Errors                =  100.0%    2   ( 59)
+Errors                =  100.0%    2   ( 57)
 
 Ref. words            =            2   (133)
 Hyp. words            =            0   (114)
-Aligned words         =            2   (137)
+Aligned words         =            2   (138)
 
 -------------------------------------------------------------------------------
 
@@ -321,35 +321,35 @@ REF:  no
 HYP:  no 
 Eval:    
 
-Correct               =  100.0%    1   ( 79)
-Substitutions         =    0.0%    0   ( 32)
-Deletions             =    0.0%    0   ( 23)
-Insertions            =    0.0%    0   (  4)
+Correct               =  100.0%    1   ( 82)
+Substitutions         =    0.0%    0   ( 28)
+Deletions             =    0.0%    0   ( 24)
+Insertions            =    0.0%    0   (  5)
 
-Errors                =    0.0%    0   ( 59)
+Errors                =    0.0%    0   ( 57)
 
 Ref. words            =            1   (134)
 Hyp. words            =            1   (115)
-Aligned words         =            1   (138)
+Aligned words         =            1   (139)
 
 -------------------------------------------------------------------------------
 
 id: (ll-firenze_18)
 Scores: (#C #S #D #I) 1 6 3 0
 REF:  Sì COMU+ EHM comunque POSSO IMMAGINà DOVE           SIANO VESTI SCI   
-HYP:  *** ***** SI  comunque ***** POSSIBILE AUTOLESIONISTI CHE   �     MORTA 
+HYP:  *** ***** SI  comunque ***** POSSIBILE AUTOLESIONISTI CHE   è    MORTA 
 Eval: D   D     S            D     S         S              S     S     S     
 
-Correct               =   10.0%    1   ( 80)
-Substitutions         =   60.0%    6   ( 38)
-Deletions             =   30.0%    3   ( 26)
-Insertions            =    0.0%    0   (  4)
+Correct               =   10.0%    1   ( 83)
+Substitutions         =   60.0%    6   ( 34)
+Deletions             =   30.0%    3   ( 27)
+Insertions            =    0.0%    0   (  5)
 
-Errors                =   90.0%    9   ( 68)
+Errors                =   90.0%    9   ( 66)
 
 Ref. words            =           10   (144)
 Hyp. words            =            7   (122)
-Aligned words         =           10   (148)
+Aligned words         =           10   (149)
 
 -------------------------------------------------------------------------------
 
@@ -359,16 +359,16 @@ REF:  TE C'HAI UNA TORTA
 HYP:  ** ***** *** ***** 
 Eval: D  D     D   D     
 
-Correct               =    0.0%    0   ( 80)
-Substitutions         =    0.0%    0   ( 38)
-Deletions             =  100.0%    4   ( 30)
-Insertions            =    0.0%    0   (  4)
+Correct               =    0.0%    0   ( 83)
+Substitutions         =    0.0%    0   ( 34)
+Deletions             =  100.0%    4   ( 31)
+Insertions            =    0.0%    0   (  5)
 
-Errors                =  100.0%    4   ( 72)
+Errors                =  100.0%    4   ( 70)
 
 Ref. words            =            4   (148)
 Hyp. words            =            0   (122)
-Aligned words         =            4   (152)
+Aligned words         =            4   (153)
 
 -------------------------------------------------------------------------------
 
@@ -378,16 +378,16 @@ REF:  Sì   ecco DEVI girare intorno alla torta completamente
 HYP:  SENSI ecco DEVE girare intorno alla torta completamente 
 Eval: S          S                                            
 
-Correct               =   75.0%    6   ( 86)
-Substitutions         =   25.0%    2   ( 40)
-Deletions             =    0.0%    0   ( 30)
-Insertions            =    0.0%    0   (  4)
+Correct               =   75.0%    6   ( 89)
+Substitutions         =   25.0%    2   ( 36)
+Deletions             =    0.0%    0   ( 31)
+Insertions            =    0.0%    0   (  5)
 
-Errors                =   25.0%    2   ( 74)
+Errors                =   25.0%    2   ( 72)
 
 Ref. words            =            8   (156)
 Hyp. words            =            8   (130)
-Aligned words         =            8   (160)
+Aligned words         =            8   (161)
 
 -------------------------------------------------------------------------------
 
@@ -397,16 +397,16 @@ REF:  E ritorni molto vicino al punto di DI  in CUI ERAVAMO prima
 HYP:  * ritorni molto vicino al punto di DIO in *** QUELLA  prima 
 Eval: D                                  S      D   S             
 
-Correct               =   66.7%    8   ( 94)
-Substitutions         =   16.7%    2   ( 42)
-Deletions             =   16.7%    2   ( 32)
-Insertions            =    0.0%    0   (  4)
+Correct               =   66.7%    8   ( 97)
+Substitutions         =   16.7%    2   ( 38)
+Deletions             =   16.7%    2   ( 33)
+Insertions            =    0.0%    0   (  5)
 
-Errors                =   33.3%    4   ( 78)
+Errors                =   33.3%    4   ( 76)
 
 Ref. words            =           12   (168)
 Hyp. words            =           10   (140)
-Aligned words         =           12   (172)
+Aligned words         =           12   (173)
 
 -------------------------------------------------------------------------------
 
@@ -416,35 +416,35 @@ REF:  NO L'ULTI+ l'ultimo detto
 HYP:  ** ******* l'ultimo detto 
 Eval: D  D                      
 
-Correct               =   50.0%    2   ( 96)
-Substitutions         =    0.0%    0   ( 42)
-Deletions             =   50.0%    2   ( 34)
-Insertions            =    0.0%    0   (  4)
+Correct               =   50.0%    2   ( 99)
+Substitutions         =    0.0%    0   ( 38)
+Deletions             =   50.0%    2   ( 35)
+Insertions            =    0.0%    0   (  5)
 
-Errors                =   50.0%    2   ( 80)
+Errors                =   50.0%    2   ( 78)
 
 Ref. words            =            4   (172)
 Hyp. words            =            2   (142)
-Aligned words         =            4   (176)
+Aligned words         =            4   (177)
 
 -------------------------------------------------------------------------------
 
 id: (ll-firenze_23)
 Scores: (#C #S #D #I) 3 4 2 1
 REF:  QUELLO che dicevi *** VICINO A      vicino AGLI SCI NO 
-HYP:  ****** che dicevi CHE LA     VICINA vicino **** SE  �  
+HYP:  ****** che dicevi CHE LA     VICINA vicino **** SE  è 
 Eval: D                 I   S      S             D    S   S  
 
-Correct               =   33.3%    3   ( 99)
-Substitutions         =   44.4%    4   ( 46)
-Deletions             =   22.2%    2   ( 36)
-Insertions            =   11.1%    1   (  5)
+Correct               =   33.3%    3   (102)
+Substitutions         =   44.4%    4   ( 42)
+Deletions             =   22.2%    2   ( 37)
+Insertions            =   11.1%    1   (  6)
 
-Errors                =   77.8%    7   ( 87)
+Errors                =   77.8%    7   ( 85)
 
 Ref. words            =            9   (181)
 Hyp. words            =            8   (150)
-Aligned words         =           10   (186)
+Aligned words         =           10   (187)
 
 -------------------------------------------------------------------------------
 
@@ -454,16 +454,16 @@ REF:  GIRI INTORNO ALLA TORTA  E  FA'   CODESTO
 HYP:  **** ******* **** DIETRO LA PORTA FUORI   
 Eval: D    D       D    S      S  S     S       
 
-Correct               =    0.0%    0   ( 99)
-Substitutions         =   57.1%    4   ( 50)
-Deletions             =   42.9%    3   ( 39)
-Insertions            =    0.0%    0   (  5)
+Correct               =    0.0%    0   (102)
+Substitutions         =   57.1%    4   ( 46)
+Deletions             =   42.9%    3   ( 40)
+Insertions            =    0.0%    0   (  6)
 
-Errors                =  100.0%    7   ( 94)
+Errors                =  100.0%    7   ( 92)
 
 Ref. words            =            7   (188)
 Hyp. words            =            4   (154)
-Aligned words         =            7   (193)
+Aligned words         =            7   (194)
 
 -------------------------------------------------------------------------------
 
@@ -473,35 +473,35 @@ REF:  TE  C'ENTRI dal basso E E RISALI dall'alto
 HYP:  DEI CENTRI  dal basso * * RISALE dall'alto 
 Eval: S   S                 D D S                
 
-Correct               =   37.5%    3   (102)
-Substitutions         =   37.5%    3   ( 53)
-Deletions             =   25.0%    2   ( 41)
-Insertions            =    0.0%    0   (  5)
+Correct               =   37.5%    3   (105)
+Substitutions         =   37.5%    3   ( 49)
+Deletions             =   25.0%    2   ( 42)
+Insertions            =    0.0%    0   (  6)
 
-Errors                =   62.5%    5   ( 99)
+Errors                =   62.5%    5   ( 97)
 
 Ref. words            =            8   (196)
 Hyp. words            =            6   (160)
-Aligned words         =            8   (201)
+Aligned words         =            8   (202)
 
 -------------------------------------------------------------------------------
 
 id: (ll-firenze_26)
-Scores: (#C #S #D #I) 12 4 5 0
-REF:  E  SO+  C'è il punto IN cui siamo adesso E vicino a quello in cui c'era il EHM ERAVAMO PRIMA OKAY    
-HYP:  SE ESSO C'�  il punto ** cui siamo adesso * vicino a quello in cui c'era il *** ******* ***** PROPRIO 
-Eval: S  S    S             D                   D                                 D   D       D     S       
+Scores: (#C #S #D #I) 13 3 5 0
+REF:  E  SO+  c'è il punto IN cui siamo adesso E vicino a quello in cui c'era il EHM ERAVAMO PRIMA OKAY    
+HYP:  SE ESSO c'è il punto ** cui siamo adesso * vicino a quello in cui c'era il *** ******* ***** PROPRIO 
+Eval: S  S                  D                   D                                 D   D       D     S       
 
-Correct               =   57.1%   12   (114)
-Substitutions         =   19.0%    4   ( 57)
-Deletions             =   23.8%    5   ( 46)
-Insertions            =    0.0%    0   (  5)
+Correct               =   61.9%   13   (118)
+Substitutions         =   14.3%    3   ( 52)
+Deletions             =   23.8%    5   ( 47)
+Insertions            =    0.0%    0   (  6)
 
-Errors                =   42.9%    9   (108)
+Errors                =   38.1%    8   (105)
 
 Ref. words            =           21   (217)
 Hyp. words            =           16   (176)
-Aligned words         =           21   (222)
+Aligned words         =           21   (223)
 
 -------------------------------------------------------------------------------
 
@@ -511,16 +511,16 @@ REF:  Sì molto vicino quasi SI toccano
 HYP:  *** molto vicino quasi ** toccano 
 Eval: D                      D          
 
-Correct               =   66.7%    4   (118)
-Substitutions         =    0.0%    0   ( 57)
-Deletions             =   33.3%    2   ( 48)
-Insertions            =    0.0%    0   (  5)
+Correct               =   66.7%    4   (122)
+Substitutions         =    0.0%    0   ( 52)
+Deletions             =   33.3%    2   ( 49)
+Insertions            =    0.0%    0   (  6)
 
-Errors                =   33.3%    2   (110)
+Errors                =   33.3%    2   (107)
 
 Ref. words            =            6   (223)
 Hyp. words            =            4   (180)
-Aligned words         =            6   (228)
+Aligned words         =            6   (229)
 
 -------------------------------------------------------------------------------
 
@@ -530,16 +530,16 @@ REF:  poi vai UN POCHINO dritto fino ad essere sopra la televisione
 HYP:  poi vai O  POI     dritto fino ad essere sopra la televisione 
 Eval:         S  S                                                  
 
-Correct               =   81.8%    9   (127)
-Substitutions         =   18.2%    2   ( 59)
-Deletions             =    0.0%    0   ( 48)
-Insertions            =    0.0%    0   (  5)
+Correct               =   81.8%    9   (131)
+Substitutions         =   18.2%    2   ( 54)
+Deletions             =    0.0%    0   ( 49)
+Insertions            =    0.0%    0   (  6)
 
-Errors                =   18.2%    2   (112)
+Errors                =   18.2%    2   (109)
 
 Ref. words            =           11   (234)
 Hyp. words            =           11   (191)
-Aligned words         =           11   (239)
+Aligned words         =           11   (240)
 
 -------------------------------------------------------------------------------
 
@@ -549,35 +549,35 @@ REF:  dritto
 HYP:  dritto 
 Eval:        
 
-Correct               =  100.0%    1   (128)
-Substitutions         =    0.0%    0   ( 59)
-Deletions             =    0.0%    0   ( 48)
-Insertions            =    0.0%    0   (  5)
+Correct               =  100.0%    1   (132)
+Substitutions         =    0.0%    0   ( 54)
+Deletions             =    0.0%    0   ( 49)
+Insertions            =    0.0%    0   (  6)
 
-Errors                =    0.0%    0   (112)
+Errors                =    0.0%    0   (109)
 
 Ref. words            =            1   (235)
 Hyp. words            =            1   (192)
-Aligned words         =            1   (240)
+Aligned words         =            1   (241)
 
 -------------------------------------------------------------------------------
 
 id: (ll-firenze_30)
-Scores: (#C #S #D #I) 9 1 0 0
-REF:  in verticale un po' PIù sopra del punto di partenza 
-HYP:  in verticale un po' PI�  sopra del punto di partenza 
-Eval:                     S                                
+Scores: (#C #S #D #I) 10 0 0 0
+REF:  in verticale un po' più sopra del punto di partenza 
+HYP:  in verticale un po' più sopra del punto di partenza 
+Eval:                                                      
 
-Correct               =   90.0%    9   (137)
-Substitutions         =   10.0%    1   ( 60)
-Deletions             =    0.0%    0   ( 48)
-Insertions            =    0.0%    0   (  5)
+Correct               =  100.0%   10   (142)
+Substitutions         =    0.0%    0   ( 54)
+Deletions             =    0.0%    0   ( 49)
+Insertions            =    0.0%    0   (  6)
 
-Errors                =   10.0%    1   (113)
+Errors                =    0.0%    0   (109)
 
 Ref. words            =           10   (245)
 Hyp. words            =           10   (202)
-Aligned words         =           10   (250)
+Aligned words         =           10   (251)
 
 -------------------------------------------------------------------------------
 
@@ -587,16 +587,16 @@ REF:  Sì
 HYP:  SI  
 Eval: S   
 
-Correct               =    0.0%    0   (137)
-Substitutions         =  100.0%    1   ( 61)
-Deletions             =    0.0%    0   ( 48)
-Insertions            =    0.0%    0   (  5)
+Correct               =    0.0%    0   (142)
+Substitutions         =  100.0%    1   ( 55)
+Deletions             =    0.0%    0   ( 49)
+Insertions            =    0.0%    0   (  6)
 
-Errors                =  100.0%    1   (114)
+Errors                =  100.0%    1   (110)
 
 Ref. words            =            1   (246)
 Hyp. words            =            1   (203)
-Aligned words         =            1   (251)
+Aligned words         =            1   (252)
 
 -------------------------------------------------------------------------------
 
@@ -606,16 +606,16 @@ REF:  poi IN ALTO A SINISTRA C'è la macchina
 HYP:  poi ** **** * ALTRO    CHE  la macchina 
 Eval:     D  D    D S        S                
 
-Correct               =   37.5%    3   (140)
-Substitutions         =   25.0%    2   ( 63)
-Deletions             =   37.5%    3   ( 51)
-Insertions            =    0.0%    0   (  5)
+Correct               =   37.5%    3   (145)
+Substitutions         =   25.0%    2   ( 57)
+Deletions             =   37.5%    3   ( 52)
+Insertions            =    0.0%    0   (  6)
 
-Errors                =   62.5%    5   (119)
+Errors                =   62.5%    5   (115)
 
 Ref. words            =            8   (254)
 Hyp. words            =            5   (208)
-Aligned words         =            8   (259)
+Aligned words         =            8   (260)
 
 -------------------------------------------------------------------------------
 
@@ -625,35 +625,35 @@ REF:  DEVI DEVI arrivarci sulla sua SINISTRA SULLA sinistra della macchina
 HYP:  **** DI   arrivarci sulla sua ******** ***** sinistra della macchina 
 Eval: D    S                        D        D                             
 
-Correct               =   60.0%    6   (146)
-Substitutions         =   10.0%    1   ( 64)
-Deletions             =   30.0%    3   ( 54)
-Insertions            =    0.0%    0   (  5)
+Correct               =   60.0%    6   (151)
+Substitutions         =   10.0%    1   ( 58)
+Deletions             =   30.0%    3   ( 55)
+Insertions            =    0.0%    0   (  6)
 
-Errors                =   40.0%    4   (123)
+Errors                =   40.0%    4   (119)
 
 Ref. words            =           10   (264)
 Hyp. words            =            7   (215)
-Aligned words         =           10   (269)
+Aligned words         =           10   (270)
 
 -------------------------------------------------------------------------------
 
 id: (ll-firenze_34)
 Scores: (#C #S #D #I) 2 4 0 0
 REF:  DAL dal punto DOVE SIAMO ADESSO   
-HYP:  DA  dal punto DI   S�    MEDESIMA 
+HYP:  DA  dal punto DI   Sì   MEDESIMA 
 Eval: S             S    S     S        
 
-Correct               =   33.3%    2   (148)
-Substitutions         =   66.7%    4   ( 68)
-Deletions             =    0.0%    0   ( 54)
-Insertions            =    0.0%    0   (  5)
+Correct               =   33.3%    2   (153)
+Substitutions         =   66.7%    4   ( 62)
+Deletions             =    0.0%    0   ( 55)
+Insertions            =    0.0%    0   (  6)
 
-Errors                =   66.7%    4   (127)
+Errors                =   66.7%    4   (123)
 
 Ref. words            =            6   (270)
 Hyp. words            =            6   (221)
-Aligned words         =            6   (275)
+Aligned words         =            6   (276)
 
 -------------------------------------------------------------------------------
 
@@ -663,16 +663,16 @@ REF:  PRESSOCHé dritto
 HYP:  ********** dritto 
 Eval: D                 
 
-Correct               =   50.0%    1   (149)
-Substitutions         =    0.0%    0   ( 68)
-Deletions             =   50.0%    1   ( 55)
-Insertions            =    0.0%    0   (  5)
+Correct               =   50.0%    1   (154)
+Substitutions         =    0.0%    0   ( 62)
+Deletions             =   50.0%    1   ( 56)
+Insertions            =    0.0%    0   (  6)
 
-Errors                =   50.0%    1   (128)
+Errors                =   50.0%    1   (124)
 
 Ref. words            =            2   (272)
 Hyp. words            =            1   (222)
-Aligned words         =            2   (277)
+Aligned words         =            2   (278)
 
 -------------------------------------------------------------------------------
 
@@ -682,16 +682,16 @@ REF:  Sì IN   OBLIQUO
 HYP:  *** SINO PRIVO   
 Eval: D   S    S       
 
-Correct               =    0.0%    0   (149)
-Substitutions         =   66.7%    2   ( 70)
-Deletions             =   33.3%    1   ( 56)
-Insertions            =    0.0%    0   (  5)
+Correct               =    0.0%    0   (154)
+Substitutions         =   66.7%    2   ( 64)
+Deletions             =   33.3%    1   ( 57)
+Insertions            =    0.0%    0   (  6)
 
-Errors                =  100.0%    3   (131)
+Errors                =  100.0%    3   (127)
 
 Ref. words            =            3   (275)
 Hyp. words            =            2   (224)
-Aligned words         =            3   (280)
+Aligned words         =            3   (281)
 
 -------------------------------------------------------------------------------
 
@@ -701,16 +701,16 @@ REF:  fino AL DOVE C'è IL  paraurti
 HYP:  fino ** ALLE DUE  DEL paraurti 
 Eval:      D  S    S    S            
 
-Correct               =   33.3%    2   (151)
-Substitutions         =   50.0%    3   ( 73)
-Deletions             =   16.7%    1   ( 57)
-Insertions            =    0.0%    0   (  5)
+Correct               =   33.3%    2   (156)
+Substitutions         =   50.0%    3   ( 67)
+Deletions             =   16.7%    1   ( 58)
+Insertions            =    0.0%    0   (  6)
 
-Errors                =   66.7%    4   (135)
+Errors                =   66.7%    4   (131)
 
 Ref. words            =            6   (281)
 Hyp. words            =            5   (229)
-Aligned words         =            6   (286)
+Aligned words         =            6   (287)
 
 -------------------------------------------------------------------------------
 
@@ -720,16 +720,16 @@ REF:  ecco poi giri sopra ALLA macchina
 HYP:  ecco poi giri sopra LA   macchina 
 Eval:                     S             
 
-Correct               =   83.3%    5   (156)
-Substitutions         =   16.7%    1   ( 74)
-Deletions             =    0.0%    0   ( 57)
-Insertions            =    0.0%    0   (  5)
+Correct               =   83.3%    5   (161)
+Substitutions         =   16.7%    1   ( 68)
+Deletions             =    0.0%    0   ( 58)
+Insertions            =    0.0%    0   (  6)
 
-Errors                =   16.7%    1   (136)
+Errors                =   16.7%    1   (132)
 
 Ref. words            =            6   (287)
 Hyp. words            =            6   (235)
-Aligned words         =            6   (292)
+Aligned words         =            6   (293)
 
 -------------------------------------------------------------------------------
 
@@ -739,35 +739,35 @@ REF:  EHM RISCENDI fino ad arrivare ALLA gomma posteriore
 HYP:  *** DISCENDE fino ad arrivare LA   gomma posteriore 
 Eval: D   S                         S                     
 
-Correct               =   62.5%    5   (161)
-Substitutions         =   25.0%    2   ( 76)
-Deletions             =   12.5%    1   ( 58)
-Insertions            =    0.0%    0   (  5)
+Correct               =   62.5%    5   (166)
+Substitutions         =   25.0%    2   ( 70)
+Deletions             =   12.5%    1   ( 59)
+Insertions            =    0.0%    0   (  6)
 
-Errors                =   37.5%    3   (139)
+Errors                =   37.5%    3   (135)
 
 Ref. words            =            8   (295)
 Hyp. words            =            7   (242)
-Aligned words         =            8   (300)
+Aligned words         =            8   (301)
 
 -------------------------------------------------------------------------------
 
 id: (ll-firenze_40)
-Scores: (#C #S #D #I) 6 2 1 0
-REF:  a questo punto EHM C'è un'altra MACCHININA sulla destra 
-HYP:  a questo punto *** C'�  un'altra MACCHINA   sulla destra 
-Eval:                D   S             S                       
+Scores: (#C #S #D #I) 7 1 1 0
+REF:  a questo punto EHM c'è un'altra MACCHININA sulla destra 
+HYP:  a questo punto *** c'è un'altra MACCHINA   sulla destra 
+Eval:                D                 S                       
 
-Correct               =   66.7%    6   (167)
-Substitutions         =   22.2%    2   ( 78)
-Deletions             =   11.1%    1   ( 59)
-Insertions            =    0.0%    0   (  5)
+Correct               =   77.8%    7   (173)
+Substitutions         =   11.1%    1   ( 71)
+Deletions             =   11.1%    1   ( 60)
+Insertions            =    0.0%    0   (  6)
 
-Errors                =   33.3%    3   (142)
+Errors                =   22.2%    2   (137)
 
 Ref. words            =            9   (304)
 Hyp. words            =            8   (250)
-Aligned words         =            9   (309)
+Aligned words         =            9   (310)
 
 -------------------------------------------------------------------------------
 
@@ -777,16 +777,16 @@ REF:  ecco dal dalla GOMMA posteriore della prima macchina
 HYP:  ecco dal dalla ***** posteriore della prima macchina 
 Eval:                D                                     
 
-Correct               =   87.5%    7   (174)
-Substitutions         =    0.0%    0   ( 78)
-Deletions             =   12.5%    1   ( 60)
-Insertions            =    0.0%    0   (  5)
+Correct               =   87.5%    7   (180)
+Substitutions         =    0.0%    0   ( 71)
+Deletions             =   12.5%    1   ( 61)
+Insertions            =    0.0%    0   (  6)
 
-Errors                =   12.5%    1   (143)
+Errors                =   12.5%    1   (138)
 
 Ref. words            =            8   (312)
 Hyp. words            =            7   (257)
-Aligned words         =            8   (317)
+Aligned words         =            8   (318)
 
 -------------------------------------------------------------------------------
 
@@ -796,16 +796,16 @@ REF:  ARRIVI AL  paraurti di quest'altra
 HYP:  ****** PAR paraurti di quest'altra 
 Eval: D      S                           
 
-Correct               =   60.0%    3   (177)
-Substitutions         =   20.0%    1   ( 79)
-Deletions             =   20.0%    1   ( 61)
-Insertions            =    0.0%    0   (  5)
+Correct               =   60.0%    3   (183)
+Substitutions         =   20.0%    1   ( 72)
+Deletions             =   20.0%    1   ( 62)
+Insertions            =    0.0%    0   (  6)
 
-Errors                =   40.0%    2   (145)
+Errors                =   40.0%    2   (140)
 
 Ref. words            =            5   (317)
 Hyp. words            =            4   (261)
-Aligned words         =            5   (322)
+Aligned words         =            5   (323)
 
 -------------------------------------------------------------------------------
 
@@ -815,16 +815,16 @@ REF:  A N è la ALLA la parte davanti
 HYP:  * * ** la LA   la parte davanti 
 Eval: D D D     S                     
 
-Correct               =   50.0%    4   (181)
-Substitutions         =   12.5%    1   ( 80)
-Deletions             =   37.5%    3   ( 64)
-Insertions            =    0.0%    0   (  5)
+Correct               =   50.0%    4   (187)
+Substitutions         =   12.5%    1   ( 73)
+Deletions             =   37.5%    3   ( 65)
+Insertions            =    0.0%    0   (  6)
 
-Errors                =   50.0%    4   (149)
+Errors                =   50.0%    4   (144)
 
 Ref. words            =            8   (325)
 Hyp. words            =            5   (266)
-Aligned words         =            8   (330)
+Aligned words         =            8   (331)
 
 -------------------------------------------------------------------------------
 
@@ -834,16 +834,16 @@ REF:  Sì
 HYP:  *** 
 Eval: D   
 
-Correct               =    0.0%    0   (181)
-Substitutions         =    0.0%    0   ( 80)
-Deletions             =  100.0%    1   ( 65)
-Insertions            =    0.0%    0   (  5)
+Correct               =    0.0%    0   (187)
+Substitutions         =    0.0%    0   ( 73)
+Deletions             =  100.0%    1   ( 66)
+Insertions            =    0.0%    0   (  6)
 
-Errors                =  100.0%    1   (150)
+Errors                =  100.0%    1   (145)
 
 Ref. words            =            1   (326)
 Hyp. words            =            0   (266)
-Aligned words         =            1   (331)
+Aligned words         =            1   (332)
 
 -------------------------------------------------------------------------------
 
@@ -853,16 +853,16 @@ REF:  EH IN VERTICALE
 HYP:  ** ** ********* 
 Eval: D  D  D         
 
-Correct               =    0.0%    0   (181)
-Substitutions         =    0.0%    0   ( 80)
-Deletions             =  100.0%    3   ( 68)
-Insertions            =    0.0%    0   (  5)
+Correct               =    0.0%    0   (187)
+Substitutions         =    0.0%    0   ( 73)
+Deletions             =  100.0%    3   ( 69)
+Insertions            =    0.0%    0   (  6)
 
-Errors                =  100.0%    3   (153)
+Errors                =  100.0%    3   (148)
 
 Ref. words            =            3   (329)
 Hyp. words            =            0   (266)
-Aligned words         =            3   (334)
+Aligned words         =            3   (335)
 
 -------------------------------------------------------------------------------
 
@@ -872,16 +872,16 @@ REF:  PRESSOCHé Sì VERTICALE
 HYP:  ********** *** REPRESSORI 
 Eval: D          D   S          
 
-Correct               =    0.0%    0   (181)
-Substitutions         =   33.3%    1   ( 81)
-Deletions             =   66.7%    2   ( 70)
-Insertions            =    0.0%    0   (  5)
+Correct               =    0.0%    0   (187)
+Substitutions         =   33.3%    1   ( 74)
+Deletions             =   66.7%    2   ( 71)
+Insertions            =    0.0%    0   (  6)
 
-Errors                =  100.0%    3   (156)
+Errors                =  100.0%    3   (151)
 
 Ref. words            =            3   (332)
 Hyp. words            =            1   (267)
-Aligned words         =            3   (337)
+Aligned words         =            3   (338)
 
 -------------------------------------------------------------------------------
 
@@ -891,16 +891,16 @@ REF:  L'OROLOGIO non CE L'HO  comunque DEVI arrivare a quella MACCHININA Lì
 HYP:  ********** non ** C'ERA comunque DI   arrivare a quella ********** MACCHINA 
 Eval: D              D  S              S                      D          S        
 
-Correct               =   45.5%    5   (186)
-Substitutions         =   27.3%    3   ( 84)
-Deletions             =   27.3%    3   ( 73)
-Insertions            =    0.0%    0   (  5)
+Correct               =   45.5%    5   (192)
+Substitutions         =   27.3%    3   ( 77)
+Deletions             =   27.3%    3   ( 74)
+Insertions            =    0.0%    0   (  6)
 
-Errors                =   54.5%    6   (162)
+Errors                =   54.5%    6   (157)
 
 Ref. words            =           11   (343)
 Hyp. words            =            8   (275)
-Aligned words         =           11   (348)
+Aligned words         =           11   (349)
 
 -------------------------------------------------------------------------------
 
@@ -910,16 +910,16 @@ REF:  che è di colore rosso
 HYP:  che ** di colore rosso 
 Eval:     D                  
 
-Correct               =   80.0%    4   (190)
-Substitutions         =    0.0%    0   ( 84)
-Deletions             =   20.0%    1   ( 74)
-Insertions            =    0.0%    0   (  5)
+Correct               =   80.0%    4   (196)
+Substitutions         =    0.0%    0   ( 77)
+Deletions             =   20.0%    1   ( 75)
+Insertions            =    0.0%    0   (  6)
 
-Errors                =   20.0%    1   (163)
+Errors                =   20.0%    1   (158)
 
 Ref. words            =            5   (348)
 Hyp. words            =            4   (279)
-Aligned words         =            5   (353)
+Aligned words         =            5   (354)
 
 -------------------------------------------------------------------------------
 
@@ -929,16 +929,16 @@ REF:  ecco QUELLA GRIGIA è    sopra
 HYP:  ecco ****** QUELLE RIGHE sopra 
 Eval:      D      S      S           
 
-Correct               =   40.0%    2   (192)
-Substitutions         =   40.0%    2   ( 86)
-Deletions             =   20.0%    1   ( 75)
-Insertions            =    0.0%    0   (  5)
+Correct               =   40.0%    2   (198)
+Substitutions         =   40.0%    2   ( 79)
+Deletions             =   20.0%    1   ( 76)
+Insertions            =    0.0%    0   (  6)
 
-Errors                =   60.0%    3   (166)
+Errors                =   60.0%    3   (161)
 
 Ref. words            =            5   (353)
 Hyp. words            =            4   (283)
-Aligned words         =            5   (358)
+Aligned words         =            5   (359)
 
 -------------------------------------------------------------------------------
 
@@ -948,73 +948,73 @@ REF:  IO INVECE CE N'HO sotto una rossa
 HYP:  ** ****** ** CHE  sotto una rossa 
 Eval: D  D      D  S                    
 
-Correct               =   42.9%    3   (195)
-Substitutions         =   14.3%    1   ( 87)
-Deletions             =   42.9%    3   ( 78)
-Insertions            =    0.0%    0   (  5)
+Correct               =   42.9%    3   (201)
+Substitutions         =   14.3%    1   ( 80)
+Deletions             =   42.9%    3   ( 79)
+Insertions            =    0.0%    0   (  6)
 
-Errors                =   57.1%    4   (170)
+Errors                =   57.1%    4   (165)
 
 Ref. words            =            7   (360)
 Hyp. words            =            4   (287)
-Aligned words         =            7   (365)
+Aligned words         =            7   (366)
 
 -------------------------------------------------------------------------------
 
 id: (ll-firenze_51)
 Scores: (#C #S #D #I) 2 5 5 0
 REF:  quindi TE LO RISPIEGO TE SEI ALLA PRIMA macchina DOVE TI DICEVO 
-HYP:  quindi ** ** DISPIEGO DI S�  LA   MIA   macchina **** ** ****** 
+HYP:  quindi ** ** DISPIEGO DI Sì LA   MIA   macchina **** ** ****** 
 Eval:        D  D  S        S  S   S    S              D    D  D      
 
-Correct               =   16.7%    2   (197)
-Substitutions         =   41.7%    5   ( 92)
-Deletions             =   41.7%    5   ( 83)
-Insertions            =    0.0%    0   (  5)
+Correct               =   16.7%    2   (203)
+Substitutions         =   41.7%    5   ( 85)
+Deletions             =   41.7%    5   ( 84)
+Insertions            =    0.0%    0   (  6)
 
-Errors                =   83.3%   10   (180)
+Errors                =   83.3%   10   (175)
 
 Ref. words            =           12   (372)
 Hyp. words            =            7   (294)
-Aligned words         =           12   (377)
+Aligned words         =           12   (378)
 
 -------------------------------------------------------------------------------
 
 id: (ll-firenze_52)
-Scores: (#C #S #D #I) 0 1 0 0
-REF:  Sì 
-HYP:  S�  
-Eval: S   
+Scores: (#C #S #D #I) 1 0 0 0
+REF:  sì 
+HYP:  sì 
+Eval:     
 
-Correct               =    0.0%    0   (197)
-Substitutions         =  100.0%    1   ( 93)
-Deletions             =    0.0%    0   ( 83)
-Insertions            =    0.0%    0   (  5)
+Correct               =  100.0%    1   (204)
+Substitutions         =    0.0%    0   ( 85)
+Deletions             =    0.0%    0   ( 84)
+Insertions            =    0.0%    0   (  6)
 
-Errors                =  100.0%    1   (181)
+Errors                =    0.0%    0   (175)
 
 Ref. words            =            1   (373)
 Hyp. words            =            1   (295)
-Aligned words         =            1   (378)
+Aligned words         =            1   (379)
 
 -------------------------------------------------------------------------------
 
 id: (ll-firenze_53)
 Scores: (#C #S #D #I) 0 3 1 0
 REF:  A QUEL PUNTO Lì 
-HYP:  * �    CHE.  LI  
+HYP:  * è   CHE.  LI  
 Eval: D S    S     S   
 
-Correct               =    0.0%    0   (197)
-Substitutions         =   75.0%    3   ( 96)
-Deletions             =   25.0%    1   ( 84)
-Insertions            =    0.0%    0   (  5)
+Correct               =    0.0%    0   (204)
+Substitutions         =   75.0%    3   ( 88)
+Deletions             =   25.0%    1   ( 85)
+Insertions            =    0.0%    0   (  6)
 
-Errors                =  100.0%    4   (185)
+Errors                =  100.0%    4   (179)
 
 Ref. words            =            4   (377)
 Hyp. words            =            3   (298)
-Aligned words         =            4   (382)
+Aligned words         =            4   (383)
 
 -------------------------------------------------------------------------------
 
@@ -1024,16 +1024,16 @@ REF:  VAI  in diagonale fino quasi sopra la TORTA
 HYP:  VARI in diagonale fino quasi sopra la PORTA 
 Eval: S                                     S     
 
-Correct               =   75.0%    6   (203)
-Substitutions         =   25.0%    2   ( 98)
-Deletions             =    0.0%    0   ( 84)
-Insertions            =    0.0%    0   (  5)
+Correct               =   75.0%    6   (210)
+Substitutions         =   25.0%    2   ( 90)
+Deletions             =    0.0%    0   ( 85)
+Insertions            =    0.0%    0   (  6)
 
-Errors                =   25.0%    2   (187)
+Errors                =   25.0%    2   (181)
 
 Ref. words            =            8   (385)
 Hyp. words            =            8   (306)
-Aligned words         =            8   (390)
+Aligned words         =            8   (391)
 
 -------------------------------------------------------------------------------
 
@@ -1043,16 +1043,16 @@ REF:  DALLA macchina rossa SCENDI
 HYP:  ALLA  macchina rossa SCENE  
 Eval: S                    S      
 
-Correct               =   50.0%    2   (205)
-Substitutions         =   50.0%    2   (100)
-Deletions             =    0.0%    0   ( 84)
-Insertions            =    0.0%    0   (  5)
+Correct               =   50.0%    2   (212)
+Substitutions         =   50.0%    2   ( 92)
+Deletions             =    0.0%    0   ( 85)
+Insertions            =    0.0%    0   (  6)
 
-Errors                =   50.0%    2   (189)
+Errors                =   50.0%    2   (183)
 
 Ref. words            =            4   (389)
 Hyp. words            =            4   (310)
-Aligned words         =            4   (394)
+Aligned words         =            4   (395)
 
 -------------------------------------------------------------------------------
 
@@ -1062,16 +1062,16 @@ REF:  EHM Sì torni fino verso la TORTA sopra la TORTA
 HYP:  E   SI  torni fino verso la PORTA sopra la PORTA 
 Eval: S   S                       S              S     
 
-Correct               =   60.0%    6   (211)
-Substitutions         =   40.0%    4   (104)
-Deletions             =    0.0%    0   ( 84)
-Insertions            =    0.0%    0   (  5)
+Correct               =   60.0%    6   (218)
+Substitutions         =   40.0%    4   ( 96)
+Deletions             =    0.0%    0   ( 85)
+Insertions            =    0.0%    0   (  6)
 
-Errors                =   40.0%    4   (193)
+Errors                =   40.0%    4   (187)
 
 Ref. words            =           10   (399)
 Hyp. words            =           10   (320)
-Aligned words         =           10   (404)
+Aligned words         =           10   (405)
 
 -------------------------------------------------------------------------------
 
@@ -1081,16 +1081,16 @@ REF:  con UNA linea un po' ondulata comunque diagonale
 HYP:  con LA  linea un po' ondulata comunque diagonale 
 Eval:     S                                            
 
-Correct               =   87.5%    7   (218)
-Substitutions         =   12.5%    1   (105)
-Deletions             =    0.0%    0   ( 84)
-Insertions            =    0.0%    0   (  5)
+Correct               =   87.5%    7   (225)
+Substitutions         =   12.5%    1   ( 97)
+Deletions             =    0.0%    0   ( 85)
+Insertions            =    0.0%    0   (  6)
 
-Errors                =   12.5%    1   (194)
+Errors                =   12.5%    1   (188)
 
 Ref. words            =            8   (407)
 Hyp. words            =            8   (328)
-Aligned words         =            8   (412)
+Aligned words         =            8   (413)
 
 -------------------------------------------------------------------------------
 
@@ -1100,16 +1100,16 @@ REF:  IN OBLIQUO IN GIù  Sì
 HYP:  ** ******* ** PRIVE GIUSI 
 Eval: D  D       D  S     S     
 
-Correct               =    0.0%    0   (218)
-Substitutions         =   40.0%    2   (107)
-Deletions             =   60.0%    3   ( 87)
-Insertions            =    0.0%    0   (  5)
+Correct               =    0.0%    0   (225)
+Substitutions         =   40.0%    2   ( 99)
+Deletions             =   60.0%    3   ( 88)
+Insertions            =    0.0%    0   (  6)
 
-Errors                =  100.0%    5   (199)
+Errors                =  100.0%    5   (193)
 
 Ref. words            =            5   (412)
 Hyp. words            =            2   (330)
-Aligned words         =            5   (417)
+Aligned words         =            5   (418)
 
 -------------------------------------------------------------------------------
 
@@ -1119,16 +1119,16 @@ REF:  ritorni molto VICINO a QUELLA DI     PRIMA
 HYP:  ritorni molto VICINI a ****** QUELLI PORTO 
 Eval:               S        D      S      S     
 
-Correct               =   42.9%    3   (221)
-Substitutions         =   42.9%    3   (110)
-Deletions             =   14.3%    1   ( 88)
-Insertions            =    0.0%    0   (  5)
+Correct               =   42.9%    3   (228)
+Substitutions         =   42.9%    3   (102)
+Deletions             =   14.3%    1   ( 89)
+Insertions            =    0.0%    0   (  6)
 
-Errors                =   57.1%    4   (203)
+Errors                =   57.1%    4   (197)
 
 Ref. words            =            7   (419)
 Hyp. words            =            6   (336)
-Aligned words         =            7   (424)
+Aligned words         =            7   (425)
 
 -------------------------------------------------------------------------------
 
@@ -1138,16 +1138,16 @@ REF:  a questo punto
 HYP:  a questo punto 
 Eval:                
 
-Correct               =  100.0%    3   (224)
-Substitutions         =    0.0%    0   (110)
-Deletions             =    0.0%    0   ( 88)
-Insertions            =    0.0%    0   (  5)
+Correct               =  100.0%    3   (231)
+Substitutions         =    0.0%    0   (102)
+Deletions             =    0.0%    0   ( 89)
+Insertions            =    0.0%    0   (  6)
 
-Errors                =    0.0%    0   (203)
+Errors                =    0.0%    0   (197)
 
 Ref. words            =            3   (422)
 Hyp. words            =            3   (339)
-Aligned words         =            3   (427)
+Aligned words         =            3   (428)
 
 -------------------------------------------------------------------------------
 
@@ -1157,16 +1157,16 @@ REF:  SEI SOPRA la TORTA NO
 HYP:  *** SOLO  la ***** PORTANO 
 Eval: D   S        D     S       
 
-Correct               =   20.0%    1   (225)
-Substitutions         =   40.0%    2   (112)
-Deletions             =   40.0%    2   ( 90)
-Insertions            =    0.0%    0   (  5)
+Correct               =   20.0%    1   (232)
+Substitutions         =   40.0%    2   (104)
+Deletions             =   40.0%    2   ( 91)
+Insertions            =    0.0%    0   (  6)
 
-Errors                =   80.0%    4   (207)
+Errors                =   80.0%    4   (201)
 
 Ref. words            =            5   (427)
 Hyp. words            =            3   (342)
-Aligned words         =            5   (432)
+Aligned words         =            5   (433)
 
 -------------------------------------------------------------------------------
 
@@ -1176,16 +1176,16 @@ REF:  * RISALI fino al paraurti della macchina GRIGIA
 HYP:  I SALI   fino al paraurti della macchina DICE   
 Eval: I S                                      S      
 
-Correct               =   71.4%    5   (230)
-Substitutions         =   28.6%    2   (114)
-Deletions             =    0.0%    0   ( 90)
-Insertions            =   14.3%    1   (  6)
+Correct               =   71.4%    5   (237)
+Substitutions         =   28.6%    2   (106)
+Deletions             =    0.0%    0   ( 91)
+Insertions            =   14.3%    1   (  7)
 
-Errors                =   42.9%    3   (210)
+Errors                =   42.9%    3   (204)
 
 Ref. words            =            7   (434)
 Hyp. words            =            8   (350)
-Aligned words         =            8   (440)
+Aligned words         =            8   (441)
 
 -------------------------------------------------------------------------------
 
@@ -1195,16 +1195,16 @@ REF:  Sì
 HYP:  SI  
 Eval: S   
 
-Correct               =    0.0%    0   (230)
-Substitutions         =  100.0%    1   (115)
-Deletions             =    0.0%    0   ( 90)
-Insertions            =    0.0%    0   (  6)
+Correct               =    0.0%    0   (237)
+Substitutions         =  100.0%    1   (107)
+Deletions             =    0.0%    0   ( 91)
+Insertions            =    0.0%    0   (  7)
 
-Errors                =  100.0%    1   (211)
+Errors                =  100.0%    1   (205)
 
 Ref. words            =            1   (435)
 Hyp. words            =            1   (351)
-Aligned words         =            1   (441)
+Aligned words         =            1   (442)
 
 -------------------------------------------------------------------------------
 
@@ -1214,16 +1214,16 @@ REF:  UN PO' TONDEGGIANDO verso l'esterno
 HYP:  ** *** ONDEGGIANDO  verso l'esterno 
 Eval: D  D   S                            
 
-Correct               =   40.0%    2   (232)
-Substitutions         =   20.0%    1   (116)
-Deletions             =   40.0%    2   ( 92)
-Insertions            =    0.0%    0   (  6)
+Correct               =   40.0%    2   (239)
+Substitutions         =   20.0%    1   (108)
+Deletions             =   40.0%    2   ( 93)
+Insertions            =    0.0%    0   (  7)
 
-Errors                =   60.0%    3   (214)
+Errors                =   60.0%    3   (208)
 
 Ref. words            =            5   (440)
 Hyp. words            =            3   (354)
-Aligned words         =            5   (446)
+Aligned words         =            5   (447)
 
 -------------------------------------------------------------------------------
 
@@ -1233,16 +1233,16 @@ REF:  VERSO IL verso il limite DEL FOGLIO
 HYP:  ***** ** verso il limite *** ****** 
 Eval: D     D                  D   D      
 
-Correct               =   42.9%    3   (235)
-Substitutions         =    0.0%    0   (116)
-Deletions             =   57.1%    4   ( 96)
-Insertions            =    0.0%    0   (  6)
+Correct               =   42.9%    3   (242)
+Substitutions         =    0.0%    0   (108)
+Deletions             =   57.1%    4   ( 97)
+Insertions            =    0.0%    0   (  7)
 
-Errors                =   57.1%    4   (218)
+Errors                =   57.1%    4   (212)
 
 Ref. words            =            7   (447)
 Hyp. words            =            3   (357)
-Aligned words         =            7   (453)
+Aligned words         =            7   (454)
 
 -------------------------------------------------------------------------------
 
@@ -1252,16 +1252,16 @@ REF:  EH 'UN NON TI VEDO NON MI RIESCE VEDè'
 HYP:  ** *** *** ** **** *** ** ****** 10     
 Eval: D  D   D   D  D    D   D  D      S      
 
-Correct               =    0.0%    0   (235)
-Substitutions         =   11.1%    1   (117)
-Deletions             =   88.9%    8   (104)
-Insertions            =    0.0%    0   (  6)
+Correct               =    0.0%    0   (242)
+Substitutions         =   11.1%    1   (109)
+Deletions             =   88.9%    8   (105)
+Insertions            =    0.0%    0   (  7)
 
-Errors                =  100.0%    9   (227)
+Errors                =  100.0%    9   (221)
 
 Ref. words            =            9   (456)
 Hyp. words            =            1   (358)
-Aligned words         =            9   (462)
+Aligned words         =            9   (463)
 
 -------------------------------------------------------------------------------
 
@@ -1271,16 +1271,16 @@ REF:  verso verso il dove finisce il foglio
 HYP:  verso verso il dove finisce il foglio 
 Eval:                                       
 
-Correct               =  100.0%    7   (242)
-Substitutions         =    0.0%    0   (117)
-Deletions             =    0.0%    0   (104)
-Insertions            =    0.0%    0   (  6)
+Correct               =  100.0%    7   (249)
+Substitutions         =    0.0%    0   (109)
+Deletions             =    0.0%    0   (105)
+Insertions            =    0.0%    0   (  7)
 
-Errors                =    0.0%    0   (227)
+Errors                =    0.0%    0   (221)
 
 Ref. words            =            7   (463)
 Hyp. words            =            7   (365)
-Aligned words         =            7   (469)
+Aligned words         =            7   (470)
 
 -------------------------------------------------------------------------------
 
@@ -1290,16 +1290,16 @@ REF:  EH
 HYP:  ** 
 Eval: D  
 
-Correct               =    0.0%    0   (242)
-Substitutions         =    0.0%    0   (117)
-Deletions             =  100.0%    1   (105)
-Insertions            =    0.0%    0   (  6)
+Correct               =    0.0%    0   (249)
+Substitutions         =    0.0%    0   (109)
+Deletions             =  100.0%    1   (106)
+Insertions            =    0.0%    0   (  7)
 
-Errors                =  100.0%    1   (228)
+Errors                =  100.0%    1   (222)
 
 Ref. words            =            1   (464)
 Hyp. words            =            0   (365)
-Aligned words         =            1   (470)
+Aligned words         =            1   (471)
 
 -------------------------------------------------------------------------------
 
@@ -1309,16 +1309,16 @@ REF:  E ARRIVI AL   paraurti della macchina grigia
 HYP:  * ****** RIGA paraurti della macchina grigia 
 Eval: D D      S                                   
 
-Correct               =   57.1%    4   (246)
-Substitutions         =   14.3%    1   (118)
-Deletions             =   28.6%    2   (107)
-Insertions            =    0.0%    0   (  6)
+Correct               =   57.1%    4   (253)
+Substitutions         =   14.3%    1   (110)
+Deletions             =   28.6%    2   (108)
+Insertions            =    0.0%    0   (  7)
 
-Errors                =   42.9%    3   (231)
+Errors                =   42.9%    3   (225)
 
 Ref. words            =            7   (471)
 Hyp. words            =            5   (370)
-Aligned words         =            7   (477)
+Aligned words         =            7   (478)
 
 -------------------------------------------------------------------------------
 
@@ -1328,35 +1328,35 @@ REF:  a mezzo centimetro
 HYP:  a mezzo centimetro 
 Eval:                    
 
-Correct               =  100.0%    3   (249)
-Substitutions         =    0.0%    0   (118)
-Deletions             =    0.0%    0   (107)
-Insertions            =    0.0%    0   (  6)
+Correct               =  100.0%    3   (256)
+Substitutions         =    0.0%    0   (110)
+Deletions             =    0.0%    0   (108)
+Insertions            =    0.0%    0   (  7)
 
-Errors                =    0.0%    0   (231)
+Errors                =    0.0%    0   (225)
 
 Ref. words            =            3   (474)
 Hyp. words            =            3   (373)
-Aligned words         =            3   (480)
+Aligned words         =            3   (481)
 
 -------------------------------------------------------------------------------
 
 id: (ll-firenze_71)
 Scores: (#C #S #D #I) 0 3 0 0
-REF:  DI COSTì PROSEGUI 
-HYP:  I  COSTI  PROSEGU� 
-Eval: S  S      S        
+REF:  DI COSTì PROSEGUI  
+HYP:  I  COSTI  PROSEGUì 
+Eval: S  S      S         
 
-Correct               =    0.0%    0   (249)
-Substitutions         =  100.0%    3   (121)
-Deletions             =    0.0%    0   (107)
-Insertions            =    0.0%    0   (  6)
+Correct               =    0.0%    0   (256)
+Substitutions         =  100.0%    3   (113)
+Deletions             =    0.0%    0   (108)
+Insertions            =    0.0%    0   (  7)
 
-Errors                =  100.0%    3   (234)
+Errors                =  100.0%    3   (228)
 
 Ref. words            =            3   (477)
 Hyp. words            =            3   (376)
-Aligned words         =            3   (483)
+Aligned words         =            3   (484)
 
 -------------------------------------------------------------------------------
 
@@ -1366,35 +1366,35 @@ REF:  lungo la macchina
 HYP:  lungo la macchina 
 Eval:                   
 
-Correct               =  100.0%    3   (252)
-Substitutions         =    0.0%    0   (121)
-Deletions             =    0.0%    0   (107)
-Insertions            =    0.0%    0   (  6)
+Correct               =  100.0%    3   (259)
+Substitutions         =    0.0%    0   (113)
+Deletions             =    0.0%    0   (108)
+Insertions            =    0.0%    0   (  7)
 
-Errors                =    0.0%    0   (234)
+Errors                =    0.0%    0   (228)
 
 Ref. words            =            3   (480)
 Hyp. words            =            3   (379)
-Aligned words         =            3   (486)
+Aligned words         =            3   (487)
 
 -------------------------------------------------------------------------------
 
 id: (ll-firenze_73)
-Scores: (#C #S #D #I) 13 1 2 0
-REF:  CIOè fai delle linee che arrivano fino alla parte posteriore sempre distanti mezzo centimetro DALLA MACCHINA 
-HYP:  CIO�  fai delle linee che arrivano fino alla parte posteriore sempre distanti mezzo centimetro ***** ******** 
-Eval: S                                                                                              D     D        
+Scores: (#C #S #D #I) 14 0 2 0
+REF:  cioè fai delle linee che arrivano fino alla parte posteriore sempre distanti mezzo centimetro DALLA MACCHINA 
+HYP:  cioè fai delle linee che arrivano fino alla parte posteriore sempre distanti mezzo centimetro ***** ******** 
+Eval:                                                                                                D     D        
 
-Correct               =   81.3%   13   (265)
-Substitutions         =    6.3%    1   (122)
-Deletions             =   12.5%    2   (109)
-Insertions            =    0.0%    0   (  6)
+Correct               =   87.5%   14   (273)
+Substitutions         =    0.0%    0   (113)
+Deletions             =   12.5%    2   (110)
+Insertions            =    0.0%    0   (  7)
 
-Errors                =   18.8%    3   (237)
+Errors                =   12.5%    2   (230)
 
 Ref. words            =           16   (496)
 Hyp. words            =           14   (393)
-Aligned words         =           16   (502)
+Aligned words         =           16   (503)
 
 -------------------------------------------------------------------------------
 
@@ -1404,16 +1404,16 @@ REF:  NO DEVI semplicemente ANDARCI di fianco
 HYP:  ** DI   semplicemente ANDATI  di fianco 
 Eval: D  S                  S                 
 
-Correct               =   50.0%    3   (268)
-Substitutions         =   33.3%    2   (124)
-Deletions             =   16.7%    1   (110)
-Insertions            =    0.0%    0   (  6)
+Correct               =   50.0%    3   (276)
+Substitutions         =   33.3%    2   (115)
+Deletions             =   16.7%    1   (111)
+Insertions            =    0.0%    0   (  7)
 
-Errors                =   50.0%    3   (240)
+Errors                =   50.0%    3   (233)
 
 Ref. words            =            6   (502)
 Hyp. words            =            5   (398)
-Aligned words         =            6   (508)
+Aligned words         =            6   (509)
 
 -------------------------------------------------------------------------------
 
@@ -1423,16 +1423,16 @@ REF:  NO aspetta DEVI LA macchina LA passi a sinistra
 HYP:  ** aspetta **** DI macchina ** passi a sinistra 
 Eval: D          D    S           D                   
 
-Correct               =   55.6%    5   (273)
-Substitutions         =   11.1%    1   (125)
-Deletions             =   33.3%    3   (113)
-Insertions            =    0.0%    0   (  6)
+Correct               =   55.6%    5   (281)
+Substitutions         =   11.1%    1   (116)
+Deletions             =   33.3%    3   (114)
+Insertions            =    0.0%    0   (  7)
 
-Errors                =   44.4%    4   (244)
+Errors                =   44.4%    4   (237)
 
 Ref. words            =            9   (511)
 Hyp. words            =            6   (404)
-Aligned words         =            9   (517)
+Aligned words         =            9   (518)
 
 -------------------------------------------------------------------------------
 
@@ -1442,16 +1442,16 @@ REF:  A sinistra Sì alla S+ ALLA   sinistra Sì Sì  Sì
 HYP:  * sinistra *** alla ** SPALLA sinistra *** TIZI SI  
 Eval: D          D        D  S               D   S    S   
 
-Correct               =   30.0%    3   (276)
-Substitutions         =   30.0%    3   (128)
-Deletions             =   40.0%    4   (117)
-Insertions            =    0.0%    0   (  6)
+Correct               =   30.0%    3   (284)
+Substitutions         =   30.0%    3   (119)
+Deletions             =   40.0%    4   (118)
+Insertions            =    0.0%    0   (  7)
 
-Errors                =   70.0%    7   (251)
+Errors                =   70.0%    7   (244)
 
 Ref. words            =           10   (521)
 Hyp. words            =            6   (410)
-Aligned words         =           10   (527)
+Aligned words         =           10   (528)
 
 -------------------------------------------------------------------------------
 
@@ -1461,16 +1461,16 @@ REF:  AH DE+ Sì DEVI RIENTRARE FAI UNA SPECIE DI       CURVA   IN  fuori IN QUE
 HYP:  ** *** *** **** ********* *** *** ****** DESIDERI ENTRARE FAR fuori ** ****** **** QUESTA FASE POTENTI 
 Eval: D  D   D   D    D         D   D   D      S        S       S         D  D      D    S      S    S       
 
-Correct               =    5.6%    1   (277)
-Substitutions         =   33.3%    6   (134)
-Deletions             =   61.1%   11   (128)
-Insertions            =    0.0%    0   (  6)
+Correct               =    5.6%    1   (285)
+Substitutions         =   33.3%    6   (125)
+Deletions             =   61.1%   11   (129)
+Insertions            =    0.0%    0   (  7)
 
-Errors                =   94.4%   17   (268)
+Errors                =   94.4%   17   (261)
 
 Ref. words            =           18   (539)
 Hyp. words            =            7   (417)
-Aligned words         =           18   (545)
+Aligned words         =           18   (546)
 
 -------------------------------------------------------------------------------
 
@@ -1480,16 +1480,16 @@ REF:  poi LE vedi ** delle stelline ** mezzo AL FOGLIO
 HYP:  poi LI vedi UN delle stelline IN mezzo ** A      
 Eval:     S       I                 I        D  S      
 
-Correct               =   62.5%    5   (282)
-Substitutions         =   25.0%    2   (136)
-Deletions             =   12.5%    1   (129)
-Insertions            =   25.0%    2   (  8)
+Correct               =   62.5%    5   (290)
+Substitutions         =   25.0%    2   (127)
+Deletions             =   12.5%    1   (130)
+Insertions            =   25.0%    2   (  9)
 
-Errors                =   62.5%    5   (273)
+Errors                =   62.5%    5   (266)
 
 Ref. words            =            8   (547)
 Hyp. words            =            9   (426)
-Aligned words         =           10   (555)
+Aligned words         =           10   (556)
 
 -------------------------------------------------------------------------------
 
@@ -1499,35 +1499,35 @@ REF:  ECCO  dalla fine della macchina
 HYP:  SECCO dalla fine della macchina 
 Eval: S                               
 
-Correct               =   80.0%    4   (286)
-Substitutions         =   20.0%    1   (137)
-Deletions             =    0.0%    0   (129)
-Insertions            =    0.0%    0   (  8)
+Correct               =   80.0%    4   (294)
+Substitutions         =   20.0%    1   (128)
+Deletions             =    0.0%    0   (130)
+Insertions            =    0.0%    0   (  9)
 
-Errors                =   20.0%    1   (274)
+Errors                =   20.0%    1   (267)
 
 Ref. words            =            5   (552)
 Hyp. words            =            5   (431)
-Aligned words         =            5   (560)
+Aligned words         =            5   (561)
 
 -------------------------------------------------------------------------------
 
 id: (ll-firenze_80)
-Scores: (#C #S #D #I) 13 4 1 0
-REF:  TI SPOSTI   fino a un punto che sta a TRE CENTIMETRI dalla stella PIù in alto a destra 
-HYP:  ** DISPOSTI fino a un punto che sta a 3   CM         dalla stella PI�  in alto a destra 
-Eval: D  S                                  S   S                       S                     
+Scores: (#C #S #D #I) 14 3 1 0
+REF:  TI SPOSTI   fino a un punto che sta a TRE CENTIMETRI dalla stella più in alto a destra 
+HYP:  ** DISPOSTI fino a un punto che sta a 3   CM         dalla stella più in alto a destra 
+Eval: D  S                                  S   S                                             
 
-Correct               =   72.2%   13   (299)
-Substitutions         =   22.2%    4   (141)
-Deletions             =    5.6%    1   (130)
-Insertions            =    0.0%    0   (  8)
+Correct               =   77.8%   14   (308)
+Substitutions         =   16.7%    3   (131)
+Deletions             =    5.6%    1   (131)
+Insertions            =    0.0%    0   (  9)
 
-Errors                =   27.8%    5   (279)
+Errors                =   22.2%    4   (271)
 
 Ref. words            =           18   (570)
 Hyp. words            =           17   (448)
-Aligned words         =           18   (578)
+Aligned words         =           18   (579)
 
 -------------------------------------------------------------------------------
 
@@ -1537,35 +1537,35 @@ REF:  L'HAI PRESENTE la stella PIù in alto
 HYP:  ***** ******** la stella **** in alto 
 Eval: D     D                  D            
 
-Correct               =   57.1%    4   (303)
-Substitutions         =    0.0%    0   (141)
-Deletions             =   42.9%    3   (133)
-Insertions            =    0.0%    0   (  8)
+Correct               =   57.1%    4   (312)
+Substitutions         =    0.0%    0   (131)
+Deletions             =   42.9%    3   (134)
+Insertions            =    0.0%    0   (  9)
 
-Errors                =   42.9%    3   (282)
+Errors                =   42.9%    3   (274)
 
 Ref. words            =            7   (577)
 Hyp. words            =            4   (452)
-Aligned words         =            7   (585)
+Aligned words         =            7   (586)
 
 -------------------------------------------------------------------------------
 
 id: (ll-firenze_82)
-Scores: (#C #S #D #I) 2 2 3 0
-REF:  CHE è una DI QUELLE PIù piccole 
-HYP:  *** ** una ** DELLE  PI�  piccole 
-Eval: D   D      D  S      S            
+Scores: (#C #S #D #I) 3 1 3 0
+REF:  CHE è una DI QUELLE più piccole 
+HYP:  *** ** una ** DELLE  più piccole 
+Eval: D   D      D  S                   
 
-Correct               =   28.6%    2   (305)
-Substitutions         =   28.6%    2   (143)
-Deletions             =   42.9%    3   (136)
-Insertions            =    0.0%    0   (  8)
+Correct               =   42.9%    3   (315)
+Substitutions         =   14.3%    1   (132)
+Deletions             =   42.9%    3   (137)
+Insertions            =    0.0%    0   (  9)
 
-Errors                =   71.4%    5   (287)
+Errors                =   57.1%    4   (278)
 
 Ref. words            =            7   (584)
 Hyp. words            =            4   (456)
-Aligned words         =            7   (592)
+Aligned words         =            7   (593)
 
 -------------------------------------------------------------------------------
 
@@ -1575,16 +1575,16 @@ REF:  vai verso destra di tre centimetri
 HYP:  vai verso destra di tre centimetri 
 Eval:                                    
 
-Correct               =  100.0%    6   (311)
-Substitutions         =    0.0%    0   (143)
-Deletions             =    0.0%    0   (136)
-Insertions            =    0.0%    0   (  8)
+Correct               =  100.0%    6   (321)
+Substitutions         =    0.0%    0   (132)
+Deletions             =    0.0%    0   (137)
+Insertions            =    0.0%    0   (  9)
 
-Errors                =    0.0%    0   (287)
+Errors                =    0.0%    0   (278)
 
 Ref. words            =            6   (590)
 Hyp. words            =            6   (462)
-Aligned words         =            6   (598)
+Aligned words         =            6   (599)
 
 -------------------------------------------------------------------------------
 
@@ -1594,16 +1594,16 @@ REF:  E TROVI un punto
 HYP:  * ***** un punto 
 Eval: D D              
 
-Correct               =   50.0%    2   (313)
-Substitutions         =    0.0%    0   (143)
-Deletions             =   50.0%    2   (138)
-Insertions            =    0.0%    0   (  8)
+Correct               =   50.0%    2   (323)
+Substitutions         =    0.0%    0   (132)
+Deletions             =   50.0%    2   (139)
+Insertions            =    0.0%    0   (  9)
 
-Errors                =   50.0%    2   (289)
+Errors                =   50.0%    2   (280)
 
 Ref. words            =            4   (594)
 Hyp. words            =            2   (464)
-Aligned words         =            4   (602)
+Aligned words         =            4   (603)
 
 -------------------------------------------------------------------------------
 
@@ -1613,16 +1613,16 @@ REF:  Sì
 HYP:  SI  
 Eval: S   
 
-Correct               =    0.0%    0   (313)
-Substitutions         =  100.0%    1   (144)
-Deletions             =    0.0%    0   (138)
-Insertions            =    0.0%    0   (  8)
+Correct               =    0.0%    0   (323)
+Substitutions         =  100.0%    1   (133)
+Deletions             =    0.0%    0   (139)
+Insertions            =    0.0%    0   (  9)
 
-Errors                =  100.0%    1   (290)
+Errors                =  100.0%    1   (281)
 
 Ref. words            =            1   (595)
 Hyp. words            =            1   (465)
-Aligned words         =            1   (603)
+Aligned words         =            1   (604)
 
 -------------------------------------------------------------------------------
 
@@ -1632,35 +1632,35 @@ REF:  INSOMMA è QUELLA ZONA   Lì
 HYP:  ******* ** SONO   QUELLE SOLARI 
 Eval: D       D  S      S      S      
 
-Correct               =    0.0%    0   (313)
-Substitutions         =   60.0%    3   (147)
-Deletions             =   40.0%    2   (140)
-Insertions            =    0.0%    0   (  8)
+Correct               =    0.0%    0   (323)
+Substitutions         =   60.0%    3   (136)
+Deletions             =   40.0%    2   (141)
+Insertions            =    0.0%    0   (  9)
 
-Errors                =  100.0%    5   (295)
+Errors                =  100.0%    5   (286)
 
 Ref. words            =            5   (600)
 Hyp. words            =            3   (468)
-Aligned words         =            5   (608)
+Aligned words         =            5   (609)
 
 -------------------------------------------------------------------------------
 
 id: (ll-firenze_87)
-Scores: (#C #S #D #I) 11 3 2 1
-REF:  ** quel punto Lì è il mio arrivo e lo colleghi fino AL A    DOV'ERI sulla macchina 
-HYP:  IN quel punto *** L� il mio arrivo e lo colleghi fino ** ALLA DOVERI  sulla macchina 
-Eval: I             D   S                                   D  S    S                      
+Scores: (#C #S #D #I) 12 2 2 1
+REF:  ** quel punto lì è il mio arrivo e lo colleghi fino AL A    DOV'ERI sulla macchina 
+HYP:  IN quel punto lì ** il mio arrivo e lo colleghi fino ** ALLA DOVERI  sulla macchina 
+Eval: I                 D                                   D  S    S                      
 
-Correct               =   68.8%   11   (324)
-Substitutions         =   18.8%    3   (150)
-Deletions             =   12.5%    2   (142)
-Insertions            =    6.3%    1   (  9)
+Correct               =   75.0%   12   (335)
+Substitutions         =   12.5%    2   (138)
+Deletions             =   12.5%    2   (143)
+Insertions            =    6.3%    1   ( 10)
 
-Errors                =   37.5%    6   (301)
+Errors                =   31.3%    5   (291)
 
 Ref. words            =           16   (616)
 Hyp. words            =           15   (483)
-Aligned words         =           17   (625)
+Aligned words         =           17   (626)
 
 -------------------------------------------------------------------------------
 
@@ -1670,16 +1670,16 @@ REF:  A  DOV'ERI prima CON LA  macchina CIOè TE VAI lungo la macchina e POI
 HYP:  HA DOVERI  prima *** UNA macchina ***** ** *** lungo la macchina e *** 
 Eval: S  S             D   S            D     D  D                       D   
 
-Correct               =   42.9%    6   (330)
-Substitutions         =   21.4%    3   (153)
-Deletions             =   35.7%    5   (147)
-Insertions            =    0.0%    0   (  9)
+Correct               =   42.9%    6   (341)
+Substitutions         =   21.4%    3   (141)
+Deletions             =   35.7%    5   (148)
+Insertions            =    0.0%    0   ( 10)
 
-Errors                =   57.1%    8   (309)
+Errors                =   57.1%    8   (299)
 
 Ref. words            =           14   (630)
 Hyp. words            =            9   (492)
-Aligned words         =           14   (639)
+Aligned words         =           14   (640)
 
 -------------------------------------------------------------------------------
 
@@ -1689,16 +1689,16 @@ REF:  ALLA MACCHINA GRIGIA e poi DA DA da LUNGO LA       macchina grigia VAI FIN
 HYP:  **** ******** ****** e poi ** ** da DAL   DALL'UNA macchina grigia *** PAGINA a questo punto nero 
 Eval: D    D        D            D  D     S     S                        D   S                          
 
-Correct               =   50.0%    9   (339)
-Substitutions         =   16.7%    3   (156)
-Deletions             =   33.3%    6   (153)
-Insertions            =    0.0%    0   (  9)
+Correct               =   50.0%    9   (350)
+Substitutions         =   16.7%    3   (144)
+Deletions             =   33.3%    6   (154)
+Insertions            =    0.0%    0   ( 10)
 
-Errors                =   50.0%    9   (318)
+Errors                =   50.0%    9   (308)
 
 Ref. words            =           18   (648)
 Hyp. words            =           12   (504)
-Aligned words         =           18   (657)
+Aligned words         =           18   (658)
 
 -------------------------------------------------------------------------------
 
@@ -1708,16 +1708,16 @@ REF:  chiuso
 HYP:  chiuso 
 Eval:        
 
-Correct               =  100.0%    1   (340)
-Substitutions         =    0.0%    0   (156)
-Deletions             =    0.0%    0   (153)
-Insertions            =    0.0%    0   (  9)
+Correct               =  100.0%    1   (351)
+Substitutions         =    0.0%    0   (144)
+Deletions             =    0.0%    0   (154)
+Insertions            =    0.0%    0   ( 10)
 
-Errors                =    0.0%    0   (318)
+Errors                =    0.0%    0   (308)
 
 Ref. words            =            1   (649)
 Hyp. words            =            1   (505)
-Aligned words         =            1   (658)
+Aligned words         =            1   (659)
 
 -------------------------------------------------------------------------------
 
@@ -1727,16 +1727,16 @@ REF:  POI DOVREBBE COMINCIà' il tuo
 HYP:  *** ******** ********** il tuo 
 Eval: D   D        D                 
 
-Correct               =   40.0%    2   (342)
-Substitutions         =    0.0%    0   (156)
-Deletions             =   60.0%    3   (156)
-Insertions            =    0.0%    0   (  9)
+Correct               =   40.0%    2   (353)
+Substitutions         =    0.0%    0   (144)
+Deletions             =   60.0%    3   (157)
+Insertions            =    0.0%    0   ( 10)
 
-Errors                =   60.0%    3   (321)
+Errors                =   60.0%    3   (311)
 
 Ref. words            =            5   (654)
 Hyp. words            =            2   (507)
-Aligned words         =            5   (663)
+Aligned words         =            5   (664)
 
 -------------------------------------------------------------------------------
 
@@ -1746,16 +1746,16 @@ REF:  OKAY
 HYP:  **** 
 Eval: D    
 
-Correct               =    0.0%    0   (342)
-Substitutions         =    0.0%    0   (156)
-Deletions             =  100.0%    1   (157)
-Insertions            =    0.0%    0   (  9)
+Correct               =    0.0%    0   (353)
+Substitutions         =    0.0%    0   (144)
+Deletions             =  100.0%    1   (158)
+Insertions            =    0.0%    0   ( 10)
 
-Errors                =  100.0%    1   (322)
+Errors                =  100.0%    1   (312)
 
 Ref. words            =            1   (655)
 Hyp. words            =            0   (507)
-Aligned words         =            1   (664)
+Aligned words         =            1   (665)
 
 -------------------------------------------------------------------------------
 
@@ -1765,16 +1765,16 @@ REF:  NO
 HYP:  ERANO 
 Eval: S     
 
-Correct               =    0.0%    0   (342)
-Substitutions         =  100.0%    1   (157)
-Deletions             =    0.0%    0   (157)
-Insertions            =    0.0%    0   (  9)
+Correct               =    0.0%    0   (353)
+Substitutions         =  100.0%    1   (145)
+Deletions             =    0.0%    0   (158)
+Insertions            =    0.0%    0   ( 10)
 
-Errors                =  100.0%    1   (323)
+Errors                =  100.0%    1   (313)
 
 Ref. words            =            1   (656)
 Hyp. words            =            1   (508)
-Aligned words         =            1   (665)
+Aligned words         =            1   (666)
 
 -------------------------------------------------------------------------------
 
@@ -1784,16 +1784,16 @@ REF:  Sì
 HYP:  SI  
 Eval: S   
 
-Correct               =    0.0%    0   (342)
-Substitutions         =  100.0%    1   (158)
-Deletions             =    0.0%    0   (157)
-Insertions            =    0.0%    0   (  9)
+Correct               =    0.0%    0   (353)
+Substitutions         =  100.0%    1   (146)
+Deletions             =    0.0%    0   (158)
+Insertions            =    0.0%    0   ( 10)
 
-Errors                =  100.0%    1   (324)
+Errors                =  100.0%    1   (314)
 
 Ref. words            =            1   (657)
 Hyp. words            =            1   (509)
-Aligned words         =            1   (666)
+Aligned words         =            1   (667)
 
 -------------------------------------------------------------------------------
 
@@ -1803,16 +1803,16 @@ REF:  la farfalla STA A  destra OPPURE A SINISTRA DEL
 HYP:  la farfalla *** DA destra ****** * ******** *** 
 Eval:             D   S         D      D D        D   
 
-Correct               =   33.3%    3   (345)
-Substitutions         =   11.1%    1   (159)
-Deletions             =   55.6%    5   (162)
-Insertions            =    0.0%    0   (  9)
+Correct               =   33.3%    3   (356)
+Substitutions         =   11.1%    1   (147)
+Deletions             =   55.6%    5   (163)
+Insertions            =    0.0%    0   ( 10)
 
-Errors                =   66.7%    6   (330)
+Errors                =   66.7%    6   (320)
 
 Ref. words            =            9   (666)
 Hyp. words            =            4   (513)
-Aligned words         =            9   (675)
+Aligned words         =            9   (676)
 
 -------------------------------------------------------------------------------
 
@@ -1822,16 +1822,16 @@ REF:  Sì
 HYP:  NANCY 
 Eval: S     
 
-Correct               =    0.0%    0   (345)
-Substitutions         =  100.0%    1   (160)
-Deletions             =    0.0%    0   (162)
-Insertions            =    0.0%    0   (  9)
+Correct               =    0.0%    0   (356)
+Substitutions         =  100.0%    1   (148)
+Deletions             =    0.0%    0   (163)
+Insertions            =    0.0%    0   ( 10)
 
-Errors                =  100.0%    1   (331)
+Errors                =  100.0%    1   (321)
 
 Ref. words            =            1   (667)
 Hyp. words            =            1   (514)
-Aligned words         =            1   (676)
+Aligned words         =            1   (677)
 
 -------------------------------------------------------------------------------
 
@@ -1841,16 +1841,16 @@ REF:  Sì
 HYP:  *** 
 Eval: D   
 
-Correct               =    0.0%    0   (345)
-Substitutions         =    0.0%    0   (160)
-Deletions             =  100.0%    1   (163)
-Insertions            =    0.0%    0   (  9)
+Correct               =    0.0%    0   (356)
+Substitutions         =    0.0%    0   (148)
+Deletions             =  100.0%    1   (164)
+Insertions            =    0.0%    0   ( 10)
 
-Errors                =  100.0%    1   (332)
+Errors                =  100.0%    1   (322)
 
 Ref. words            =            1   (668)
 Hyp. words            =            0   (514)
-Aligned words         =            1   (677)
+Aligned words         =            1   (678)
 
 -------------------------------------------------------------------------------
 
@@ -1860,16 +1860,16 @@ REF:  Sì
 HYP:  SI  
 Eval: S   
 
-Correct               =    0.0%    0   (345)
-Substitutions         =  100.0%    1   (161)
-Deletions             =    0.0%    0   (163)
-Insertions            =    0.0%    0   (  9)
+Correct               =    0.0%    0   (356)
+Substitutions         =  100.0%    1   (149)
+Deletions             =    0.0%    0   (164)
+Insertions            =    0.0%    0   ( 10)
 
-Errors                =  100.0%    1   (333)
+Errors                =  100.0%    1   (323)
 
 Ref. words            =            1   (669)
 Hyp. words            =            1   (515)
-Aligned words         =            1   (678)
+Aligned words         =            1   (679)
 
 -------------------------------------------------------------------------------
 
@@ -1879,16 +1879,16 @@ REF:  Sì
 HYP:  SI  
 Eval: S   
 
-Correct               =    0.0%    0   (345)
-Substitutions         =  100.0%    1   (162)
-Deletions             =    0.0%    0   (163)
-Insertions            =    0.0%    0   (  9)
+Correct               =    0.0%    0   (356)
+Substitutions         =  100.0%    1   (150)
+Deletions             =    0.0%    0   (164)
+Insertions            =    0.0%    0   ( 10)
 
-Errors                =  100.0%    1   (334)
+Errors                =  100.0%    1   (324)
 
 Ref. words            =            1   (670)
 Hyp. words            =            1   (516)
-Aligned words         =            1   (679)
+Aligned words         =            1   (680)
 
 -------------------------------------------------------------------------------
 
@@ -1898,16 +1898,16 @@ REF:  Sì Sì Sì
 HYP:  *** *** RISI 
 Eval: D   D   S    
 
-Correct               =    0.0%    0   (345)
-Substitutions         =   33.3%    1   (163)
-Deletions             =   66.7%    2   (165)
-Insertions            =    0.0%    0   (  9)
+Correct               =    0.0%    0   (356)
+Substitutions         =   33.3%    1   (151)
+Deletions             =   66.7%    2   (166)
+Insertions            =    0.0%    0   ( 10)
 
-Errors                =  100.0%    3   (337)
+Errors                =  100.0%    3   (327)
 
 Ref. words            =            3   (673)
 Hyp. words            =            1   (517)
-Aligned words         =            3   (682)
+Aligned words         =            3   (683)
 
 -------------------------------------------------------------------------------
 
@@ -1917,16 +1917,16 @@ REF:  certo
 HYP:  certo 
 Eval:       
 
-Correct               =  100.0%    1   (346)
-Substitutions         =    0.0%    0   (163)
-Deletions             =    0.0%    0   (165)
-Insertions            =    0.0%    0   (  9)
+Correct               =  100.0%    1   (357)
+Substitutions         =    0.0%    0   (151)
+Deletions             =    0.0%    0   (166)
+Insertions            =    0.0%    0   ( 10)
 
-Errors                =    0.0%    0   (337)
+Errors                =    0.0%    0   (327)
 
 Ref. words            =            1   (674)
 Hyp. words            =            1   (518)
-Aligned words         =            1   (683)
+Aligned words         =            1   (684)
 
 -------------------------------------------------------------------------------
 
@@ -1936,35 +1936,35 @@ REF:  ma la farfalla CO+ COSA C'ENTRA CON QUESTO NIENTE
 HYP:  ma la farfalla *** **** ******* *** 900    QUEST'ORIENTE 
 Eval:                D   D    D       D   S      S             
 
-Correct               =   33.3%    3   (349)
-Substitutions         =   22.2%    2   (165)
-Deletions             =   44.4%    4   (169)
-Insertions            =    0.0%    0   (  9)
+Correct               =   33.3%    3   (360)
+Substitutions         =   22.2%    2   (153)
+Deletions             =   44.4%    4   (170)
+Insertions            =    0.0%    0   ( 10)
 
-Errors                =   66.7%    6   (343)
+Errors                =   66.7%    6   (333)
 
 Ref. words            =            9   (683)
 Hyp. words            =            5   (523)
-Aligned words         =            9   (692)
+Aligned words         =            9   (693)
 
 -------------------------------------------------------------------------------
 
 id: (ll-firenze_103)
 Scores: (#C #S #D #I) 1 2 10 0
 REF:  Sì E FINO A E IN CHE PUNTO PRECISO DEL CAMION CI             arrivo 
-HYP:  *** * **** * * ** *** ***** ******* *** COS�.  PERIODICAMENTE arrivo 
+HYP:  *** * **** * * ** *** ***** ******* *** COSì. PERIODICAMENTE arrivo 
 Eval: D   D D    D D D  D   D     D       D   S      S                     
 
-Correct               =    7.7%    1   (350)
-Substitutions         =   15.4%    2   (167)
-Deletions             =   76.9%   10   (179)
-Insertions            =    0.0%    0   (  9)
+Correct               =    7.7%    1   (361)
+Substitutions         =   15.4%    2   (155)
+Deletions             =   76.9%   10   (180)
+Insertions            =    0.0%    0   ( 10)
 
-Errors                =   92.3%   12   (355)
+Errors                =   92.3%   12   (345)
 
 Ref. words            =           13   (696)
 Hyp. words            =            3   (526)
-Aligned words         =           13   (705)
+Aligned words         =           13   (706)
 
 -------------------------------------------------------------------------------
 
@@ -1974,16 +1974,16 @@ REF:  tratteggiata
 HYP:  tratteggiata 
 Eval:              
 
-Correct               =  100.0%    1   (351)
-Substitutions         =    0.0%    0   (167)
-Deletions             =    0.0%    0   (179)
-Insertions            =    0.0%    0   (  9)
+Correct               =  100.0%    1   (362)
+Substitutions         =    0.0%    0   (155)
+Deletions             =    0.0%    0   (180)
+Insertions            =    0.0%    0   ( 10)
 
-Errors                =    0.0%    0   (355)
+Errors                =    0.0%    0   (345)
 
 Ref. words            =            1   (697)
 Hyp. words            =            1   (527)
-Aligned words         =            1   (706)
+Aligned words         =            1   (707)
 
 -------------------------------------------------------------------------------
 
@@ -1993,16 +1993,16 @@ REF:  Sì
 HYP:  *** 
 Eval: D   
 
-Correct               =    0.0%    0   (351)
-Substitutions         =    0.0%    0   (167)
-Deletions             =  100.0%    1   (180)
-Insertions            =    0.0%    0   (  9)
+Correct               =    0.0%    0   (362)
+Substitutions         =    0.0%    0   (155)
+Deletions             =  100.0%    1   (181)
+Insertions            =    0.0%    0   ( 10)
 
-Errors                =  100.0%    1   (356)
+Errors                =  100.0%    1   (346)
 
 Ref. words            =            1   (698)
 Hyp. words            =            0   (527)
-Aligned words         =            1   (707)
+Aligned words         =            1   (708)
 
 -------------------------------------------------------------------------------
 
@@ -2012,16 +2012,16 @@ REF:  sulla sulla GOMMA posteriore
 HYP:  sulla sulla ***** posteriore 
 Eval:             D                
 
-Correct               =   75.0%    3   (354)
-Substitutions         =    0.0%    0   (167)
-Deletions             =   25.0%    1   (181)
-Insertions            =    0.0%    0   (  9)
+Correct               =   75.0%    3   (365)
+Substitutions         =    0.0%    0   (155)
+Deletions             =   25.0%    1   (182)
+Insertions            =    0.0%    0   ( 10)
 
-Errors                =   25.0%    1   (357)
+Errors                =   25.0%    1   (347)
 
 Ref. words            =            4   (702)
 Hyp. words            =            3   (530)
-Aligned words         =            4   (711)
+Aligned words         =            4   (712)
 
 -------------------------------------------------------------------------------
 
@@ -2031,16 +2031,16 @@ REF:  Sì
 HYP:  SI  
 Eval: S   
 
-Correct               =    0.0%    0   (354)
-Substitutions         =  100.0%    1   (168)
-Deletions             =    0.0%    0   (181)
-Insertions            =    0.0%    0   (  9)
+Correct               =    0.0%    0   (365)
+Substitutions         =  100.0%    1   (156)
+Deletions             =    0.0%    0   (182)
+Insertions            =    0.0%    0   ( 10)
 
-Errors                =  100.0%    1   (358)
+Errors                =  100.0%    1   (348)
 
 Ref. words            =            1   (703)
 Hyp. words            =            1   (531)
-Aligned words         =            1   (712)
+Aligned words         =            1   (713)
 
 -------------------------------------------------------------------------------
 
@@ -2050,16 +2050,16 @@ REF:  Sì Sì
 HYP:  *** *** 
 Eval: D   D   
 
-Correct               =    0.0%    0   (354)
-Substitutions         =    0.0%    0   (168)
-Deletions             =  100.0%    2   (183)
-Insertions            =    0.0%    0   (  9)
+Correct               =    0.0%    0   (365)
+Substitutions         =    0.0%    0   (156)
+Deletions             =  100.0%    2   (184)
+Insertions            =    0.0%    0   ( 10)
 
-Errors                =  100.0%    2   (360)
+Errors                =  100.0%    2   (350)
 
 Ref. words            =            2   (705)
 Hyp. words            =            0   (531)
-Aligned words         =            2   (714)
+Aligned words         =            2   (715)
 
 -------------------------------------------------------------------------------
 
@@ -2069,16 +2069,16 @@ REF:  Sì
 HYP:  *** 
 Eval: D   
 
-Correct               =    0.0%    0   (354)
-Substitutions         =    0.0%    0   (168)
-Deletions             =  100.0%    1   (184)
-Insertions            =    0.0%    0   (  9)
+Correct               =    0.0%    0   (365)
+Substitutions         =    0.0%    0   (156)
+Deletions             =  100.0%    1   (185)
+Insertions            =    0.0%    0   ( 10)
 
-Errors                =  100.0%    1   (361)
+Errors                =  100.0%    1   (351)
 
 Ref. words            =            1   (706)
 Hyp. words            =            0   (531)
-Aligned words         =            1   (715)
+Aligned words         =            1   (716)
 
 -------------------------------------------------------------------------------
 
@@ -2088,16 +2088,16 @@ REF:  e sopra ANCHE IL CAMION  prima
 HYP:  e sopra ***** ** VICARIO prima 
 Eval:         D     D  S             
 
-Correct               =   50.0%    3   (357)
-Substitutions         =   16.7%    1   (169)
-Deletions             =   33.3%    2   (186)
-Insertions            =    0.0%    0   (  9)
+Correct               =   50.0%    3   (368)
+Substitutions         =   16.7%    1   (157)
+Deletions             =   33.3%    2   (187)
+Insertions            =    0.0%    0   ( 10)
 
-Errors                =   50.0%    3   (364)
+Errors                =   50.0%    3   (354)
 
 Ref. words            =            6   (712)
 Hyp. words            =            4   (535)
-Aligned words         =            6   (721)
+Aligned words         =            6   (722)
 
 -------------------------------------------------------------------------------
 
@@ -2107,16 +2107,16 @@ REF:  Sì
 HYP:  SI  
 Eval: S   
 
-Correct               =    0.0%    0   (357)
-Substitutions         =  100.0%    1   (170)
-Deletions             =    0.0%    0   (186)
-Insertions            =    0.0%    0   (  9)
+Correct               =    0.0%    0   (368)
+Substitutions         =  100.0%    1   (158)
+Deletions             =    0.0%    0   (187)
+Insertions            =    0.0%    0   ( 10)
 
-Errors                =  100.0%    1   (365)
+Errors                =  100.0%    1   (355)
 
 Ref. words            =            1   (713)
 Hyp. words            =            1   (536)
-Aligned words         =            1   (722)
+Aligned words         =            1   (723)
 
 -------------------------------------------------------------------------------
 
@@ -2126,16 +2126,16 @@ REF:  SOPRA okay
 HYP:  SONO  okay 
 Eval: S          
 
-Correct               =   50.0%    1   (358)
-Substitutions         =   50.0%    1   (171)
-Deletions             =    0.0%    0   (186)
-Insertions            =    0.0%    0   (  9)
+Correct               =   50.0%    1   (369)
+Substitutions         =   50.0%    1   (159)
+Deletions             =    0.0%    0   (187)
+Insertions            =    0.0%    0   ( 10)
 
-Errors                =   50.0%    1   (366)
+Errors                =   50.0%    1   (356)
 
 Ref. words            =            2   (715)
 Hyp. words            =            2   (538)
-Aligned words         =            2   (724)
+Aligned words         =            2   (725)
 
 -------------------------------------------------------------------------------
 
@@ -2145,16 +2145,16 @@ REF:  ci sono SOPRA IL DADO
 HYP:  ci sono ***** ** SUPERATO 
 Eval:         D     D  S        
 
-Correct               =   40.0%    2   (360)
-Substitutions         =   20.0%    1   (172)
-Deletions             =   40.0%    2   (188)
-Insertions            =    0.0%    0   (  9)
+Correct               =   40.0%    2   (371)
+Substitutions         =   20.0%    1   (160)
+Deletions             =   40.0%    2   (189)
+Insertions            =    0.0%    0   ( 10)
 
-Errors                =   60.0%    3   (369)
+Errors                =   60.0%    3   (359)
 
 Ref. words            =            5   (720)
 Hyp. words            =            3   (541)
-Aligned words         =            5   (729)
+Aligned words         =            5   (730)
 
 -------------------------------------------------------------------------------
 
@@ -2164,16 +2164,16 @@ REF:  gli occhiali da sole
 HYP:  gli occhiali da sole 
 Eval:                      
 
-Correct               =  100.0%    4   (364)
-Substitutions         =    0.0%    0   (172)
-Deletions             =    0.0%    0   (188)
-Insertions            =    0.0%    0   (  9)
+Correct               =  100.0%    4   (375)
+Substitutions         =    0.0%    0   (160)
+Deletions             =    0.0%    0   (189)
+Insertions            =    0.0%    0   ( 10)
 
-Errors                =    0.0%    0   (369)
+Errors                =    0.0%    0   (359)
 
 Ref. words            =            4   (724)
 Hyp. words            =            4   (545)
-Aligned words         =            4   (733)
+Aligned words         =            4   (734)
 
 -------------------------------------------------------------------------------
 
@@ -2183,16 +2183,16 @@ REF:  Sì
 HYP:  SI  
 Eval: S   
 
-Correct               =    0.0%    0   (364)
-Substitutions         =  100.0%    1   (173)
-Deletions             =    0.0%    0   (188)
-Insertions            =    0.0%    0   (  9)
+Correct               =    0.0%    0   (375)
+Substitutions         =  100.0%    1   (161)
+Deletions             =    0.0%    0   (189)
+Insertions            =    0.0%    0   ( 10)
 
-Errors                =  100.0%    1   (370)
+Errors                =  100.0%    1   (360)
 
 Ref. words            =            1   (725)
 Hyp. words            =            1   (546)
-Aligned words         =            1   (734)
+Aligned words         =            1   (735)
 
 -------------------------------------------------------------------------------
 
@@ -2202,16 +2202,16 @@ REF:  *
 HYP:  A 
 Eval: I 
 
-Correct               =  UNDEF%    0   (364)
-Substitutions         =  UNDEF%    0   (173)
-Deletions             =  UNDEF%    0   (188)
-Insertions            =  UNDEF%    1   ( 10)
+Correct               =  UNDEF%    0   (375)
+Substitutions         =  UNDEF%    0   (161)
+Deletions             =  UNDEF%    0   (189)
+Insertions            =  UNDEF%    1   ( 11)
 
-Errors                =  UNDEF%    1   (371)
+Errors                =  UNDEF%    1   (361)
 
 Ref. words            =            0   (725)
 Hyp. words            =            1   (547)
-Aligned words         =            1   (735)
+Aligned words         =            1   (736)
 
 -------------------------------------------------------------------------------
 
@@ -2221,16 +2221,16 @@ REF:  Sì
 HYP:  ESSI 
 Eval: S    
 
-Correct               =    0.0%    0   (364)
-Substitutions         =  100.0%    1   (174)
-Deletions             =    0.0%    0   (188)
-Insertions            =    0.0%    0   ( 10)
+Correct               =    0.0%    0   (375)
+Substitutions         =  100.0%    1   (162)
+Deletions             =    0.0%    0   (189)
+Insertions            =    0.0%    0   ( 11)
 
-Errors                =  100.0%    1   (372)
+Errors                =  100.0%    1   (362)
 
 Ref. words            =            1   (726)
 Hyp. words            =            1   (548)
-Aligned words         =            1   (736)
+Aligned words         =            1   (737)
 
 -------------------------------------------------------------------------------
 
@@ -2240,16 +2240,16 @@ REF:  -
 HYP:  * 
 Eval: D 
 
-Correct               =    0.0%    0   (364)
-Substitutions         =    0.0%    0   (174)
-Deletions             =  100.0%    1   (189)
-Insertions            =    0.0%    0   ( 10)
+Correct               =    0.0%    0   (375)
+Substitutions         =    0.0%    0   (162)
+Deletions             =  100.0%    1   (190)
+Insertions            =    0.0%    0   ( 11)
 
-Errors                =  100.0%    1   (373)
+Errors                =  100.0%    1   (363)
 
 Ref. words            =            1   (727)
 Hyp. words            =            0   (548)
-Aligned words         =            1   (737)
+Aligned words         =            1   (738)
 
 -------------------------------------------------------------------------------
 
@@ -2259,16 +2259,16 @@ REF:  Sì L'HO CAPITO TE C'HAI    ANCHE       UNA bicicletta vicino
 HYP:  *** **** ****** LO CAPITOLO ORIZZONTALE LA  bicicletta vicino 
 Eval: D   D    D      S  S        S           S                     
 
-Correct               =   22.2%    2   (366)
-Substitutions         =   44.4%    4   (178)
-Deletions             =   33.3%    3   (192)
-Insertions            =    0.0%    0   ( 10)
+Correct               =   22.2%    2   (377)
+Substitutions         =   44.4%    4   (166)
+Deletions             =   33.3%    3   (193)
+Insertions            =    0.0%    0   ( 11)
 
-Errors                =   77.8%    7   (380)
+Errors                =   77.8%    7   (370)
 
 Ref. words            =            9   (736)
 Hyp. words            =            6   (554)
-Aligned words         =            9   (746)
+Aligned words         =            9   (747)
 
 -------------------------------------------------------------------------------
 
@@ -2278,16 +2278,16 @@ REF:  VABBè HO CAPITO VA BENE
 HYP:  ****** ** HA     LE BRACCIA 
 Eval: D      D  S      S  S       
 
-Correct               =    0.0%    0   (366)
-Substitutions         =   60.0%    3   (181)
-Deletions             =   40.0%    2   (194)
-Insertions            =    0.0%    0   ( 10)
+Correct               =    0.0%    0   (377)
+Substitutions         =   60.0%    3   (169)
+Deletions             =   40.0%    2   (195)
+Insertions            =    0.0%    0   ( 11)
 
-Errors                =  100.0%    5   (385)
+Errors                =  100.0%    5   (375)
 
 Ref. words            =            5   (741)
 Hyp. words            =            3   (557)
-Aligned words         =            5   (751)
+Aligned words         =            5   (752)
 
 -------------------------------------------------------------------------------
 
@@ -2297,16 +2297,16 @@ REF:  Sì
 HYP:  SE  
 Eval: S   
 
-Correct               =    0.0%    0   (366)
-Substitutions         =  100.0%    1   (182)
-Deletions             =    0.0%    0   (194)
-Insertions            =    0.0%    0   ( 10)
+Correct               =    0.0%    0   (377)
+Substitutions         =  100.0%    1   (170)
+Deletions             =    0.0%    0   (195)
+Insertions            =    0.0%    0   ( 11)
 
-Errors                =  100.0%    1   (386)
+Errors                =  100.0%    1   (376)
 
 Ref. words            =            1   (742)
 Hyp. words            =            1   (558)
-Aligned words         =            1   (752)
+Aligned words         =            1   (753)
 
 -------------------------------------------------------------------------------
 
@@ -2316,83 +2316,83 @@ REF:  una linea TRA GLI occhiali E IL DADO E VADO A    METà  di questa linea OK
 HYP:  una linea *** DI  occhiali * ** **** * DA   DOVE DOMINA di questa linea CHE  
 Eval:           D   S            D D  D    D S    S    S                      S    
 
-Correct               =   37.5%    6   (372)
-Substitutions         =   31.3%    5   (187)
-Deletions             =   31.3%    5   (199)
-Insertions            =    0.0%    0   ( 10)
+Correct               =   37.5%    6   (383)
+Substitutions         =   31.3%    5   (175)
+Deletions             =   31.3%    5   (200)
+Insertions            =    0.0%    0   ( 11)
 
-Errors                =   62.5%   10   (396)
+Errors                =   62.5%   10   (386)
 
 Ref. words            =           16   (758)
 Hyp. words            =           11   (569)
-Aligned words         =           16   (768)
+Aligned words         =           16   (769)
 
 -------------------------------------------------------------------------------
 
 id: (ll-firenze_123)
 Scores: (#C #S #D #I) 0 0 0 0
 
-Correct               =  UNDEF%    0   (372)
-Substitutions         =  UNDEF%    0   (187)
-Deletions             =  UNDEF%    0   (199)
-Insertions            =  UNDEF%    0   ( 10)
+Correct               =  UNDEF%    0   (383)
+Substitutions         =  UNDEF%    0   (175)
+Deletions             =  UNDEF%    0   (200)
+Insertions            =  UNDEF%    0   ( 11)
 
-Errors                =  UNDEF%    0   (396)
+Errors                =  UNDEF%    0   (386)
 
 Ref. words            =            0   (758)
 Hyp. words            =            0   (569)
-Aligned words         =            0   (768)
+Aligned words         =            0   (769)
 
 -------------------------------------------------------------------------------
 
 id: (ll-firenze_124)
-Scores: (#C #S #D #I) 2 1 1 0
-REF:  Sì UNO brutto viola 
-HYP:  *** S�  brutto viola 
-Eval: D   S                
+Scores: (#C #S #D #I) 3 0 1 0
+REF:  sì UNO brutto viola 
+HYP:  sì *** brutto viola 
+Eval:     D                
 
-Correct               =   50.0%    2   (374)
-Substitutions         =   25.0%    1   (188)
-Deletions             =   25.0%    1   (200)
-Insertions            =    0.0%    0   ( 10)
+Correct               =   75.0%    3   (386)
+Substitutions         =    0.0%    0   (175)
+Deletions             =   25.0%    1   (201)
+Insertions            =    0.0%    0   ( 11)
 
-Errors                =   50.0%    2   (398)
+Errors                =   25.0%    1   (387)
 
 Ref. words            =            4   (762)
 Hyp. words            =            3   (572)
-Aligned words         =            4   (772)
+Aligned words         =            4   (773)
 
 -------------------------------------------------------------------------------
 
 id: (ll-firenze_125)
 Scores: (#C #S #D #I) 0 0 0 0
 
-Correct               =  UNDEF%    0   (374)
-Substitutions         =  UNDEF%    0   (188)
-Deletions             =  UNDEF%    0   (200)
-Insertions            =  UNDEF%    0   ( 10)
+Correct               =  UNDEF%    0   (386)
+Substitutions         =  UNDEF%    0   (175)
+Deletions             =  UNDEF%    0   (201)
+Insertions            =  UNDEF%    0   ( 11)
 
-Errors                =  UNDEF%    0   (398)
+Errors                =  UNDEF%    0   (387)
 
 Ref. words            =            0   (762)
 Hyp. words            =            0   (572)
-Aligned words         =            0   (772)
+Aligned words         =            0   (773)
 
 -------------------------------------------------------------------------------
 
 id: (ll-firenze_126)
 Scores: (#C #S #D #I) 0 0 0 0
 
-Correct               =  UNDEF%    0   (374)
-Substitutions         =  UNDEF%    0   (188)
-Deletions             =  UNDEF%    0   (200)
-Insertions            =  UNDEF%    0   ( 10)
+Correct               =  UNDEF%    0   (386)
+Substitutions         =  UNDEF%    0   (175)
+Deletions             =  UNDEF%    0   (201)
+Insertions            =  UNDEF%    0   ( 11)
 
-Errors                =  UNDEF%    0   (398)
+Errors                =  UNDEF%    0   (387)
 
 Ref. words            =            0   (762)
 Hyp. words            =            0   (572)
-Aligned words         =            0   (772)
+Aligned words         =            0   (773)
 
 -------------------------------------------------------------------------------
 
@@ -2402,16 +2402,16 @@ REF:  SOPRA LA
 HYP:  ***** ** 
 Eval: D     D  
 
-Correct               =    0.0%    0   (374)
-Substitutions         =    0.0%    0   (188)
-Deletions             =  100.0%    2   (202)
-Insertions            =    0.0%    0   ( 10)
+Correct               =    0.0%    0   (386)
+Substitutions         =    0.0%    0   (175)
+Deletions             =  100.0%    2   (203)
+Insertions            =    0.0%    0   ( 11)
 
-Errors                =  100.0%    2   (400)
+Errors                =  100.0%    2   (389)
 
 Ref. words            =            2   (764)
 Hyp. words            =            0   (572)
-Aligned words         =            2   (774)
+Aligned words         =            2   (775)
 
 -------------------------------------------------------------------------------
 
@@ -2421,16 +2421,16 @@ REF:  vicino alla coda
 HYP:  vicino alla coda 
 Eval:                  
 
-Correct               =  100.0%    3   (377)
-Substitutions         =    0.0%    0   (188)
-Deletions             =    0.0%    0   (202)
-Insertions            =    0.0%    0   ( 10)
+Correct               =  100.0%    3   (389)
+Substitutions         =    0.0%    0   (175)
+Deletions             =    0.0%    0   (203)
+Insertions            =    0.0%    0   ( 11)
 
-Errors                =    0.0%    0   (400)
+Errors                =    0.0%    0   (389)
 
 Ref. words            =            3   (767)
 Hyp. words            =            3   (575)
-Aligned words         =            3   (777)
+Aligned words         =            3   (778)
 
 -------------------------------------------------------------------------------
 
@@ -2440,16 +2440,16 @@ REF:  okay
 HYP:  okay 
 Eval:      
 
-Correct               =  100.0%    1   (378)
-Substitutions         =    0.0%    0   (188)
-Deletions             =    0.0%    0   (202)
-Insertions            =    0.0%    0   ( 10)
+Correct               =  100.0%    1   (390)
+Substitutions         =    0.0%    0   (175)
+Deletions             =    0.0%    0   (203)
+Insertions            =    0.0%    0   ( 11)
 
-Errors                =    0.0%    0   (400)
+Errors                =    0.0%    0   (389)
 
 Ref. words            =            1   (768)
 Hyp. words            =            1   (576)
-Aligned words         =            1   (778)
+Aligned words         =            1   (779)
 
 -------------------------------------------------------------------------------
 
@@ -2459,16 +2459,16 @@ REF:  ASPETTA
 HYP:  SPETTA  
 Eval: S       
 
-Correct               =    0.0%    0   (378)
-Substitutions         =  100.0%    1   (189)
-Deletions             =    0.0%    0   (202)
-Insertions            =    0.0%    0   ( 10)
+Correct               =    0.0%    0   (390)
+Substitutions         =  100.0%    1   (176)
+Deletions             =    0.0%    0   (203)
+Insertions            =    0.0%    0   ( 11)
 
-Errors                =  100.0%    1   (401)
+Errors                =  100.0%    1   (390)
 
 Ref. words            =            1   (769)
 Hyp. words            =            1   (577)
-Aligned words         =            1   (779)
+Aligned words         =            1   (780)
 
 -------------------------------------------------------------------------------
 
@@ -2478,16 +2478,16 @@ REF:  ASPETTA DEVO arrivarci
 HYP:  SPETTA  DI   arrivarci 
 Eval: S       S              
 
-Correct               =   33.3%    1   (379)
-Substitutions         =   66.7%    2   (191)
-Deletions             =    0.0%    0   (202)
-Insertions            =    0.0%    0   ( 10)
+Correct               =   33.3%    1   (391)
+Substitutions         =   66.7%    2   (178)
+Deletions             =    0.0%    0   (203)
+Insertions            =    0.0%    0   ( 11)
 
-Errors                =   66.7%    2   (403)
+Errors                =   66.7%    2   (392)
 
 Ref. words            =            3   (772)
 Hyp. words            =            3   (580)
-Aligned words         =            3   (782)
+Aligned words         =            3   (783)
 
 -------------------------------------------------------------------------------
 
@@ -2497,16 +2497,16 @@ REF:  ci GIRO intorno Sì
 HYP:  ci GIRA intorno SI  
 Eval:    S            S   
 
-Correct               =   50.0%    2   (381)
-Substitutions         =   50.0%    2   (193)
-Deletions             =    0.0%    0   (202)
-Insertions            =    0.0%    0   ( 10)
+Correct               =   50.0%    2   (393)
+Substitutions         =   50.0%    2   (180)
+Deletions             =    0.0%    0   (203)
+Insertions            =    0.0%    0   ( 11)
 
-Errors                =   50.0%    2   (405)
+Errors                =   50.0%    2   (394)
 
 Ref. words            =            4   (776)
 Hyp. words            =            4   (584)
-Aligned words         =            4   (786)
+Aligned words         =            4   (787)
 
 -------------------------------------------------------------------------------
 
@@ -2516,16 +2516,16 @@ REF:  **
 HYP:  UN 
 Eval: I  
 
-Correct               =  UNDEF%    0   (381)
-Substitutions         =  UNDEF%    0   (193)
-Deletions             =  UNDEF%    0   (202)
-Insertions            =  UNDEF%    1   ( 11)
+Correct               =  UNDEF%    0   (393)
+Substitutions         =  UNDEF%    0   (180)
+Deletions             =  UNDEF%    0   (203)
+Insertions            =  UNDEF%    1   ( 12)
 
-Errors                =  UNDEF%    1   (406)
+Errors                =  UNDEF%    1   (395)
 
 Ref. words            =            0   (776)
 Hyp. words            =            1   (585)
-Aligned words         =            1   (787)
+Aligned words         =            1   (788)
 
 -------------------------------------------------------------------------------
 
@@ -2535,16 +2535,16 @@ REF:  NO PERò FA      LA     stessa
 HYP:  ** ***** PROPRIO QUELLA stessa 
 Eval: D  D     S       S             
 
-Correct               =   20.0%    1   (382)
-Substitutions         =   40.0%    2   (195)
-Deletions             =   40.0%    2   (204)
-Insertions            =    0.0%    0   ( 11)
+Correct               =   20.0%    1   (394)
+Substitutions         =   40.0%    2   (182)
+Deletions             =   40.0%    2   (205)
+Insertions            =    0.0%    0   ( 12)
 
-Errors                =   80.0%    4   (410)
+Errors                =   80.0%    4   (399)
 
 Ref. words            =            5   (781)
 Hyp. words            =            3   (588)
-Aligned words         =            5   (792)
+Aligned words         =            5   (793)
 
 -------------------------------------------------------------------------------
 
@@ -2554,16 +2554,16 @@ REF:  ALLO+ Sì
 HYP:  ***** SI  
 Eval: D     S   
 
-Correct               =    0.0%    0   (382)
-Substitutions         =   50.0%    1   (196)
-Deletions             =   50.0%    1   (205)
-Insertions            =    0.0%    0   ( 11)
+Correct               =    0.0%    0   (394)
+Substitutions         =   50.0%    1   (183)
+Deletions             =   50.0%    1   (206)
+Insertions            =    0.0%    0   ( 12)
 
-Errors                =  100.0%    2   (412)
+Errors                =  100.0%    2   (401)
 
 Ref. words            =            2   (783)
 Hyp. words            =            1   (589)
-Aligned words         =            2   (794)
+Aligned words         =            2   (795)
 
 -------------------------------------------------------------------------------
 
@@ -2573,16 +2573,16 @@ REF:  Sì
 HYP:  SI  
 Eval: S   
 
-Correct               =    0.0%    0   (382)
-Substitutions         =  100.0%    1   (197)
-Deletions             =    0.0%    0   (205)
-Insertions            =    0.0%    0   ( 11)
+Correct               =    0.0%    0   (394)
+Substitutions         =  100.0%    1   (184)
+Deletions             =    0.0%    0   (206)
+Insertions            =    0.0%    0   ( 12)
 
-Errors                =  100.0%    1   (413)
+Errors                =  100.0%    1   (402)
 
 Ref. words            =            1   (784)
 Hyp. words            =            1   (590)
-Aligned words         =            1   (795)
+Aligned words         =            1   (796)
 
 -------------------------------------------------------------------------------
 
@@ -2592,16 +2592,16 @@ REF:  Sì
 HYP:  SI  
 Eval: S   
 
-Correct               =    0.0%    0   (382)
-Substitutions         =  100.0%    1   (198)
-Deletions             =    0.0%    0   (205)
-Insertions            =    0.0%    0   ( 11)
+Correct               =    0.0%    0   (394)
+Substitutions         =  100.0%    1   (185)
+Deletions             =    0.0%    0   (206)
+Insertions            =    0.0%    0   ( 12)
 
-Errors                =  100.0%    1   (414)
+Errors                =  100.0%    1   (403)
 
 Ref. words            =            1   (785)
 Hyp. words            =            1   (591)
-Aligned words         =            1   (796)
+Aligned words         =            1   (797)
 
 -------------------------------------------------------------------------------
 
@@ -2611,32 +2611,32 @@ REF:  SOTTO gli occhiali Sì
 HYP:  ***** gli occhiali *** 
 Eval: D                  D   
 
-Correct               =   50.0%    2   (384)
-Substitutions         =    0.0%    0   (198)
-Deletions             =   50.0%    2   (207)
-Insertions            =    0.0%    0   ( 11)
+Correct               =   50.0%    2   (396)
+Substitutions         =    0.0%    0   (185)
+Deletions             =   50.0%    2   (208)
+Insertions            =    0.0%    0   ( 12)
 
-Errors                =   50.0%    2   (416)
+Errors                =   50.0%    2   (405)
 
 Ref. words            =            4   (789)
 Hyp. words            =            2   (593)
-Aligned words         =            4   (800)
+Aligned words         =            4   (801)
 
 -------------------------------------------------------------------------------
 
 id: (ll-firenze_139)
 Scores: (#C #S #D #I) 0 0 0 0
 
-Correct               =  UNDEF%    0   (384)
-Substitutions         =  UNDEF%    0   (198)
-Deletions             =  UNDEF%    0   (207)
-Insertions            =  UNDEF%    0   ( 11)
+Correct               =  UNDEF%    0   (396)
+Substitutions         =  UNDEF%    0   (185)
+Deletions             =  UNDEF%    0   (208)
+Insertions            =  UNDEF%    0   ( 12)
 
-Errors                =  UNDEF%    0   (416)
+Errors                =  UNDEF%    0   (405)
 
 Ref. words            =            0   (789)
 Hyp. words            =            0   (593)
-Aligned words         =            0   (800)
+Aligned words         =            0   (801)
 
 -------------------------------------------------------------------------------
 
@@ -2646,16 +2646,16 @@ REF:  EH VERSO
 HYP:  ** ***** 
 Eval: D  D     
 
-Correct               =    0.0%    0   (384)
-Substitutions         =    0.0%    0   (198)
-Deletions             =  100.0%    2   (209)
-Insertions            =    0.0%    0   ( 11)
+Correct               =    0.0%    0   (396)
+Substitutions         =    0.0%    0   (185)
+Deletions             =  100.0%    2   (210)
+Insertions            =    0.0%    0   ( 12)
 
-Errors                =  100.0%    2   (418)
+Errors                =  100.0%    2   (407)
 
 Ref. words            =            2   (791)
 Hyp. words            =            0   (593)
-Aligned words         =            2   (802)
+Aligned words         =            2   (803)
 
 -------------------------------------------------------------------------------
 
@@ -2665,16 +2665,16 @@ REF:  Sì
 HYP:  SI  
 Eval: S   
 
-Correct               =    0.0%    0   (384)
-Substitutions         =  100.0%    1   (199)
-Deletions             =    0.0%    0   (209)
-Insertions            =    0.0%    0   ( 11)
+Correct               =    0.0%    0   (396)
+Substitutions         =  100.0%    1   (186)
+Deletions             =    0.0%    0   (210)
+Insertions            =    0.0%    0   ( 12)
 
-Errors                =  100.0%    1   (419)
+Errors                =  100.0%    1   (408)
 
 Ref. words            =            1   (792)
 Hyp. words            =            1   (594)
-Aligned words         =            1   (803)
+Aligned words         =            1   (804)
 
 -------------------------------------------------------------------------------
 
@@ -2684,35 +2684,35 @@ REF:  Sì
 HYP:  SI  
 Eval: S   
 
-Correct               =    0.0%    0   (384)
-Substitutions         =  100.0%    1   (200)
-Deletions             =    0.0%    0   (209)
-Insertions            =    0.0%    0   ( 11)
+Correct               =    0.0%    0   (396)
+Substitutions         =  100.0%    1   (187)
+Deletions             =    0.0%    0   (210)
+Insertions            =    0.0%    0   ( 12)
 
-Errors                =  100.0%    1   (420)
+Errors                =  100.0%    1   (409)
 
 Ref. words            =            1   (793)
 Hyp. words            =            1   (595)
-Aligned words         =            1   (804)
+Aligned words         =            1   (805)
 
 -------------------------------------------------------------------------------
 
 id: (ll-firenze_143)
-Scores: (#C #S #D #I) 1 2 6 0
-REF:  LE TRE LE TRE CHE STANNO PIù sopra Sì 
-HYP:  ** *** ** *** *** DEL    PI�  sopra *** 
-Eval: D  D   D  D   D   S      S          D   
+Scores: (#C #S #D #I) 2 1 6 0
+REF:  LE TRE LE TRE CHE STANNO più sopra Sì 
+HYP:  ** *** ** *** *** DEL    più sopra *** 
+Eval: D  D   D  D   D   S                 D   
 
-Correct               =   11.1%    1   (385)
-Substitutions         =   22.2%    2   (202)
-Deletions             =   66.7%    6   (215)
-Insertions            =    0.0%    0   ( 11)
+Correct               =   22.2%    2   (398)
+Substitutions         =   11.1%    1   (188)
+Deletions             =   66.7%    6   (216)
+Insertions            =    0.0%    0   ( 12)
 
-Errors                =   88.9%    8   (428)
+Errors                =   77.8%    7   (416)
 
 Ref. words            =            9   (802)
 Hyp. words            =            3   (598)
-Aligned words         =            9   (813)
+Aligned words         =            9   (814)
 
 -------------------------------------------------------------------------------
 
@@ -2722,48 +2722,48 @@ REF:  E UNA PICCOLA
 HYP:  * *** ******* 
 Eval: D D   D       
 
-Correct               =    0.0%    0   (385)
-Substitutions         =    0.0%    0   (202)
-Deletions             =  100.0%    3   (218)
-Insertions            =    0.0%    0   ( 11)
+Correct               =    0.0%    0   (398)
+Substitutions         =    0.0%    0   (188)
+Deletions             =  100.0%    3   (219)
+Insertions            =    0.0%    0   ( 12)
 
-Errors                =  100.0%    3   (431)
+Errors                =  100.0%    3   (419)
 
 Ref. words            =            3   (805)
 Hyp. words            =            0   (598)
-Aligned words         =            3   (816)
+Aligned words         =            3   (817)
 
 -------------------------------------------------------------------------------
 
 id: (ll-firenze_145)
 Scores: (#C #S #D #I) 0 0 0 0
 
-Correct               =  UNDEF%    0   (385)
-Substitutions         =  UNDEF%    0   (202)
-Deletions             =  UNDEF%    0   (218)
-Insertions            =  UNDEF%    0   ( 11)
+Correct               =  UNDEF%    0   (398)
+Substitutions         =  UNDEF%    0   (188)
+Deletions             =  UNDEF%    0   (219)
+Insertions            =  UNDEF%    0   ( 12)
 
-Errors                =  UNDEF%    0   (431)
+Errors                =  UNDEF%    0   (419)
 
 Ref. words            =            0   (805)
 Hyp. words            =            0   (598)
-Aligned words         =            0   (816)
+Aligned words         =            0   (817)
 
 -------------------------------------------------------------------------------
 
 id: (ll-firenze_146)
 Scores: (#C #S #D #I) 0 0 0 0
 
-Correct               =  UNDEF%    0   (385)
-Substitutions         =  UNDEF%    0   (202)
-Deletions             =  UNDEF%    0   (218)
-Insertions            =  UNDEF%    0   ( 11)
+Correct               =  UNDEF%    0   (398)
+Substitutions         =  UNDEF%    0   (188)
+Deletions             =  UNDEF%    0   (219)
+Insertions            =  UNDEF%    0   ( 12)
 
-Errors                =  UNDEF%    0   (431)
+Errors                =  UNDEF%    0   (419)
 
 Ref. words            =            0   (805)
 Hyp. words            =            0   (598)
-Aligned words         =            0   (816)
+Aligned words         =            0   (817)
 
 -------------------------------------------------------------------------------
 
@@ -2773,16 +2773,16 @@ REF:  Sì
 HYP:  SE  
 Eval: S   
 
-Correct               =    0.0%    0   (385)
-Substitutions         =  100.0%    1   (203)
-Deletions             =    0.0%    0   (218)
-Insertions            =    0.0%    0   ( 11)
+Correct               =    0.0%    0   (398)
+Substitutions         =  100.0%    1   (189)
+Deletions             =    0.0%    0   (219)
+Insertions            =    0.0%    0   ( 12)
 
-Errors                =  100.0%    1   (432)
+Errors                =  100.0%    1   (420)
 
 Ref. words            =            1   (806)
 Hyp. words            =            1   (599)
-Aligned words         =            1   (817)
+Aligned words         =            1   (818)
 
 -------------------------------------------------------------------------------
 
@@ -2792,16 +2792,16 @@ REF:  Sì aspetta
 HYP:  SI  aspetta 
 Eval: S           
 
-Correct               =   50.0%    1   (386)
-Substitutions         =   50.0%    1   (204)
-Deletions             =    0.0%    0   (218)
-Insertions            =    0.0%    0   ( 11)
+Correct               =   50.0%    1   (399)
+Substitutions         =   50.0%    1   (190)
+Deletions             =    0.0%    0   (219)
+Insertions            =    0.0%    0   ( 12)
 
-Errors                =   50.0%    1   (433)
+Errors                =   50.0%    1   (421)
 
 Ref. words            =            2   (808)
 Hyp. words            =            2   (601)
-Aligned words         =            2   (819)
+Aligned words         =            2   (820)
 
 -------------------------------------------------------------------------------
 
@@ -2811,16 +2811,16 @@ REF:  ASPETTA EHM IO SONO AGLI  occhiali NO
 HYP:  ******* *** ** CHE  DAGLI occhiali DISCENDE 
 Eval: D       D   D  S    S              S        
 
-Correct               =   14.3%    1   (387)
-Substitutions         =   42.9%    3   (207)
-Deletions             =   42.9%    3   (221)
-Insertions            =    0.0%    0   ( 11)
+Correct               =   14.3%    1   (400)
+Substitutions         =   42.9%    3   (193)
+Deletions             =   42.9%    3   (222)
+Insertions            =    0.0%    0   ( 12)
 
-Errors                =   85.7%    6   (439)
+Errors                =   85.7%    6   (427)
 
 Ref. words            =            7   (815)
 Hyp. words            =            4   (605)
-Aligned words         =            7   (826)
+Aligned words         =            7   (827)
 
 -------------------------------------------------------------------------------
 
@@ -2830,16 +2830,16 @@ REF:  E V+ E PUNTO verso le stelle
 HYP:  * ** * ***** verso le stelle 
 Eval: D D  D D                     
 
-Correct               =   42.9%    3   (390)
-Substitutions         =    0.0%    0   (207)
-Deletions             =   57.1%    4   (225)
-Insertions            =    0.0%    0   ( 11)
+Correct               =   42.9%    3   (403)
+Substitutions         =    0.0%    0   (193)
+Deletions             =   57.1%    4   (226)
+Insertions            =    0.0%    0   ( 12)
 
-Errors                =   57.1%    4   (443)
+Errors                =   57.1%    4   (431)
 
 Ref. words            =            7   (822)
 Hyp. words            =            3   (608)
-Aligned words         =            7   (833)
+Aligned words         =            7   (834)
 
 -------------------------------------------------------------------------------
 
@@ -2849,16 +2849,16 @@ REF:  ecco
 HYP:  ecco 
 Eval:      
 
-Correct               =  100.0%    1   (391)
-Substitutions         =    0.0%    0   (207)
-Deletions             =    0.0%    0   (225)
-Insertions            =    0.0%    0   ( 11)
+Correct               =  100.0%    1   (404)
+Substitutions         =    0.0%    0   (193)
+Deletions             =    0.0%    0   (226)
+Insertions            =    0.0%    0   ( 12)
 
-Errors                =    0.0%    0   (443)
+Errors                =    0.0%    0   (431)
 
 Ref. words            =            1   (823)
 Hyp. words            =            1   (609)
-Aligned words         =            1   (834)
+Aligned words         =            1   (835)
 
 -------------------------------------------------------------------------------
 
@@ -2868,16 +2868,16 @@ REF:  Sì ma CI deve entrare dalla parte del puntino nero o dalla parte opposta
 HYP:  *** ma SI deve entrare dalla parte del puntino nero o dalla parte opposta 
 Eval: D      S                                                                  
 
-Correct               =   85.7%   12   (403)
-Substitutions         =    7.1%    1   (208)
-Deletions             =    7.1%    1   (226)
-Insertions            =    0.0%    0   ( 11)
+Correct               =   85.7%   12   (416)
+Substitutions         =    7.1%    1   (194)
+Deletions             =    7.1%    1   (227)
+Insertions            =    0.0%    0   ( 12)
 
-Errors                =   14.3%    2   (445)
+Errors                =   14.3%    2   (433)
 
 Ref. words            =           14   (837)
 Hyp. words            =           13   (622)
-Aligned words         =           14   (848)
+Aligned words         =           14   (849)
 
 -------------------------------------------------------------------------------
 
@@ -2887,16 +2887,16 @@ REF:  IL PUNTO NERO è dove abbiamo SCAMBIATO I     percorsi NO
 HYP:  ** ***** **** E  dove abbiamo ********* STATI percorsi NON 
 Eval: D  D     D    S               D         S              S   
 
-Correct               =   30.0%    3   (406)
-Substitutions         =   30.0%    3   (211)
-Deletions             =   40.0%    4   (230)
-Insertions            =    0.0%    0   ( 11)
+Correct               =   30.0%    3   (419)
+Substitutions         =   30.0%    3   (197)
+Deletions             =   40.0%    4   (231)
+Insertions            =    0.0%    0   ( 12)
 
-Errors                =   70.0%    7   (452)
+Errors                =   70.0%    7   (440)
 
 Ref. words            =           10   (847)
 Hyp. words            =            6   (628)
-Aligned words         =           10   (858)
+Aligned words         =           10   (859)
 
 -------------------------------------------------------------------------------
 
@@ -2906,16 +2906,16 @@ REF:  EH
 HYP:  ** 
 Eval: D  
 
-Correct               =    0.0%    0   (406)
-Substitutions         =    0.0%    0   (211)
-Deletions             =  100.0%    1   (231)
-Insertions            =    0.0%    0   ( 11)
+Correct               =    0.0%    0   (419)
+Substitutions         =    0.0%    0   (197)
+Deletions             =  100.0%    1   (232)
+Insertions            =    0.0%    0   ( 12)
 
-Errors                =  100.0%    1   (453)
+Errors                =  100.0%    1   (441)
 
 Ref. words            =            1   (848)
 Hyp. words            =            0   (628)
-Aligned words         =            1   (859)
+Aligned words         =            1   (860)
 
 -------------------------------------------------------------------------------
 
@@ -2925,16 +2925,16 @@ REF:  IO Sì IO
 HYP:  ** *** ** 
 Eval: D  D   D  
 
-Correct               =    0.0%    0   (406)
-Substitutions         =    0.0%    0   (211)
-Deletions             =  100.0%    3   (234)
-Insertions            =    0.0%    0   ( 11)
+Correct               =    0.0%    0   (419)
+Substitutions         =    0.0%    0   (197)
+Deletions             =  100.0%    3   (235)
+Insertions            =    0.0%    0   ( 12)
 
-Errors                =  100.0%    3   (456)
+Errors                =  100.0%    3   (444)
 
 Ref. words            =            3   (851)
 Hyp. words            =            0   (628)
-Aligned words         =            3   (862)
+Aligned words         =            3   (863)
 
 -------------------------------------------------------------------------------
 
@@ -2944,16 +2944,16 @@ REF:  Sì PERò ASPETTA UN        momento
 HYP:  *** ***** ******* L'ASPETTO momento 
 Eval: D   D     D       S                 
 
-Correct               =   20.0%    1   (407)
-Substitutions         =   20.0%    1   (212)
-Deletions             =   60.0%    3   (237)
-Insertions            =    0.0%    0   ( 11)
+Correct               =   20.0%    1   (420)
+Substitutions         =   20.0%    1   (198)
+Deletions             =   60.0%    3   (238)
+Insertions            =    0.0%    0   ( 12)
 
-Errors                =   80.0%    4   (460)
+Errors                =   80.0%    4   (448)
 
 Ref. words            =            5   (856)
 Hyp. words            =            2   (630)
-Aligned words         =            5   (867)
+Aligned words         =            5   (868)
 
 -------------------------------------------------------------------------------
 
@@ -2963,16 +2963,16 @@ REF:  PRIMA fra queste due stelle TE  C'ENTRI dalla parte del punto nero o da qu
 HYP:  ***** fra queste due stelle DEI CENTRI  dalla parte del punto nero o da quell'altra o dalla parte DELLE 
 Eval: D                           S   S                                                                 S     
 
-Correct               =   78.9%   15   (422)
-Substitutions         =   15.8%    3   (215)
-Deletions             =    5.3%    1   (238)
-Insertions            =    0.0%    0   ( 11)
+Correct               =   78.9%   15   (435)
+Substitutions         =   15.8%    3   (201)
+Deletions             =    5.3%    1   (239)
+Insertions            =    0.0%    0   ( 12)
 
-Errors                =   21.1%    4   (464)
+Errors                =   21.1%    4   (452)
 
 Ref. words            =           19   (875)
 Hyp. words            =           18   (648)
-Aligned words         =           19   (886)
+Aligned words         =           19   (887)
 
 -------------------------------------------------------------------------------
 
@@ -2982,32 +2982,32 @@ REF:  Sì ANCHE A ME è A D+ ANCHE A ME è      a DESTRA
 HYP:  *** ***** * ** ** * ** ***** * SI CAMMINA a TESTA  
 Eval: D   D     D D  D  D D  D     D S  S         S      
 
-Correct               =    7.7%    1   (423)
-Substitutions         =   23.1%    3   (218)
-Deletions             =   69.2%    9   (247)
-Insertions            =    0.0%    0   ( 11)
+Correct               =    7.7%    1   (436)
+Substitutions         =   23.1%    3   (204)
+Deletions             =   69.2%    9   (248)
+Insertions            =    0.0%    0   ( 12)
 
-Errors                =   92.3%   12   (476)
+Errors                =   92.3%   12   (464)
 
 Ref. words            =           13   (888)
 Hyp. words            =            4   (652)
-Aligned words         =           13   (899)
+Aligned words         =           13   (900)
 
 -------------------------------------------------------------------------------
 
 id: (ll-firenze_159)
 Scores: (#C #S #D #I) 0 0 0 0
 
-Correct               =  UNDEF%    0   (423)
-Substitutions         =  UNDEF%    0   (218)
-Deletions             =  UNDEF%    0   (247)
-Insertions            =  UNDEF%    0   ( 11)
+Correct               =  UNDEF%    0   (436)
+Substitutions         =  UNDEF%    0   (204)
+Deletions             =  UNDEF%    0   (248)
+Insertions            =  UNDEF%    0   ( 12)
 
-Errors                =  UNDEF%    0   (476)
+Errors                =  UNDEF%    0   (464)
 
 Ref. words            =            0   (888)
 Hyp. words            =            0   (652)
-Aligned words         =            0   (899)
+Aligned words         =            0   (900)
 
 -------------------------------------------------------------------------------
 
@@ -3017,16 +3017,16 @@ REF:  Sì che sarebbe
 HYP:  *** che sarebbe 
 Eval: D               
 
-Correct               =   66.7%    2   (425)
-Substitutions         =    0.0%    0   (218)
-Deletions             =   33.3%    1   (248)
-Insertions            =    0.0%    0   ( 11)
+Correct               =   66.7%    2   (438)
+Substitutions         =    0.0%    0   (204)
+Deletions             =   33.3%    1   (249)
+Insertions            =    0.0%    0   ( 12)
 
-Errors                =   33.3%    1   (477)
+Errors                =   33.3%    1   (465)
 
 Ref. words            =            3   (891)
 Hyp. words            =            2   (654)
-Aligned words         =            3   (902)
+Aligned words         =            3   (903)
 
 -------------------------------------------------------------------------------
 
@@ -3036,32 +3036,32 @@ REF:  Sì
 HYP:  SI  
 Eval: S   
 
-Correct               =    0.0%    0   (425)
-Substitutions         =  100.0%    1   (219)
-Deletions             =    0.0%    0   (248)
-Insertions            =    0.0%    0   ( 11)
+Correct               =    0.0%    0   (438)
+Substitutions         =  100.0%    1   (205)
+Deletions             =    0.0%    0   (249)
+Insertions            =    0.0%    0   ( 12)
 
-Errors                =  100.0%    1   (478)
+Errors                =  100.0%    1   (466)
 
 Ref. words            =            1   (892)
 Hyp. words            =            1   (655)
-Aligned words         =            1   (903)
+Aligned words         =            1   (904)
 
 -------------------------------------------------------------------------------
 
 id: (ll-firenze_162)
 Scores: (#C #S #D #I) 0 0 0 0
 
-Correct               =  UNDEF%    0   (425)
-Substitutions         =  UNDEF%    0   (219)
-Deletions             =  UNDEF%    0   (248)
-Insertions            =  UNDEF%    0   ( 11)
+Correct               =  UNDEF%    0   (438)
+Substitutions         =  UNDEF%    0   (205)
+Deletions             =  UNDEF%    0   (249)
+Insertions            =  UNDEF%    0   ( 12)
 
-Errors                =  UNDEF%    0   (478)
+Errors                =  UNDEF%    0   (466)
 
 Ref. words            =            0   (892)
 Hyp. words            =            0   (655)
-Aligned words         =            0   (903)
+Aligned words         =            0   (904)
 
 -------------------------------------------------------------------------------
 
@@ -3071,16 +3071,16 @@ REF:  Sì
 HYP:  SI  
 Eval: S   
 
-Correct               =    0.0%    0   (425)
-Substitutions         =  100.0%    1   (220)
-Deletions             =    0.0%    0   (248)
-Insertions            =    0.0%    0   ( 11)
+Correct               =    0.0%    0   (438)
+Substitutions         =  100.0%    1   (206)
+Deletions             =    0.0%    0   (249)
+Insertions            =    0.0%    0   ( 12)
 
-Errors                =  100.0%    1   (479)
+Errors                =  100.0%    1   (467)
 
 Ref. words            =            1   (893)
 Hyp. words            =            1   (656)
-Aligned words         =            1   (904)
+Aligned words         =            1   (905)
 
 -------------------------------------------------------------------------------
 
@@ -3090,16 +3090,16 @@ REF:  Sì
 HYP:  *** 
 Eval: D   
 
-Correct               =    0.0%    0   (425)
-Substitutions         =    0.0%    0   (220)
-Deletions             =  100.0%    1   (249)
-Insertions            =    0.0%    0   ( 11)
+Correct               =    0.0%    0   (438)
+Substitutions         =    0.0%    0   (206)
+Deletions             =  100.0%    1   (250)
+Insertions            =    0.0%    0   ( 12)
 
-Errors                =  100.0%    1   (480)
+Errors                =  100.0%    1   (468)
 
 Ref. words            =            1   (894)
 Hyp. words            =            0   (656)
-Aligned words         =            1   (905)
+Aligned words         =            1   (906)
 
 -------------------------------------------------------------------------------
 
@@ -3109,16 +3109,16 @@ REF:  ASPETTA ASPETTA RICOMINCIA QUEST'ULTIMA PARTE PERCHé è UN        PO'   C
 HYP:  ******* ******* ********** ************ ***** ******* ** ASPETTANO PETRI ELOGI    
 Eval: D       D       D          D            D     D       D  S         S     S        
 
-Correct               =    0.0%    0   (425)
-Substitutions         =   30.0%    3   (223)
-Deletions             =   70.0%    7   (256)
-Insertions            =    0.0%    0   ( 11)
+Correct               =    0.0%    0   (438)
+Substitutions         =   30.0%    3   (209)
+Deletions             =   70.0%    7   (257)
+Insertions            =    0.0%    0   ( 12)
 
-Errors                =  100.0%   10   (490)
+Errors                =  100.0%   10   (478)
 
 Ref. words            =           10   (904)
 Hyp. words            =            3   (659)
-Aligned words         =           10   (915)
+Aligned words         =           10   (916)
 
 -------------------------------------------------------------------------------
 
@@ -3128,16 +3128,16 @@ REF:  ALLORA le stelle sono otto NO
 HYP:  ****** le stelle sono otto NON 
 Eval: D                          S   
 
-Correct               =   66.7%    4   (429)
-Substitutions         =   16.7%    1   (224)
-Deletions             =   16.7%    1   (257)
-Insertions            =    0.0%    0   ( 11)
+Correct               =   66.7%    4   (442)
+Substitutions         =   16.7%    1   (210)
+Deletions             =   16.7%    1   (258)
+Insertions            =    0.0%    0   ( 12)
 
-Errors                =   33.3%    2   (492)
+Errors                =   33.3%    2   (480)
 
 Ref. words            =            6   (910)
 Hyp. words            =            5   (664)
-Aligned words         =            6   (921)
+Aligned words         =            6   (922)
 
 -------------------------------------------------------------------------------
 
@@ -3147,35 +3147,35 @@ REF:  E sono messe a semicerchio
 HYP:  * sono messe a semicerchio 
 Eval: D                          
 
-Correct               =   80.0%    4   (433)
-Substitutions         =    0.0%    0   (224)
-Deletions             =   20.0%    1   (258)
-Insertions            =    0.0%    0   ( 11)
+Correct               =   80.0%    4   (446)
+Substitutions         =    0.0%    0   (210)
+Deletions             =   20.0%    1   (259)
+Insertions            =    0.0%    0   ( 12)
 
-Errors                =   20.0%    1   (493)
+Errors                =   20.0%    1   (481)
 
 Ref. words            =            5   (915)
 Hyp. words            =            4   (668)
-Aligned words         =            5   (926)
+Aligned words         =            5   (927)
 
 -------------------------------------------------------------------------------
 
 id: (ll-firenze_168)
-Scores: (#C #S #D #I) 6 2 1 0
+Scores: (#C #S #D #I) 7 1 1 0
 REF:  ecco E l'apertura del semicerchio è alla TUA sinistra 
-HYP:  ecco * l'apertura del semicerchio �  alla SUA sinistra 
-Eval:      D                            S       S            
+HYP:  ecco * l'apertura del semicerchio è alla SUA sinistra 
+Eval:      D                                    S            
 
-Correct               =   66.7%    6   (439)
-Substitutions         =   22.2%    2   (226)
-Deletions             =   11.1%    1   (259)
-Insertions            =    0.0%    0   ( 11)
+Correct               =   77.8%    7   (453)
+Substitutions         =   11.1%    1   (211)
+Deletions             =   11.1%    1   (260)
+Insertions            =    0.0%    0   ( 12)
 
-Errors                =   33.3%    3   (496)
+Errors                =   22.2%    2   (483)
 
 Ref. words            =            9   (924)
 Hyp. words            =            8   (676)
-Aligned words         =            9   (935)
+Aligned words         =            9   (936)
 
 -------------------------------------------------------------------------------
 
@@ -3185,35 +3185,35 @@ REF:  le stelle sono messe a semicerchio Sì O NO
 HYP:  le stelle sono messe a semicerchio *** * SIANO 
 Eval:                                    D   D S     
 
-Correct               =   66.7%    6   (445)
-Substitutions         =   11.1%    1   (227)
-Deletions             =   22.2%    2   (261)
-Insertions            =    0.0%    0   ( 11)
+Correct               =   66.7%    6   (459)
+Substitutions         =   11.1%    1   (212)
+Deletions             =   22.2%    2   (262)
+Insertions            =    0.0%    0   ( 12)
 
-Errors                =   33.3%    3   (499)
+Errors                =   33.3%    3   (486)
 
 Ref. words            =            9   (933)
 Hyp. words            =            7   (683)
-Aligned words         =            9   (944)
+Aligned words         =            9   (945)
 
 -------------------------------------------------------------------------------
 
 id: (ll-firenze_170)
-Scores: (#C #S #D #I) 2 2 0 1
-REF:  VABBè PERò sono messe * 
-HYP:  AVERE  PER�  sono messe � 
-Eval: S      S                I 
+Scores: (#C #S #D #I) 3 1 0 1
+REF:  VABBè però sono messe ** 
+HYP:  AVERE  però sono messe è 
+Eval: S                       I  
 
-Correct               =   50.0%    2   (447)
-Substitutions         =   50.0%    2   (229)
-Deletions             =    0.0%    0   (261)
-Insertions            =   25.0%    1   ( 12)
+Correct               =   75.0%    3   (462)
+Substitutions         =   25.0%    1   (213)
+Deletions             =    0.0%    0   (262)
+Insertions            =   25.0%    1   ( 13)
 
-Errors                =   75.0%    3   (502)
+Errors                =   50.0%    2   (488)
 
 Ref. words            =            4   (937)
 Hyp. words            =            5   (688)
-Aligned words         =            5   (949)
+Aligned words         =            5   (950)
 
 -------------------------------------------------------------------------------
 
@@ -3223,35 +3223,35 @@ REF:  NO PERò SOMIGLIA A UN SEMICERCHIO O         NO
 HYP:  ** ***** ******** * LA PROSSIMA    MILOSEVIC UNA 
 Eval: D  D     D        D S  S           S         S   
 
-Correct               =    0.0%    0   (447)
-Substitutions         =   50.0%    4   (233)
-Deletions             =   50.0%    4   (265)
-Insertions            =    0.0%    0   ( 12)
+Correct               =    0.0%    0   (462)
+Substitutions         =   50.0%    4   (217)
+Deletions             =   50.0%    4   (266)
+Insertions            =    0.0%    0   ( 13)
 
-Errors                =  100.0%    8   (510)
+Errors                =  100.0%    8   (496)
 
 Ref. words            =            8   (945)
 Hyp. words            =            4   (692)
-Aligned words         =            8   (957)
+Aligned words         =            8   (958)
 
 -------------------------------------------------------------------------------
 
 id: (ll-firenze_172)
 Scores: (#C #S #D #I) 5 2 1 0
 REF:  allora non PUò ESSE' SON    diverse le stelle 
-HYP:  allora non **** PI�   ESSERE diverse le stelle 
+HYP:  allora non **** PIù  ESSERE diverse le stelle 
 Eval:            D    S     S                        
 
-Correct               =   62.5%    5   (452)
-Substitutions         =   25.0%    2   (235)
-Deletions             =   12.5%    1   (266)
-Insertions            =    0.0%    0   ( 12)
+Correct               =   62.5%    5   (467)
+Substitutions         =   25.0%    2   (219)
+Deletions             =   12.5%    1   (267)
+Insertions            =    0.0%    0   ( 13)
 
-Errors                =   37.5%    3   (513)
+Errors                =   37.5%    3   (499)
 
 Ref. words            =            8   (953)
 Hyp. words            =            7   (699)
-Aligned words         =            8   (965)
+Aligned words         =            8   (966)
 
 -------------------------------------------------------------------------------
 
@@ -3261,16 +3261,16 @@ REF:  IO CE L'HO TU+   tutte in fila
 HYP:  ** ** **** TUTTO tutte in fila 
 Eval: D  D  D    S                   
 
-Correct               =   42.9%    3   (455)
-Substitutions         =   14.3%    1   (236)
-Deletions             =   42.9%    3   (269)
-Insertions            =    0.0%    0   ( 12)
+Correct               =   42.9%    3   (470)
+Substitutions         =   14.3%    1   (220)
+Deletions             =   42.9%    3   (270)
+Insertions            =    0.0%    0   ( 13)
 
-Errors                =   57.1%    4   (517)
+Errors                =   57.1%    4   (503)
 
 Ref. words            =            7   (960)
 Hyp. words            =            4   (703)
-Aligned words         =            7   (972)
+Aligned words         =            7   (973)
 
 -------------------------------------------------------------------------------
 
@@ -3280,16 +3280,16 @@ REF:  Sì
 HYP:  SI  
 Eval: S   
 
-Correct               =    0.0%    0   (455)
-Substitutions         =  100.0%    1   (237)
-Deletions             =    0.0%    0   (269)
-Insertions            =    0.0%    0   ( 12)
+Correct               =    0.0%    0   (470)
+Substitutions         =  100.0%    1   (221)
+Deletions             =    0.0%    0   (270)
+Insertions            =    0.0%    0   ( 13)
 
-Errors                =  100.0%    1   (518)
+Errors                =  100.0%    1   (504)
 
 Ref. words            =            1   (961)
 Hyp. words            =            1   (704)
-Aligned words         =            1   (973)
+Aligned words         =            1   (974)
 
 -------------------------------------------------------------------------------
 
@@ -3299,16 +3299,16 @@ REF:  Sì
 HYP:  SI  
 Eval: S   
 
-Correct               =    0.0%    0   (455)
-Substitutions         =  100.0%    1   (238)
-Deletions             =    0.0%    0   (269)
-Insertions            =    0.0%    0   ( 12)
+Correct               =    0.0%    0   (470)
+Substitutions         =  100.0%    1   (222)
+Deletions             =    0.0%    0   (270)
+Insertions            =    0.0%    0   ( 13)
 
-Errors                =  100.0%    1   (519)
+Errors                =  100.0%    1   (505)
 
 Ref. words            =            1   (962)
 Hyp. words            =            1   (705)
-Aligned words         =            1   (974)
+Aligned words         =            1   (975)
 
 -------------------------------------------------------------------------------
 
@@ -3318,35 +3318,35 @@ REF:  CE N'HO una piccola UNA GRANDE
 HYP:  ** DA   una piccola UN  GRANDI 
 Eval: D  S                S   S      
 
-Correct               =   33.3%    2   (457)
-Substitutions         =   50.0%    3   (241)
-Deletions             =   16.7%    1   (270)
-Insertions            =    0.0%    0   ( 12)
+Correct               =   33.3%    2   (472)
+Substitutions         =   50.0%    3   (225)
+Deletions             =   16.7%    1   (271)
+Insertions            =    0.0%    0   ( 13)
 
-Errors                =   66.7%    4   (523)
+Errors                =   66.7%    4   (509)
 
 Ref. words            =            6   (968)
 Hyp. words            =            5   (710)
-Aligned words         =            6   (980)
+Aligned words         =            6   (981)
 
 -------------------------------------------------------------------------------
 
 id: (ll-firenze_177)
 Scores: (#C #S #D #I) 2 3 4 0
-REF:  S+ IO CE N'HO IO  CE N'HO una piccola 
-HYP:  ** ** ** **** NON HO PER� una piccola 
-Eval: D  D  D  D    S   S  S                
+REF:  S+ IO CE N'HO IO  CE N'HO  una piccola 
+HYP:  ** ** ** **** NON HO PERò una piccola 
+Eval: D  D  D  D    S   S  S                 
 
-Correct               =   22.2%    2   (459)
-Substitutions         =   33.3%    3   (244)
-Deletions             =   44.4%    4   (274)
-Insertions            =    0.0%    0   ( 12)
+Correct               =   22.2%    2   (474)
+Substitutions         =   33.3%    3   (228)
+Deletions             =   44.4%    4   (275)
+Insertions            =    0.0%    0   ( 13)
 
-Errors                =   77.8%    7   (530)
+Errors                =   77.8%    7   (516)
 
 Ref. words            =            9   (977)
 Hyp. words            =            5   (715)
-Aligned words         =            9   (989)
+Aligned words         =            9   (990)
 
 -------------------------------------------------------------------------------
 
@@ -3356,16 +3356,16 @@ REF:  scendendo verso destra una grande E SCENDENDO VERSO DESTRA   una media è 
 HYP:  scendendo verso destra una grande * ********* ***** FINESTRA una media E  diverso *** * SIANO 
 Eval:                                   D D         D     S                  S          D   D S     
 
-Correct               =   50.0%    8   (467)
-Substitutions         =   18.8%    3   (247)
-Deletions             =   31.3%    5   (279)
-Insertions            =    0.0%    0   ( 12)
+Correct               =   50.0%    8   (482)
+Substitutions         =   18.8%    3   (231)
+Deletions             =   31.3%    5   (280)
+Insertions            =    0.0%    0   ( 13)
 
-Errors                =   50.0%    8   (538)
+Errors                =   50.0%    8   (524)
 
 Ref. words            =           16   (993)
 Hyp. words            =           11   (726)
-Aligned words         =           16   (1005)
+Aligned words         =           16   (1006)
 
 -------------------------------------------------------------------------------
 
@@ -3375,51 +3375,51 @@ REF:  Sì
 HYP:  SI  
 Eval: S   
 
-Correct               =    0.0%    0   (467)
-Substitutions         =  100.0%    1   (248)
-Deletions             =    0.0%    0   (279)
-Insertions            =    0.0%    0   ( 12)
+Correct               =    0.0%    0   (482)
+Substitutions         =  100.0%    1   (232)
+Deletions             =    0.0%    0   (280)
+Insertions            =    0.0%    0   ( 13)
 
-Errors                =  100.0%    1   (539)
+Errors                =  100.0%    1   (525)
 
 Ref. words            =            1   (994)
 Hyp. words            =            1   (727)
-Aligned words         =            1   (1006)
+Aligned words         =            1   (1007)
 
 -------------------------------------------------------------------------------
 
 id: (ll-firenze_180)
 Scores: (#C #S #D #I) 0 0 0 0
 
-Correct               =  UNDEF%    0   (467)
-Substitutions         =  UNDEF%    0   (248)
-Deletions             =  UNDEF%    0   (279)
-Insertions            =  UNDEF%    0   ( 12)
+Correct               =  UNDEF%    0   (482)
+Substitutions         =  UNDEF%    0   (232)
+Deletions             =  UNDEF%    0   (280)
+Insertions            =  UNDEF%    0   ( 13)
 
-Errors                =  UNDEF%    0   (539)
+Errors                =  UNDEF%    0   (525)
 
 Ref. words            =            0   (994)
 Hyp. words            =            0   (727)
-Aligned words         =            0   (1006)
+Aligned words         =            0   (1007)
 
 -------------------------------------------------------------------------------
 
 id: (ll-firenze_181)
 Scores: (#C #S #D #I) 1 2 1 1
-REF:  ECCO ALLO+  SON diverse * 
-HYP:  **** ECCOLA SU  diverse � 
-Eval: D    S      S           I 
+REF:  ECCO ALLO+  SON diverse ** 
+HYP:  **** ECCOLA SU  diverse è 
+Eval: D    S      S           I  
 
-Correct               =   25.0%    1   (468)
-Substitutions         =   50.0%    2   (250)
-Deletions             =   25.0%    1   (280)
-Insertions            =   25.0%    1   ( 13)
+Correct               =   25.0%    1   (483)
+Substitutions         =   50.0%    2   (234)
+Deletions             =   25.0%    1   (281)
+Insertions            =   25.0%    1   ( 14)
 
-Errors                =  100.0%    4   (543)
+Errors                =  100.0%    4   (529)
 
 Ref. words            =            4   (998)
 Hyp. words            =            4   (731)
-Aligned words         =            5   (1011)
+Aligned words         =            5   (1012)
 
 -------------------------------------------------------------------------------
 
@@ -3429,16 +3429,16 @@ REF:  Sì
 HYP:  SI  
 Eval: S   
 
-Correct               =    0.0%    0   (468)
-Substitutions         =  100.0%    1   (251)
-Deletions             =    0.0%    0   (280)
-Insertions            =    0.0%    0   ( 13)
+Correct               =    0.0%    0   (483)
+Substitutions         =  100.0%    1   (235)
+Deletions             =    0.0%    0   (281)
+Insertions            =    0.0%    0   ( 14)
 
-Errors                =  100.0%    1   (544)
+Errors                =  100.0%    1   (530)
 
 Ref. words            =            1   (999)
 Hyp. words            =            1   (732)
-Aligned words         =            1   (1012)
+Aligned words         =            1   (1013)
 
 -------------------------------------------------------------------------------
 
@@ -3448,48 +3448,48 @@ REF:  FACCIAMO PER GRADI SE TI   TI   RIESCE
 HYP:  ******** *** ***** ** VEDA COSE NON    
 Eval: D        D   D     D  S    S    S      
 
-Correct               =    0.0%    0   (468)
-Substitutions         =   42.9%    3   (254)
-Deletions             =   57.1%    4   (284)
-Insertions            =    0.0%    0   ( 13)
+Correct               =    0.0%    0   (483)
+Substitutions         =   42.9%    3   (238)
+Deletions             =   57.1%    4   (285)
+Insertions            =    0.0%    0   ( 14)
 
-Errors                =  100.0%    7   (551)
+Errors                =  100.0%    7   (537)
 
 Ref. words            =            7   (1006)
 Hyp. words            =            3   (735)
-Aligned words         =            7   (1019)
+Aligned words         =            7   (1020)
 
 -------------------------------------------------------------------------------
 
 id: (ll-firenze_184)
 Scores: (#C #S #D #I) 0 0 0 0
 
-Correct               =  UNDEF%    0   (468)
-Substitutions         =  UNDEF%    0   (254)
-Deletions             =  UNDEF%    0   (284)
-Insertions            =  UNDEF%    0   ( 13)
+Correct               =  UNDEF%    0   (483)
+Substitutions         =  UNDEF%    0   (238)
+Deletions             =  UNDEF%    0   (285)
+Insertions            =  UNDEF%    0   ( 14)
 
-Errors                =  UNDEF%    0   (551)
+Errors                =  UNDEF%    0   (537)
 
 Ref. words            =            0   (1006)
 Hyp. words            =            0   (735)
-Aligned words         =            0   (1019)
+Aligned words         =            0   (1020)
 
 -------------------------------------------------------------------------------
 
 id: (ll-firenze_185)
 Scores: (#C #S #D #I) 0 0 0 0
 
-Correct               =  UNDEF%    0   (468)
-Substitutions         =  UNDEF%    0   (254)
-Deletions             =  UNDEF%    0   (284)
-Insertions            =  UNDEF%    0   ( 13)
+Correct               =  UNDEF%    0   (483)
+Substitutions         =  UNDEF%    0   (238)
+Deletions             =  UNDEF%    0   (285)
+Insertions            =  UNDEF%    0   ( 14)
 
-Errors                =  UNDEF%    0   (551)
+Errors                =  UNDEF%    0   (537)
 
 Ref. words            =            0   (1006)
 Hyp. words            =            0   (735)
-Aligned words         =            0   (1019)
+Aligned words         =            0   (1020)
 
 -------------------------------------------------------------------------------
 
@@ -3499,16 +3499,16 @@ REF:  E LE DUE M+ QUELLA
 HYP:  * ** *** ** ****** 
 Eval: D D  D   D  D      
 
-Correct               =    0.0%    0   (468)
-Substitutions         =    0.0%    0   (254)
-Deletions             =  100.0%    5   (289)
-Insertions            =    0.0%    0   ( 13)
+Correct               =    0.0%    0   (483)
+Substitutions         =    0.0%    0   (238)
+Deletions             =  100.0%    5   (290)
+Insertions            =    0.0%    0   ( 14)
 
-Errors                =  100.0%    5   (556)
+Errors                =  100.0%    5   (542)
 
 Ref. words            =            5   (1011)
 Hyp. words            =            0   (735)
-Aligned words         =            5   (1024)
+Aligned words         =            5   (1025)
 
 -------------------------------------------------------------------------------
 
@@ -3518,16 +3518,16 @@ REF:  Sì
 HYP:  SE  
 Eval: S   
 
-Correct               =    0.0%    0   (468)
-Substitutions         =  100.0%    1   (255)
-Deletions             =    0.0%    0   (289)
-Insertions            =    0.0%    0   ( 13)
+Correct               =    0.0%    0   (483)
+Substitutions         =  100.0%    1   (239)
+Deletions             =    0.0%    0   (290)
+Insertions            =    0.0%    0   ( 14)
 
-Errors                =  100.0%    1   (557)
+Errors                =  100.0%    1   (543)
 
 Ref. words            =            1   (1012)
 Hyp. words            =            1   (736)
-Aligned words         =            1   (1025)
+Aligned words         =            1   (1026)
 
 -------------------------------------------------------------------------------
 
@@ -3537,16 +3537,16 @@ REF:  Sì
 HYP:  *** 
 Eval: D   
 
-Correct               =    0.0%    0   (468)
-Substitutions         =    0.0%    0   (255)
-Deletions             =  100.0%    1   (290)
-Insertions            =    0.0%    0   ( 13)
+Correct               =    0.0%    0   (483)
+Substitutions         =    0.0%    0   (239)
+Deletions             =  100.0%    1   (291)
+Insertions            =    0.0%    0   ( 14)
 
-Errors                =  100.0%    1   (558)
+Errors                =  100.0%    1   (544)
 
 Ref. words            =            1   (1013)
 Hyp. words            =            0   (736)
-Aligned words         =            1   (1026)
+Aligned words         =            1   (1027)
 
 -------------------------------------------------------------------------------
 
@@ -3556,16 +3556,16 @@ REF:  E INVECE LO sono
 HYP:  * ****** ** sono 
 Eval: D D      D       
 
-Correct               =   25.0%    1   (469)
-Substitutions         =    0.0%    0   (255)
-Deletions             =   75.0%    3   (293)
-Insertions            =    0.0%    0   ( 13)
+Correct               =   25.0%    1   (484)
+Substitutions         =    0.0%    0   (239)
+Deletions             =   75.0%    3   (294)
+Insertions            =    0.0%    0   ( 14)
 
-Errors                =   75.0%    3   (561)
+Errors                =   75.0%    3   (547)
 
 Ref. words            =            4   (1017)
 Hyp. words            =            1   (737)
-Aligned words         =            4   (1030)
+Aligned words         =            4   (1031)
 
 -------------------------------------------------------------------------------
 
@@ -3575,16 +3575,16 @@ REF:  PRE+ PRESSAPPOCO Sì
 HYP:  **** *********** *** 
 Eval: D    D           D   
 
-Correct               =    0.0%    0   (469)
-Substitutions         =    0.0%    0   (255)
-Deletions             =  100.0%    3   (296)
-Insertions            =    0.0%    0   ( 13)
+Correct               =    0.0%    0   (484)
+Substitutions         =    0.0%    0   (239)
+Deletions             =  100.0%    3   (297)
+Insertions            =    0.0%    0   ( 14)
 
-Errors                =  100.0%    3   (564)
+Errors                =  100.0%    3   (550)
 
 Ref. words            =            3   (1020)
 Hyp. words            =            0   (737)
-Aligned words         =            3   (1033)
+Aligned words         =            3   (1034)
 
 -------------------------------------------------------------------------------
 
@@ -3594,16 +3594,16 @@ REF:  QUELLA GRIGIA è UN   PO'   PIù IN      ALTO
 HYP:  ****** ****** ** POSI PRIMA NON  PROPRIO L'ALTRO 
 Eval: D      D      D  S    S     S    S       S       
 
-Correct               =    0.0%    0   (469)
-Substitutions         =   62.5%    5   (260)
-Deletions             =   37.5%    3   (299)
-Insertions            =    0.0%    0   ( 13)
+Correct               =    0.0%    0   (484)
+Substitutions         =   62.5%    5   (244)
+Deletions             =   37.5%    3   (300)
+Insertions            =    0.0%    0   ( 14)
 
-Errors                =  100.0%    8   (572)
+Errors                =  100.0%    8   (558)
 
 Ref. words            =            8   (1028)
 Hyp. words            =            5   (742)
-Aligned words         =            8   (1041)
+Aligned words         =            8   (1042)
 
 -------------------------------------------------------------------------------
 
@@ -3613,16 +3613,16 @@ REF:  Sì
 HYP:  *** 
 Eval: D   
 
-Correct               =    0.0%    0   (469)
-Substitutions         =    0.0%    0   (260)
-Deletions             =  100.0%    1   (300)
-Insertions            =    0.0%    0   ( 13)
+Correct               =    0.0%    0   (484)
+Substitutions         =    0.0%    0   (244)
+Deletions             =  100.0%    1   (301)
+Insertions            =    0.0%    0   ( 14)
 
-Errors                =  100.0%    1   (573)
+Errors                =  100.0%    1   (559)
 
 Ref. words            =            1   (1029)
 Hyp. words            =            0   (742)
-Aligned words         =            1   (1042)
+Aligned words         =            1   (1043)
 
 -------------------------------------------------------------------------------
 
@@ -3632,16 +3632,16 @@ REF:  Sì
 HYP:  SI  
 Eval: S   
 
-Correct               =    0.0%    0   (469)
-Substitutions         =  100.0%    1   (261)
-Deletions             =    0.0%    0   (300)
-Insertions            =    0.0%    0   ( 13)
+Correct               =    0.0%    0   (484)
+Substitutions         =  100.0%    1   (245)
+Deletions             =    0.0%    0   (301)
+Insertions            =    0.0%    0   ( 14)
 
-Errors                =  100.0%    1   (574)
+Errors                =  100.0%    1   (560)
 
 Ref. words            =            1   (1030)
 Hyp. words            =            1   (743)
-Aligned words         =            1   (1043)
+Aligned words         =            1   (1044)
 
 -------------------------------------------------------------------------------
 
@@ -3651,16 +3651,16 @@ REF:  Sì
 HYP:  SI  
 Eval: S   
 
-Correct               =    0.0%    0   (469)
-Substitutions         =  100.0%    1   (262)
-Deletions             =    0.0%    0   (300)
-Insertions            =    0.0%    0   ( 13)
+Correct               =    0.0%    0   (484)
+Substitutions         =  100.0%    1   (246)
+Deletions             =    0.0%    0   (301)
+Insertions            =    0.0%    0   ( 14)
 
-Errors                =  100.0%    1   (575)
+Errors                =  100.0%    1   (561)
 
 Ref. words            =            1   (1031)
 Hyp. words            =            1   (744)
-Aligned words         =            1   (1044)
+Aligned words         =            1   (1045)
 
 -------------------------------------------------------------------------------
 
@@ -3670,16 +3670,16 @@ REF:  FRA LA GOMMA POSTERIORE DE+ DI QUELLA GRIGIA E POI
 HYP:  *** ** ***** ********** *** ** ****** ****** * *** 
 Eval: D   D  D     D          D   D  D      D      D D   
 
-Correct               =    0.0%    0   (469)
-Substitutions         =    0.0%    0   (262)
-Deletions             =  100.0%   10   (310)
-Insertions            =    0.0%    0   ( 13)
+Correct               =    0.0%    0   (484)
+Substitutions         =    0.0%    0   (246)
+Deletions             =  100.0%   10   (311)
+Insertions            =    0.0%    0   ( 14)
 
-Errors                =  100.0%   10   (585)
+Errors                =  100.0%   10   (571)
 
 Ref. words            =           10   (1041)
 Hyp. words            =            0   (744)
-Aligned words         =           10   (1054)
+Aligned words         =           10   (1055)
 
 -------------------------------------------------------------------------------
 
@@ -3689,16 +3689,16 @@ REF:  Sì
 HYP:  SI  
 Eval: S   
 
-Correct               =    0.0%    0   (469)
-Substitutions         =  100.0%    1   (263)
-Deletions             =    0.0%    0   (310)
-Insertions            =    0.0%    0   ( 13)
+Correct               =    0.0%    0   (484)
+Substitutions         =  100.0%    1   (247)
+Deletions             =    0.0%    0   (311)
+Insertions            =    0.0%    0   ( 14)
 
-Errors                =  100.0%    1   (586)
+Errors                =  100.0%    1   (572)
 
 Ref. words            =            1   (1042)
 Hyp. words            =            1   (745)
-Aligned words         =            1   (1055)
+Aligned words         =            1   (1056)
 
 -------------------------------------------------------------------------------
 
@@ -3708,16 +3708,16 @@ REF:  Sì ci sono
 HYP:  SI  ci sono 
 Eval: S           
 
-Correct               =   66.7%    2   (471)
-Substitutions         =   33.3%    1   (264)
-Deletions             =    0.0%    0   (310)
-Insertions            =    0.0%    0   ( 13)
+Correct               =   66.7%    2   (486)
+Substitutions         =   33.3%    1   (248)
+Deletions             =    0.0%    0   (311)
+Insertions            =    0.0%    0   ( 14)
 
-Errors                =   33.3%    1   (587)
+Errors                =   33.3%    1   (573)
 
 Ref. words            =            3   (1045)
 Hyp. words            =            3   (748)
-Aligned words         =            3   (1058)
+Aligned words         =            3   (1059)
 
 -------------------------------------------------------------------------------
 
@@ -3727,16 +3727,16 @@ REF:  è il tuo arrivo OKAY
 HYP:  ** il tuo arrivo **** 
 Eval: D                D    
 
-Correct               =   60.0%    3   (474)
-Substitutions         =    0.0%    0   (264)
-Deletions             =   40.0%    2   (312)
-Insertions            =    0.0%    0   ( 13)
+Correct               =   60.0%    3   (489)
+Substitutions         =    0.0%    0   (248)
+Deletions             =   40.0%    2   (313)
+Insertions            =    0.0%    0   ( 14)
 
-Errors                =   40.0%    2   (589)
+Errors                =   40.0%    2   (575)
 
 Ref. words            =            5   (1050)
 Hyp. words            =            3   (751)
-Aligned words         =            5   (1063)
+Aligned words         =            5   (1064)
 
 -------------------------------------------------------------------------------
 
@@ -3746,16 +3746,16 @@ REF:  ora GUARDIAMO di passare QUESTO gruppo di stelle
 HYP:  ora ********* di passare SUL    gruppo di stelle 
 Eval:     D                    S                       
 
-Correct               =   75.0%    6   (480)
-Substitutions         =   12.5%    1   (265)
-Deletions             =   12.5%    1   (313)
-Insertions            =    0.0%    0   ( 13)
+Correct               =   75.0%    6   (495)
+Substitutions         =   12.5%    1   (249)
+Deletions             =   12.5%    1   (314)
+Insertions            =    0.0%    0   ( 14)
 
-Errors                =   25.0%    2   (591)
+Errors                =   25.0%    2   (577)
 
 Ref. words            =            8   (1058)
 Hyp. words            =            7   (758)
-Aligned words         =            8   (1071)
+Aligned words         =            8   (1072)
 
 -------------------------------------------------------------------------------
 
@@ -3765,16 +3765,16 @@ REF:  aspetta facciamolo
 HYP:  aspetta facciamolo 
 Eval:                    
 
-Correct               =  100.0%    2   (482)
-Substitutions         =    0.0%    0   (265)
-Deletions             =    0.0%    0   (313)
-Insertions            =    0.0%    0   ( 13)
+Correct               =  100.0%    2   (497)
+Substitutions         =    0.0%    0   (249)
+Deletions             =    0.0%    0   (314)
+Insertions            =    0.0%    0   ( 14)
 
-Errors                =    0.0%    0   (591)
+Errors                =    0.0%    0   (577)
 
 Ref. words            =            2   (1060)
 Hyp. words            =            2   (760)
-Aligned words         =            2   (1073)
+Aligned words         =            2   (1074)
 
 -------------------------------------------------------------------------------
 
@@ -3784,54 +3784,54 @@ REF:  MA IO CI AH Sì  perfetto
 HYP:  ** ** ** ** ANZI perfetto 
 Eval: D  D  D  D  S             
 
-Correct               =   16.7%    1   (483)
-Substitutions         =   16.7%    1   (266)
-Deletions             =   66.7%    4   (317)
-Insertions            =    0.0%    0   ( 13)
+Correct               =   16.7%    1   (498)
+Substitutions         =   16.7%    1   (250)
+Deletions             =   66.7%    4   (318)
+Insertions            =    0.0%    0   ( 14)
 
-Errors                =   83.3%    5   (596)
+Errors                =   83.3%    5   (582)
 
 Ref. words            =            6   (1066)
 Hyp. words            =            2   (762)
-Aligned words         =            6   (1079)
+Aligned words         =            6   (1080)
 
 -------------------------------------------------------------------------------
 
 id: (ll-firenze_202)
 Scores: (#C #S #D #I) 1 4 5 0
-REF:  NO INVECE a ME RISULTA IL SEMICERCHIO PUNTO E BASTA   
-HYP:  ** ****** a ** ******* ** DUE         NON   � BASTATO 
-Eval: D  D        D  D       D  S           S     S S       
+REF:  NO INVECE a ME RISULTA IL SEMICERCHIO PUNTO E  BASTA   
+HYP:  ** ****** a ** ******* ** DUE         NON   è BASTATO 
+Eval: D  D        D  D       D  S           S     S  S       
 
-Correct               =   10.0%    1   (484)
-Substitutions         =   40.0%    4   (270)
-Deletions             =   50.0%    5   (322)
-Insertions            =    0.0%    0   ( 13)
+Correct               =   10.0%    1   (499)
+Substitutions         =   40.0%    4   (254)
+Deletions             =   50.0%    5   (323)
+Insertions            =    0.0%    0   ( 14)
 
-Errors                =   90.0%    9   (605)
+Errors                =   90.0%    9   (591)
 
 Ref. words            =           10   (1076)
 Hyp. words            =            5   (767)
-Aligned words         =           10   (1089)
+Aligned words         =           10   (1090)
 
 -------------------------------------------------------------------------------
 
 id: (ll-firenze_203)
-Scores: (#C #S #D #I) 2 1 5 0
-REF:  EH senti allora F+ VEDIAMO DI FA' COSì 
-HYP:  ** senti allora ** ******* ** *** COS�  
-Eval: D               D  D       D  D   S     
+Scores: (#C #S #D #I) 3 0 5 0
+REF:  EH senti allora F+ VEDIAMO DI FA' così 
+HYP:  ** senti allora ** ******* ** *** così 
+Eval: D               D  D       D  D         
 
-Correct               =   25.0%    2   (486)
-Substitutions         =   12.5%    1   (271)
-Deletions             =   62.5%    5   (327)
-Insertions            =    0.0%    0   ( 13)
+Correct               =   37.5%    3   (502)
+Substitutions         =    0.0%    0   (254)
+Deletions             =   62.5%    5   (328)
+Insertions            =    0.0%    0   ( 14)
 
-Errors                =   75.0%    6   (611)
+Errors                =   62.5%    5   (596)
 
 Ref. words            =            8   (1084)
 Hyp. words            =            3   (770)
-Aligned words         =            8   (1097)
+Aligned words         =            8   (1098)
 
 -------------------------------------------------------------------------------
 
@@ -3841,16 +3841,16 @@ REF:  facciamo per LINEE DI   CONGIUNGIMENTO   fra le altre figure
 HYP:  facciamo per ***** LIRE RICONGIUNGIMENTO fra le altre figure 
 Eval:              D     S    S                                    
 
-Correct               =   66.7%    6   (492)
-Substitutions         =   22.2%    2   (273)
-Deletions             =   11.1%    1   (328)
-Insertions            =    0.0%    0   ( 13)
+Correct               =   66.7%    6   (508)
+Substitutions         =   22.2%    2   (256)
+Deletions             =   11.1%    1   (329)
+Insertions            =    0.0%    0   ( 14)
 
-Errors                =   33.3%    3   (614)
+Errors                =   33.3%    3   (599)
 
 Ref. words            =            9   (1093)
 Hyp. words            =            8   (778)
-Aligned words         =            9   (1106)
+Aligned words         =            9   (1107)
 
 -------------------------------------------------------------------------------
 
@@ -3860,16 +3860,16 @@ REF:  NEL SENSO AD        ESEMPIO      metti FRA IL CAMION E       LA    macchin
 HYP:  *** ***** L'ESSENZA DELL'ESEMPIO metti *** ** ****** FALCADE NELLA macchina rossa 
 Eval: D   D     S         S                  D   D  D      S       S                    
 
-Correct               =   25.0%    3   (495)
-Substitutions         =   33.3%    4   (277)
-Deletions             =   41.7%    5   (333)
-Insertions            =    0.0%    0   ( 13)
+Correct               =   25.0%    3   (511)
+Substitutions         =   33.3%    4   (260)
+Deletions             =   41.7%    5   (334)
+Insertions            =    0.0%    0   ( 14)
 
-Errors                =   75.0%    9   (623)
+Errors                =   75.0%    9   (608)
 
 Ref. words            =           12   (1105)
 Hyp. words            =            7   (785)
-Aligned words         =           12   (1118)
+Aligned words         =           12   (1119)
 
 -------------------------------------------------------------------------------
 
@@ -3879,16 +3879,16 @@ REF:  passa * quale distanza ECCETERA ECCETERA CAPITO
 HYP:  passa A quale distanza ******** ******** ****** 
 Eval:       I                D        D        D      
 
-Correct               =   50.0%    3   (498)
-Substitutions         =    0.0%    0   (277)
-Deletions             =   50.0%    3   (336)
-Insertions            =   16.7%    1   ( 14)
+Correct               =   50.0%    3   (514)
+Substitutions         =    0.0%    0   (260)
+Deletions             =   50.0%    3   (337)
+Insertions            =   16.7%    1   ( 15)
 
-Errors                =   66.7%    4   (627)
+Errors                =   66.7%    4   (612)
 
 Ref. words            =            6   (1111)
 Hyp. words            =            4   (789)
-Aligned words         =            7   (1125)
+Aligned words         =            7   (1126)
 
 -------------------------------------------------------------------------------
 
@@ -3898,16 +3898,16 @@ REF:  Sì
 HYP:  *** 
 Eval: D   
 
-Correct               =    0.0%    0   (498)
-Substitutions         =    0.0%    0   (277)
-Deletions             =  100.0%    1   (337)
-Insertions            =    0.0%    0   ( 14)
+Correct               =    0.0%    0   (514)
+Substitutions         =    0.0%    0   (260)
+Deletions             =  100.0%    1   (338)
+Insertions            =    0.0%    0   ( 15)
 
-Errors                =  100.0%    1   (628)
+Errors                =  100.0%    1   (613)
 
 Ref. words            =            1   (1112)
 Hyp. words            =            0   (789)
-Aligned words         =            1   (1126)
+Aligned words         =            1   (1127)
 
 -------------------------------------------------------------------------------
 
@@ -3917,16 +3917,16 @@ REF:  S+ SONO SOTTO GLI OCCHIALI
 HYP:  ** **** ***** *** ******** 
 Eval: D  D    D     D   D        
 
-Correct               =    0.0%    0   (498)
-Substitutions         =    0.0%    0   (277)
-Deletions             =  100.0%    5   (342)
-Insertions            =    0.0%    0   ( 14)
+Correct               =    0.0%    0   (514)
+Substitutions         =    0.0%    0   (260)
+Deletions             =  100.0%    5   (343)
+Insertions            =    0.0%    0   ( 15)
 
-Errors                =  100.0%    5   (633)
+Errors                =  100.0%    5   (618)
 
 Ref. words            =            5   (1117)
 Hyp. words            =            0   (789)
-Aligned words         =            5   (1131)
+Aligned words         =            5   (1132)
 
 -------------------------------------------------------------------------------
 
@@ -3936,16 +3936,16 @@ REF:  VERSO LE STELLE
 HYP:  ***** ** ****** 
 Eval: D     D  D      
 
-Correct               =    0.0%    0   (498)
-Substitutions         =    0.0%    0   (277)
-Deletions             =  100.0%    3   (345)
-Insertions            =    0.0%    0   ( 14)
+Correct               =    0.0%    0   (514)
+Substitutions         =    0.0%    0   (260)
+Deletions             =  100.0%    3   (346)
+Insertions            =    0.0%    0   ( 15)
 
-Errors                =  100.0%    3   (636)
+Errors                =  100.0%    3   (621)
 
 Ref. words            =            3   (1120)
 Hyp. words            =            0   (789)
-Aligned words         =            3   (1134)
+Aligned words         =            3   (1135)
 
 -------------------------------------------------------------------------------
 
@@ -3955,16 +3955,16 @@ REF:  Sì Sì CI SONO FIN Lì SONO arrivato
 HYP:  *** *** ** **** *** CHE SIA  arrivato 
 Eval: D   D   D  D    D   S   S             
 
-Correct               =   12.5%    1   (499)
-Substitutions         =   25.0%    2   (279)
-Deletions             =   62.5%    5   (350)
-Insertions            =    0.0%    0   ( 14)
+Correct               =   12.5%    1   (515)
+Substitutions         =   25.0%    2   (262)
+Deletions             =   62.5%    5   (351)
+Insertions            =    0.0%    0   ( 15)
 
-Errors                =   87.5%    7   (643)
+Errors                =   87.5%    7   (628)
 
 Ref. words            =            8   (1128)
 Hyp. words            =            3   (792)
-Aligned words         =            8   (1142)
+Aligned words         =            8   (1143)
 
 -------------------------------------------------------------------------------
 
@@ -3974,16 +3974,16 @@ REF:  Sì
 HYP:  SI  
 Eval: S   
 
-Correct               =    0.0%    0   (499)
-Substitutions         =  100.0%    1   (280)
-Deletions             =    0.0%    0   (350)
-Insertions            =    0.0%    0   ( 14)
+Correct               =    0.0%    0   (515)
+Substitutions         =  100.0%    1   (263)
+Deletions             =    0.0%    0   (351)
+Insertions            =    0.0%    0   ( 15)
 
-Errors                =  100.0%    1   (644)
+Errors                =  100.0%    1   (629)
 
 Ref. words            =            1   (1129)
 Hyp. words            =            1   (793)
-Aligned words         =            1   (1143)
+Aligned words         =            1   (1144)
 
 -------------------------------------------------------------------------------
 
@@ -3993,16 +3993,16 @@ REF:  S+ Sì MA DEVO passare IN MEZZO A delle stelle oppure NO
 HYP:  ** *** ** **** passare ** ***** * delle stelle oppure NON 
 Eval: D  D   D  D            D  D     D                     S   
 
-Correct               =   33.3%    4   (503)
-Substitutions         =    8.3%    1   (281)
-Deletions             =   58.3%    7   (357)
-Insertions            =    0.0%    0   ( 14)
+Correct               =   33.3%    4   (519)
+Substitutions         =    8.3%    1   (264)
+Deletions             =   58.3%    7   (358)
+Insertions            =    0.0%    0   ( 15)
 
-Errors                =   66.7%    8   (652)
+Errors                =   66.7%    8   (637)
 
 Ref. words            =           12   (1141)
 Hyp. words            =            5   (798)
-Aligned words         =           12   (1155)
+Aligned words         =           12   (1156)
 
 -------------------------------------------------------------------------------
 
@@ -4012,16 +4012,16 @@ REF:  EH E COME FACCIO
 HYP:  ** * **** ****** 
 Eval: D  D D    D      
 
-Correct               =    0.0%    0   (503)
-Substitutions         =    0.0%    0   (281)
-Deletions             =  100.0%    4   (361)
-Insertions            =    0.0%    0   ( 14)
+Correct               =    0.0%    0   (519)
+Substitutions         =    0.0%    0   (264)
+Deletions             =  100.0%    4   (362)
+Insertions            =    0.0%    0   ( 15)
 
-Errors                =  100.0%    4   (656)
+Errors                =  100.0%    4   (641)
 
 Ref. words            =            4   (1145)
 Hyp. words            =            0   (798)
-Aligned words         =            4   (1159)
+Aligned words         =            4   (1160)
 
 -------------------------------------------------------------------------------
 
@@ -4031,35 +4031,35 @@ REF:  Sì
 HYP:  SENNA 
 Eval: S     
 
-Correct               =    0.0%    0   (503)
-Substitutions         =  100.0%    1   (282)
-Deletions             =    0.0%    0   (361)
-Insertions            =    0.0%    0   ( 14)
+Correct               =    0.0%    0   (519)
+Substitutions         =  100.0%    1   (265)
+Deletions             =    0.0%    0   (362)
+Insertions            =    0.0%    0   ( 15)
 
-Errors                =  100.0%    1   (657)
+Errors                =  100.0%    1   (642)
 
 Ref. words            =            1   (1146)
 Hyp. words            =            1   (799)
-Aligned words         =            1   (1160)
+Aligned words         =            1   (1161)
 
 -------------------------------------------------------------------------------
 
 id: (ll-firenze_215)
-Scores: (#C #S #D #I) 0 6 5 0
-REF:  BOH IO VO' COSì E POI  SE     'UN MI RIESCE PAZIENZA 
-HYP:  *** ** *** ***** * COS� POICH� NE  HO CHE    SIAMO    
-Eval: D   D  D   D     D S    S      S   S  S      S        
+Scores: (#C #S #D #I) 1 5 5 0
+REF:  BOH IO VO' così E POI SE      'UN MI RIESCE PAZIENZA 
+HYP:  *** ** *** così * *** POICHé NE  HO CHE    SIAMO    
+Eval: D   D  D         D D   S       S   S  S      S        
 
-Correct               =    0.0%    0   (503)
-Substitutions         =   54.5%    6   (288)
-Deletions             =   45.5%    5   (366)
-Insertions            =    0.0%    0   ( 14)
+Correct               =    9.1%    1   (520)
+Substitutions         =   45.5%    5   (270)
+Deletions             =   45.5%    5   (367)
+Insertions            =    0.0%    0   ( 15)
 
-Errors                =  100.0%   11   (668)
+Errors                =   90.9%   10   (652)
 
 Ref. words            =           11   (1157)
 Hyp. words            =            6   (805)
-Aligned words         =           11   (1171)
+Aligned words         =           11   (1172)
 
 -------------------------------------------------------------------------------
 
@@ -4069,16 +4069,16 @@ REF:  OKAY
 HYP:  **** 
 Eval: D    
 
-Correct               =    0.0%    0   (503)
-Substitutions         =    0.0%    0   (288)
-Deletions             =  100.0%    1   (367)
-Insertions            =    0.0%    0   ( 14)
+Correct               =    0.0%    0   (520)
+Substitutions         =    0.0%    0   (270)
+Deletions             =  100.0%    1   (368)
+Insertions            =    0.0%    0   ( 15)
 
-Errors                =  100.0%    1   (669)
+Errors                =  100.0%    1   (653)
 
 Ref. words            =            1   (1158)
 Hyp. words            =            0   (805)
-Aligned words         =            1   (1172)
+Aligned words         =            1   (1173)
 
 -------------------------------------------------------------------------------
 
@@ -4088,16 +4088,16 @@ REF:  CI SIAMO
 HYP:  ** ***** 
 Eval: D  D     
 
-Correct               =    0.0%    0   (503)
-Substitutions         =    0.0%    0   (288)
-Deletions             =  100.0%    2   (369)
-Insertions            =    0.0%    0   ( 14)
+Correct               =    0.0%    0   (520)
+Substitutions         =    0.0%    0   (270)
+Deletions             =  100.0%    2   (370)
+Insertions            =    0.0%    0   ( 15)
 
-Errors                =  100.0%    2   (671)
+Errors                =  100.0%    2   (655)
 
 Ref. words            =            2   (1160)
 Hyp. words            =            0   (805)
-Aligned words         =            2   (1174)
+Aligned words         =            2   (1175)
 
 -------------------------------------------------------------------------------
 
